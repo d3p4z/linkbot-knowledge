@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://github.com/arthaud/git-dumper",
+    "title": "git-dumper: A tool to dump a git repository from a website",
+    "type": "tool",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "recon",
+    "tags": [
+      "git",
+      "security",
+      "web",
+      "reconnaissance",
+      "source-code-disclosure",
+      "vulnerability-discovery"
+    ],
+    "file_path": "github/tools/recon/2026-03-30_git-dumper-a-tool-to-dump-a-git-repository-from-a-website.md",
+    "saved": "2026-03-30",
+    "summary_snippet": "This tool downloads a full git repository from a web server, even if directory listing is disabled, by intelligently discovering and fetching git objects and references."
+  }
+]

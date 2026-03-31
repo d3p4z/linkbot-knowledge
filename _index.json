@@ -120,5 +120,22 @@
     "file_path": "github/tools/mobile/2026-03-31_androhunter.md",
     "saved": "2026-03-31",
     "summary_snippet": "A native Android security toolkit built with Jetpack Compose that allows researchers to perform static and dynamic analysis of apps directly on the device."
+  },
+  {
+    "url": "https://github.com/searxng/searxng?tab=readme-ov-file",
+    "title": "SearXNG",
+    "type": "tool",
+    "verdict": "SUMMARY_IS_ENOUGH",
+    "subfolder": "osint",
+    "tags": [
+      "privacy",
+      "search-engine",
+      "recon",
+      "osint",
+      "metasearch"
+    ],
+    "file_path": "github/tools/osint/2026-03-31_searxng.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "SearXNG is a privacy-respecting metasearch engine that aggregates results from over 70 different search services and databases without tracking or profiling users."
   }
 ]

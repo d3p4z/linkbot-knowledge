@@ -51,5 +51,22 @@
     "file_path": "research/ai/2026-03-31_pwning-claude-code-in-8-different-ways-gmo-flatt-security-research.md",
     "saved": "2026-03-31",
     "summary_snippet": "A technical breakdown of eight vulnerabilities in Claude Code's command execution permission model that allowed for arbitrary command execution."
+  },
+  {
+    "url": "https://github.com/webmaxru/agent-skills",
+    "title": "Web AI Agent Skills",
+    "type": "tool",
+    "verdict": "SUMMARY_IS_ENOUGH",
+    "subfolder": "ai",
+    "tags": [
+      "web-ai",
+      "agent-skills",
+      "browser-apis",
+      "webnn",
+      "prompt-api"
+    ],
+    "file_path": "github/tools/ai/2026-03-31_web-ai-agent-skills.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "A curated collection of modular instructions (skills) designed for AI agents to correctly implement and interact with modern, experimental browser Web AI APIs."
   }
 ]

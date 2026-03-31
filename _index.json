@@ -152,5 +152,22 @@
     "file_path": "other/general/2026-03-31_google-sign-in-notebooklm-appsec-collection.md",
     "saved": "2026-03-31",
     "summary_snippet": "A sign-in page for a Google NotebookLM instance which reportedly contains a large collection of application security presentations and talks."
+  },
+  {
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "title": "Claude Code Best Practice",
+    "type": "mindmap",
+    "verdict": "READ_THIS",
+    "subfolder": "ai",
+    "tags": [
+      "claude-code",
+      "ai-agents",
+      "llm-security",
+      "devsecops",
+      "prompt-engineering"
+    ],
+    "file_path": "github/mindmaps/ai/2026-03-31_claude-code-best-practice.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "A comprehensive knowledge base and implementation guide for Anthropic's Claude Code CLI, focusing on agentic engineering patterns, subagents, and slash commands."
   }
 ]

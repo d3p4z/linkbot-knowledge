@@ -137,5 +137,20 @@
     "file_path": "github/tools/osint/2026-03-31_searxng.md",
     "saved": "2026-03-31",
     "summary_snippet": "SearXNG is a privacy-respecting metasearch engine that aggregates results from over 70 different search services and databases without tracking or profiling users."
+  },
+  {
+    "url": "https://notebooklm.google.com/notebook/78ee3710-1741-488d-af06-159f518e9510",
+    "title": "Google Sign-in: NotebookLM AppSec Collection",
+    "type": "other",
+    "verdict": "READ_THIS",
+    "subfolder": "general",
+    "tags": [
+      "authentication",
+      "resource-access",
+      "appsec-presentations"
+    ],
+    "file_path": "other/general/2026-03-31_google-sign-in-notebooklm-appsec-collection.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "A sign-in page for a Google NotebookLM instance which reportedly contains a large collection of application security presentations and talks."
   }
 ]

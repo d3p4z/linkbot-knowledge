@@ -102,5 +102,23 @@
     "file_path": "github/mindmaps/ai/2026-03-31_awesome-claude-code-security.md",
     "saved": "2026-03-31",
     "summary_snippet": "A curated knowledge base of security resources, hardening tools, and threat research specifically for Anthropic's Claude Code and the Model Context Protocol (MCP) ecosystem."
+  },
+  {
+    "url": "https://github.com/ynsmroztas/AndroHunter",
+    "title": "AndroHunter",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "mobile",
+    "tags": [
+      "android-security",
+      "mobile-pentesting",
+      "static-analysis",
+      "dynamic-analysis",
+      "frida",
+      "bug-bounty"
+    ],
+    "file_path": "github/tools/mobile/2026-03-31_androhunter.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "A native Android security toolkit built with Jetpack Compose that allows researchers to perform static and dynamic analysis of apps directly on the device."
   }
 ]

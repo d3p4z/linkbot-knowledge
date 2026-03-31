@@ -33,5 +33,23 @@
     "file_path": "articles/ai/2026-03-31_claude-code-advanced-patterns-subagents-mcp-and-scaling-to-real-codebases.md",
     "saved": "2026-03-31",
     "summary_snippet": "A resource summary and webinar overview from Anthropic regarding advanced implementation patterns for Claude Code, focusing on subagents and the Model Context Protocol (MCP)."
+  },
+  {
+    "url": "https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fflatt%2Etech%2Fresearch%2Fposts%2Fpwning-claude-code-in-8-different-ways%2F&urlhash=Mjck&mt=Kv8ZSK-4MG8G3Bqm4-MRIYyCC6IRr9LebWYagzr7bADOuMEkxakEgTYDlqAJiCHKpwHP8QJO7DN4S1fTcoo7HYw-EArMAiek0FcJ6_2gB3K3QUyIqQ8hnjQh3Q&isSdui=true",
+    "title": "Pwning Claude Code in 8 Different Ways - GMO Flatt Security Research",
+    "type": "research",
+    "verdict": "READ_THIS",
+    "subfolder": "ai",
+    "tags": [
+      "AI Security",
+      "Command Injection",
+      "Argument Injection",
+      "Claude Code",
+      "CVE-2025-66032",
+      "Prompt Injection"
+    ],
+    "file_path": "research/ai/2026-03-31_pwning-claude-code-in-8-different-ways-gmo-flatt-security-research.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "A technical breakdown of eight vulnerabilities in Claude Code's command execution permission model that allowed for arbitrary command execution."
   }
 ]

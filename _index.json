@@ -169,5 +169,23 @@
     "file_path": "github/mindmaps/ai/2026-03-31_claude-code-best-practice.md",
     "saved": "2026-03-31",
     "summary_snippet": "A comprehensive knowledge base and implementation guide for Anthropic's Claude Code CLI, focusing on agentic engineering patterns, subagents, and slash commands."
+  },
+  {
+    "url": "https://google.github.io/building-secure-and-reliable-systems/raw/pr01.html#why_we_wrote_this_book",
+    "title": "Building Secure and Reliable Systems: Preface",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "security by design",
+      "reliability",
+      "software lifecycle",
+      "system engineering",
+      "culture",
+      "DevSecOps"
+    ],
+    "file_path": "articles/appsec/2026-03-31_building-secure-and-reliable-systems-preface.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "This is the preface to a book focused on integrating security and reliability into the entire system lifecycle, from design to maintenance. It emphasizes the interconnectedness of these two aspects an"
   }
 ]

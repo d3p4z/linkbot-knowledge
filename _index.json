@@ -68,5 +68,22 @@
     "file_path": "github/tools/ai/2026-03-31_web-ai-agent-skills.md",
     "saved": "2026-03-31",
     "summary_snippet": "A curated collection of modular instructions (skills) designed for AI agents to correctly implement and interact with modern, experimental browser Web AI APIs."
+  },
+  {
+    "url": "https://x.com/i/status/2033949937936085378",
+    "title": "Lessons from Building Claude Code: How We Use Skills",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "ai",
+    "tags": [
+      "AI Agents",
+      "Claude Code",
+      "LLM Security",
+      "SDLC Automation",
+      "Anthropic"
+    ],
+    "file_path": "articles/ai/2026-03-31_lessons-from-building-claude-code-how-we-use-skills.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "A detailed look at how Anthropic developers use 'Skills' to extend the capabilities of Claude Code, including a taxonomy of skill types and best practices for building them."
   }
 ]

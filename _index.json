@@ -187,5 +187,22 @@
     "file_path": "articles/appsec/2026-03-31_building-secure-and-reliable-systems-preface.md",
     "saved": "2026-03-31",
     "summary_snippet": "This is the preface to a book focused on integrating security and reliability into the entire system lifecycle, from design to maintenance. It emphasizes the interconnectedness of these two aspects an"
+  },
+  {
+    "url": "https://github.com/lirantal/npm-security-best-practices",
+    "title": "npm Security Best Practices",
+    "type": "mindmap",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "npm",
+      "nodejs",
+      "supply-chain-security",
+      "package-management",
+      "developer-security"
+    ],
+    "file_path": "github/mindmaps/appsec/2026-03-31_npm-security-best-practices.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "A curated list of security best practices for using the npm package manager, covering safe installation, dependency management, and secure publishing."
   }
 ]

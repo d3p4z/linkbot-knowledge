@@ -16,5 +16,22 @@
     "file_path": "github/tools/recon/2026-03-30_git-dumper-a-tool-to-dump-a-git-repository-from-a-website.md",
     "saved": "2026-03-30",
     "summary_snippet": "This tool downloads a full git repository from a web server, even if directory listing is disabled, by intelligently discovering and fetching git objects and references."
+  },
+  {
+    "url": "https://anthropic.ondemand.goldcast.io/on-demand/f52c4cc3-7b23-4ab8-93f3-d202706dd62b",
+    "title": "Claude Code Advanced Patterns: Subagents, MCP, and Scaling to Real Codebases",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "ai",
+    "tags": [
+      "claude-code",
+      "mcp",
+      "ai-agents",
+      "devsecops",
+      "automation"
+    ],
+    "file_path": "articles/ai/2026-03-31_claude-code-advanced-patterns-subagents-mcp-and-scaling-to-real-codebases.md",
+    "saved": "2026-03-31",
+    "summary_snippet": "A resource summary and webinar overview from Anthropic regarding advanced implementation patterns for Claude Code, focusing on subagents and the Model Context Protocol (MCP)."
   }
 ]

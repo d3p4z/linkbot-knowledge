@@ -204,5 +204,24 @@
     "file_path": "github/mindmaps/appsec/2026-03-31_npm-security-best-practices.md",
     "saved": "2026-03-31",
     "summary_snippet": "A curated list of security best practices for using the npm package manager, covering safe installation, dependency management, and secure publishing."
+  },
+  {
+    "url": "https://github.com/repowise-dev/repowise",
+    "title": "Repowise - Codebase Intelligence for AI",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "ai",
+    "tags": [
+      "code-intelligence",
+      "developer-tools",
+      "documentation",
+      "git-analytics",
+      "ai-assisted-engineering",
+      "dead-code-detection",
+      "architectural-decisions"
+    ],
+    "file_path": "github/tools/ai/2026-04-03_repowise-codebase-intelligence-for-ai.md",
+    "saved": "2026-04-03",
+    "summary_snippet": "Repowise provides codebase intelligence for AI-assisted engineering teams. It auto-generates documentation, analyzes git history, detects dead code, and captures architectural decisions, making codeba"
   }
 ]

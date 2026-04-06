@@ -223,5 +223,23 @@
     "file_path": "github/tools/ai/2026-04-03_repowise-codebase-intelligence-for-ai.md",
     "saved": "2026-04-03",
     "summary_snippet": "Repowise provides codebase intelligence for AI-assisted engineering teams. It auto-generates documentation, analyzes git history, detects dead code, and captures architectural decisions, making codeba"
+  },
+  {
+    "url": "https://extsentry.github.io/",
+    "title": "ExtSentry - Browser Extension Threat Intelligence",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "browser extensions",
+      "threat intelligence",
+      "attack vector",
+      "malware",
+      "credential theft",
+      "enterprise security"
+    ],
+    "file_path": "articles/appsec/2026-04-06_extsentry-browser-extension-threat-intelligence.md",
+    "saved": "2026-04-06",
+    "summary_snippet": "This content details the significant threat posed by malicious browser extensions, highlighting real-world attacks and providing resources like threat intelligence feeds and investigation guides."
   }
 ]

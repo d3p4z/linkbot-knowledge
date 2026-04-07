@@ -241,5 +241,23 @@
     "file_path": "articles/appsec/2026-04-06_extsentry-browser-extension-threat-intelligence.md",
     "saved": "2026-04-06",
     "summary_snippet": "This content details the significant threat posed by malicious browser extensions, highlighting real-world attacks and providing resources like threat intelligence feeds and investigation guides."
+  },
+  {
+    "url": "https://github.com/milla-jovovich/mempalace",
+    "title": "MemPalace: AI Memory System",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "general",
+    "tags": [
+      "ai",
+      "llm",
+      "memory",
+      "python",
+      "local",
+      "privacy"
+    ],
+    "file_path": "github/tools/general/2026-04-07_mempalace-ai-memory-system.md",
+    "saved": "2026-04-07",
+    "summary_snippet": "MemPalace is an AI memory system that stores all conversation data locally. It organizes this data into a structured 'palace' for efficient retrieval and uses a compressed dialect (AAAK) for faster AI"
   }
 ]

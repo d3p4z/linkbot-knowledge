@@ -259,5 +259,22 @@
     "file_path": "github/tools/general/2026-04-07_mempalace-ai-memory-system.md",
     "saved": "2026-04-07",
     "summary_snippet": "MemPalace is an AI memory system that stores all conversation data locally. It organizes this data into a structured 'palace' for efficient retrieval and uses a compressed dialect (AAAK) for faster AI"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/gadievron_so-youd-like-to-get-started-finding-0days-activity-7447929001915928577-b0B3",
+    "title": "So you'd like to get started finding 0days with LLMs?",
+    "type": "article",
+    "verdict": "SUMMARY_IS_ENOUGH",
+    "subfolder": "appsec",
+    "tags": [
+      "LLM",
+      "0-day",
+      "vulnerability research",
+      "AI",
+      "code analysis"
+    ],
+    "file_path": "articles/appsec/2026-04-09_so-you-d-like-to-get-started-finding-0days-with-llms.md",
+    "saved": "2026-04-09",
+    "summary_snippet": "This post outlines a practical approach for leveraging Large Language Models (LLMs) and AI agents to discover software vulnerabilities, including 0-days."
   }
 ]

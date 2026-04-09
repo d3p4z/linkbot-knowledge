@@ -276,5 +276,22 @@
     "file_path": "articles/appsec/2026-04-09_so-you-d-like-to-get-started-finding-0days-with-llms.md",
     "saved": "2026-04-09",
     "summary_snippet": "This post outlines a practical approach for leveraging Large Language Models (LLMs) and AI agents to discover software vulnerabilities, including 0-days."
+  },
+  {
+    "url": "https://x.com/i/status/2042063155485143279",
+    "title": "GitHub Agent Corps Dominates Trending Projects: A Deep Dive into Multi-Agent Frameworks",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "ai",
+    "tags": [
+      "AI",
+      "multi-agent systems",
+      "GitHub",
+      "automation",
+      "frameworks"
+    ],
+    "file_path": "articles/ai/2026-04-09_github-agent-corps-dominates-trending-projects-a-deep-dive-into-multi-agent-fram.md",
+    "saved": "2026-04-09",
+    "summary_snippet": "This X post highlights five trending GitHub projects focused on multi-agent AI systems, detailing their capabilities in areas like collaborative task execution, agent memory persistence, simulation, a"
   }
 ]

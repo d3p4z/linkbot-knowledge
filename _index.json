@@ -310,5 +310,21 @@
     "file_path": "articles/appsec/2026-04-12_remediation-at-scale-what-high-performing-appsec-teams-do-differently.md",
     "saved": "2026-04-12",
     "summary_snippet": "This document explores the practices of high-performing application security teams in addressing vulnerabilities at scale. It focuses on how these teams differ in their approach to remediation."
+  },
+  {
+    "url": "https://pages.semgrep.com/rs/825-QQZ-896/images/Remediation%20at%20Scale%20What%20High-Performing%20AppSec%20Teams%20Do%20Differently%20%281%29.pdf?version=0",
+    "title": "Remediation at Scale: What High-Performing AppSec Teams Do Differently",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "appsec",
+      "remediation",
+      "security engineering",
+      "devsecops"
+    ],
+    "file_path": "articles/appsec/2026-04-12_remediation-at-scale-what-high-performing-appsec-teams-do-differently.md",
+    "saved": "2026-04-12",
+    "summary_snippet": "This document discusses strategies and practices employed by high-performing application security teams to effectively manage and remediate security vulnerabilities at scale. It highlights the differe"
   }
 ]

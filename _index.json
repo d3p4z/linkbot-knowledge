@@ -326,5 +326,22 @@
     "file_path": "articles/appsec/2026-04-12_remediation-at-scale-what-high-performing-appsec-teams-do-differently.md",
     "saved": "2026-04-12",
     "summary_snippet": "This document discusses strategies and practices employed by high-performing application security teams to effectively manage and remediate security vulnerabilities at scale. It highlights the differe"
+  },
+  {
+    "url": "https://aistupidlevel.info/?mode=drift",
+    "title": "AI Stupid Meter: Real-time AI Intelligence Degradation Detection",
+    "type": "article",
+    "verdict": "SUMMARY_IS_ENOUGH",
+    "subfolder": "ai",
+    "tags": [
+      "AI",
+      "monitoring",
+      "performance",
+      "degradation",
+      "benchmarking"
+    ],
+    "file_path": "articles/ai/2026-04-14_ai-stupid-meter-real-time-ai-intelligence-degradation-detection.md",
+    "saved": "2026-04-14",
+    "summary_snippet": "This content describes the 'AI Stupid Meter,' a system designed to detect degradation in AI model intelligence. It monitors various AI models from different providers using automated benchmarks and ch"
   }
 ]

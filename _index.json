@@ -343,5 +343,23 @@
     "file_path": "articles/ai/2026-04-14_ai-stupid-meter-real-time-ai-intelligence-degradation-detection.md",
     "saved": "2026-04-14",
     "summary_snippet": "This content describes the 'AI Stupid Meter,' a system designed to detect degradation in AI model intelligence. It monitors various AI models from different providers using automated benchmarks and ch"
+  },
+  {
+    "url": "https://github.com/microsoft/RustTraining",
+    "title": "Rust Training Material",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "general",
+    "tags": [
+      "rust",
+      "training",
+      "learning",
+      "programming",
+      "backend",
+      "systems"
+    ],
+    "file_path": "github/tools/general/2026-04-19_rust-training-material.md",
+    "saved": "2026-04-19",
+    "summary_snippet": "This repository provides comprehensive training material for learning the Rust programming language, ranging from beginner to expert levels, covering various aspects like async programming, advanced p"
   }
 ]

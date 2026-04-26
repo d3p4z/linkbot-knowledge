@@ -361,5 +361,22 @@
     "file_path": "github/tools/general/2026-04-19_rust-training-material.md",
     "saved": "2026-04-19",
     "summary_snippet": "This repository provides comprehensive training material for learning the Rust programming language, ranging from beginner to expert levels, covering various aspects like async programming, advanced p"
+  },
+  {
+    "url": "https://oblique.security/blog/security-stack/?_bhlid=27097fa8738206668ea6ebb9db185dcaa4372049",
+    "title": "The $0 security stack",
+    "type": "article",
+    "verdict": "SUMMARY_IS_ENOUGH",
+    "subfolder": "appsec",
+    "tags": [
+      "devsecops",
+      "saast",
+      "compliance",
+      "cost-optimization",
+      "free-tools"
+    ],
+    "file_path": "articles/appsec/2026-04-26_the-0-security-stack.md",
+    "saved": "2026-04-26",
+    "summary_snippet": "This article outlines how a SaaS company built a robust security stack using entirely free or open-source tools, achieving SOC2 compliance without incurring significant costs."
   }
 ]

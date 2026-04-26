@@ -415,5 +415,24 @@
     "file_path": "articles/appsec/2026-04-26_smokedmeat-a-red-team-tool-to-hack-your-pipelines-first.md",
     "saved": "2026-04-26",
     "summary_snippet": "This article introduces SmokedMeat, an open-source red team framework designed to simulate attacks against CI/CD pipelines. It provides tools for reconnaissance, exploit development, and post-exploita"
+  },
+  {
+    "url": "https://github.com/boostsecurityio/smokedmeat",
+    "title": "SmokedMeat CI/CD Red Team Framework",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "exploit",
+    "tags": [
+      "cicd",
+      "redteam",
+      "supplychain",
+      "exploitation",
+      "devsecops",
+      "githubactions",
+      "postexploitation"
+    ],
+    "file_path": "github/tools/exploit/2026-04-26_smokedmeat-ci-cd-red-team-framework.md",
+    "saved": "2026-04-26",
+    "summary_snippet": "SmokedMeat is a post-exploitation framework designed to simulate and demonstrate security risks within CI/CD pipelines, allowing for red team exercises and security posture validation."
   }
 ]

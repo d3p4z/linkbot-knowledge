@@ -396,5 +396,24 @@
     "file_path": "github/tools/recon/2026-04-26_github-token-tester.md",
     "saved": "2026-04-26",
     "summary_snippet": "A Python tool that tests and validates the permissions of various GitHub tokens (PATs, App, OAuth) by making requests to the GitHub API."
+  },
+  {
+    "url": "https://labs.boostsecurity.io/articles/introducing-smokedmeat/?_bhlid=8c5eaaa7697213f2f7e5fe241589f4af352491ba",
+    "title": "SmokedMeat: A Red Team Tool to Hack Your Pipelines First",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "smokedmeat",
+      "ci-cd",
+      "red-team",
+      "open-source",
+      "supply-chain",
+      "poutine",
+      "pipeline-security"
+    ],
+    "file_path": "articles/appsec/2026-04-26_smokedmeat-a-red-team-tool-to-hack-your-pipelines-first.md",
+    "saved": "2026-04-26",
+    "summary_snippet": "This article introduces SmokedMeat, an open-source red team framework designed to simulate attacks against CI/CD pipelines. It provides tools for reconnaissance, exploit development, and post-exploita"
   }
 ]

@@ -434,5 +434,22 @@
     "file_path": "github/tools/exploit/2026-04-26_smokedmeat-ci-cd-red-team-framework.md",
     "saved": "2026-04-26",
     "summary_snippet": "SmokedMeat is a post-exploitation framework designed to simulate and demonstrate security risks within CI/CD pipelines, allowing for red team exercises and security posture validation."
+  },
+  {
+    "url": "https://geochen.medium.com/measuring-what-were-missing-58a8259f4c41",
+    "title": "Measuring What We’re Missing",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "cybersecurity",
+      "metrics",
+      "detection engineering",
+      "threat hunting",
+      "false negative"
+    ],
+    "file_path": "articles/appsec/2026-04-26_measuring-what-we-re-missing.md",
+    "saved": "2026-04-26",
+    "summary_snippet": "This article proposes a framework for measuring the effectiveness of security detection and response by focusing on testing assumptions and quantifying false negatives within specific control areas. I"
   }
 ]

@@ -451,5 +451,22 @@
     "file_path": "articles/appsec/2026-04-26_measuring-what-we-re-missing.md",
     "saved": "2026-04-26",
     "summary_snippet": "This article proposes a framework for measuring the effectiveness of security detection and response by focusing on testing assumptions and quantifying false negatives within specific control areas. I"
+  },
+  {
+    "url": "https://github.com/cloudquery/cloudquery",
+    "title": "cloudquery",
+    "type": "tool",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "general",
+    "tags": [
+      "cloud",
+      "cspm",
+      "asset-inventory",
+      "data-integration",
+      "skim through"
+    ],
+    "file_path": "github/tools/general/2026-04-29_cloudquery.md",
+    "saved": "2026-04-29",
+    "summary_snippet": "CloudQuery is a data pipeline tool that extracts cloud configuration and security data from various cloud providers and SaaS sources, normalizing it for analysis in data warehouses. It aims to provide"
   }
 ]

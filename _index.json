@@ -468,5 +468,27 @@
     "file_path": "github/tools/general/2026-04-29_cloudquery.md",
     "saved": "2026-04-29",
     "summary_snippet": "CloudQuery is a data pipeline tool that extracts cloud configuration and security data from various cloud providers and SaaS sources, normalizing it for analysis in data warehouses. It aims to provide"
+  },
+  {
+    "url": "https://lawsofsoftwareengineering.com/",
+    "title": "Laws of Software Engineering",
+    "type": "article",
+    "verdict": "SUMMARY_IS_ENOUGH",
+    "subfolder": "appsec",
+    "tags": [
+      "software engineering",
+      "principles",
+      "patterns",
+      "architecture",
+      "teams",
+      "planning",
+      "quality",
+      "scale",
+      "design",
+      "decisions"
+    ],
+    "file_path": "articles/appsec/2026-05-06_laws-of-software-engineering.md",
+    "saved": "2026-05-06",
+    "summary_snippet": "A curated collection of 56 laws, principles, and patterns that influence the design, development, and management of software systems and teams."
   }
 ]

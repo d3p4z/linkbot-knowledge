@@ -490,5 +490,25 @@
     "file_path": "articles/appsec/2026-05-06_laws-of-software-engineering.md",
     "saved": "2026-05-06",
     "summary_snippet": "A curated collection of 56 laws, principles, and patterns that influence the design, development, and management of software systems and teams."
+  },
+  {
+    "url": "https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/",
+    "title": "Improving the trustworthiness of Javascript on the Web",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "javascript",
+      "web security",
+      "cryptography",
+      "transparency",
+      "integrity",
+      "consistency",
+      "W3C",
+      "Cloudflare"
+    ],
+    "file_path": "articles/appsec/2026-05-06_improving-the-trustworthiness-of-javascript-on-the-web.md",
+    "saved": "2026-05-06",
+    "summary_snippet": "This article introduces Web Application Integrity, Consistency, and Transparency (WAICT), a proposed system to enhance the trustworthiness of web applications, particularly those relying on in-browser"
   }
 ]

@@ -510,5 +510,23 @@
     "file_path": "articles/appsec/2026-05-06_improving-the-trustworthiness-of-javascript-on-the-web.md",
     "saved": "2026-05-06",
     "summary_snippet": "This article introduces Web Application Integrity, Consistency, and Transparency (WAICT), a proposed system to enhance the trustworthiness of web applications, particularly those relying on in-browser"
+  },
+  {
+    "url": "https://greptalks.ai/",
+    "title": "Conference Intel — Security Conference Coverage",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "conferences",
+      "security",
+      "AI security",
+      "offensive security",
+      "defensive security",
+      "governance"
+    ],
+    "file_path": "articles/appsec/2026-05-07_conference-intel-security-conference-coverage.md",
+    "saved": "2026-05-07",
+    "summary_snippet": "This is a website that provides in-depth coverage and analysis of various security conferences, including talks, research, and practical insights."
   }
 ]

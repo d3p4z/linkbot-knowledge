@@ -528,5 +528,23 @@
     "file_path": "articles/appsec/2026-05-07_conference-intel-security-conference-coverage.md",
     "saved": "2026-05-07",
     "summary_snippet": "This is a website that provides in-depth coverage and analysis of various security conferences, including talks, research, and practical insights."
+  },
+  {
+    "url": "https://github.com/V4bel/dirtyfrag",
+    "title": "Dirty Frag: Universal Linux LPE",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "exploit",
+    "tags": [
+      "linux",
+      "lpe",
+      "kernel",
+      "vulnerability",
+      "exploit",
+      "cve"
+    ],
+    "file_path": "github/tools/exploit/2026-05-08_dirty-frag-universal-linux-lpe.md",
+    "saved": "2026-05-08",
+    "summary_snippet": "This repository contains a proof-of-concept exploit for the 'Dirty Frag' vulnerability class, which allows for local privilege escalation to root on major Linux distributions by chaining two kernel vu"
   }
 ]

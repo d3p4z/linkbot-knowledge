@@ -546,5 +546,24 @@
     "file_path": "github/tools/exploit/2026-05-08_dirty-frag-universal-linux-lpe.md",
     "saved": "2026-05-08",
     "summary_snippet": "This repository contains a proof-of-concept exploit for the 'Dirty Frag' vulnerability class, which allows for local privilege escalation to root on major Linux distributions by chaining two kernel vu"
+  },
+  {
+    "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-027-aws/",
+    "title": "\"Dirty Frag\" and other issues in Amazon Linux kernels",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "linux",
+      "kernel",
+      "vulnerability",
+      "privilege escalation",
+      "amazon linux",
+      "CVE-2026-31431",
+      "DirtyFrag"
+    ],
+    "file_path": "articles/appsec/2026-05-08_dirty-frag-and-other-issues-in-amazon-linux-kernels.md",
+    "saved": "2026-05-08",
+    "summary_snippet": "This bulletin describes a class of vulnerabilities in the Linux kernel, referred to as 'Dirty Frag,' affecting Amazon Linux. These issues allow unprivileged users to gain access to kernel memory and e"
   }
 ]

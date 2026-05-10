@@ -565,5 +565,21 @@
     "file_path": "articles/appsec/2026-05-08_dirty-frag-and-other-issues-in-amazon-linux-kernels.md",
     "saved": "2026-05-08",
     "summary_snippet": "This bulletin describes a class of vulnerabilities in the Linux kernel, referred to as 'Dirty Frag,' affecting Amazon Linux. These issues allow unprivileged users to gain access to kernel memory and e"
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/everyone-wants-ai-pilled-most-companies-still-level-1-ann-miura-ko-i8tyc/",
+    "title": "Everyone wants to be AI-pilled. Most Companies Are Still Level 1",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "ai",
+    "tags": [
+      "AI",
+      "organizational maturity",
+      "AI adoption",
+      "business transformation"
+    ],
+    "file_path": "articles/ai/2026-05-10_everyone-wants-to-be-ai-pilled-most-companies-are-still-level-1.md",
+    "saved": "2026-05-10",
+    "summary_snippet": "This article outlines a six-level framework (L0-L5) for assessing a company's AI maturity, moving beyond a binary 'AI-pilled' status to evaluate the depth and breadth of AI integration into an organiz"
   }
 ]

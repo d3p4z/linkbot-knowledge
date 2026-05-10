@@ -616,5 +616,23 @@
     "file_path": "articles/appsec/2026-05-10_introducing-deepsec-the-security-harness-for-finding-vulnerabilities-in-your-cod.md",
     "saved": "2026-05-10",
     "summary_snippet": "Deepsec is an open-source security tool that uses AI coding agents to find vulnerabilities in large codebases. It runs on user-provided infrastructure and can integrate with existing AI subscriptions."
+  },
+  {
+    "url": "https://lab.ctbb.show/research/the-dot-dot-slash-that-frameworks-hand-you?_bhlid=d4bc91aa90b63e6241a99ad313d36700225e3b26",
+    "title": "The Dot-Dot-Slash That Frameworks Hand You: CSPT Across Every Major Frontend Framework",
+    "type": "research",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "cspt",
+      "path-traversal",
+      "javascript",
+      "xss",
+      "url-decoding",
+      "frontend-frameworks"
+    ],
+    "file_path": "research/appsec/2026-05-10_the-dot-dot-slash-that-frameworks-hand-you-cspt-across-every-major-frontend-fram.md",
+    "saved": "2026-05-10",
+    "summary_snippet": "This research analyzes how eight major frontend frameworks (React Router, Next.js, Vue Router, Angular, SvelteKit, Nuxt, Ember, and SolidStart) handle URL decoding for path and query parameters. It id"
   }
 ]

@@ -653,5 +653,22 @@
     "file_path": "research/appsec/2026-05-10_damned-oob.md",
     "saved": "2026-05-10",
     "summary_snippet": "This is a technical write-up detailing a heap out-of-bounds write vulnerability found in the io_uring zero-copy receive (ZCRX) subsystem in Linux kernel 6.15. The vulnerability arises from a missing b"
+  },
+  {
+    "url": "https://newsletter.techworld-with-milan.com/p/how-corporate-politics-actually-work?r=8cfnuh",
+    "title": "How corporate politics actually work with Ethan Evans, a former Amazon Vice President.",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "general",
+    "tags": [
+      "career",
+      "management",
+      "corporate politics",
+      "leadership",
+      "amazon"
+    ],
+    "file_path": "articles/general/2026-05-10_how-corporate-politics-actually-work-with-ethan-evans-a-former-amazon-vice-presi.md",
+    "saved": "2026-05-10",
+    "summary_snippet": "This is an interview with Ethan Evans, a former Amazon VP, discussing the realities of corporate politics, promotions, and career progression beyond technical skill. It covers topics like influence, m"
   }
 ]

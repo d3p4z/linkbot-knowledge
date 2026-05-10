@@ -599,5 +599,22 @@
     "file_path": "articles/appsec/2026-05-10_bsidessf-2025-scalably-securing-third-party-dependencies-in-heterogeneous-enviro.md",
     "saved": "2026-05-10",
     "summary_snippet": "This presentation discusses Anthropic's approach to securing third-party dependencies at scale within diverse environments, introducing their tool 'Dependant'. It aims to enforce dependency security p"
+  },
+  {
+    "url": "https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base?_bhlid=f8624ddd75f92d35efe361ae4204d1eb0c58ed03",
+    "title": "Introducing deepsec: The security harness for finding vulnerabilities in your codebase",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "security",
+      "vulnerability scanning",
+      "code analysis",
+      "AI",
+      "open source"
+    ],
+    "file_path": "articles/appsec/2026-05-10_introducing-deepsec-the-security-harness-for-finding-vulnerabilities-in-your-cod.md",
+    "saved": "2026-05-10",
+    "summary_snippet": "Deepsec is an open-source security tool that uses AI coding agents to find vulnerabilities in large codebases. It runs on user-provided infrastructure and can integrate with existing AI subscriptions."
   }
 ]

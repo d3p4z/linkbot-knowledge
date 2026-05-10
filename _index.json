@@ -581,5 +581,23 @@
     "file_path": "articles/ai/2026-05-10_everyone-wants-to-be-ai-pilled-most-companies-are-still-level-1.md",
     "saved": "2026-05-10",
     "summary_snippet": "This article outlines a six-level framework (L0-L5) for assessing a company's AI maturity, moving beyond a binary 'AI-pilled' status to evaluate the depth and breadth of AI integration into an organiz"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fCaQOPcjKVw&t=977s",
+    "title": "BSidesSF 2025 - Scalably Securing Third-party Dependencies in Heterogeneous Environments",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "dependencies",
+      "third-party risk",
+      "supply chain security",
+      "application security",
+      "Anthropic",
+      "Dependant"
+    ],
+    "file_path": "articles/appsec/2026-05-10_bsidessf-2025-scalably-securing-third-party-dependencies-in-heterogeneous-enviro.md",
+    "saved": "2026-05-10",
+    "summary_snippet": "This presentation discusses Anthropic's approach to securing third-party dependencies at scale within diverse environments, introducing their tool 'Dependant'. It aims to enforce dependency security p"
   }
 ]

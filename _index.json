@@ -670,5 +670,25 @@
     "file_path": "articles/general/2026-05-10_how-corporate-politics-actually-work-with-ethan-evans-a-former-amazon-vice-presi.md",
     "saved": "2026-05-10",
     "summary_snippet": "This is an interview with Ethan Evans, a former Amazon VP, discussing the realities of corporate politics, promotions, and career progression beyond technical skill. It covers topics like influence, m"
+  },
+  {
+    "url": "https://medium.com/@miggo-engineering/detecting-copyfail-dirtyfrag-by-thinking-outside-the-box-3cae021ca94c",
+    "title": "Detecting CopyFail and DirtyFrag by thinking outside the box",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "linux",
+      "kernel",
+      "privilege escalation",
+      "ebpf",
+      "lsm",
+      "vulnerability detection",
+      "copyfail",
+      "dirtyfrag"
+    ],
+    "file_path": "articles/appsec/2026-05-17_detecting-copyfail-and-dirtyfrag-by-thinking-outside-the-box.md",
+    "saved": "2026-05-17",
+    "summary_snippet": "This article details how to detect the Linux privilege escalation vulnerabilities CopyFail and DirtyFrag using eBPF LSM hooks. It explains the vulnerabilities, their exploitation vectors, and proposes"
   }
 ]

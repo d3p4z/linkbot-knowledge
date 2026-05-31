@@ -690,5 +690,23 @@
     "file_path": "articles/appsec/2026-05-17_detecting-copyfail-and-dirtyfrag-by-thinking-outside-the-box.md",
     "saved": "2026-05-17",
     "summary_snippet": "This article details how to detect the Linux privilege escalation vulnerabilities CopyFail and DirtyFrag using eBPF LSM hooks. It explains the vulnerabilities, their exploitation vectors, and proposes"
+  },
+  {
+    "url": "https://github.com/m4xx101/cryptex-oss",
+    "title": "Cryptex OSS - LLM Red-Teaming Toolkit",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "ai",
+    "tags": [
+      "llm",
+      "redteam",
+      "adversarial",
+      "prompt-injection",
+      "security",
+      "testing"
+    ],
+    "file_path": "github/tools/ai/2026-05-31_cryptex-oss-llm-red-teaming-toolkit.md",
+    "saved": "2026-05-31",
+    "summary_snippet": "An open-source toolkit providing a comprehensive lab for red-teaming Large Language Models (LLMs), featuring a wide array of text transforms, mutators, and specialized tool surfaces for adversarial pr"
   }
 ]

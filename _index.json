@@ -725,5 +725,22 @@
     "file_path": "articles/appsec/2026-06-04_the-sorry-state-of-skill-distribution.md",
     "saved": "2026-06-04",
     "summary_snippet": "This article analyzes the effectiveness of current skill scanners designed to detect malicious AI agent skills. It demonstrates how these scanners can be bypassed through various techniques, including"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/efi-jeremiah_agent-harness-hijacking-activity-7468247794445864960-lAYu?utm_source=share&utm_medium=member_android&rcm=ACoAABXkLGsBPvSK2lf2Trykdl-MST-9SeZVjGo",
+    "title": "AI agents just created a new software supply-chain risk",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "AI",
+      "supply chain security",
+      "LLM security",
+      "agentic AI",
+      "DevSecOps"
+    ],
+    "file_path": "articles/appsec/2026-06-04_ai-agents-just-created-a-new-software-supply-chain-risk.md",
+    "saved": "2026-06-04",
+    "summary_snippet": "This post identifies a new software supply chain risk emerging from AI agents, specifically through downloaded workflow files for tools like Claude Code. It's termed 'Agent Harness Hijacking'."
   }
 ]

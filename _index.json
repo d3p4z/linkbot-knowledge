@@ -708,5 +708,22 @@
     "file_path": "github/tools/ai/2026-05-31_cryptex-oss-llm-red-teaming-toolkit.md",
     "saved": "2026-05-31",
     "summary_snippet": "An open-source toolkit providing a comprehensive lab for red-teaming Large Language Models (LLMs), featuring a wide array of text transforms, mutators, and specialized tool surfaces for adversarial pr"
+  },
+  {
+    "url": "https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution/",
+    "title": "The sorry state of skill distribution",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "supplychain",
+      "llm",
+      "ai",
+      "vulnerabilities",
+      "security scanning"
+    ],
+    "file_path": "articles/appsec/2026-06-04_the-sorry-state-of-skill-distribution.md",
+    "saved": "2026-06-04",
+    "summary_snippet": "This article analyzes the effectiveness of current skill scanners designed to detect malicious AI agent skills. It demonstrates how these scanners can be bypassed through various techniques, including"
   }
 ]

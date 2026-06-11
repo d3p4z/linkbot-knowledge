@@ -742,5 +742,23 @@
     "file_path": "articles/appsec/2026-06-04_ai-agents-just-created-a-new-software-supply-chain-risk.md",
     "saved": "2026-06-04",
     "summary_snippet": "This post identifies a new software supply chain risk emerging from AI agents, specifically through downloaded workflow files for tools like Claude Code. It's termed 'Agent Harness Hijacking'."
+  },
+  {
+    "url": "https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk",
+    "title": "BOD 26-04: Prioritizing Security Updates Based on Risk",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "vulnerability management",
+      "patching",
+      "cybersecurity directives",
+      "risk-based prioritization",
+      "federal agencies",
+      "KEV catalog"
+    ],
+    "file_path": "articles/appsec/2026-06-11_bod-26-04-prioritizing-security-updates-based-on-risk.md",
+    "saved": "2026-06-11",
+    "summary_snippet": "This is a Binding Operational Directive (BOD) from CISA that mandates federal agencies prioritize security updates based on risk, moving away from a one-size-fits-all approach to vulnerability remedia"
   }
 ]

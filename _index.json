@@ -919,5 +919,25 @@
     "file_path": "articles/appsec/2026-06-20_tl-dr-sec-326-ai-auto-exploiting-vulnerabilities-github-rce-autonomous-cloud-hac.md",
     "saved": "2026-06-20",
     "summary_snippet": "This is a weekly newsletter summarizing recent cybersecurity research and tools, with a focus on AI's role in vulnerability discovery and exploitation, cloud security challenges, and supply chain risk"
+  },
+  {
+    "url": "https://tldrsec.com/p/tldr-sec-328",
+    "title": "[tl;dr sec] #328 - Shai-Hulud's Source Code Leaked, Break Into Buildings for $, Reversing EDRs with AI",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "supplychain",
+      "linux",
+      "ssrf",
+      "cloudsecurity",
+      "edr",
+      "ai",
+      "redteam",
+      "physicalpentesting"
+    ],
+    "file_path": "articles/appsec/2026-06-20_tl-dr-sec-328-shai-hulud-s-source-code-leaked-break-into-buildings-for-reversing.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "A weekly digest of cybersecurity news and research, covering application security, cloud security, supply chain attacks, offensive and defensive techniques, and the impact of AI on security."
   }
 ]

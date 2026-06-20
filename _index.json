@@ -957,5 +957,26 @@
     "file_path": "articles/appsec/2026-06-20_tl-dr-sec-331-how-adversaries-use-ai-skill-issues-using-ides-for-c2.md",
     "saved": "2026-06-20",
     "summary_snippet": "This is a weekly digest of cybersecurity research and news, focusing on how adversaries leverage AI, exploit vulnerabilities in AI-related tools and platforms, and use emerging technologies like IDEs "
+  },
+  {
+    "url": "https://oblique.security/blog/security-stack/?utm_source=tldrsec.com&utm_medium=referral&utm_campaign=tl-dr-sec-325-dissecting-mythos-the-0-security-stack-github-action-red-team-framework",
+    "title": "The $0 security stack",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "security stack",
+      "free tools",
+      "SAST",
+      "SCA",
+      "secret scanning",
+      "SIEM",
+      "email security",
+      "MDM",
+      "SOC2"
+    ],
+    "file_path": "articles/appsec/2026-06-20_the-0-security-stack.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "This article outlines how a startup built a comprehensive security stack using primarily free and open-source tools, covering SAST, SCA, secret scanning, SIEM, email security, and MDM."
   }
 ]

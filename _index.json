@@ -778,5 +778,27 @@
     "file_path": "articles/appsec/2026-06-15_bughunter-bug-bounty-toolkit-powered-by-claude-and-free-ai-providers.md",
     "saved": "2026-06-15",
     "summary_snippet": "This article introduces BugHunter, an open-source toolkit designed to automate the bug bounty hunting process, from reconnaissance to report generation, leveraging AI models like Claude and other free"
+  },
+  {
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
+    "type": "research",
+    "verdict": "READ_THIS",
+    "subfolder": "exploit",
+    "tags": [
+      "android",
+      "pixel",
+      "exploit",
+      "0-click",
+      "dolby",
+      "mediacodec",
+      "Project Zero",
+      "CVE-2025-54957",
+      "arbitrary code execution",
+      "heap overflow"
+    ],
+    "file_path": "research/exploit/2026-06-20_a-0-click-exploit-chain-for-the-pixel-9-part-1-decoding-dolby.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "This research details the first part of a 0-click exploit chain for Pixel 9 devices, focusing on a heap overflow vulnerability (CVE-2025-54957) in the Dolby Unified Decoder (UDC). It explains how the "
   }
 ]

@@ -840,5 +840,25 @@
     "file_path": "articles/appsec/2026-06-20_a-0-click-exploit-chain-for-the-pixel-9-part-3-where-do-we-go-from-here.md",
     "saved": "2026-06-20",
     "summary_snippet": "This article is the third part of a series discussing a 0-click exploit chain against Pixel devices. It focuses on broader issues within the Android ecosystem that were highlighted during the research"
+  },
+  {
+    "url": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
+    "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "windows",
+      "api",
+      "vulnerability",
+      "kernel",
+      "privilege escalation",
+      "UAC",
+      "UIPI",
+      "protected processes"
+    ],
+    "file_path": "articles/appsec/2026-06-20_a-deep-dive-into-the-getprocesshandlefromhwnd-api.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "This article provides a detailed technical analysis of the evolution of the Windows API function GetProcessHandleFromHwnd, tracing its changes from its initial implementation using window hooks to its"
   }
 ]

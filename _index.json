@@ -880,5 +880,25 @@
     "file_path": "research/appsec/2026-06-20_a-0-click-exploit-chain-for-the-pixel-10-when-a-door-closes-a-window-opens.md",
     "saved": "2026-06-20",
     "summary_snippet": "This research details the creation of a two-stage 0-click exploit chain for the Google Pixel 10, leveraging a vulnerability in a new VPU driver to achieve arbitrary kernel read-write. It discusses cha"
+  },
+  {
+    "url": "https://tldrsec.com/p/tldr-sec-325",
+    "title": "[tl;dr sec] #325 - Dissecting Mythos, The $0 Security Stack, GitHub Action Red Team Framework",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "AI",
+      "LLM",
+      "vulnerability discovery",
+      "security stack",
+      "CI/CD security",
+      "red teaming",
+      "supply chain security",
+      "cloud security"
+    ],
+    "file_path": "articles/appsec/2026-06-20_tl-dr-sec-325-dissecting-mythos-the-0-security-stack-github-action-red-team-fram.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "This article is a curated list of cybersecurity news and research, focusing on AI's impact on vulnerability discovery (Mythos), building cost-effective security programs, and securing CI/CD pipelines."
   }
 ]

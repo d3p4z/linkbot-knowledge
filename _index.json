@@ -900,5 +900,24 @@
     "file_path": "articles/appsec/2026-06-20_tl-dr-sec-325-dissecting-mythos-the-0-security-stack-github-action-red-team-fram.md",
     "saved": "2026-06-20",
     "summary_snippet": "This article is a curated list of cybersecurity news and research, focusing on AI's impact on vulnerability discovery (Mythos), building cost-effective security programs, and securing CI/CD pipelines."
+  },
+  {
+    "url": "https://tldrsec.com/p/tldr-sec-326",
+    "title": "[tl;dr sec] #326 - AI Auto Exploiting Vulnerabilities, GitHub RCE, Autonomous Cloud Hacking Agent",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "AI",
+      "Vulnerability Research",
+      "Cloud Security",
+      "GitHub",
+      "RCE",
+      "Autonomous Agents",
+      "Supply Chain Security"
+    ],
+    "file_path": "articles/appsec/2026-06-20_tl-dr-sec-326-ai-auto-exploiting-vulnerabilities-github-rce-autonomous-cloud-hac.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "This is a weekly newsletter summarizing recent cybersecurity research and tools, with a focus on AI's role in vulnerability discovery and exploitation, cloud security challenges, and supply chain risk"
   }
 ]

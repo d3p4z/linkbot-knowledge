@@ -939,5 +939,23 @@
     "file_path": "articles/appsec/2026-06-20_tl-dr-sec-328-shai-hulud-s-source-code-leaked-break-into-buildings-for-reversing.md",
     "saved": "2026-06-20",
     "summary_snippet": "A weekly digest of cybersecurity news and research, covering application security, cloud security, supply chain attacks, offensive and defensive techniques, and the impact of AI on security."
+  },
+  {
+    "url": "https://tldrsec.com/p/tldr-sec-331",
+    "title": "[tl;dr sec] #331 - How Adversaries Use AI, Skill Issues, Using IDEs for C2",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "AI",
+      "adversary tactics",
+      "command and control",
+      "cloud security",
+      "supply chain security",
+      "vulnerability exploitation"
+    ],
+    "file_path": "articles/appsec/2026-06-20_tl-dr-sec-331-how-adversaries-use-ai-skill-issues-using-ides-for-c2.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "This is a weekly digest of cybersecurity research and news, focusing on how adversaries leverage AI, exploit vulnerabilities in AI-related tools and platforms, and use emerging technologies like IDEs "
   }
 ]

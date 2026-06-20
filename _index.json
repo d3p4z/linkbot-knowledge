@@ -820,5 +820,25 @@
     "file_path": "research/appsec/2026-06-20_a-0-click-exploit-chain-for-the-pixel-9-part-2-cracking-the-sandbox-with-a-big-w.md",
     "saved": "2026-06-20",
     "summary_snippet": "This article details a 0-click exploit chain for Pixel 9 devices, focusing on a vulnerability within the BigWave driver that allows for kernel arbitrary read/write. It describes the discovery and expl"
+  },
+  {
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "android",
+      "exploit chain",
+      "0-click vulnerability",
+      "mobile security",
+      "vulnerability management",
+      "Dolby UDC",
+      "drivers",
+      "mitigations"
+    ],
+    "file_path": "articles/appsec/2026-06-20_a-0-click-exploit-chain-for-the-pixel-9-part-3-where-do-we-go-from-here.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "This article is the third part of a series discussing a 0-click exploit chain against Pixel devices. It focuses on broader issues within the Android ecosystem that were highlighted during the research"
   }
 ]

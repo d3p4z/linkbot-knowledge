@@ -800,5 +800,25 @@
     "file_path": "research/exploit/2026-06-20_a-0-click-exploit-chain-for-the-pixel-9-part-1-decoding-dolby.md",
     "saved": "2026-06-20",
     "summary_snippet": "This research details the first part of a 0-click exploit chain for Pixel 9 devices, focusing on a heap overflow vulnerability (CVE-2025-54957) in the Dolby Unified Decoder (UDC). It explains how the "
+  },
+  {
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
+    "type": "research",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "android",
+      "exploit",
+      "kernel",
+      "privilege escalation",
+      "sandbox escape",
+      "UAF",
+      "KASLR",
+      "LLM"
+    ],
+    "file_path": "research/appsec/2026-06-20_a-0-click-exploit-chain-for-the-pixel-9-part-2-cracking-the-sandbox-with-a-big-w.md",
+    "saved": "2026-06-20",
+    "summary_snippet": "This article details a 0-click exploit chain for Pixel 9 devices, focusing on a vulnerability within the BigWave driver that allows for kernel arbitrary read/write. It describes the discovery and expl"
   }
 ]

@@ -978,5 +978,24 @@
     "file_path": "articles/appsec/2026-06-20_the-0-security-stack.md",
     "saved": "2026-06-20",
     "summary_snippet": "This article outlines how a startup built a comprehensive security stack using primarily free and open-source tools, covering SAST, SCA, secret scanning, SIEM, email security, and MDM."
+  },
+  {
+    "url": "https://blog.calif.io/p/squidbleed-cve-2026-47729",
+    "title": "Squidbleed (CVE-2026-47729)",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "squid",
+      "proxy",
+      "vulnerability",
+      "cve",
+      "memory leak",
+      "ftp",
+      "heap overflow"
+    ],
+    "file_path": "articles/appsec/2026-06-21_squidbleed-cve-2026-47729.md",
+    "saved": "2026-06-21",
+    "summary_snippet": "This article details Squidbleed (CVE-2026-47729), a heap buffer overflow vulnerability in Squid Proxy that can leak internal memory, specifically HTTP requests. The bug stems from a long-standing issu"
   }
 ]

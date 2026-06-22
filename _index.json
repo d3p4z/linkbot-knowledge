@@ -997,5 +997,24 @@
     "file_path": "articles/appsec/2026-06-21_squidbleed-cve-2026-47729.md",
     "saved": "2026-06-21",
     "summary_snippet": "This article details Squidbleed (CVE-2026-47729), a heap buffer overflow vulnerability in Squid Proxy that can leak internal memory, specifically HTTP requests. The bug stems from a long-standing issu"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2605.28588",
+    "title": "Exploring the Emerging Threats of the Agent Skill Ecosystem",
+    "type": "research",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "AI",
+      "agents",
+      "skills",
+      "security",
+      "malware",
+      "prompt injection",
+      "vulnerabilities"
+    ],
+    "file_path": "research/appsec/2026-06-22_exploring-the-emerging-threats-of-the-agent-skill-ecosystem.md",
+    "saved": "2026-06-22",
+    "summary_snippet": "This technical report details a security analysis of AI agent skills from major marketplaces, identifying malicious payloads, critical security issues, and emerging attack patterns."
   }
 ]

@@ -1123,5 +1123,21 @@
     "published": "2026-06-19T08:44:08+00:00",
     "seen": "2026-06-20",
     "promoted": false
+  },
+  {
+    "id": "87a683",
+    "feed_name": "BleepingComputer",
+    "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+    "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+    "summary": "A new botnet called AryStinger has infected over 4,000 D-Link routers globally. The malware is used to turn these compromised routers into proxies for malicious network traffic.",
+    "bullets": [
+      "AryStinger botnet identified",
+      "Targeted D-Link routers",
+      "Over 4,000 devices compromised",
+      "Used as proxies for malicious traffic"
+    ],
+    "published": "2026-06-21T14:14:22+00:00",
+    "seen": "2026-06-22",
+    "promoted": false
   }
 ]

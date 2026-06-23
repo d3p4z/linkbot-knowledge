@@ -1139,5 +1139,117 @@
     "published": "2026-06-21T14:14:22+00:00",
     "seen": "2026-06-22",
     "promoted": false
+  },
+  {
+    "id": "764a0b",
+    "feed_name": "BleepingComputer",
+    "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+    "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+    "summary": "A phishing campaign is using WhatsApp to trick users into downloading malicious VBScript files. These files can grant attackers remote access to affected PCs. The attack is reportedly ongoing and affecting users in multiple countries.",
+    "bullets": [
+      "WhatsApp phishing attack",
+      "Uses fake business docs",
+      "Delivers VBScript malware",
+      "Grants remote PC access",
+      "Ongoing campaign"
+    ],
+    "published": "2026-06-22T22:42:21+00:00",
+    "seen": "2026-06-23",
+    "promoted": false
+  },
+  {
+    "id": "57672f",
+    "feed_name": "BleepingComputer",
+    "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+    "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+    "summary": "The JaredFromSubway Ethereum MEV bot was targeted in a cryptocurrency theft totaling $15 million. The attacker exploited the bot's opportunity-detection logic by creating fraudulent trading opportunities.",
+    "bullets": [
+      "JaredFromSubway MEV bot compromised",
+      "$15 million in crypto stolen",
+      "Attack used fake trading opportunities",
+      "Exploited opportunity-detection logic"
+    ],
+    "published": "2026-06-22T21:52:18+00:00",
+    "seen": "2026-06-23",
+    "promoted": false
+  },
+  {
+    "id": "f9db74",
+    "feed_name": "BleepingComputer",
+    "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+    "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+    "summary": "A critical FFmpeg vulnerability named PixelSmash has been discovered. This flaw can potentially lead to remote code execution on Jellyfin servers and denial-of-service conditions in various applications, including Kodi and OBS Studio.",
+    "bullets": [
+      "FFmpeg flaw dubbed PixelSmash disclosed.",
+      "Risk of remote code execution on Jellyfin.",
+      "Denial-of-service possible in Kodi, Emby, OBS Studio, etc.",
+      "Affects widely used video decoder."
+    ],
+    "published": "2026-06-22T21:05:01+00:00",
+    "seen": "2026-06-23",
+    "promoted": false
+  },
+  {
+    "id": "aee4dd",
+    "feed_name": "BleepingComputer",
+    "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+    "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+    "summary": "A campaign dubbed FortiBleed has been discovered targeting Fortinet FortiGate devices. Attackers used custom sniffers to steal authentication secrets and credentials from compromised firewalls.",
+    "bullets": [
+      "FortiBleed campaign targets FortiGate devices",
+      "Used custom sniffers",
+      "Stole authentication secrets",
+      "Harvested credentials"
+    ],
+    "published": "2026-06-22T20:01:02+00:00",
+    "seen": "2026-06-23",
+    "promoted": false
+  },
+  {
+    "id": "24223f",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+    "summary": "Microsoft has announced that Windows 11 version 26H2 is the next upcoming feature update. Devices currently on versions 24H2 and 25H2 will be able to upgrade via a small enablement package.",
+    "bullets": [
+      "Windows 11 26H2 is the next feature update.",
+      "Upgrade path for 24H2 and 25H2 confirmed.",
+      "Uses a small enablement package for upgrades."
+    ],
+    "published": "2026-06-22T17:41:31+00:00",
+    "seen": "2026-06-23",
+    "promoted": false
+  },
+  {
+    "id": "57431d",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+    "summary": "Microsoft has patched a vulnerability in AutoGen Studio, an interface for AI agent development. Dubbed AutoJack, the flaw could allow attackers to execute arbitrary code on a host system by tricking an agent into visiting a malicious webpage.",
+    "bullets": [
+      "AutoGen Studio vulnerability (AutoJack) fixed",
+      "Allows arbitrary code execution",
+      "Triggered via malicious webpage",
+      "Affects AI agent prototyping interface"
+    ],
+    "published": "2026-06-22T17:28:57+00:00",
+    "seen": "2026-06-23",
+    "promoted": false
+  },
+  {
+    "id": "400511",
+    "feed_name": "BleepingComputer",
+    "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+    "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+    "summary": "A new underground market allows attackers to pay others to search stolen credential databases for specific targets. Instead of sifting through dumps themselves, attackers can now commission searches for particular companies, domains, or accounts.",
+    "bullets": [
+      "Market for searching stolen credentials emerging",
+      "Attackers outsource credential searching",
+      "Search by company, domain, or account",
+      "Targets specific organizations"
+    ],
+    "published": "2026-06-22T14:05:15+00:00",
+    "seen": "2026-06-23",
+    "promoted": false
   }
 ]

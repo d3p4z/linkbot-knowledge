@@ -1251,5 +1251,165 @@
     "published": "2026-06-22T14:05:15+00:00",
     "seen": "2026-06-23",
     "promoted": false
+  },
+  {
+    "id": "3b20c7",
+    "feed_name": "Krebs on Security",
+    "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+    "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+    "summary": "Two members of the Scattered Spider hacking group pleaded guilty in the UK on the first day of their trial. The charges relate to a cyberattack in August 2024 that disrupted Transport for London's services.",
+    "bullets": [
+      "Scattered Spider hackers plead guilty",
+      "UK trial began this week",
+      "Attack targeted Transport for London",
+      "Incident occurred in August 2024"
+    ],
+    "published": "2026-06-23T16:12:49+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "36cfad",
+    "feed_name": "BleepingComputer",
+    "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+    "summary": "A high-severity Server-Side Request Forgery (SSRF) vulnerability, identified as CVE-2026-20230, in Cisco Unified Communications Manager Server is actively being exploited in attacks. The vulnerability allows for unauthorized requests to be made.",
+    "bullets": [
+      "CVE-2026-20230 affects Cisco Unified Communications Manager Server",
+      "Vulnerability type: SSRF",
+      "Severity: High",
+      "Actively exploited in attacks"
+    ],
+    "published": "2026-06-23T21:48:32+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "500baf",
+    "feed_name": "BleepingComputer",
+    "title": "Tata Electronics confirms cyberattack as hackers leak data",
+    "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+    "summary": "Tata Electronics has confirmed it was targeted in a cyberattack that affected some of its IT systems. Hackers have reportedly leaked data as a result of this incident.",
+    "bullets": [
+      "Tata Electronics cyberattack confirmed.",
+      "IT infrastructure impacted.",
+      "Hackers leaked data."
+    ],
+    "published": "2026-06-23T21:06:32+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "680f45",
+    "feed_name": "BleepingComputer",
+    "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+    "summary": "Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2. This update addresses several bugs and introduces a new Point-in-Time restore feature.",
+    "bullets": [
+      "Windows 11 KB5095093 update released",
+      "Includes preview of Point-in-Time restore feature",
+      "Fixes numerous bugs"
+    ],
+    "published": "2026-06-23T20:22:21+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "6c69c3",
+    "feed_name": "BleepingComputer",
+    "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+    "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+    "summary": "Healthtech firm Xsolis experienced a data breach affecting approximately 1.4 million individuals. The breach occurred due to a phishing attack that granted attackers access to the company's network.",
+    "bullets": [
+      "Xsolis data breach",
+      "Impacts 1.4 million people",
+      "Caused by phishing attack",
+      "Network access gained"
+    ],
+    "published": "2026-06-23T19:59:12+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "8fa647",
+    "feed_name": "BleepingComputer",
+    "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+    "url": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+    "summary": "A new macOS ClickFix campaign is actively distributing info-stealing malware. The attack uses Terminal commands to secretly download, mount, and execute malicious disk image (DMG) files.",
+    "bullets": [
+      "macOS ClickFix campaign identified",
+      "Silently mounts malicious DMG files",
+      "Delivers info-stealing malware",
+      "Uses Terminal commands"
+    ],
+    "published": "2026-06-23T18:30:16+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "f47ede",
+    "feed_name": "BleepingComputer",
+    "title": "Scattered Spider members plead guilty to hacking Transport for London",
+    "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+    "summary": "Two individuals linked to the Scattered Spider cybercrime group have pleaded guilty to hacking Transport for London's systems in 2024. This marks a significant development in the case involving the breach of TfL's infrastructure.",
+    "bullets": [
+      "Scattered Spider members plead guilty",
+      "Hacked Transport for London (TfL) systems",
+      "Incident occurred in 2024"
+    ],
+    "published": "2026-06-23T15:31:59+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "781e45",
+    "feed_name": "BleepingComputer",
+    "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+    "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+    "summary": "Attackers are weaponizing vulnerabilities faster than organizations can patch them. Picus Security offers a method for security teams to test exploitability even before public exploits are available. This helps validate defenses against emerging threats.",
+    "bullets": [
+      "Vulnerabilities weaponized rapidly",
+      "Patching lags behind attack speed",
+      "Validate exploitability proactively",
+      "Test before public exploits exist",
+      "Picus Security method"
+    ],
+    "published": "2026-06-23T14:01:11+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "cebcb9",
+    "feed_name": "BleepingComputer",
+    "title": "LastPass confirms data breach in Klue supply chain attack",
+    "url": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+    "summary": "LastPass has confirmed a data breach due to a supply chain attack involving Klue. Hackers gained access to customer data stored in LastPass's Salesforce environment by stealing OAuth tokens.",
+    "bullets": [
+      "LastPass data breach confirmed",
+      "Klue supply chain attack involved",
+      "Customer data accessed",
+      "Salesforce environment compromised",
+      "OAuth tokens stolen"
+    ],
+    "published": "2026-06-23T13:58:25+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
+  },
+  {
+    "id": "340496",
+    "feed_name": "BleepingComputer",
+    "title": "Webinar: Why email security teams are drowning in alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+    "summary": "This webinar discusses how security teams are overwhelmed by email-based threats like phishing and account takeovers. It will explore how behavioral AI can automate alert detection and response to reduce fatigue and improve efficiency.",
+    "bullets": [
+      "Email security teams overloaded with alerts",
+      "Phishing, BEC, account takeover attacks",
+      "Behavioral AI for automated detection",
+      "Reduces alert fatigue",
+      "Improves operational efficiency"
+    ],
+    "published": "2026-06-23T12:12:20+00:00",
+    "seen": "2026-06-24",
+    "promoted": false
   }
 ]

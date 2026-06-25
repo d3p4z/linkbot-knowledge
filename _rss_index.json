@@ -1411,5 +1411,135 @@
     "published": "2026-06-23T12:12:20+00:00",
     "seen": "2026-06-24",
     "promoted": false
+  },
+  {
+    "id": "24ae93",
+    "feed_name": "BleepingComputer",
+    "title": "Google releases new privacy controls for activity history, personalization",
+    "url": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
+    "summary": "Google is introducing updated privacy controls for its Search and Google Play services. These new features aim to provide users with greater control over their activity history and personalized content recommendations.",
+    "bullets": [
+      "New privacy controls released by Google",
+      "Affects Search services and Google Play",
+      "Enhances control over saved history",
+      "More control over personalized recommendations"
+    ],
+    "published": "2026-06-24T23:46:17+00:00",
+    "seen": "2026-06-25",
+    "promoted": false
+  },
+  {
+    "id": "30edb2",
+    "feed_name": "BleepingComputer",
+    "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
+    "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
+    "summary": "A 21-year-old hacker known as \"Snoopy\" has been sentenced to 18 months in prison. This sentence is for their involvement in the November 2022 cyberattack on DraftKings.",
+    "bullets": [
+      "DraftKings hacker \"Snoopy\" sentenced",
+      "Sentence: 18 months prison",
+      "Involved in Nov 2022 cyberattack",
+      "Hacker is 21 years old"
+    ],
+    "published": "2026-06-24T21:55:43+00:00",
+    "seen": "2026-06-25",
+    "promoted": false
+  },
+  {
+    "id": "e20362",
+    "feed_name": "BleepingComputer",
+    "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+    "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+    "summary": "Mandiant has detailed how attackers used a Cisco SD-WAN zero-day vulnerability (CVE-2026-20245) in attacks. The exploit allowed threat actors to gain root access and create unauthorized root accounts on affected devices.",
+    "bullets": [
+      "Mandiant analyzed Cisco SD-WAN zero-day attacks",
+      "Vulnerability: CVE-2026-20245",
+      "Exploit targeted Cisco Catalyst SD-WAN",
+      "Attackers gained root access",
+      "Created rogue root accounts"
+    ],
+    "published": "2026-06-24T21:29:10+00:00",
+    "seen": "2026-06-25",
+    "promoted": false
+  },
+  {
+    "id": "1ad515",
+    "feed_name": "BleepingComputer",
+    "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+    "summary": "A malicious Microsoft Edge extension named 'Edgecution' was used in a ransomware attack. It successfully escaped the browser sandbox. The extension deployed a Python-based backdoor.",
+    "bullets": [
+      "Malicious Edge extension: 'Edgecution'",
+      "Used in ransomware attack",
+      "Escaped browser sandbox",
+      "Deployed Python backdoor"
+    ],
+    "published": "2026-06-24T20:58:22+00:00",
+    "seen": "2026-06-25",
+    "promoted": false
+  },
+  {
+    "id": "402456",
+    "feed_name": "BleepingComputer",
+    "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+    "summary": "CISA has issued a warning about active exploitation of critical vulnerabilities affecting Ubiquiti UniFi OS and Lantronix serial-to-ethernet servers. These flaws are considered to be of maximum severity.",
+    "bullets": [
+      "CISA alert issued",
+      "Ubiquiti UniFi OS flaws",
+      "Lantronix servers vulnerable",
+      "Maximum severity flaws",
+      "Actively exploited"
+    ],
+    "published": "2026-06-24T14:35:15+00:00",
+    "seen": "2026-06-25",
+    "promoted": false
+  },
+  {
+    "id": "b07fb9",
+    "feed_name": "BleepingComputer",
+    "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
+    "url": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
+    "summary": "Operation Endgame has disrupted infrastructure used by the Amadey and StealC malware operations. This action, involving Microsoft, Europol, and international partners, targets cybercriminal services and ransomware gangs.",
+    "bullets": [
+      "Amadey and StealC malware operations disrupted",
+      "Operation Endgame action",
+      "Involves Microsoft and Europol",
+      "Targets cybercriminal services and ransomware"
+    ],
+    "published": "2026-06-24T14:35:11+00:00",
+    "seen": "2026-06-25",
+    "promoted": false
+  },
+  {
+    "id": "3398a4",
+    "feed_name": "BleepingComputer",
+    "title": "Securing the service desk: Why social engineering attacks keep succeeding",
+    "url": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
+    "summary": "Service desks are a prime target for social engineering attacks, with attackers aiming to reset passwords, change MFA, and gain account access. Specops Software explains the methods used in these attacks and provides defense strategies for organizations.",
+    "bullets": [
+      "Service desks targeted by attackers",
+      "Goals: password resets, MFA changes, account access",
+      "Specops Software details attack methods",
+      "Provides defense strategies"
+    ],
+    "published": "2026-06-24T14:02:12+00:00",
+    "seen": "2026-06-25",
+    "promoted": false
+  },
+  {
+    "id": "70c8fd",
+    "feed_name": "BleepingComputer",
+    "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+    "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+    "summary": "A new backdoor named Mistic has been identified in attacks targeting various sectors including insurance, education, and IT. These attacks appear to be financially motivated and are linked to the ransomware access broker KongTuke.",
+    "bullets": [
+      "New backdoor: Mistic",
+      "Used in financially motivated attacks",
+      "Targets insurance, education, IT, professional services",
+      "Linked to KongTuke ransomware broker"
+    ],
+    "published": "2026-06-24T10:41:51+00:00",
+    "seen": "2026-06-25",
+    "promoted": false
   }
 ]

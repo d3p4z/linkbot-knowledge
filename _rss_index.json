@@ -1541,5 +1541,163 @@
     "published": "2026-06-24T10:41:51+00:00",
     "seen": "2026-06-25",
     "promoted": false
+  },
+  {
+    "id": "7eb729",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #334 - Thinkst's Package Proxy, OpenAI Daybreak, AI Agents & Canaries",
+    "url": "https://tldrsec.com/p/tldr-sec-334",
+    "summary": "This item covers several security topics, including a new OSS tool from Thinkst that aims to prevent supply chain attacks without needing client-side firewalls. It also mentions OpenAI's announcement of GPT-5.5-Cyber and discusses the potential for AI agents to compromise an AWS cyber range.",
+    "bullets": [
+      "Thinkst OSS tool for supply chain attack prevention",
+      "No client-side firewalls needed",
+      "OpenAI announces GPT-5.5-Cyber",
+      "Codex Security plugin updates",
+      "AI agents vs. AWS cyber range & canaries"
+    ],
+    "published": "2026-06-25T14:30:00+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "a559fa",
+    "feed_name": "BleepingComputer",
+    "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+    "summary": "Anthropic is testing a new feature called Claude Cowork on mobile devices. This feature aims to let users manage long-running AI tasks directly from their phones.",
+    "bullets": [
+      "Anthropic testing Claude Cowork on mobile",
+      "Manage AI tasks from phone",
+      "Supports long-running tasks"
+    ],
+    "published": "2026-06-25T22:53:32+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "609ba9",
+    "feed_name": "BleepingComputer",
+    "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+    "url": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+    "summary": "Polish authorities arrested four individuals part of a cybercrime group suspected of SIM-swapping attacks. The group allegedly compromised telecommunication partners and email accounts. These actions are tied to millions in stolen cryptocurrency.",
+    "bullets": [
+      "Poland arrests 4 in cybercrime ring",
+      "SIM-swapping attacks suspected",
+      "Compromised telco partners and email accounts",
+      "Millions in crypto allegedly stolen"
+    ],
+    "published": "2026-06-25T22:37:42+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "711fb1",
+    "feed_name": "BleepingComputer",
+    "title": "Order-tracking app Shop abused to push callback phishing attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+    "summary": "Threat actors are exploiting Shopify's order-tracking app, Shop. They are inserting fake purchase receipts into users' order histories. This is used to lure victims into sharing sensitive information or installing malicious remote access software.",
+    "bullets": [
+      "Shop app abused by attackers",
+      "Fake receipts used as lure",
+      "Goal: steal data or install malware",
+      "Targets users via order history"
+    ],
+    "published": "2026-06-25T19:45:48+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "a38bfb",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+    "summary": "Microsoft has extended its free Windows 10 Extended Security Updates (ESU) program for consumers. Eligible devices will now receive security updates for an additional year, until October 2027.",
+    "bullets": [
+      "Windows 10 free ESU support extended",
+      "Support now runs until October 12, 2027",
+      "Covers consumer devices",
+      "Additional year of security updates"
+    ],
+    "published": "2026-06-25T18:29:20+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "efce97",
+    "feed_name": "BleepingComputer",
+    "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+    "url": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+    "summary": "New macOS malware named Gaslight has been discovered. It uses fake errors and hidden strings to evade AI analysis tools.",
+    "bullets": [
+      "macOS malware named Gaslight",
+      "Uses fake errors",
+      "Hides prompt injection strings",
+      "Confuses AI analysis tools"
+    ],
+    "published": "2026-06-25T16:23:19+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "d032b2",
+    "feed_name": "BleepingComputer",
+    "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+    "url": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+    "summary": "A significant sports piracy network, linked to the PirloTV illegal streaming platform, has been disrupted. This action involved the seizure of 44 associated domains.",
+    "bullets": [
+      "PirloTV sports piracy network disrupted",
+      "44 domains seized",
+      "Illegal streaming platform targeted"
+    ],
+    "published": "2026-06-25T15:36:56+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "dea8cf",
+    "feed_name": "BleepingComputer",
+    "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+    "url": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+    "summary": "The Bluekit phishing-as-a-service platform has been updated with new capabilities. It has introduced browser-in-the-middle features to enhance its ability to steal login credentials. Nearly 70 new hostnames associated with Bluekit were also recently discovered.",
+    "bullets": [
+      "Bluekit phishing service updated",
+      "Adds browser-in-the-middle for login theft",
+      "Nearly 70 new hostnames identified",
+      "Evolving platform for data theft"
+    ],
+    "published": "2026-06-25T15:00:00+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "0efd2a",
+    "feed_name": "BleepingComputer",
+    "title": "The Four Elevations of Effective Fraud Prevention",
+    "url": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+    "summary": "This item discusses the four levels of effective fraud prevention, arguing that a wider view enhances detection. Fraudsters target more than just individual transactions, impacting accounts, platforms, and entire systems.",
+    "bullets": [
+      "Four elevations of fraud prevention",
+      "Fraudsters target accounts/platforms/ecosystems",
+      "Broader visibility improves detection"
+    ],
+    "published": "2026-06-25T14:01:11+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
+  },
+  {
+    "id": "b1fa36",
+    "feed_name": "BleepingComputer",
+    "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+    "summary": "Account takeover attacks are difficult because they use legitimate accounts. This webinar discusses how behavioral AI can help detect compromised accounts quickly and automate responses.",
+    "bullets": [
+      "Webinar on account takeover (ATO) threats.",
+      "ATOs hard to stop using legit accounts.",
+      "Behavioral AI for faster detection.",
+      "Automating response workflows."
+    ],
+    "published": "2026-06-25T12:12:20+00:00",
+    "seen": "2026-06-26",
+    "promoted": false
   }
 ]

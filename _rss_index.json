@@ -1699,5 +1699,89 @@
     "published": "2026-06-25T12:12:20+00:00",
     "seen": "2026-06-26",
     "promoted": false
+  },
+  {
+    "id": "436a6c",
+    "feed_name": "BleepingComputer",
+    "title": "FBI: Russian hackers now target Signal backup recovery keys",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+    "summary": "The FBI and CISA have issued a warning about a phishing campaign linked to Russian intelligence services. This campaign now targets Signal users specifically to steal their backup recovery keys. Gaining these keys allows attackers to access past conversation messages.",
+    "bullets": [
+      "Russian hackers targeting Signal users.",
+      "Campaign now steals backup recovery keys.",
+      "Allows access to historical messages.",
+      "FBI and CISA warning issued."
+    ],
+    "published": "2026-06-26T22:06:17+00:00",
+    "seen": "2026-06-27",
+    "promoted": false
+  },
+  {
+    "id": "f71677",
+    "feed_name": "BleepingComputer",
+    "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+    "summary": "CISA has issued an urgent directive for federal agencies to address a critical vulnerability in Cisco Unified Communications Manager Server. The agency has set a strict deadline of Sunday for agencies to implement the necessary patches. This action is being taken because the flaw is already being exploited in active attacks.",
+    "bullets": [
+      "CISA directive issued",
+      "Cisco Unified Communications Manager Server vulnerability",
+      "Actively exploited flaw",
+      "Urgent patching deadline: Sunday",
+      "Applies to federal agencies"
+    ],
+    "published": "2026-06-26T19:43:06+00:00",
+    "seen": "2026-06-27",
+    "promoted": false
+  },
+  {
+    "id": "808907",
+    "feed_name": "BleepingComputer",
+    "title": "Polymarket customers lose $3 million in supply-chain attack",
+    "url": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+    "summary": "Polymarket is reimbursing customers for $3 million lost due to a supply-chain attack. Hackers injected a malicious script into the platform's frontend after compromising a third-party vendor.",
+    "bullets": [
+      "Polymarket customers lost $3 million.",
+      "Attack was a supply-chain compromise.",
+      "Malicious script injected into platform frontend.",
+      "Breach occurred at a third-party vendor.",
+      "Polymarket will fully reimburse affected customers."
+    ],
+    "published": "2026-06-26T18:04:12+00:00",
+    "seen": "2026-06-27",
+    "promoted": false
+  },
+  {
+    "id": "c85ce8",
+    "feed_name": "BleepingComputer",
+    "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+    "url": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+    "summary": "Cybersecurity firms are being targeted by threat actors who create fake OpenAI organizations. These fake organizations invite employees to join, likely to trick them into revealing sensitive company data through chats and projects.",
+    "bullets": [
+      "Fake OpenAI orgs used in attacks",
+      "Targets: Cybersecurity firms",
+      "Goal: Steal sensitive info",
+      "Method: Fraudulent invites to join fake tenants",
+      "Attack vector: Chats & projects"
+    ],
+    "published": "2026-06-26T17:49:07+00:00",
+    "seen": "2026-06-27",
+    "promoted": false
+  },
+  {
+    "id": "e86704",
+    "feed_name": "BleepingComputer",
+    "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+    "url": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+    "summary": "This article discusses how AI can assist GRC (Governance, Risk, and Compliance) analysts by automating repetitive tasks. It details the process of building an agent that can monitor controls, spot missing evidence, and initiate remediation actions.",
+    "bullets": [
+      "AI for GRC automation",
+      "Build a GRC agent",
+      "Continuous control monitoring",
+      "Identify evidence gaps",
+      "Create remediation tasks"
+    ],
+    "published": "2026-06-26T14:01:11+00:00",
+    "seen": "2026-06-27",
+    "promoted": false
   }
 ]

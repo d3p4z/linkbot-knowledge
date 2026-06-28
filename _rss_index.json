@@ -1783,5 +1783,20 @@
     "published": "2026-06-26T14:01:11+00:00",
     "seen": "2026-06-27",
     "promoted": false
+  },
+  {
+    "id": "d30d4a",
+    "feed_name": "BleepingComputer",
+    "title": "Clean GitHub repo tricks AI coding agents into running malware",
+    "url": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+    "summary": "A security vulnerability has been found in AI coding agents. These agents can be tricked by a seemingly clean GitHub repository into running malware that evades detection.",
+    "bullets": [
+      "GitHub repo tricks AI coding agents",
+      "Malware runs invisibly",
+      "Bypasses scanners and human review"
+    ],
+    "published": "2026-06-27T14:22:36+00:00",
+    "seen": "2026-06-28",
+    "promoted": false
   }
 ]

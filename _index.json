@@ -1016,5 +1016,22 @@
     "file_path": "research/appsec/2026-06-22_exploring-the-emerging-threats-of-the-agent-skill-ecosystem.md",
     "saved": "2026-06-22",
     "summary_snippet": "This technical report details a security analysis of AI agent skills from major marketplaces, identifying malicious payloads, critical security issues, and emerging attack patterns."
+  },
+  {
+    "url": "https://github.com/bikini/exploitarium",
+    "title": "Exploitarium - Public Exploit PoCs and Vulnerability Research",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "exploit",
+    "tags": [
+      "exploit-development",
+      "vulnerability-research",
+      "proof-of-concept",
+      "fuzzing",
+      "ai-assisted-security"
+    ],
+    "file_path": "github/tools/exploit/2026-06-28_exploitarium-public-exploit-pocs-and-vulnerability-research.md",
+    "saved": "2026-06-28",
+    "summary_snippet": "A consolidated archive of public exploit Proof-of-Concepts (PoCs) and vulnerability research writeups, including detailed research notes and AI-assisted findings."
   }
 ]

@@ -1814,5 +1814,179 @@
     "published": "2026-06-28T14:13:46+00:00",
     "seen": "2026-06-29",
     "promoted": false
+  },
+  {
+    "id": "0029ef",
+    "feed_name": "watchTowr Labs",
+    "title": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037)",
+    "url": "https://labs.watchtowr.com/enterprise-tech-in-shell-out-progress-kemp-loadmaster-uninitialized-heap-to-pre-auth-rce-cve-2026-8037/",
+    "summary": "This post discusses a vulnerability in Progress Kemp LoadMaster, an enterprise load balancer. Edge appliances like this can sometimes become an attack vector rather than a security measure. The specific vulnerability is an uninitialized heap vulnerability leading to pre-authentication Remote Code Execution (RCE) with CVE-2026-8037.",
+    "bullets": [
+      "Progress Kemp LoadMaster vulnerability",
+      "Uninitialized heap flaw",
+      "Pre-authentication RCE",
+      "CVE-2026-8037",
+      "Edge appliance security risk"
+    ],
+    "published": "2026-06-29T19:24:54+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "be462e",
+    "feed_name": "BleepingComputer",
+    "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+    "summary": "Nissan experienced a data breach impacting current and former employees. The breach occurred because attackers exploited a zero-day vulnerability in Oracle PeopleSoft. This attack has been linked to the ShinyHunters extortion group.",
+    "bullets": [
+      "Nissan data breach affecting employees",
+      "Exploited Oracle PeopleSoft zero-day",
+      "Attacks linked to ShinyHunters"
+    ],
+    "published": "2026-06-29T20:40:44+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "716dd4",
+    "feed_name": "BleepingComputer",
+    "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+    "url": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+    "summary": "The National Association of Insurance Commissioners (NAIC) experienced a breach by the ShinyHunters group. They claim only public data, outdated logs, and configuration files were stolen. The breach exploited a zero-day vulnerability in an Oracle PeopleSoft server.",
+    "bullets": [
+      "NAIC breached by ShinyHunters",
+      "Only public data reportedly stolen",
+      "Outdated logs and config files taken",
+      "Exploited Oracle PeopleSoft zero-day"
+    ],
+    "published": "2026-06-29T20:30:28+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "a687c5",
+    "feed_name": "BleepingComputer",
+    "title": "WhatsApp rolls out usernames to help users hide their phone number",
+    "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
+    "summary": "WhatsApp is introducing a new privacy feature that allows users to create usernames. This feature will enable users to hide their phone numbers from individuals who are not saved in their contacts.",
+    "bullets": [
+      "WhatsApp adds usernames.",
+      "Hides phone number from non-contacts.",
+      "Enhances user privacy."
+    ],
+    "published": "2026-06-29T17:48:28+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "3e4353",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
+    "summary": "Microsoft has extended the hotpatching feature for Windows Server 2022. The extension will last until October 2027, which is one year past the original mainstream end date.",
+    "bullets": [
+      "Windows Server 2022 hotpatching extended",
+      "New end date: October 2027",
+      "Original end date: October 2026",
+      "Extension is 1 year"
+    ],
+    "published": "2026-06-29T17:11:15+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "61c0ff",
+    "feed_name": "BleepingComputer",
+    "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+    "url": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+    "summary": "The U.S. Department of State is offering a $10 million reward for information on two hacker groups, UNC5792 and UNC4221. These groups are allegedly linked to Russian intelligence and military services. The focus is on identifying or locating members of these groups.",
+    "bullets": [
+      "$10 million reward offered by U.S. State Dept.",
+      "Targeting hackers linked to Russian intelligence/military.",
+      "Reward for info on UNC5792 and UNC4221 groups.",
+      "Focus on identifying/locating hacker group members."
+    ],
+    "published": "2026-06-29T15:09:43+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "3b33c1",
+    "feed_name": "BleepingComputer",
+    "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+    "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+    "summary": "Agentic AI, capable of accessing data and acting within enterprise systems, faces an identity challenge. Attackers are exploiting this vulnerability, making the governance of these privileged AI identities a critical security concern.",
+    "bullets": [
+      "AI agents access data & trigger workflows.",
+      "AI agents act across enterprise systems.",
+      "Privileged AI identities need governance.",
+      "Attackers exploit AI identity issues."
+    ],
+    "published": "2026-06-29T14:01:11+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "fb73f2",
+    "feed_name": "BleepingComputer",
+    "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+    "summary": "A critical vulnerability (CVE-2026-48558) in SimpleHelp is being exploited by hackers. They are using this flaw to deploy a new information stealer malware called Djinn Stealer.",
+    "bullets": [
+      "Exploited SimpleHelp vulnerability (CVE-2026-48558)",
+      "New malware deployed: Djinn Stealer",
+      "Djinn Stealer is a cross-platform info stealer",
+      "Targets Windows, macOS, and Linux"
+    ],
+    "published": "2026-06-29T14:00:00+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "fb3fd4",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+    "summary": "Hackers are actively exploiting a critical vulnerability, CVE-2026-46817, within the Oracle E-Business Suite. This vulnerability affects the financial application, according to Defused.",
+    "bullets": [
+      "Critical Oracle E-Business vulnerability being exploited.",
+      "CVE-2026-46817 identified.",
+      "Affects Oracle EBS financial application.",
+      "Exploitation confirmed by Defused."
+    ],
+    "published": "2026-06-29T13:46:17+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "bebc22",
+    "feed_name": "BleepingComputer",
+    "title": "Webinar: Why business email compromise attacks keep succeeding",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+    "summary": "Business email compromise (BEC) attacks are succeeding due to convincing impersonation, bypassing traditional defenses and employee detection. This webinar will discuss how behavioral AI can identify these sophisticated threats and automate responses.",
+    "bullets": [
+      "BEC attacks rely on impersonation, not malware.",
+      "Harder for employees and defenses to detect.",
+      "Behavioral AI can identify sophisticated email threats.",
+      "Automates response workflows."
+    ],
+    "published": "2026-06-29T12:14:22+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
+  },
+  {
+    "id": "2e95ea",
+    "feed_name": "BleepingComputer",
+    "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+    "url": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+    "summary": "The U.S. Justice Department has seized almost 400 web domains. These domains were used for illegally streaming FIFA World Cup matches.",
+    "bullets": [
+      "US DOJ seized domains",
+      "Nearly 400 domains targeted",
+      "Illegal FIFA World Cup streaming"
+    ],
+    "published": "2026-06-29T11:21:03+00:00",
+    "seen": "2026-06-30",
+    "promoted": false
   }
 ]

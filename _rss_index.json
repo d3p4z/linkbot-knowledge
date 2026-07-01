@@ -1988,5 +1988,177 @@
     "published": "2026-06-29T11:21:03+00:00",
     "seen": "2026-06-30",
     "promoted": false
+  },
+  {
+    "id": "14bbe4",
+    "feed_name": "watchTowr Labs",
+    "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451)",
+    "url": "https://labs.watchtowr.com/citrixbleed-to-infinity-and-beyond-citrix-netscaler-pre-auth-memory-overread-cve-2026-8451/",
+    "summary": "This item discusses the CitrixBleed vulnerability, identified as a pre-authentication memory overread in Citrix NetScaler (CVE-2026-8451). The author expresses a sense of predictable recurrence regarding security issues.",
+    "bullets": [
+      "CitrixBleed vulnerability detailed",
+      "Citrix NetScaler pre-auth memory overread",
+      "CVE-2026-8451",
+      "Predictable security events noted"
+    ],
+    "published": "2026-06-30T19:35:58+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "3dffbb",
+    "feed_name": "BleepingComputer",
+    "title": "Anthropic to restore Claude Fable access on Wednesday",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
+    "summary": "Anthropic is restoring access to its powerful AI models, Fable 5 and Mythos 5, starting Wednesday. This comes after the Department of Commerce lifted export controls on these models.",
+    "bullets": [
+      "Claude Fable access restored Wednesday",
+      "Department of Commerce lifted export controls",
+      "Covers Fable 5 and Mythos 5 models"
+    ],
+    "published": "2026-07-01T00:35:14+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "72225c",
+    "feed_name": "BleepingComputer",
+    "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
+    "summary": "Anthropic has released Sonnet 5, a new AI model. It offers performance nearly matching their Opus model but at a reduced cost.",
+    "bullets": [
+      "New Anthropic model: Sonnet 5",
+      "Near-Opus performance",
+      "Lower price point"
+    ],
+    "published": "2026-06-30T23:13:07+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "9a0b27",
+    "feed_name": "BleepingComputer",
+    "title": "New BioShocking attack manipulates AI browser into data theft",
+    "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+    "summary": "A new prompt injection attack called 'BioShocking' can fool AI browsers. It manipulates the AI into thinking dangerous actions are part of a fictional game, bypassing safety features.",
+    "bullets": [
+      "New 'BioShocking' attack targets AI browsers.",
+      "Uses prompt injection to trick AI.",
+      "AI misinterprets risky actions as fictional.",
+      "Bypasses safety guardrails for data theft."
+    ],
+    "published": "2026-06-30T21:50:24+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "e61267",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
+    "summary": "Microsoft is speeding up its plan to transition to quantum-safe encryption. This is due to faster-than-expected progress in quantum computing, which poses a risk to current encryption methods.",
+    "bullets": [
+      "Microsoft accelerating quantum-safe roadmap",
+      "Quantum computing advances pose risk",
+      "Need to replace current encryption sooner"
+    ],
+    "published": "2026-06-30T21:20:06+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "ecfb99",
+    "feed_name": "BleepingComputer",
+    "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+    "summary": "A campaign active since November is targeting Python developers creating Telegram bots. Attackers are using trojanized Pyrogram forks to gain control of bot servers and read arbitrary files.",
+    "bullets": [
+      "Malicious PyPI packages found",
+      "Targeting Python Telegram bot developers",
+      "Using trojanized Pyrogram forks",
+      "Allows reading arbitrary files",
+      "Hackers gain server control"
+    ],
+    "published": "2026-06-30T21:02:55+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "541b37",
+    "feed_name": "BleepingComputer",
+    "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
+    "summary": "A malicious Chrome extension posing as the Perplexity AI search engine has been found on the Chrome Web Store. It intercepts user searches and collects browsing data.",
+    "bullets": [
+      "Fake Perplexity AI extension found in Chrome Web Store",
+      "Masquerades as legitimate Perplexity AI",
+      "Intercepts search traffic",
+      "Collects browsing information"
+    ],
+    "published": "2026-06-30T15:46:19+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "fa8668",
+    "feed_name": "BleepingComputer",
+    "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+    "url": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
+    "summary": "This item discusses Business Email Compromise (BEC) attacks, describing them as coordinated operations that go beyond simple email scams. It highlights how underground forums provide insights into the planning and execution methods used in these attacks.",
+    "bullets": [
+      "BEC attacks are complex, not just email scams.",
+      "Involve compromised accounts and financial research.",
+      "Cash-out networks are part of the operation.",
+      "Underground forums reveal attack methods."
+    ],
+    "published": "2026-06-30T14:00:10+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "79a7d2",
+    "feed_name": "BleepingComputer",
+    "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+    "url": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+    "summary": "Insurance company Aflac has reported a data breach. Attackers gained access to the systems of its Japanese subsidiary and stole personal and banking data.",
+    "bullets": [
+      "Aflac data breach confirmed",
+      "Japanese subsidiary affected",
+      "Personal data stolen",
+      "Bank account information compromised"
+    ],
+    "published": "2026-06-30T11:12:18+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "dcb495",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft adds smarter bot protection to Teams meetings",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
+    "summary": "Microsoft has updated Teams with new bot protection features. Organizers can now use a new admin policy to control which third-party bots can join meetings.",
+    "bullets": [
+      "Microsoft adds bot protection to Teams meetings.",
+      "New admin policy for organizers.",
+      "Prevents unapproved third-party bots joining."
+    ],
+    "published": "2026-06-30T10:52:26+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
+  },
+  {
+    "id": "aa8e72",
+    "feed_name": "BleepingComputer",
+    "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+    "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+    "summary": "Kali Linux has released version 2026.2, the second update of the year. This release introduces 9 new tools to the distribution. It also includes significant improvements for Kali NetHunter.",
+    "bullets": [
+      "Kali Linux 2026.2 released",
+      "Includes 9 new tools",
+      "Kali NetHunter updates"
+    ],
+    "published": "2026-06-30T09:46:39+00:00",
+    "seen": "2026-07-01",
+    "promoted": false
   }
 ]

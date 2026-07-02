@@ -1033,5 +1033,23 @@
     "file_path": "github/tools/exploit/2026-06-28_exploitarium-public-exploit-pocs-and-vulnerability-research.md",
     "saved": "2026-06-28",
     "summary_snippet": "A consolidated archive of public exploit Proof-of-Concepts (PoCs) and vulnerability research writeups, including detailed research notes and AI-assisted findings."
+  },
+  {
+    "url": "https://github.com/usestrix/strix",
+    "title": "Strix: AI Penetration Testing Tool",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "ai",
+    "tags": [
+      "penetration-testing",
+      "ai",
+      "security-automation",
+      "vulnerability-management",
+      "developer-tools",
+      "red-teaming"
+    ],
+    "file_path": "github/tools/ai/2026-07-02_strix-ai-penetration-testing-tool.md",
+    "saved": "2026-07-02",
+    "summary_snippet": "Strix is an open-source AI-powered penetration testing tool that autonomously identifies, validates, and even suggests fixes for application vulnerabilities."
   }
 ]

@@ -2318,5 +2318,191 @@
     "published": "2026-07-01T10:52:26+00:00",
     "seen": "2026-07-02",
     "promoted": false
+  },
+  {
+    "id": "f79c5a",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #335 - Prompt Injection as Role Confusion, PHP Ecosystem Security, New MCP Spec",
+    "url": "https://tldrsec.com/p/tldr-sec-335",
+    "summary": "This item discusses prompt injection acting as role confusion, and recent developments in PHP ecosystem security. It also touches on the security implications of a new MCP specification.",
+    "bullets": [
+      "Prompt injection as role confusion",
+      "LLM hardening of PHP ecosystem",
+      "Security of new MCP spec"
+    ],
+    "published": "2026-07-02T19:24:47+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "23edf7",
+    "feed_name": "watchTowr Labs",
+    "title": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza)",
+    "url": "https://labs.watchtowr.com/its-37oc-and-all-we-can-think-about-is-coldfusion-adobe-coldfusion-security-bulletin-apsb26-68-cve-bonanza/",
+    "summary": "This post discusses Adobe ColdFusion security updates, specifically APSB26-68, highlighting a significant number of fixed vulnerabilities. The author expresses a lack of confidence due to the extensive patch list and potential unmentioned issues.",
+    "bullets": [
+      "Adobe ColdFusion Security Bulletin APSB26-68",
+      "Multiple vulnerabilities addressed",
+      "Concerns raised about patch volume and completeness"
+    ],
+    "published": "2026-07-02T16:38:28+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "fae2db",
+    "feed_name": "Krebs on Security",
+    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+    "summary": "The FBI, with industry partners, has seized hundreds of domains belonging to NetNut, an Israeli residential proxy service. This action follows reports linking NetNut to the Popa botnet, which compromises millions of devices.",
+    "bullets": [
+      "FBI seized NetNut proxy domains",
+      "NetNut linked to Popa botnet",
+      "Popa botnet has millions of devices",
+      "NetNut operated by Alarum Technologies (Israel)"
+    ],
+    "published": "2026-07-02T19:27:33+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "0f5fda",
+    "feed_name": "BleepingComputer",
+    "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
+    "summary": "Anthropic's Claude Fable 5 will no longer be available through Claude subscriptions after July 7th. However, this is not a permanent removal, and the model is expected to be offered again soon outside of the current subscription plan.",
+    "bullets": [
+      "Claude Fable 5 leaving subscriptions July 7th",
+      "Not a permanent change",
+      "Model to return outside subscription soon"
+    ],
+    "published": "2026-07-03T01:37:09+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "57f0d6",
+    "feed_name": "BleepingComputer",
+    "title": "Claude Fable relaunch disappoints users with nerfed performance",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+    "summary": "Claude Fable, previously the company's most powerful AI model, has been released to all users. However, early feedback indicates a significant performance downgrade compared to its original release.",
+    "bullets": [
+      "Claude Fable now available to all users.",
+      "Users report disappointing performance.",
+      "Model appears nerfed from original release."
+    ],
+    "published": "2026-07-03T00:48:30+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "edd8a8",
+    "feed_name": "BleepingComputer",
+    "title": "Google loses final appeal to overturn €4.1 billion EU fine",
+    "url": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+    "summary": "Google's final appeal to overturn a €4.1 billion EU antitrust fine has been dismissed. The fine relates to Google's use of Android to promote its Chrome browser and search service. This decision comes from the Court of Justice of the European Union.",
+    "bullets": [
+      "Google loses final EU appeal.",
+      "Fine amount: €4.1 billion.",
+      "Reason: Android's use to promote Chrome/Search.",
+      "Highest EU court dismissed appeal."
+    ],
+    "published": "2026-07-02T15:18:51+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "98b0c6",
+    "feed_name": "BleepingComputer",
+    "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+    "url": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+    "summary": "ConsentFix and ClickFix are attacks that hijack Microsoft 365 accounts in seconds. These attacks exploit fake prompts and OAuth flows to steal user tokens, bypassing multi-factor authentication.",
+    "bullets": [
+      "ConsentFix and ClickFix attacks.",
+      "Hijack Microsoft 365 accounts.",
+      "Steal tokens in seconds.",
+      "Use fake prompts & OAuth.",
+      "Bypass MFA tactics."
+    ],
+    "published": "2026-07-02T14:00:10+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "3532af",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+    "summary": "Microsoft has resolved a bug that caused Copilot buttons to vanish in Classic Outlook for certain Windows users. This issue affected those with a Copilot Chat (Basic) license.",
+    "bullets": [
+      "Bug fixed in Outlook",
+      "Copilot buttons were disappearing",
+      "Affected Windows users",
+      "Impacted users with Basic license"
+    ],
+    "published": "2026-07-02T12:15:47+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "33ffdc",
+    "feed_name": "BleepingComputer",
+    "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+    "summary": "Cisco has confirmed that attackers are actively exploiting a vulnerability in their Unified Communications Manager (Unified CM) software. This flaw was previously patched by Cisco in early June. The confirmation indicates ongoing exploitation of the issue.",
+    "bullets": [
+      "Attackers exploiting Cisco Unified CM flaw.",
+      "Vulnerability patched in early June.",
+      "Cisco confirms active exploitation."
+    ],
+    "published": "2026-07-02T11:35:25+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "afeccd",
+    "feed_name": "BleepingComputer",
+    "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+    "summary": "CISA is warning that a critical Microsoft SharePoint remote code execution vulnerability is now being actively exploited by attackers. Microsoft had previously released a patch for this flaw in May.",
+    "bullets": [
+      "CISA alert issued",
+      "Microsoft SharePoint RCE vulnerability",
+      "Actively exploited in the wild",
+      "Vulnerability patched in May"
+    ],
+    "published": "2026-07-02T10:52:43+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "09e661",
+    "feed_name": "BleepingComputer",
+    "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+    "summary": "Opera has launched a new security feature called Paste Protect. This feature aims to prevent ClickFix-style attacks, which use social engineering to trick users into running harmful commands.",
+    "bullets": [
+      "Opera introduces Paste Protect security feature",
+      "Blocks ClickFix-style attacks",
+      "Fights malicious command execution via social engineering"
+    ],
+    "published": "2026-07-02T10:46:58+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
+  },
+  {
+    "id": "1442e5",
+    "feed_name": "BleepingComputer",
+    "title": "Alleged Scattered Spider hacker extradited to the United States",
+    "url": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+    "summary": "A dual US and Estonian citizen has been extradited to the United States. He is accused of being part of the Scattered Spider hacking group.",
+    "bullets": [
+      "Dual citizen extradited to US",
+      "Alleged Scattered Spider member",
+      "Faces hacking charges"
+    ],
+    "published": "2026-07-02T08:58:25+00:00",
+    "seen": "2026-07-03",
+    "promoted": false
   }
 ]

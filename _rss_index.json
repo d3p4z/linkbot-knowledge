@@ -2504,5 +2504,37 @@
     "published": "2026-07-02T08:58:25+00:00",
     "seen": "2026-07-03",
     "promoted": false
+  },
+  {
+    "id": "17a3b9",
+    "feed_name": "BleepingComputer",
+    "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+    "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+    "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network. This network provided access to millions of compromised Android devices, including smart TVs and streaming boxes.",
+    "bullets": [
+      "NetNut proxy network disrupted",
+      "Google involved in operation",
+      "Millions of compromised Android devices affected",
+      "Includes smart TVs and streaming boxes"
+    ],
+    "published": "2026-07-03T17:50:04+00:00",
+    "seen": "2026-07-04",
+    "promoted": false
+  },
+  {
+    "id": "d64bb7",
+    "feed_name": "BleepingComputer",
+    "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+    "url": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+    "summary": "A new phishing-as-a-service (PhaaS) platform called ARToken has been identified. It seems to be an affiliate of the EvilTokens phishing platform, providing access to a toolkit for Microsoft 365 compromises.",
+    "bullets": [
+      "New PhaaS platform: ARToken",
+      "Affiliated with EvilTokens",
+      "Targets Microsoft 365",
+      "Provides phishing toolkit"
+    ],
+    "published": "2026-07-03T14:12:22+00:00",
+    "seen": "2026-07-04",
+    "promoted": false
   }
 ]

@@ -2536,5 +2536,20 @@
     "published": "2026-07-03T14:12:22+00:00",
     "seen": "2026-07-04",
     "promoted": false
+  },
+  {
+    "id": "aa2d25",
+    "feed_name": "BleepingComputer",
+    "title": "JadePuffer ransomware used AI agent to automate entire attack",
+    "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+    "summary": "Ransomware operation JadePuffer has been identified as the first to be fully automated by an AI agent. This marks a significant development in the use of large language models in cyberattacks.",
+    "bullets": [
+      "JadePuffer ransomware used an AI agent",
+      "AI agent automated the entire attack",
+      "First documented case of LLM-driven ransomware"
+    ],
+    "published": "2026-07-04T14:16:38+00:00",
+    "seen": "2026-07-05",
+    "promoted": false
   }
 ]

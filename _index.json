@@ -1105,5 +1105,22 @@
     "file_path": "github/tools/defense/2026-07-06_gh-workflow-hardener.md",
     "saved": "2026-07-06",
     "summary_snippet": "A security scanner for GitHub Actions workflows. It identifies vulnerabilities such as unpinned actions, dangerous permissions, and potential script injection within workflow files."
+  },
+  {
+    "url": "https://github.com/zizmorcore/zizmor?utm_source=tldrsec.com&utm_medium=newsletter&utm_campaign=tl-dr-sec-335-prompt-injection-as-role-confusion-php-ecosystem-security-new-mcp-spec",
+    "title": "zizmor",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "sast",
+    "tags": [
+      "github-actions",
+      "security",
+      "static-analysis",
+      "cicd",
+      "workflows"
+    ],
+    "file_path": "github/tools/sast/2026-07-06_zizmor.md",
+    "saved": "2026-07-06",
+    "summary_snippet": "zizmor is a Rust-based static analysis tool designed to identify security vulnerabilities within GitHub Actions CI/CD workflows."
   }
 ]

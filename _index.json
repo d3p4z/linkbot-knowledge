@@ -1051,5 +1051,22 @@
     "file_path": "github/tools/ai/2026-07-02_strix-ai-penetration-testing-tool.md",
     "saved": "2026-07-02",
     "summary_snippet": "Strix is an open-source AI-powered penetration testing tool that autonomously identifies, validates, and even suggests fixes for application vulnerabilities."
+  },
+  {
+    "url": "https://github.com/badkeys/badkeys?utm_source=tldrsec.com&utm_medium=newsletter&utm_campaign=tl-dr-sec-335-prompt-injection-as-role-confusion-php-ecosystem-security-new-mcp-spec",
+    "title": "badkeys",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "defense",
+    "tags": [
+      "cryptography",
+      "public key",
+      "vulnerability scanning",
+      "ssh",
+      "tls"
+    ],
+    "file_path": "github/tools/defense/2026-07-06_badkeys.md",
+    "saved": "2026-07-06",
+    "summary_snippet": "A tool and Python library designed to scan cryptographic public keys for known vulnerabilities. It supports various key formats and can also scan SSH and TLS hosts."
   }
 ]

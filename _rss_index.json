@@ -2551,5 +2551,20 @@
     "published": "2026-07-04T14:16:38+00:00",
     "seen": "2026-07-05",
     "promoted": false
+  },
+  {
+    "id": "317b2b",
+    "feed_name": "BleepingComputer",
+    "title": "Flipper Zero firmware development continues with community help",
+    "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+    "summary": "Flipper Zero firmware development will proceed with a reduced internal team. The company will increasingly depend on contributions from the community to support ongoing development.",
+    "bullets": [
+      "Flipper Zero firmware development continues.",
+      "Smaller internal team.",
+      "Increased community contributions expected."
+    ],
+    "published": "2026-07-05T14:14:52+00:00",
+    "seen": "2026-07-06",
+    "promoted": false
   }
 ]

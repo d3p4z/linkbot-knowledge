@@ -1139,5 +1139,22 @@
     "file_path": "research/appsec/2026-07-06_prompt-injection-as-role-confusion.md",
     "saved": "2026-07-06",
     "summary_snippet": "This research paper proposes a new theory that frames prompt injection attacks in Large Language Models (LLMs) as a form of 'role confusion'. It argues that LLMs fail to accurately distinguish between"
+  },
+  {
+    "url": "https://www.akamai.com/blog/security-research/new-mcp-specification-security-teams-must-prepare?utm_source=tldrsec.com&utm_medium=newsletter&utm_campaign=tl-dr-sec-335-prompt-injection-as-role-confusion-php-ecosystem-security-new-mcp-spec",
+    "title": "The New MCP Specification: What Security Teams Must Prepare For",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "MCP",
+      "application security",
+      "AI security",
+      "state management",
+      "attack surface"
+    ],
+    "file_path": "articles/appsec/2026-07-06_the-new-mcp-specification-what-security-teams-must-prepare-for.md",
+    "saved": "2026-07-06",
+    "summary_snippet": "This article details the upcoming MCP 2026-07-28 specification update, highlighting its shift to a stateless, enterprise-grade architecture and the new security responsibilities it places on developer"
   }
 ]

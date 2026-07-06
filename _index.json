@@ -1068,5 +1068,23 @@
     "file_path": "github/tools/defense/2026-07-06_badkeys.md",
     "saved": "2026-07-06",
     "summary_snippet": "A tool and Python library designed to scan cryptographic public keys for known vulnerabilities. It supports various key formats and can also scan SSH and TLS hosts."
+  },
+  {
+    "url": "https://snyk.io/blog/snyk-vulnbench-js-1-0-llm-security-review-repeatability/?utm_source=tldrsec.com&utm_medium=newsletter&utm_campaign=tl-dr-sec-335-prompt-injection-as-role-confusion-php-ecosystem-security-new-mcp-spec",
+    "title": "Snyk VulnBench JS 1.0: LLM Security Review Repeatability",
+    "type": "research",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "llm",
+      "application security",
+      "vulnerability research",
+      "repeatability",
+      "sast",
+      "code analysis"
+    ],
+    "file_path": "research/appsec/2026-07-06_snyk-vulnbench-js-1-0-llm-security-review-repeatability.md",
+    "saved": "2026-07-06",
+    "summary_snippet": "This research benchmarks the repeatability of LLM-based security reviews against JavaScript code. It compares LLM findings with traditional SAST (Snyk Code) to assess consistency, accuracy, and covera"
   }
 ]

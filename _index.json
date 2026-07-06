@@ -1086,5 +1086,24 @@
     "file_path": "research/appsec/2026-07-06_snyk-vulnbench-js-1-0-llm-security-review-repeatability.md",
     "saved": "2026-07-06",
     "summary_snippet": "This research benchmarks the repeatability of LLM-based security reviews against JavaScript code. It compares LLM findings with traditional SAST (Snyk Code) to assess consistency, accuracy, and covera"
+  },
+  {
+    "url": "https://github.com/indoor47/gh-workflow-hardener?utm_source=tldrsec.com&utm_medium=newsletter&utm_campaign=tl-dr-sec-335-prompt-injection-as-role-confusion-php-ecosystem-security-new-mcp-spec",
+    "title": "gh-workflow-hardener",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "defense",
+    "tags": [
+      "github actions",
+      "devsecops",
+      "supply chain security",
+      "workflow security",
+      "cicd security",
+      "static analysis",
+      "action pinning"
+    ],
+    "file_path": "github/tools/defense/2026-07-06_gh-workflow-hardener.md",
+    "saved": "2026-07-06",
+    "summary_snippet": "A security scanner for GitHub Actions workflows. It identifies vulnerabilities such as unpinned actions, dangerous permissions, and potential script injection within workflow files."
   }
 ]

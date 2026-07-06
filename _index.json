@@ -1156,5 +1156,22 @@
     "file_path": "articles/appsec/2026-07-06_the-new-mcp-specification-what-security-teams-must-prepare-for.md",
     "saved": "2026-07-06",
     "summary_snippet": "This article details the upcoming MCP 2026-07-28 specification update, highlighting its shift to a stateless, enterprise-grade architecture and the new security responsibilities it places on developer"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/?utm_source=tldrsec.com&utm_medium=newsletter&utm_campaign=tl-dr-sec-335-prompt-injection-as-role-confusion-php-ecosystem-security-new-mcp-spec",
+    "title": "Introducing AWS Continuum: Security at machine speed",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "aws",
+      "security",
+      "vulnerability management",
+      "ai",
+      "automation"
+    ],
+    "file_path": "articles/appsec/2026-07-06_introducing-aws-continuum-security-at-machine-speed.md",
+    "saved": "2026-07-06",
+    "summary_snippet": "AWS Continuum is a new service designed to address code vulnerabilities throughout their lifecycle at machine speed, from discovery to remediation, by leveraging AI and contextual reasoning."
   }
 ]

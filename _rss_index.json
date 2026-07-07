@@ -2566,5 +2566,85 @@
     "published": "2026-07-05T14:14:52+00:00",
     "seen": "2026-07-06",
     "promoted": false
+  },
+  {
+    "id": "814920",
+    "feed_name": "BleepingComputer",
+    "title": "Phishing poses as big-brand job interview to steal Google accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+    "summary": "A new phishing campaign is targeting marketing professionals by impersonating over 30 major brands in fake job interviews. The goal is to steal their Google account credentials.",
+    "bullets": [
+      "Phishing campaign impersonates big brands",
+      "Fake job interviews used as lure",
+      "Targets Google account credentials",
+      "Marketing professionals are the primary target"
+    ],
+    "published": "2026-07-06T20:27:37+00:00",
+    "seen": "2026-07-07",
+    "promoted": false
+  },
+  {
+    "id": "9f9dcf",
+    "feed_name": "BleepingComputer",
+    "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+    "summary": "Attackers are using fake IT support calls on Microsoft Teams to trick employees into installing EtherRAT malware. This allows them to gain initial access to corporate networks.",
+    "bullets": [
+      "Fake IT support via MS Teams voice calls",
+      "Impersonating corporate IT staff",
+      "Pushing EtherRAT malware",
+      "Gaining initial network access"
+    ],
+    "published": "2026-07-06T20:23:45+00:00",
+    "seen": "2026-07-07",
+    "promoted": false
+  },
+  {
+    "id": "1441d2",
+    "feed_name": "BleepingComputer",
+    "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+    "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+    "summary": "Vietnamese authorities have apprehended seven individuals suspected of operating the large anime piracy service HiAnime. The service was shut down in June.",
+    "bullets": [
+      "Seven arrested in Vietnam",
+      "Suspected operators of HiAnime",
+      "HiAnime was a major anime piracy service",
+      "Service shut down in June"
+    ],
+    "published": "2026-07-06T18:25:06+00:00",
+    "seen": "2026-07-07",
+    "promoted": false
+  },
+  {
+    "id": "3bbf96",
+    "feed_name": "BleepingComputer",
+    "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+    "url": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+    "summary": "Software development is rapidly accelerating, potentially to the speed of thought with AI. This speed removes traditional points where security decisions were made, creating a gap between development speed and security implementation.",
+    "bullets": [
+      "Software dev speed is increasing.",
+      "AI may remove the last development barrier.",
+      "Security decisions are being bypassed.",
+      "Speed gap between dev and security widening."
+    ],
+    "published": "2026-07-06T14:00:10+00:00",
+    "seen": "2026-07-07",
+    "promoted": false
+  },
+  {
+    "id": "1105eb",
+    "feed_name": "BleepingComputer",
+    "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+    "summary": "A critical Adobe ColdFusion vulnerability, CVE-2026-48282, is now being actively exploited by attackers. This means the flaw has moved beyond theoretical risk to active malicious use.",
+    "bullets": [
+      "Adobe ColdFusion flaw",
+      "Max severity (CVE-2026-48282)",
+      "Actively exploited in attacks",
+      "Reported by KEVIntel"
+    ],
+    "published": "2026-07-06T13:18:37+00:00",
+    "seen": "2026-07-07",
+    "promoted": false
   }
 ]

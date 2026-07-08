@@ -2646,5 +2646,164 @@
     "published": "2026-07-06T13:18:37+00:00",
     "seen": "2026-07-07",
     "promoted": false
+  },
+  {
+    "id": "0073de",
+    "feed_name": "BleepingComputer",
+    "title": "Accenture confirms breach after hacker offers stolen data for sale",
+    "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+    "summary": "Accenture has confirmed a security breach. A threat actor is reportedly selling 35 GB of stolen source code and other data from the IT services company.",
+    "bullets": [
+      "Accenture confirms security breach.",
+      "Hacker claims to have stolen 35 GB of data.",
+      "Stolen data includes source code.",
+      "Data offered for sale."
+    ],
+    "published": "2026-07-07T22:06:07+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "7104d6",
+    "feed_name": "BleepingComputer",
+    "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+    "summary": "Chinese hackers known as 'UAT-7810' are using new LONGLEASH malware to grow their ORB network. They are achieving this by compromising unpatched Ruckus routers, which are internet-facing networking devices.",
+    "bullets": [
+      "Chinese hackers: UAT-7810",
+      "Malware: LONGLEASH",
+      "Goal: Expand ORB network",
+      "Target: Internet-facing devices",
+      "Specific target: Unpatched Ruckus routers"
+    ],
+    "published": "2026-07-07T18:52:19+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "4ef61f",
+    "feed_name": "BleepingComputer",
+    "title": "Hidden backdoor in Tenda router firmware grants admin access",
+    "url": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+    "summary": "A security vulnerability has been identified in the firmware of multiple Tenda router models. This backdoor allows unauthorized users to gain administrative control over the router's web interface.",
+    "bullets": [
+      "Tenda router firmware backdoor found",
+      "Grants admin access",
+      "Affects multiple firmware versions"
+    ],
+    "published": "2026-07-07T17:27:22+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "6b43b1",
+    "feed_name": "BleepingComputer",
+    "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+    "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+    "summary": "Spanish National Police arrested a man suspected of involvement with pro-Russian hacktivist groups. The suspect is believed to be an active member of CyberArmy of Russia Reborn (CARR) and Z-Pentest.",
+    "bullets": [
+      "Spain arrests suspected pro-Russian hacker.",
+      "Suspect linked to CARR and Z-Pentest.",
+      "Groups identified as pro-Russian hacktivists."
+    ],
+    "published": "2026-07-07T15:21:21+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "3debe7",
+    "feed_name": "BleepingComputer",
+    "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
+    "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+    "summary": "This item discusses an attack pattern in GitHub Actions that traditional CI security scanners fail to detect. It explains how these attack chains can bypass security measures, leading to insecure pipelines even after passing scans. The article also offers methods for improving governance in CI/CD workflows.",
+    "bullets": [
+      "GitHub Actions attack chains evade scanners",
+      "Passing scans doesn't mean secure pipelines",
+      "Better CI/CD workflow governance needed"
+    ],
+    "published": "2026-07-07T14:01:11+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "16fabc",
+    "feed_name": "BleepingComputer",
+    "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
+    "summary": "A webinar tomorrow will discuss modern email attacks and a new defense strategy. It will cover how behavioral AI can detect advanced threats like phishing and account takeovers. The session will also address reducing alert fatigue with automated investigation and response.",
+    "bullets": [
+      "Webinar tomorrow on modern email attack defense",
+      "Focus on behavioral AI for threat detection",
+      "Addresses phishing, BEC, and account takeover",
+      "Aims to reduce alert fatigue",
+      "Features automated investigation/response"
+    ],
+    "published": "2026-07-07T12:12:20+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "69c4c3",
+    "feed_name": "BleepingComputer",
+    "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
+    "url": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
+    "summary": "A newly disclosed Linux kernel vulnerability called Januscape allows attackers to escape a virtual machine. This 16-year-old flaw can enable arbitrary code execution on the host system. It affects devices using Intel and AMD processors.",
+    "bullets": [
+      "Januscape: New Linux VM escape flaw",
+      "16-year-old kernel vulnerability",
+      "Allows VM escape to host",
+      "Enables arbitrary code execution",
+      "Affects Intel and AMD hardware"
+    ],
+    "published": "2026-07-07T12:06:09+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "b6c949",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft to enable Windows settings backup by default for orgs",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+    "summary": "Microsoft is enabling its Windows settings backup and restore tool by default for enterprise organizations. This change will apply to Microsoft Entra-joined or hybrid-joined systems after they upgrade to Windows 11 26H2.",
+    "bullets": [
+      "Windows settings backup enabled by default for orgs",
+      "Applies to Entra-joined/hybrid devices",
+      "Impacts Windows 11 26H2 upgrades"
+    ],
+    "published": "2026-07-07T09:41:19+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "837e5a",
+    "feed_name": "BleepingComputer",
+    "title": "BeyondTrust warns of critical flaws in remote access software",
+    "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+    "summary": "BeyondTrust has issued a warning about two critical security vulnerabilities in its Remote Support and Privileged Remote Access software. These flaws could potentially allow attackers to bypass authentication mechanisms.",
+    "bullets": [
+      "BeyondTrust warns of critical flaws",
+      "Affects Remote Support (RS)",
+      "Affects Privileged Remote Access (PRA)",
+      "Flaws could allow auth bypass",
+      "Customers urged to patch"
+    ],
+    "published": "2026-07-07T08:12:10+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
+  },
+  {
+    "id": "fdedab",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
+    "summary": "Microsoft is testing a new Cloud Rebuild recovery feature for Windows 11. This feature is available in the latest Insider Preview builds for users in the Experimental channel.",
+    "bullets": [
+      "Windows 11 Cloud Rebuild recovery feature testing",
+      "Available in latest Insider Preview builds",
+      "Targeting Experimental channel users"
+    ],
+    "published": "2026-07-07T07:37:38+00:00",
+    "seen": "2026-07-08",
+    "promoted": false
   }
 ]

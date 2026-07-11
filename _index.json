@@ -1209,5 +1209,21 @@
     "file_path": "articles/appsec/2026-07-11_netnut-proxy-network-disrupted-2-million-infected-devices-cut-off.md",
     "saved": "2026-07-11",
     "summary_snippet": "A joint operation led by Google has disrupted NetNut, a large residential proxy network that leveraged approximately 2 million compromised devices, including Android devices, smart TVs, and streaming "
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+    "title": "Flipper Zero firmware development continues with community help",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "flipper zero",
+      "firmware",
+      "community development",
+      "hardware security"
+    ],
+    "file_path": "articles/appsec/2026-07-11_flipper-zero-firmware-development-continues-with-community-help.md",
+    "saved": "2026-07-11",
+    "summary_snippet": "Flipper Devices has announced a shift in its Flipper Zero firmware development strategy, moving towards a smaller internal team and greater reliance on community contributions. This change aims to man"
   }
 ]

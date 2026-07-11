@@ -1225,5 +1225,24 @@
     "file_path": "articles/appsec/2026-07-11_flipper-zero-firmware-development-continues-with-community-help.md",
     "saved": "2026-07-11",
     "summary_snippet": "Flipper Devices has announced a shift in its Flipper Zero firmware development strategy, moving towards a smaller internal team and greater reliance on community contributions. This change aims to man"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+    "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
+    "type": "article",
+    "verdict": "READ_THIS",
+    "subfolder": "appsec",
+    "tags": [
+      "github actions",
+      "ci/cd",
+      "supply chain attack",
+      "cordyceps",
+      "vulnerability",
+      "security scanners",
+      "ai-generated code"
+    ],
+    "file_path": "articles/appsec/2026-07-11_the-github-actions-attack-pattern-your-ci-security-scanners-miss.md",
+    "saved": "2026-07-11",
+    "summary_snippet": "This article discusses a class of CI/CD vulnerabilities named Cordyceps, where attackers exploit chained GitHub Actions workflows that individually appear safe, bypassing traditional security scanners"
   }
 ]

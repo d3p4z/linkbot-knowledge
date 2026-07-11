@@ -1191,5 +1191,23 @@
     "file_path": "github/tools/ai/2026-07-08_ai-red-teaming-guide.md",
     "saved": "2026-07-08",
     "summary_snippet": "A comprehensive guide detailing the methodologies, frameworks, tools, and case studies for performing adversarial testing (red teaming) on AI systems, particularly focusing on generative AI and agenti"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+    "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "botnet",
+      "proxy",
+      "android",
+      "malware",
+      "cybercrime",
+      "residential proxy"
+    ],
+    "file_path": "articles/appsec/2026-07-11_netnut-proxy-network-disrupted-2-million-infected-devices-cut-off.md",
+    "saved": "2026-07-11",
+    "summary_snippet": "A joint operation led by Google has disrupted NetNut, a large residential proxy network that leveraged approximately 2 million compromised devices, including Android devices, smart TVs, and streaming "
   }
 ]

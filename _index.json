@@ -1244,5 +1244,24 @@
     "file_path": "articles/appsec/2026-07-11_the-github-actions-attack-pattern-your-ci-security-scanners-miss.md",
     "saved": "2026-07-11",
     "summary_snippet": "This article discusses a class of CI/CD vulnerabilities named Cordyceps, where attackers exploit chained GitHub Actions workflows that individually appear safe, bypassing traditional security scanners"
+  },
+  {
+    "url": "https://tldrsec.com/p/tldr-sec-336",
+    "title": "[tl;dr sec] #336 - Autonomous Vulnerability Hunting, GuardDog 3.0, Are Bug Bounties Cooked?",
+    "type": "article",
+    "verdict": "SKIM_THE_ORIGINAL",
+    "subfolder": "appsec",
+    "tags": [
+      "vulnerability hunting",
+      "bug bounty",
+      "AI",
+      "cloud security",
+      "supply chain security",
+      "malware analysis",
+      "LLM security"
+    ],
+    "file_path": "articles/appsec/2026-07-11_tl-dr-sec-336-autonomous-vulnerability-hunting-guarddog-3-0-are-bug-bounties-coo.md",
+    "saved": "2026-07-11",
+    "summary_snippet": "This is a weekly newsletter summarizing recent developments and interesting articles in cybersecurity, with a focus on application security, cloud security, and AI security. It covers topics like auto"
   }
 ]

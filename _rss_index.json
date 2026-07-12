@@ -3281,5 +3281,37 @@
     "published": "2026-07-10T08:17:52+00:00",
     "seen": "2026-07-11",
     "promoted": false
+  },
+  {
+    "id": "9c1ee0",
+    "feed_name": "BleepingComputer",
+    "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+    "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+    "summary": "Australia's Cyber Security Centre (ACSC) has warned of a global campaign actively exploiting vulnerabilities in content management systems (CMS) and their associated plugins. This campaign is specifically targeting systems with known security weaknesses.",
+    "bullets": [
+      "Global campaign targets CMS platforms",
+      "Vulnerable CMS and plugins exploited",
+      "ACSC issued a warning"
+    ],
+    "published": "2026-07-11T14:18:23+00:00",
+    "seen": "2026-07-12",
+    "promoted": false
+  },
+  {
+    "id": "489004",
+    "feed_name": "BleepingComputer",
+    "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+    "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+    "summary": "Researchers have developed a new technique called 'Ghostcommit' that hides prompt injection attacks within image files, specifically PNGs. This method bypasses AI code reviewers and tricks coding agents into revealing sensitive information like repository secrets from .env files.",
+    "bullets": [
+      "Ghostcommit hides prompt injection in images.",
+      "AI code reviewers bypassed (didn't check images).",
+      "A coding agent was tricked.",
+      "Secrets from .env files were exposed.",
+      "Exposed secrets were converted to a list of numbers."
+    ],
+    "published": "2026-07-11T09:03:57+00:00",
+    "seen": "2026-07-12",
+    "promoted": false
   }
 ]

@@ -3313,5 +3313,51 @@
     "published": "2026-07-11T09:03:57+00:00",
     "seen": "2026-07-12",
     "promoted": false
+  },
+  {
+    "id": "d61c01",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+    "summary": "OpenAI has temporarily increased usage limits for its GPT-5.6 Sol model. This decision comes after experiencing a significant surge in demand for the model over the last two days.",
+    "bullets": [
+      "OpenAI relaxes GPT-5.6 Sol usage limits",
+      "Temporary measure due to high demand",
+      "Demand surged in past 48 hours"
+    ],
+    "published": "2026-07-13T00:44:44+00:00",
+    "seen": "2026-07-13",
+    "promoted": false
+  },
+  {
+    "id": "b7be8c",
+    "feed_name": "BleepingComputer",
+    "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+    "summary": "Anthropic has extended free access to Claude Fable 5 for paid users. This extension will last until July 19, providing an additional week to use the model.",
+    "bullets": [
+      "Claude Fable 5 access extended",
+      "Free for paid users",
+      "Until July 19"
+    ],
+    "published": "2026-07-12T19:39:12+00:00",
+    "seen": "2026-07-13",
+    "promoted": false
+  },
+  {
+    "id": "83ed2b",
+    "feed_name": "BleepingComputer",
+    "title": "RedHook Android malware now uses Wireless ADB for shell access",
+    "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+    "summary": "RedHook Android malware has been updated to exploit Wireless ADB for shell access. This new method allows the malware to gain privileges without needing a computer connection.",
+    "bullets": [
+      "RedHook Android malware updated",
+      "Uses Wireless ADB feature",
+      "Gains shell-level privileges",
+      "No computer connection needed"
+    ],
+    "published": "2026-07-12T14:27:32+00:00",
+    "seen": "2026-07-13",
+    "promoted": false
   }
 ]

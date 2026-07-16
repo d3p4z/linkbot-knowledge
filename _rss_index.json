@@ -3693,5 +3693,134 @@
     "published": "2026-07-14T12:49:56+00:00",
     "seen": "2026-07-15",
     "promoted": false
+  },
+  {
+    "id": "24efc6",
+    "feed_name": "BleepingComputer",
+    "title": "Dutch police bust investment fraud ring stealing over €100 million",
+    "url": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
+    "summary": "Dutch police have arrested individuals involved in an international investment fraud ring. This scheme is suspected of defrauding tens of thousands of victims and stealing over €100 million.",
+    "bullets": [
+      "Dutch police bust investment fraud ring",
+      "Over €100 million stolen",
+      "Tens of thousands of victims suspected",
+      "International scheme"
+    ],
+    "published": "2026-07-15T21:55:50+00:00",
+    "seen": "2026-07-16",
+    "promoted": false
+  },
+  {
+    "id": "8412ee",
+    "feed_name": "BleepingComputer",
+    "title": "Zoom warns of critical account takeover vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+    "summary": "Zoom is alerting users to a critical vulnerability affecting its Windows desktop client and SDK. An unauthenticated attacker could potentially exploit this flaw to take over user accounts.",
+    "bullets": [
+      "Critical Zoom vulnerability disclosed",
+      "Affects Windows client and SDK",
+      "Risk of account takeover",
+      "Requires no authentication to exploit"
+    ],
+    "published": "2026-07-15T20:16:02+00:00",
+    "seen": "2026-07-16",
+    "promoted": false
+  },
+  {
+    "id": "ea90b9",
+    "feed_name": "BleepingComputer",
+    "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+    "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+    "summary": "A Russian-speaking threat actor, 'bandcampro', has reportedly used Google's open-source Gemini CLI AI tool. The actor leveraged the tool as a hacking agent and to manage a botnet.",
+    "bullets": [
+      "Google Gemini CLI used by threat actor",
+      "Actor identified as 'bandcampro'",
+      "Tool used as hacking agent",
+      "Also used to operate a botnet"
+    ],
+    "published": "2026-07-15T18:33:48+00:00",
+    "seen": "2026-07-16",
+    "promoted": false
+  },
+  {
+    "id": "a4b4f8",
+    "feed_name": "BleepingComputer",
+    "title": "AsyncAPI npm packages infected with credential-stealing malware",
+    "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+    "summary": "Several versions of AsyncAPI npm packages were found to be infected with credential-stealing malware. This supply-chain attack involved malicious packages that delivered a remote access trojan with info-stealing capabilities.",
+    "bullets": [
+      "AsyncAPI npm packages infected",
+      "Credential-stealing malware delivered",
+      "Supply-chain attack identified",
+      "Remote access trojan included",
+      "Info-stealing capabilities present"
+    ],
+    "published": "2026-07-15T15:37:27+00:00",
+    "seen": "2026-07-16",
+    "promoted": false
+  },
+  {
+    "id": "d93f4d",
+    "feed_name": "BleepingComputer",
+    "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+    "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+    "summary": "Intruder has developed an AI system that automatically finds software vulnerabilities. Their \"vulnerability vending machine\" uses code slicing and LLMs, and has already discovered a zero-day in a WordPress plugin.",
+    "bullets": [
+      "AI-powered vulnerability discovery system",
+      "Combines code slicing with LLMs",
+      "Found a WordPress plugin zero-day",
+      "Additional vulnerabilities under disclosure"
+    ],
+    "published": "2026-07-15T14:01:11+00:00",
+    "seen": "2026-07-16",
+    "promoted": false
+  },
+  {
+    "id": "e27624",
+    "feed_name": "BleepingComputer",
+    "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+    "summary": "CISA has issued a warning about actively exploited vulnerabilities affecting on-premises SharePoint Server instances. Attackers are leveraging these flaws to compromise internet-exposed servers. Administrators are urged to patch these systems.",
+    "bullets": [
+      "CISA warning issued",
+      "SharePoint Server vulnerabilities exploited",
+      "Affects internet-exposed, on-premises instances",
+      "Patching is recommended"
+    ],
+    "published": "2026-07-15T09:44:52+00:00",
+    "seen": "2026-07-16",
+    "promoted": false
+  },
+  {
+    "id": "00dbc4",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+    "summary": "Microsoft is preventing recent Windows 11 security updates from being installed on certain Dell computers. This action is due to reported shutdowns and performance problems caused by these updates on affected Dell devices.",
+    "bullets": [
+      "Microsoft blocking Windows updates",
+      "Affects some Dell PCs",
+      "Caused shutdowns",
+      "Caused performance issues"
+    ],
+    "published": "2026-07-15T08:26:48+00:00",
+    "seen": "2026-07-16",
+    "promoted": false
+  },
+  {
+    "id": "bafe5f",
+    "feed_name": "BleepingComputer",
+    "title": "US charges alleged operators of Russian bulletproof hosting service",
+    "url": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+    "summary": "US federal prosecutors have charged three Russian nationals in connection with a bulletproof hosting service. This service allegedly supported ransomware gangs, leading to over $62 million in damages globally.",
+    "bullets": [
+      "US charges Russian nationals",
+      "Alleged bulletproof hosting service operators",
+      "Supported ransomware gangs",
+      "Over $62 million in damages reported"
+    ],
+    "published": "2026-07-15T07:45:50+00:00",
+    "seen": "2026-07-16",
+    "promoted": false
   }
 ]

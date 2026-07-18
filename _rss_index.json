@@ -3996,5 +3996,135 @@
     "published": "2026-07-16T10:19:34+00:00",
     "seen": "2026-07-17",
     "promoted": false
+  },
+  {
+    "id": "4e58c0",
+    "feed_name": "BleepingComputer",
+    "title": "Abbott probes two cyber incidents amid extortion claims",
+    "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+    "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents. One involved unauthorized access to internal Exact Sciences systems within its Cancer Diagnostics business. The other incident is looking into claims of a breach at its LabCentral portal where company data may have been stolen.",
+    "bullets": [
+      "Abbott investigating 2 cyber incidents",
+      "Unauthorized access to Exact Sciences systems",
+      "Cancer Diagnostics business affected",
+      "Claims of LabCentral portal breach",
+      "Company data potentially stolen"
+    ],
+    "published": "2026-07-17T20:45:52+00:00",
+    "seen": "2026-07-18",
+    "promoted": false
+  },
+  {
+    "id": "db01ad",
+    "feed_name": "BleepingComputer",
+    "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+    "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+    "summary": "A denial-of-service vulnerability named HollowByte affects OpenSSL servers. Attackers can exploit this flaw with a small, 11-byte payload. This can cause OpenSSL servers to become bloated with memory, leading to a DoS condition.",
+    "bullets": [
+      "HollowByte vulnerability found in OpenSSL",
+      "Allows DoS attacks",
+      "Requires only 11-byte payload",
+      "Bloats server memory"
+    ],
+    "published": "2026-07-17T17:56:21+00:00",
+    "seen": "2026-07-18",
+    "promoted": false
+  },
+  {
+    "id": "8450d3",
+    "feed_name": "BleepingComputer",
+    "title": "Ernst & Young discloses data breach after support system hack",
+    "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+    "summary": "Ernst & Young has reported a data breach. The breach occurred due to a hack of a third-party support ticket system used by their IT staff. Customers are being notified.",
+    "bullets": [
+      "EY data breach",
+      "Compromised support ticket system",
+      "Third-party system hack",
+      "Customer notification underway"
+    ],
+    "published": "2026-07-17T14:55:28+00:00",
+    "seen": "2026-07-18",
+    "promoted": false
+  },
+  {
+    "id": "b05e21",
+    "feed_name": "BleepingComputer",
+    "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+    "url": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+    "summary": "Cybercriminals are finding that traditional residential proxies are less effective for carding. They are now seeking out \"clean\" residential proxies, which are used in conjunction with other identity signals like browser fingerprints to bypass fraud detection systems.",
+    "bullets": [
+      "Residential proxies losing effectiveness for carding.",
+      "Search for \"clean\" residential proxies increasing.",
+      "Combined with browser fingerprints and device profiles.",
+      "Aims to evade modern fraud detection."
+    ],
+    "published": "2026-07-17T14:00:10+00:00",
+    "seen": "2026-07-18",
+    "promoted": false
+  },
+  {
+    "id": "82338e",
+    "feed_name": "BleepingComputer",
+    "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+    "summary": "A new Windows zero-day exploit called LegacyHive has been released. This exploit allows attackers to gain administrator privileges on current Windows systems. It was discovered by a security researcher known as 'Nightmare Eclipse'.",
+    "bullets": [
+      "New Windows zero-day: LegacyHive",
+      "Allows admin privilege escalation",
+      "Affects up-to-date Windows systems",
+      "Discovered by 'Nightmare Eclipse'"
+    ],
+    "published": "2026-07-17T11:05:30+00:00",
+    "seen": "2026-07-18",
+    "promoted": false
+  },
+  {
+    "id": "f0cee0",
+    "feed_name": "BleepingComputer",
+    "title": "Windows Server 2022 reach end of mainstream support in 90 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+    "summary": "Windows Server 2022 will reach the end of its mainstream support in October 2026. After this date, it will transition to extended support. Extended support will include security updates for an additional five years.",
+    "bullets": [
+      "Windows Server 2022 mainstream support ends Oct 2026.",
+      "Will switch to extended support.",
+      "Extended support includes security updates.",
+      "Extended support lasts for five more years."
+    ],
+    "published": "2026-07-17T09:10:15+00:00",
+    "seen": "2026-07-18",
+    "promoted": false
+  },
+  {
+    "id": "00d8f7",
+    "feed_name": "BleepingComputer",
+    "title": "US charges two over laundering $43 million from investment fraud",
+    "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
+    "summary": "U.S. prosecutors have charged a man and a woman in New York. They are accused of laundering $43 million that was stolen through cyber investment fraud scams.",
+    "bullets": [
+      "NY man and woman charged",
+      "Laundering $43 million",
+      "From investment fraud scams",
+      "Part of a crime ring"
+    ],
+    "published": "2026-07-17T08:13:37+00:00",
+    "seen": "2026-07-18",
+    "promoted": false
+  },
+  {
+    "id": "8609e0",
+    "feed_name": "BleepingComputer",
+    "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+    "summary": "CISA has issued a directive for government agencies to urgently patch two vulnerabilities found in Fortinet FortiSandbox. These flaws are reportedly being actively exploited. The focus is on prioritizing remediation for this threat detection platform.",
+    "bullets": [
+      "CISA directs urgent patching",
+      "Two actively exploited Fortinet flaws",
+      "Impacts FortiSandbox",
+      "Government agencies prioritized",
+      "Focus on threat detection platform"
+    ],
+    "published": "2026-07-17T07:03:33+00:00",
+    "seen": "2026-07-18",
+    "promoted": false
   }
 ]

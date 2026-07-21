@@ -1263,5 +1263,23 @@
     "file_path": "articles/appsec/2026-07-11_tl-dr-sec-336-autonomous-vulnerability-hunting-guarddog-3-0-are-bug-bounties-coo.md",
     "saved": "2026-07-11",
     "summary_snippet": "This is a weekly newsletter summarizing recent developments and interesting articles in cybersecurity, with a focus on application security, cloud security, and AI security. It covers topics like auto"
+  },
+  {
+    "url": "https://github.com/Kritt-ai/open-kritt",
+    "title": "open-kritt: AI-powered vulnerability discovery platform",
+    "type": "tool",
+    "verdict": "READ_THIS",
+    "subfolder": "ai",
+    "tags": [
+      "ai",
+      "security-research",
+      "bug-bounty",
+      "vulnerability-discovery",
+      "code-analysis",
+      "automation"
+    ],
+    "file_path": "github/tools/ai/2026-07-21_open-kritt-ai-powered-vulnerability-discovery-platform.md",
+    "saved": "2026-07-21",
+    "summary_snippet": "open-kritt is an open-source, self-hosted platform that orchestrates AI agents to find vulnerabilities in code. It breaks down research into tasks, runs them in parallel, and aggregates findings with "
   }
 ]

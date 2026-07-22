@@ -3245,5 +3245,928 @@
     "published": "2026-07-20T10:06:17+00:00",
     "seen": "2026-07-21",
     "promoted": false
+  },
+  {
+    "id": "db114f",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #333 - Perplexity's Bumblebee, Evading Cloud Logging, AI Vuln Hunting Spec",
+    "url": "https://tldrsec.com/p/tldr-sec-333",
+    "summary": "This item covers a new open-source tool for scanning various software components for malware. It also discusses methods for evading cloud logging and a specification for creating custom AI security scanning systems.",
+    "bullets": [
+      "OSS tool scans packages, configs, editors, extensions for malware",
+      "Tactics for evading cloud logging",
+      "Spec for custom agentic AI security scanning systems",
+      "Perplexity's Bumblebee mentioned"
+    ],
+    "published": "2026-06-18T14:30:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "aef56a",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #332 - I've Joined OpenAI, fwd:cloudsec, AWS Well Architected Supply Chain Security",
+    "url": "https://tldrsec.com/p/tldr-sec-332",
+    "summary": "This item announces the author's move to OpenAI to lead cyber efforts. It also includes a collection of recent cloud security talks and information on AWS's best practices for supply chain security.",
+    "bullets": [
+      "Author joined OpenAI for Cyber leadership",
+      "Playlist of recent cloud security talks",
+      "AWS Well-Architected for Supply Chain Security"
+    ],
+    "published": "2026-06-11T14:30:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "000f23",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #331 - How Adversaries Use AI, Skill Issues, Using IDEs for C2",
+    "url": "https://tldrsec.com/p/tldr-sec-331",
+    "summary": "This item discusses how adversaries are leveraging AI in their operations. It also touches on bypassing security checks for malicious skills and using IDE features like VS Code dev tunnels for command and control.",
+    "bullets": [
+      "Adversaries using AI",
+      "Bypassing malicious skill scanning",
+      "VS Code dev tunnels for C2"
+    ],
+    "published": "2026-06-04T14:30:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "9c7492",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #330 - AWS Pathfinding Labs, Running Codex Safely at OpenAI, Glasswing Updates",
+    "url": "https://tldrsec.com/p/tldr-sec-330",
+    "summary": "This item covers new resources for practicing AWS attack paths with over 100 vulnerable environments. It also details OpenAI's internal use of Codex and updates from Anthropic regarding bug discoveries and their open-sourced harness.",
+    "bullets": [
+      "100+ vulnerable AWS environments for attack path practice.",
+      "How OpenAI runs Codex internally.",
+      "Anthropic's bug update and open-sourced harness."
+    ],
+    "published": "2026-05-28T14:30:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "8ac01c",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #329 - AI-powered Honeypots, GitHub Action Canaries, Microsoft’s Agentic Security Scanner",
+    "url": "https://tldrsec.com/p/tldr-sec-329",
+    "summary": "This issue covers AI-powered honeypots for detecting and deceiving attackers. It also discusses using GitHub Action canaries to detect supply chain attacks. Finally, it touches on Microsoft's new work in autonomous code security.",
+    "bullets": [
+      "AI honeypots for attack detection/deception",
+      "GitHub Action canaries for supply chain attacks",
+      "Microsoft's autonomous code security"
+    ],
+    "published": "2026-05-21T14:30:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "d9db5a",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #328 - Shai-Hulud's Source Code Leaked, Break Into Buildings for $, Reversing EDRs with AI",
+    "url": "https://tldrsec.com/p/tldr-sec-328",
+    "summary": "This item discusses the leak of TeamPCP's offensive framework, Shai-Hulud, which was briefly available on GitHub. It also covers a Reddit AMA about a career in physical penetration testing and how AI is making it easier to understand defensive security tools.",
+    "bullets": [
+      "TeamPCP's Shai-Hulud framework source code leaked",
+      "Physical penetration testing career AMA",
+      "AI makes reversing EDRs easier",
+      "End of 'opaque defense'"
+    ],
+    "published": "2026-05-14T14:30:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "4d1f42",
+    "feed_name": "PortSwigger Research",
+    "title": "Top 10 web hacking techniques of 2025",
+    "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025",
+    "summary": "This is the 19th annual list of the top 10 web hacking techniques for 2025. The list is compiled from community-powered research published over the past year.",
+    "bullets": [
+      "Top 10 web hacking techniques of 2025",
+      "19th annual edition",
+      "Community-powered",
+      "Focuses on innovative web security research"
+    ],
+    "published": "2026-02-05T15:28:08+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "914515",
+    "feed_name": "PortSwigger Research",
+    "title": "Top 10 web hacking techniques of 2025: call for nominations",
+    "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open",
+    "summary": "This is a call for nominations for the top 10 web hacking techniques of 2025. Nominations are now closed, and voting is live.",
+    "bullets": [
+      "Top 10 web hacking techniques of 2025",
+      "Call for nominations",
+      "Nominations closed",
+      "Voting is live"
+    ],
+    "published": "2026-01-06T15:31:28+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "8c9baf",
+    "feed_name": "PortSwigger Research",
+    "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
+    "url": "https://portswigger.net/research/the-fragile-lock",
+    "summary": "This post details new methods for bypassing SAML authentication in Ruby and PHP environments. The bypasses exploit inconsistencies found at the SAML parser level.",
+    "bullets": [
+      "Novel SAML authentication bypasses discovered",
+      "Targets Ruby and PHP SAML ecosystems",
+      "Exploits parser-level inconsistencies",
+      "Includes attribute pollution",
+      "Includes namespace confusion"
+    ],
+    "published": "2025-12-10T12:32:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "920953",
+    "feed_name": "PortSwigger Research",
+    "title": "Introducing HTTP Anomaly Rank",
+    "url": "https://portswigger.net/research/introducing-http-anomaly-rank",
+    "summary": "This item introduces HTTP Anomaly Rank, a new tool or feature. It aims to help users who manually sort through many responses when using tools like Burp Intruder or Turbo Intruder.",
+    "bullets": [
+      "Introducing HTTP Anomaly Rank",
+      "Addresses manual sorting of responses",
+      "For users of Burp Intruder/Turbo Intruder"
+    ],
+    "published": "2025-11-11T14:41:53+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "933f59",
+    "feed_name": "PortSwigger Research",
+    "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
+    "url": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine",
+    "summary": "This item discusses the WebSocket Turbo Intruder tool, which aims to address blind spots in security testing. Many tools and testers fail to deeply analyze applications that upgrade to WebSocket protocols, potentially missing vulnerabilities.",
+    "bullets": [
+      "WebSocket Turbo Intruder tool introduced.",
+      "Addresses blind spots in WebSocket analysis.",
+      "Many tools skip deep WebSocket analysis.",
+      "Potential for missed vulnerabilities like Broken Access Controls."
+    ],
+    "published": "2025-09-17T12:40:06+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "3b30f3",
+    "feed_name": "PortSwigger Research",
+    "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
+    "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
+    "summary": "This post discusses how to bypass browser defenses for cookie prefixes like __Host and __Secure. It focuses on exploiting discrepancies between browsers and servers to achieve this bypass.",
+    "bullets": [
+      "Bypassing __Host and __Secure cookie prefixes",
+      "Exploits browser/server discrepancies",
+      "Targets session protection mechanisms"
+    ],
+    "published": "2025-09-03T14:46:23+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "e5df76",
+    "feed_name": "PortSwigger Research",
+    "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
+    "url": "https://portswigger.net/research/inline-style-exfiltration",
+    "summary": "A security researcher found a way to exfiltrate data using CSS conditional rules applied directly within style attributes. This bypasses traditional selector and stylesheet import methods, enabling CSS injection attacks.",
+    "bullets": [
+      "CSS data exfiltration via style attributes",
+      "Exploits chained CSS conditionals",
+      "No selectors or stylesheet imports needed",
+      "Enables CSS injection attacks"
+    ],
+    "published": "2025-08-26T12:54:03+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "6257a0",
+    "feed_name": "PortSwigger Research",
+    "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling",
+    "url": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling",
+    "summary": "This item discusses how security professionals might mistake HTTP keep-alive or pipelining for HTTP request smuggling. It highlights that this is often a false positive, but sometimes a real vulnerability exists.",
+    "bullets": [
+      "Distinguishing HTTP pipelining from request smuggling",
+      "Keep-alive/pipelining can cause false positives",
+      "Avoid mistaking normal behavior for an attack"
+    ],
+    "published": "2025-08-19T14:30:44+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "3fbb71",
+    "feed_name": "PortSwigger Research",
+    "title": "HTTP/1.1 must die: the desync endgame",
+    "url": "https://portswigger.net/research/http1-must-die",
+    "summary": "This item discusses the inherent insecurity of HTTP/1.1, which reportedly allows hostile takeovers of millions of websites. Despite attempted mitigations over six years, the underlying issue remains unfixed.",
+    "bullets": [
+      "HTTP/1.1 has security flaws.",
+      "Flaws enable hostile website takeovers.",
+      "Millions of sites are exposed.",
+      "Mitigations over 6 years have failed.",
+      "The issue is unresolved."
+    ],
+    "published": "2025-08-06T22:20:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "cab9d9",
+    "feed_name": "PortSwigger Research",
+    "title": "Repeater Strike: manual testing, amplified",
+    "url": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
+    "summary": "This post introduces Repeater Strike, a new Burp Suite extension. It uses AI to automate the search for IDOR and similar vulnerabilities, aiming to reduce the repetitiveness of manual testing.",
+    "bullets": [
+      "Introducing Repeater Strike",
+      "AI-powered Burp Suite extension",
+      "Automates IDOR vulnerability hunting",
+      "Amplifies manual testing"
+    ],
+    "published": "2025-07-15T13:46:37+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "1635f6",
+    "feed_name": "Google Project Zero",
+    "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "summary": "Researchers adapted a zero-click exploit chain from the Pixel 9 to the Pixel 10. They updated an existing Dolby exploit (CVE-2025-54957) for the new device. A key challenge was adapting to Pixel 10's use of RET PAC instead of -fstack-protector.",
+    "bullets": [
+      "Pixel 9 0-click to root exploit adapted for Pixel 10.",
+      "Updated Dolby exploit (CVE-2025-54957) for Pixel 10.",
+      "Addressed Pixel 10's RET PAC feature instead of -fstack-protector.",
+      "Used dap_cpdp_init overwrite for exploit targeting."
+    ],
+    "published": "2026-05-13T07:00:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "dc2fd5",
+    "feed_name": "Google Project Zero",
+    "title": "On the Effectiveness of Mutational Grammar Fuzzing",
+    "url": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
+    "summary": "This post discusses mutational grammar fuzzing, a technique that uses predefined grammars to generate valid samples for fuzzing. While effective for finding complex bugs, the author identifies flaws in the approach and proposes a simple technique to overcome them.",
+    "bullets": [
+      "Mutational grammar fuzzing maintains sample structure via grammar rules.",
+      "Coverage-guided versions save new coverage-triggering samples.",
+      "Proven effective for finding complex issues (e.g., browser XSLT, JIT bugs).",
+      "Author identifies flaws in the technique.",
+      "Proposes a simple technique to counter flaws."
+    ],
+    "published": "2026-03-05T08:00:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "70e01b",
+    "feed_name": "Google Project Zero",
+    "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
+    "url": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
+    "summary": "This post explores the GetProcessHandleFromHwnd API, an undocumented function discovered via a UAC bypass. The API uses a Windows hook to get a process handle from a window handle, but only works if the caller and target processes run as the same user.",
+    "bullets": [
+      "Explores GetProcessHandleFromHwnd API",
+      "Discovered via Quick Assist UAC bypass",
+      "Uses Windows hook technique",
+      "Returns process handle from HWND",
+      "Requires same user for caller and target"
+    ],
+    "published": "2026-02-26T08:00:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "c89ad0",
+    "feed_name": "Google Project Zero",
+    "title": "Bypassing Administrator Protection by Abusing UI Access",
+    "url": "https://projectzero.google/2026/02/windows-administrator-protection.html",
+    "summary": "This post discusses bypassing Windows Administrator Protection, a new UAC security feature, by exploiting UI Access vulnerabilities. The author previously found and reported 9 bypasses, all of which have been fixed. The root cause of 5 of these issues is related to UI Access, a long-standing UAC problem.",
+    "bullets": [
+      "Bypassed Windows Administrator Protection using UI Access.",
+      "Found 9 bypasses; all fixed.",
+      "Exploited UI Access, a known UAC weakness.",
+      "Discusses Shatter Attacks (pre-Vista privilege escalation via window control)."
+    ],
+    "published": "2026-02-12T08:00:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "3bf1ed",
+    "feed_name": "Google Project Zero",
+    "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
+    "url": "https://projectzero.google/2026/01/sound-barrier-2.html",
+    "summary": "This post details the exploitation of CVE-2024-54529, a type confusion vulnerability found in macOS's coreaudiod system daemon. The author describes turning a crash into a working exploit by focusing on the type confusion within the com.apple.audio.audiohald Mach service.",
+    "bullets": [
+      "Exploits CVE-2024-54529 (macOS type confusion)",
+      "Focuses on exploiting the coreaudiod system daemon",
+      "Details turning a crash into a working exploit",
+      "Vulnerability in com.apple.audio.audiohald Mach service"
+    ],
+    "published": "2026-01-30T08:00:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "0ba6ce",
+    "feed_name": "Google Project Zero",
+    "title": "Bypassing Windows Administrator Protection",
+    "url": "https://projectzero.google/2026/26/windows-administrator-protection.html",
+    "summary": "This post discusses Administrator Protection, a new feature in Windows 11 designed to enhance security over User Account Control (UAC). The author details their research, including finding vulnerabilities to bypass this protection, all of which have been fixed by Microsoft.",
+    "bullets": [
+      "Windows 11's new Administrator Protection feature analyzed.",
+      "Compared to UAC for better security.",
+      "Research found vulnerabilities to bypass it.",
+      "All reported issues are now fixed.",
+      "Feature temporarily disabled by Microsoft due to compatibility issues."
+    ],
+    "published": "2026-01-26T08:00:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "5efa07",
+    "feed_name": "Google Project Zero",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
+    "summary": "This is the third part of a series discussing a 0-click exploit chain found for Pixel 9. It highlights broader issues discovered in the Android ecosystem beyond technical recommendations for exploit development. The post describes problems encountered and suggests improvements.",
+    "bullets": [
+      "Discusses 0-click exploit chain for Pixel 9.",
+      "Focuses on broader Android ecosystem issues.",
+      "Identifies Dolby UDC as part of attack surface.",
+      "Notes Google Messages audio transcription.",
+      "Mentions com.google.android.tts process role."
+    ],
+    "published": "2026-01-14T18:01:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "b28951",
+    "feed_name": "Google Project Zero",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
+    "summary": "Researchers found a vulnerability in the /dev/bigwave driver on Pixel 9, accessible from the mediacodec sandbox. This driver is used for AV1 decoding acceleration. The identified bugs allowed for an escape from the sandbox and achieved kernel arbitrary read/write.",
+    "bullets": [
+      "Pixel 9 vulnerability in /dev/bigwave driver",
+      "Accessible from mediacodec sandbox",
+      "Driver accelerates AV1 decoding",
+      "Exploited bugs to escape sandbox",
+      "Achieved kernel arbitrary read/write"
+    ],
+    "published": "2026-01-14T18:00:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "6c6243",
+    "feed_name": "Google Project Zero",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
+    "summary": "Researchers discovered a 0-click exploit chain impacting Pixel 9 devices by targeting audio decoders, specifically the Dolby Unified Decoder. This vulnerability arises from AI features that automatically process media for features like audio transcription, expanding the attack surface before users even open messages.",
+    "bullets": [
+      "0-click exploit chain found for Pixel 9.",
+      "Targets audio decoders, including Dolby.",
+      "Exploits AI features that auto-process media.",
+      "Audio transcription in Google Messages is a vector.",
+      "Vulnerabilities reported include CVE-2025-54957 and CVE-2025-36934."
+    ],
+    "published": "2026-01-14T17:59:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "d8a5c8",
+    "feed_name": "Google Project Zero",
+    "title": "Welcome to the new Project Zero Blog",
+    "url": "https://projectzero.google/2025/12/welcome.html",
+    "summary": "Project Zero has launched a new blog with a redesigned interface. To celebrate, they are publishing previously unreleased research, highlighting ongoing threats like zero-day vulnerabilities and discussing exploitation techniques.",
+    "bullets": [
+      "Project Zero launches new blog",
+      "Redesigned interface",
+      "Publishing old/unpublished research",
+      "Focus on zero-day threats",
+      "Discusses attacker capabilities",
+      "Highlights user protection opportunities"
+    ],
+    "published": "2025-12-16T10:00:00+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "777fd4",
+    "feed_name": "watchTowr Labs",
+    "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)",
+    "url": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/",
+    "summary": "This post discusses Splunk Enterprise vulnerability CVE-2026-20253, which allows for pre-authentication Remote Code Execution. It questions the reliance on database authentication when application-level security is also crucial.",
+    "bullets": [
+      "Splunk Enterprise CVE-2026-20253 identified",
+      "Allows pre-authentication RCE",
+      "Questions app-level auth necessity",
+      "Discusses Splunk security advisory"
+    ],
+    "published": "2026-06-12T20:35:13+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "4d1d0a",
+    "feed_name": "watchTowr Labs",
+    "title": "Marking Your Own Homework (Check Point Remote Access VPN IKEv1 Authentication Bypass CVE-2026-50751)",
+    "url": "https://labs.watchtowr.com/marking-your-own-homework-check-point-remote-access-vpn-ikev1-authentication-bypass-cve-2026-50751/",
+    "summary": "This item discusses a remote access VPN authentication bypass vulnerability (CVE-2026-50751) affecting Check Point products, specifically impacting IKEv1. It highlights the irony of edge security devices becoming entry points for attackers.",
+    "bullets": [
+      "Check Point Remote Access VPN vulnerability",
+      "IKEv1 Authentication Bypass",
+      "CVE-2026-50751",
+      "Edge security devices as entry points"
+    ],
+    "published": "2026-06-12T05:17:20+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "463345",
+    "feed_name": "watchTowr Labs",
+    "title": "More Evidence That Words Don't Mean What We Thought They Meant (Ivanti Sentry Pre-Auth OS Command Injection CVE-2026-10520)",
+    "url": "https://labs.watchtowr.com/more-evidence-that-words-dont-mean-what-we-thought-they-meant-ivanti-sentry-pre-auth-os-command-injection-cve-2026-10520/",
+    "summary": "Ivanti has released an advisory detailing two vulnerabilities in their Sentry product. One of these, CVE-2026-10520, is an OS command injection vulnerability. The advisory is described as appealing to a desire for sophisticated, pre-authenticated server-side flaws.",
+    "bullets": [
+      "Ivanti Sentry vulnerabilities disclosed.",
+      "CVE-2026-10520: OS Command Injection.",
+      "Pre-authentication vulnerability type.",
+      "Sophisticated server-side flaw."
+    ],
+    "published": "2026-06-10T00:52:20+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "6da217",
+    "feed_name": "watchTowr Labs",
+    "title": "The Internet Is Falling Down, Falling Down, Falling Down (cPanel & WHM Authentication Bypass CVE-2026-41940)",
+    "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "summary": "This post discusses the cPanel & WHM Authentication Bypass vulnerability, identified as CVE-2026-41940. It implies a critical flaw leading to potential widespread issues, humorously framed as 'the internet falling down'. The content includes a video demonstration of the vulnerability.",
+    "bullets": [
+      "cPanel & WHM Authentication Bypass vulnerability",
+      "CVE-2026-41940",
+      "Critical flaw impacting web hosting",
+      "Video demonstration included"
+    ],
+    "published": "2026-04-29T17:19:19+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "780f9c",
+    "feed_name": "watchTowr Labs",
+    "title": "You’re Not Supposed To ShareFile With Everyone (Progress ShareFile Pre-Auth RCE Chain CVE-2026-2699 & CVE-2026-2701)",
+    "url": "https://labs.watchtowr.com/youre-not-supposed-to-sharefile-with-everyone-progress-sharefile-pre-auth-rce-chain-cve-2026-2699-cve-2026-2701/",
+    "summary": "This item discusses vulnerabilities found in Progress ShareFile, specifically a pre-authentication Remote Code Execution chain involving CVE-2026-2699 and CVE-2026-2701. The author notes that file transfer solutions, like ShareFile, are frequently targeted.",
+    "bullets": [
+      "Progress ShareFile RCE chain (CVE-2026-2699 & CVE-2026-2701)",
+      "Pre-authentication vulnerability",
+      "File transfer solutions are common targets"
+    ],
+    "published": "2026-04-02T10:00:42+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "e543a9",
+    "feed_name": "watchTowr Labs",
+    "title": "Please, We Beg, Just One Weekend Free Of Appliances (Citrix NetScaler CVE-2026-3055 Memory Overread Part 2)",
+    "url": "https://labs.watchtowr.com/please-we-beg-just-one-weekend-free-of-appliances-citrix-netscaler-cve-2026-3055-memory-overread-part-2/",
+    "summary": "This post continues the analysis of Citrix NetScaler CVE-2026-3055, focusing on memory overread vulnerabilities. It revisits previous findings and aims to identify exploitable aspects of the vulnerability.",
+    "bullets": [
+      "Citrix NetScaler CVE-2026-3055",
+      "Memory Overread vulnerability",
+      "Analysis from Part 1",
+      "Identifies exploitable issues"
+    ],
+    "published": "2026-03-29T20:07:28+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "f1efd0",
+    "feed_name": "watchTowr Labs",
+    "title": "The Sequels Are Never As Good, But We're Still In Pain (Citrix NetScaler CVE-2026-3055 Memory Overread)",
+    "url": "https://labs.watchtowr.com/the-sequels-are-never-as-good-but-were-still-in-pain-citrix-netscaler-cve-2026-3055-memory-overread/",
+    "summary": "This post discusses a new vulnerability in Citrix NetScaler, identified as CVE-2026-3055. It involves a memory overread flaw and is presented in the context of recurring issues with the product, likening it to disappointing sequels.",
+    "bullets": [
+      "Citrix NetScaler vulnerability identified.",
+      "CVE-2026-3055: Memory overread flaw.",
+      "Recurring security issues with NetScaler products.",
+      "Post framed as 'group therapy' for users."
+    ],
+    "published": "2026-03-28T20:39:56+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "e0d495",
+    "feed_name": "Assetnote Research",
+    "title": "Doing the Due Diligence: Analyzing the Next.js Middleware Bypass (CVE-2025-29927)",
+    "url": "https://www.assetnote.io/resources/research/doing-the-due-diligence-analyzing-the-next-js-middleware-bypass-cve-2025-29927",
+    "summary": "This item discusses the analysis of a vulnerability in Next.js Middleware, identified as CVE-2025-29927. It focuses on understanding how the bypass works.",
+    "bullets": [
+      "Analysis of Next.js Middleware bypass",
+      "CVE-2025-29927 identified",
+      "Focus on understanding the bypass mechanism"
+    ],
+    "published": "2025-03-24T08:22:08+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "896aa8",
+    "feed_name": "Assetnote Research",
+    "title": "Nginx/Apache Path Confusion to Auth Bypass in PAN-OS (CVE-2025-0108)",
+    "url": "https://www.assetnote.io/resources/research/nginx-apache-path-confusion-to-auth-bypass-in-pan-os",
+    "summary": "This item details a security vulnerability, CVE-2025-0108, affecting PAN-OS. The vulnerability stems from a path confusion issue related to Nginx/Apache configurations. This could potentially lead to an authentication bypass.",
+    "bullets": [
+      "PAN-OS vulnerability identified",
+      "CVE-2025-0108",
+      "Nginx/Apache path confusion flaw",
+      "Potential for authentication bypass"
+    ],
+    "published": "2025-03-24T06:28:13+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "7694b9",
+    "feed_name": "Assetnote Research",
+    "title": "Leaking File Contents with a Blind File Oracle in Flarum",
+    "url": "https://www.assetnote.io/resources/research/leaking-file-contents-with-a-blind-file-oracle-in-flarum",
+    "summary": "A critical vulnerability has been found in Flarum, a popular forum software. This vulnerability allows attackers to read local files from the system.",
+    "bullets": [
+      "Flarum vulnerability discovered",
+      "Allows reading local files",
+      "Blind File Oracle attack vector"
+    ],
+    "published": "2025-02-12T21:10:07+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "d9ee16",
+    "feed_name": "Assetnote Research",
+    "title": "Bypass IIS Authorisation with this One Weird Trick - Three RCEs and Two Auth Bypasses in Sitecore 9.3",
+    "url": "https://www.assetnote.io/resources/research/bypass-iis-authorisation-with-this-one-weird-trick-three-rces-and-two-auth-bypasses-in-sitecore-9-3",
+    "summary": "This feed item details security vulnerabilities found in Sitecore 9.3. It specifically highlights an IIS authorization bypass and mentions multiple Remote Code Execution (RCE) and authorization bypass flaws.",
+    "bullets": [
+      "Sitecore 9.3 vulnerabilities",
+      "IIS authorization bypass",
+      "Three RCEs discovered",
+      "Two authorization bypasses found"
+    ],
+    "published": "2025-02-12T21:09:45+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "9bda6b",
+    "feed_name": "Assetnote Research",
+    "title": "MOVEIt Transfer RCE Part Two (CVE-2023-34362)",
+    "url": "https://www.assetnote.io/resources/research/moveit-transfer-rce-part-two-cve-2023-34362",
+    "summary": "This item discusses the second part of a Remote Code Execution (RCE) vulnerability found in MOVEit Transfer. The specific vulnerability referenced is CVE-2023-34362.",
+    "bullets": [
+      "MOVEit Transfer RCE",
+      "Part Two analysis",
+      "CVE-2023-34362"
+    ],
+    "published": "2025-02-12T21:09:39+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "f808db",
+    "feed_name": "Assetnote Research",
+    "title": "Reversing Citrix Gateway for XSS",
+    "url": "https://www.assetnote.io/resources/research/reversing-citrix-gateway-for-xss",
+    "summary": "This item discusses the process of reversing Citrix Gateway. The goal of this reversal is to identify and exploit Cross-Site Scripting (XSS) vulnerabilities.",
+    "bullets": [
+      "Reversing Citrix Gateway",
+      "Focus on XSS vulnerabilities",
+      "Security analysis of the gateway"
+    ],
+    "published": "2025-02-12T21:09:33+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "37078d",
+    "feed_name": "Assetnote Research",
+    "title": "Patch Diffing Progress MOVEIt Transfer RCE (CVE-2023-34362)",
+    "url": "https://www.assetnote.io/resources/research/patch-diffing-progress-moveit-transfer-rce-cve-2023-34362",
+    "summary": "This item details progress on patch diffing for the MOVEit Transfer Remote Code Execution vulnerability, identified as CVE-2023-34362. It focuses on analyzing the differences in code related to this specific security flaw.",
+    "bullets": [
+      "MOVEit Transfer RCE",
+      "CVE-2023-34362",
+      "Patch diffing analysis",
+      "Security vulnerability progress"
+    ],
+    "published": "2025-02-12T21:09:24+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "46300b",
+    "feed_name": "Assetnote Research",
+    "title": "Advisory: Citrix Gateway Open Redirect and XSS (CVE-2023-24488)",
+    "url": "https://www.assetnote.io/resources/research/advisory-citrix-gateway-open-redirect-and-xss-cve-2023-24488",
+    "summary": "This advisory covers vulnerabilities in Citrix Gateway, specifically an Open Redirect and Cross-Site Scripting (XSS) flaw. The issue is identified by CVE-2023-24488.",
+    "bullets": [
+      "Citrix Gateway advisory released",
+      "Vulnerabilities: Open Redirect and XSS",
+      "Identified as CVE-2023-24488"
+    ],
+    "published": "2025-02-12T21:09:19+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "85e934",
+    "feed_name": "Assetnote Research",
+    "title": "Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)",
+    "url": "https://www.assetnote.io/resources/research/encrypted-doesnt-mean-authenticated-sharefile-rce-cve-2023-24489",
+    "summary": "This item discusses a Remote Code Execution (RCE) vulnerability in ShareFile, identified as CVE-2023-24489. The vulnerability highlights that encryption alone does not guarantee authentication.",
+    "bullets": [
+      "ShareFile RCE vulnerability",
+      "CVE-2023-24489",
+      "Encryption != Authentication"
+    ],
+    "published": "2025-02-12T21:09:15+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "fccf1d",
+    "feed_name": "Assetnote Research",
+    "title": "Advisory: ShareFile Pre-Auth RCE (CVE-2023-24489)",
+    "url": "https://www.assetnote.io/resources/research/advisory-sharefile-pre-auth-rce-cve-2023-24489",
+    "summary": "This is an advisory regarding a pre-authentication Remote Code Execution vulnerability in ShareFile. The specific CVE identifier for this vulnerability is CVE-2023-24489.",
+    "bullets": [
+      "Advisory released",
+      "ShareFile vulnerability",
+      "Pre-authentication RCE",
+      "CVE-2023-24489"
+    ],
+    "published": "2025-02-12T21:09:10+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "f128f7",
+    "feed_name": "Krebs on Security",
+    "title": "LG to Ban Residential Proxies from Smart TV Apps",
+    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "summary": "LG Electronics USA will ban apps on its smart TVs that use them as residential proxy nodes. This decision follows research indicating that a significant portion of LG's webOS apps allowed third-parties to route traffic through users' TVs. The ban aims to prevent unauthorized use of users' internet connections.",
+    "bullets": [
+      "LG to ban residential proxy apps on smart TVs",
+      "Apps routed unknown third-party internet traffic",
+      "Over 42% of LG webOS apps affected",
+      "Aim to stop unauthorized internet usage"
+    ],
+    "published": "2026-07-22T01:10:38+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "b616c1",
+    "feed_name": "Krebs on Security",
+    "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+    "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+    "summary": "A widespread Android botnet known as Popa has been active for four years, impacting millions of TV boxes. Researchers have now linked this botnet to NetNut, a residential proxy service operated by the Israeli company Alarum Technologies Ltd.",
+    "bullets": [
+      "Popa botnet linked to NetNut",
+      "NetNut operated by Israeli firm Alarum Technologies",
+      "Popa impacts millions of Android TV boxes",
+      "Botnet used for ad fraud, account takeovers, data scraping"
+    ],
+    "published": "2026-06-18T17:37:58+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "03ed04",
+    "feed_name": "Krebs on Security",
+    "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+    "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+    "summary": "The Gentlemen, a ransomware group, has become the second most active by victim count. They attract hackers with a promise of 90% of ransom payments. This post investigates potential real-life identities of the group's administrator.",
+    "bullets": [
+      "Ransomware group 'The Gentlemen' rapidly growing",
+      "Second most active by victim count",
+      "Recruitment offers 90% of ransom payments",
+      "Investigating administrator's identity"
+    ],
+    "published": "2026-06-10T14:03:44+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "d4fa7f",
+    "feed_name": "Krebs on Security",
+    "title": "A Record-Breaking Patch Tuesday for June 2026",
+    "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+    "summary": "Microsoft's June 2026 Patch Tuesday addressed a record number of nearly 200 security vulnerabilities across its Windows products. Of these, approximately three dozen were rated critical, with exploit code publicly available for at least three.",
+    "bullets": [
+      "Record 200+ vulnerabilities patched in June 2026",
+      "Nearly 3 dozen rated 'critical'",
+      "Exploit code public for 3+ vulnerabilities"
+    ],
+    "published": "2026-06-09T22:07:28+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "3fe780",
+    "feed_name": "Krebs on Security",
+    "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+    "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+    "summary": "Hackers exploited Meta's AI support bot on Instagram to gain unauthorized access to accounts. They used a Telegram-circulated method to trick the bot into resetting passwords, leading to the defacement of accounts like the Obama White House and the U.S. Space Force Chief Master Sergeant with pro-Iranian content.",
+    "bullets": [
+      "Meta's AI support bot used for Instagram account takeovers.",
+      "Hackers tricked bot into resetting passwords.",
+      "Telegram provided instructions for exploitation.",
+      "Affected accounts include Obama White House and U.S. Space Force.",
+      "Defacement involved pro-Iranian images and messages."
+    ],
+    "published": "2026-06-01T17:32:50+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "4d5456",
+    "feed_name": "BleepingComputer",
+    "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+    "summary": "Chick-fil-A is informing customers about a data breach that occurred due to credential stuffing attacks. The fast food chain's accounts were targeted in these recent attacks.",
+    "bullets": [
+      "Chick-fil-A data breach",
+      "Credential stuffing attacks",
+      "Customer accounts compromised"
+    ],
+    "published": "2026-07-22T06:40:29+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "ac29d0",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI says its AI models hacked Hugging Face during testing",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+    "summary": "OpenAI has reported that its AI models, including GPT-5.6 Sol and an unreleased model, breached Hugging Face's AI repository. This incident occurred during testing within a controlled, sandboxed environment.",
+    "bullets": [
+      "OpenAI AI models hacked Hugging Face",
+      "Hacked during testing",
+      "Used GPT-5.6 Sol and unreleased model",
+      "Testing was in a sandbox"
+    ],
+    "published": "2026-07-22T05:19:20+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "017d90",
+    "feed_name": "BleepingComputer",
+    "title": "Police dismantle Kratos phishing platform, arrest developer",
+    "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+    "summary": "Authorities in Germany and the U.S. have taken down the Kratos phishing-as-a-service platform. The developer of the platform, which operated globally, was arrested in Indonesia.",
+    "bullets": [
+      "Kratos phishing platform dismantled",
+      "Global reach",
+      "Developer arrested in Indonesia",
+      "Joint operation by Germany and U.S."
+    ],
+    "published": "2026-07-21T23:07:33+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "e0092a",
+    "feed_name": "BleepingComputer",
+    "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+    "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+    "summary": "A campaign called 'FakeGit' has been observed distributing malware. The operation utilizes over 7,600 fake GitHub repositories to spread SmartLoader and StealC malware. These repositories have seen significant download numbers.",
+    "bullets": [
+      "FakeGit campaign identified",
+      "Using 7,600+ malicious GitHub repos",
+      "Distributing SmartLoader malware",
+      "StealC malware also pushed",
+      "Over 14 million downloads recorded"
+    ],
+    "published": "2026-07-21T22:34:17+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "4d39a7",
+    "feed_name": "BleepingComputer",
+    "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+    "summary": "Hackers are actively exploiting a critical vulnerability in Microsoft SharePoint, identified as CVE-2026-50522. This flaw allows them to steal machine keys and maintain persistence on compromised servers even after patching.",
+    "bullets": [
+      "Critical SharePoint RCE flaw (CVE-2026-50522)",
+      "Actively exploited by hackers",
+      "Steals machine keys",
+      "Maintains persistent access post-patch"
+    ],
+    "published": "2026-07-21T20:06:55+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "de297b",
+    "feed_name": "BleepingComputer",
+    "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+    "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+    "summary": "The Anubis ransomware group has claimed responsibility for a cyberattack on Coca-Cola's Fairlife subsidiary. The group is threatening to leak stolen corporate data if a ransom is not paid.",
+    "bullets": [
+      "Anubis ransomware claims Fairlife attack.",
+      "Threatens to leak stolen data.",
+      "Ransom demand implied."
+    ],
+    "published": "2026-07-21T18:50:54+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "51881a",
+    "feed_name": "BleepingComputer",
+    "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+    "summary": "Hackers are actively exploiting critical vulnerabilities in WordPress Core, specifically the wp2shell flaw suite. These exploits are being used to install webshells and malicious plugins, giving attackers persistent access to affected servers.",
+    "bullets": [
+      "Exploiting critical wp2shell WordPress vulnerabilities",
+      "CVE-2026-63030 and CVE-2026-60137 involved",
+      "Used to deploy persistent webshells",
+      "Malicious plugins installed on affected servers"
+    ],
+    "published": "2026-07-21T16:41:50+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "0991b5",
+    "feed_name": "BleepingComputer",
+    "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+    "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+    "summary": "Attacks on critical infrastructure frequently start with compromised credentials or devices. Specops Software advocates for Zero Trust principles, emphasizing the need to verify both user and device trust before allowing access to sensitive systems.",
+    "bullets": [
+      "Critical infrastructure attacks leverage stolen credentials/devices.",
+      "Zero Trust is key to securing these systems.",
+      "Verify user identity AND device trust.",
+      "Grant access only after successful verification."
+    ],
+    "published": "2026-07-21T14:00:10+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "7e0235",
+    "feed_name": "BleepingComputer",
+    "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+    "url": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+    "summary": "The U.S. Justice Department has taken action against unauthorized streaming of FIFA World Cup 2026 matches. Over 1,000 websites and nearly 2,000 domains were seized or blocked as part of a piracy crackdown.",
+    "bullets": [
+      "US Justice Dept. seized over 1,000 websites.",
+      "Blocked 1,970 domains.",
+      "Action taken against unauthorized FIFA World Cup 2026 streaming.",
+      "Crackdown on piracy."
+    ],
+    "published": "2026-07-21T11:07:07+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
+  },
+  {
+    "id": "3b2962",
+    "feed_name": "BleepingComputer",
+    "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+    "summary": "The Qilin ransomware gang is actively exploiting a critical authentication bypass vulnerability in Palo Alto Networks' PAN-OS GlobalProtect software. This exploit allows them to gain unauthorized access to victim networks.",
+    "bullets": [
+      "Qilin ransomware exploits PAN-OS GlobalProtect",
+      "Vulnerability: Critical authentication bypass",
+      "Impact: Network breaches",
+      "Reported by Arctic Wolf"
+    ],
+    "published": "2026-07-21T10:12:24+00:00",
+    "seen": "2026-07-22",
+    "promoted": false
   }
 ]

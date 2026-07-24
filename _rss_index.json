@@ -1,117 +1,5 @@
 [
   {
-    "id": "764a0b",
-    "feed_name": "BleepingComputer",
-    "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
-    "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-    "summary": "A phishing campaign is using WhatsApp to trick users into downloading malicious VBScript files. These files can grant attackers remote access to affected PCs. The attack is reportedly ongoing and affecting users in multiple countries.",
-    "bullets": [
-      "WhatsApp phishing attack",
-      "Uses fake business docs",
-      "Delivers VBScript malware",
-      "Grants remote PC access",
-      "Ongoing campaign"
-    ],
-    "published": "2026-06-22T22:42:21+00:00",
-    "seen": "2026-06-23",
-    "promoted": false
-  },
-  {
-    "id": "57672f",
-    "feed_name": "BleepingComputer",
-    "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-    "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-    "summary": "The JaredFromSubway Ethereum MEV bot was targeted in a cryptocurrency theft totaling $15 million. The attacker exploited the bot's opportunity-detection logic by creating fraudulent trading opportunities.",
-    "bullets": [
-      "JaredFromSubway MEV bot compromised",
-      "$15 million in crypto stolen",
-      "Attack used fake trading opportunities",
-      "Exploited opportunity-detection logic"
-    ],
-    "published": "2026-06-22T21:52:18+00:00",
-    "seen": "2026-06-23",
-    "promoted": false
-  },
-  {
-    "id": "f9db74",
-    "feed_name": "BleepingComputer",
-    "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-    "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-    "summary": "A critical FFmpeg vulnerability named PixelSmash has been discovered. This flaw can potentially lead to remote code execution on Jellyfin servers and denial-of-service conditions in various applications, including Kodi and OBS Studio.",
-    "bullets": [
-      "FFmpeg flaw dubbed PixelSmash disclosed.",
-      "Risk of remote code execution on Jellyfin.",
-      "Denial-of-service possible in Kodi, Emby, OBS Studio, etc.",
-      "Affects widely used video decoder."
-    ],
-    "published": "2026-06-22T21:05:01+00:00",
-    "seen": "2026-06-23",
-    "promoted": false
-  },
-  {
-    "id": "aee4dd",
-    "feed_name": "BleepingComputer",
-    "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-    "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-    "summary": "A campaign dubbed FortiBleed has been discovered targeting Fortinet FortiGate devices. Attackers used custom sniffers to steal authentication secrets and credentials from compromised firewalls.",
-    "bullets": [
-      "FortiBleed campaign targets FortiGate devices",
-      "Used custom sniffers",
-      "Stole authentication secrets",
-      "Harvested credentials"
-    ],
-    "published": "2026-06-22T20:01:02+00:00",
-    "seen": "2026-06-23",
-    "promoted": false
-  },
-  {
-    "id": "24223f",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-    "summary": "Microsoft has announced that Windows 11 version 26H2 is the next upcoming feature update. Devices currently on versions 24H2 and 25H2 will be able to upgrade via a small enablement package.",
-    "bullets": [
-      "Windows 11 26H2 is the next feature update.",
-      "Upgrade path for 24H2 and 25H2 confirmed.",
-      "Uses a small enablement package for upgrades."
-    ],
-    "published": "2026-06-22T17:41:31+00:00",
-    "seen": "2026-06-23",
-    "promoted": false
-  },
-  {
-    "id": "57431d",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-    "summary": "Microsoft has patched a vulnerability in AutoGen Studio, an interface for AI agent development. Dubbed AutoJack, the flaw could allow attackers to execute arbitrary code on a host system by tricking an agent into visiting a malicious webpage.",
-    "bullets": [
-      "AutoGen Studio vulnerability (AutoJack) fixed",
-      "Allows arbitrary code execution",
-      "Triggered via malicious webpage",
-      "Affects AI agent prototyping interface"
-    ],
-    "published": "2026-06-22T17:28:57+00:00",
-    "seen": "2026-06-23",
-    "promoted": false
-  },
-  {
-    "id": "400511",
-    "feed_name": "BleepingComputer",
-    "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-    "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-    "summary": "A new underground market allows attackers to pay others to search stolen credential databases for specific targets. Instead of sifting through dumps themselves, attackers can now commission searches for particular companies, domains, or accounts.",
-    "bullets": [
-      "Market for searching stolen credentials emerging",
-      "Attackers outsource credential searching",
-      "Search by company, domain, or account",
-      "Targets specific organizations"
-    ],
-    "published": "2026-06-22T14:05:15+00:00",
-    "seen": "2026-06-23",
-    "promoted": false
-  },
-  {
     "id": "3b20c7",
     "feed_name": "Krebs on Security",
     "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
@@ -4294,6 +4182,185 @@
     ],
     "published": "2026-07-22T10:44:52+00:00",
     "seen": "2026-07-23",
+    "promoted": false
+  },
+  {
+    "id": "66834e",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #338 - OpenAI and Hugging Face, Accelerating EDR Evasion, Google's Mantis",
+    "url": "https://tldrsec.com/p/tldr-sec-338",
+    "summary": "This item discusses several security topics, including the use of LLMs by OpenAI and Hugging Face, accelerating EDR evasion techniques, and Google's AI security efforts. It touches on models finding zero-days and extracting EDR logic.",
+    "bullets": [
+      "OpenAI and Hugging Face LLM use",
+      "Accelerating EDR evasion",
+      "Google's AI security review",
+      "LLMs for finding 0-days",
+      "Extracting EDR logic with LLMs"
+    ],
+    "published": "2026-07-23T14:30:00+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "f7a386",
+    "feed_name": "BleepingComputer",
+    "title": "New Dolphin X malware uses AI to rank high-value targets",
+    "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+    "summary": "A new malware strain called Dolphin X has been identified. This remote access trojan reportedly uses an AI feature to profile and rank potential victims.",
+    "bullets": [
+      "New Dolphin X malware discovered",
+      "Uses AI for target profiling",
+      "Ranks high-value victims",
+      "Remote Access Trojan (RAT)"
+    ],
+    "published": "2026-07-23T21:20:34+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "10539e",
+    "feed_name": "BleepingComputer",
+    "title": "Australian energy provider Origin says data breach exposes client data",
+    "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+    "summary": "Australian energy provider Origin Energy has experienced a data breach. An unauthorized party accessed and leaked customer data online, including sensitive personally identifiable information.",
+    "bullets": [
+      "Origin Energy data breach confirmed",
+      "Customer data accessed and leaked",
+      "Sensitive PII exposed"
+    ],
+    "published": "2026-07-23T20:14:35+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "15267e",
+    "feed_name": "BleepingComputer",
+    "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+    "summary": "A malvertising campaign on Bing ads is promoting a fake Claude desktop application. This installer, hosted on a legitimate Claude.ai domain, is being used to distribute the SectopRAT malware.",
+    "bullets": [
+      "Fake Claude app promoted via Bing ads",
+      "Malware delivery mechanism",
+      "SectopRAT malware involved",
+      "Legitimate Claude.ai domain used for hosting"
+    ],
+    "published": "2026-07-23T19:48:30+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "474013",
+    "feed_name": "BleepingComputer",
+    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+    "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+    "summary": "Russian hackers are exploiting a zero-click vulnerability in Zimbra email servers. The group, known as Laundry Bear or Void Blizzard, is combining this with phishing to steal emails.",
+    "bullets": [
+      "Russian hackers (Laundry Bear/Void Blizzard) targeting Zimbra users.",
+      "Exploiting a zero-click Zimbra vulnerability.",
+      "Combining with phishing attacks.",
+      "Goal: Email theft.",
+      "Vulnerability is now patched."
+    ],
+    "published": "2026-07-23T16:49:27+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "b15f3f",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+    "summary": "Hackers are exploiting Notepad++ plugins to install malware. Attacks involve distributing a legitimate Notepad++ archive along with a malicious utility named LunchPoke, disguised as a plugin, to maintain persistence on compromised systems.",
+    "bullets": [
+      "Hackers abuse Notepad++ plugins",
+      "Malware installed stealthily",
+      "Malicious utility: LunchPoke",
+      "Achieves persistence"
+    ],
+    "published": "2026-07-23T16:32:35+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "9c1c59",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+    "summary": "Microsoft is experiencing a significant outage that is impacting services like Teams and Microsoft 365. The disruption is primarily affecting users located in North America.",
+    "bullets": [
+      "Microsoft 365 outage",
+      "Teams and SharePoint affected",
+      "Primarily North America users"
+    ],
+    "published": "2026-07-23T15:34:43+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "098a45",
+    "feed_name": "BleepingComputer",
+    "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+    "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+    "summary": "FedRAMP Rev5 is transitioning to FedRAMP 20X. This new framework shifts from point-in-time assessments to continuous, machine-readable evidence to prove security control effectiveness. The item discusses the implications of this transition and how organizations can prepare.",
+    "bullets": [
+      "FedRAMP Rev5 ending",
+      "FedRAMP 20X is the replacement",
+      "Shift from point-in-time to continuous assessment",
+      "Uses machine-readable evidence",
+      "Focuses on demonstrating control effectiveness",
+      "Guidance on preparing for the transition"
+    ],
+    "published": "2026-07-23T14:00:10+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "3e56a5",
+    "feed_name": "BleepingComputer",
+    "title": "EU fines Google $1 billion for search, app store antitrust violations",
+    "url": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+    "summary": "The European Commission has fined Google €890 million (approximately $1 billion) for violating the EU's Digital Markets Act. This ruling is based on findings that Google engaged in antitrust violations related to its search and app store operations.",
+    "bullets": [
+      "EU fines Google $1 billion",
+      "Violation of Digital Markets Act (DMA)",
+      "Antitrust violations identified",
+      "Concerns search and app store practices",
+      "Aims to ensure fair online competition"
+    ],
+    "published": "2026-07-23T12:33:19+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "007ff9",
+    "feed_name": "BleepingComputer",
+    "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+    "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+    "summary": "A Linux kernel vulnerability in the XFS filesystem, identified as CVE-2026-64600, has been disclosed. This flaw, a race condition present for nine years, allows local attackers to escalate privileges to root.",
+    "bullets": [
+      "New Linux XFS filesystem flaw (CVE-2026-64600)",
+      "Race condition vulnerability",
+      "Allows local attackers to gain root privileges",
+      "Attackers can overwrite protected files"
+    ],
+    "published": "2026-07-23T11:40:16+00:00",
+    "seen": "2026-07-24",
+    "promoted": false
+  },
+  {
+    "id": "a8cdbc",
+    "feed_name": "BleepingComputer",
+    "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+    "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+    "summary": "A new backdoor malware named msaRAT has been identified, reportedly used by the Chaos ransomware gang. This malware uniquely hides its command-and-control (C2) traffic by routing it through the Chrome or Edge web browsers.",
+    "bullets": [
+      "New malware: msaRAT",
+      "Used by Chaos ransomware gang",
+      "Hides C2 traffic",
+      "Routes traffic via Chrome/Edge browsers"
+    ],
+    "published": "2026-07-23T10:00:00+00:00",
+    "seen": "2026-07-24",
     "promoted": false
   }
 ]

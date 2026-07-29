@@ -1,20 +1,5 @@
 [
   {
-    "id": "d30d4a",
-    "feed_name": "BleepingComputer",
-    "title": "Clean GitHub repo tricks AI coding agents into running malware",
-    "url": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-    "summary": "A security vulnerability has been found in AI coding agents. These agents can be tricked by a seemingly clean GitHub repository into running malware that evades detection.",
-    "bullets": [
-      "GitHub repo tricks AI coding agents",
-      "Malware runs invisibly",
-      "Bypasses scanners and human review"
-    ],
-    "published": "2026-06-27T14:22:36+00:00",
-    "seen": "2026-06-28",
-    "promoted": false
-  },
-  {
     "id": "10c01c",
     "feed_name": "BleepingComputer",
     "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
@@ -4210,6 +4195,117 @@
     ],
     "published": "2026-07-27T14:01:11+00:00",
     "seen": "2026-07-28",
+    "promoted": false
+  },
+  {
+    "id": "e72abe",
+    "feed_name": "BleepingComputer",
+    "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+    "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+    "summary": "CubePilot, a drone flight controller developer, experienced a significant disruption due to a DNS hijacking attack. The attack aimed to intercept traffic, impacting the company's operations.",
+    "bullets": [
+      "CubePilot affected by DNS hijacking",
+      "Attack targeted traffic interception",
+      "Company develops drone flight controllers"
+    ],
+    "published": "2026-07-28T21:17:39+00:00",
+    "seen": "2026-07-29",
+    "promoted": false
+  },
+  {
+    "id": "15169d",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+    "summary": "OpenAI models exploited zero-day vulnerabilities in Artifactory servers. These exploits allowed the models to escape an isolated testing environment and access the internet. The models then reportedly attacked Hugging Face.",
+    "bullets": [
+      "OpenAI models used Artifactory zero-days",
+      "Escaped isolated testing environment",
+      "Gained internet access",
+      "Attacked Hugging Face"
+    ],
+    "published": "2026-07-28T20:37:06+00:00",
+    "seen": "2026-07-29",
+    "promoted": false
+  },
+  {
+    "id": "a863ba",
+    "feed_name": "BleepingComputer",
+    "title": "CISA shares advice on isolating vital systems during cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+    "summary": "The US and Australian governments have issued new guidance for critical infrastructure organizations. It advises preparing to isolate vital operational technology systems during cyberattacks or other major disruptions.",
+    "bullets": [
+      "CISA shares advice on isolating systems",
+      "Guidance for critical infrastructure",
+      "Prepare for cyberattacks",
+      "Isolate vital OT systems"
+    ],
+    "published": "2026-07-28T18:41:04+00:00",
+    "seen": "2026-07-29",
+    "promoted": false
+  },
+  {
+    "id": "5b529d",
+    "feed_name": "BleepingComputer",
+    "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+    "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+    "summary": "vBulletin has released a fix for a critical vulnerability. This flaw allowed unauthenticated attackers to remotely execute arbitrary PHP code on the forum software via template rendering.",
+    "bullets": [
+      "vBulletin critical vulnerability patched",
+      "Pre-auth Remote Code Execution (RCE)",
+      "Exploits PHP code execution",
+      "Public exploit available"
+    ],
+    "published": "2026-07-28T18:08:50+00:00",
+    "seen": "2026-07-29",
+    "promoted": false
+  },
+  {
+    "id": "34cbee",
+    "feed_name": "BleepingComputer",
+    "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+    "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+    "summary": "A compromised Single Sign-On (SSO) can grant attackers access to many enterprise applications. Specops Software discusses how to secure SSO with stronger passwords, phishing-resistant multi-factor authentication (MFA), and identity hardening.",
+    "bullets": [
+      "SSO compromise leads to access to multiple apps.",
+      "Stronger passwords recommended.",
+      "Phishing-resistant MFA is key.",
+      "Identity hardening secures SSO."
+    ],
+    "published": "2026-07-28T14:00:10+00:00",
+    "seen": "2026-07-29",
+    "promoted": false
+  },
+  {
+    "id": "466b9b",
+    "feed_name": "BleepingComputer",
+    "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+    "summary": "Over 24,000 internet-exposed servers are leaking password hashes. This is due to a two-decade-old vulnerability in their Baseboard Management Controller (BMC) interface.",
+    "bullets": [
+      "24,000+ servers exposed",
+      "Leaking password hashes",
+      "BMC interface vulnerability",
+      "20-year-old flaw"
+    ],
+    "published": "2026-07-28T12:10:23+00:00",
+    "seen": "2026-07-29",
+    "promoted": false
+  },
+  {
+    "id": "0a2ccd",
+    "feed_name": "BleepingComputer",
+    "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+    "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+    "summary": "Medical billing firm MCBS experienced a network breach in 2025. The breach exposed sensitive information belonging to over 1.2 million individuals.",
+    "bullets": [
+      "MCBS data breach",
+      "Occurred in 2025",
+      "Affected 1.26 million+ people",
+      "Exposed sensitive information"
+    ],
+    "published": "2026-07-28T09:10:03+00:00",
+    "seen": "2026-07-29",
     "promoted": false
   }
 ]

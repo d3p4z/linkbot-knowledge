@@ -1,177 +1,5 @@
 [
   {
-    "id": "14bbe4",
-    "feed_name": "watchTowr Labs",
-    "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451)",
-    "url": "https://labs.watchtowr.com/citrixbleed-to-infinity-and-beyond-citrix-netscaler-pre-auth-memory-overread-cve-2026-8451/",
-    "summary": "This item discusses the CitrixBleed vulnerability, identified as a pre-authentication memory overread in Citrix NetScaler (CVE-2026-8451). The author expresses a sense of predictable recurrence regarding security issues.",
-    "bullets": [
-      "CitrixBleed vulnerability detailed",
-      "Citrix NetScaler pre-auth memory overread",
-      "CVE-2026-8451",
-      "Predictable security events noted"
-    ],
-    "published": "2026-06-30T19:35:58+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "3dffbb",
-    "feed_name": "BleepingComputer",
-    "title": "Anthropic to restore Claude Fable access on Wednesday",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-    "summary": "Anthropic is restoring access to its powerful AI models, Fable 5 and Mythos 5, starting Wednesday. This comes after the Department of Commerce lifted export controls on these models.",
-    "bullets": [
-      "Claude Fable access restored Wednesday",
-      "Department of Commerce lifted export controls",
-      "Covers Fable 5 and Mythos 5 models"
-    ],
-    "published": "2026-07-01T00:35:14+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "72225c",
-    "feed_name": "BleepingComputer",
-    "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-    "summary": "Anthropic has released Sonnet 5, a new AI model. It offers performance nearly matching their Opus model but at a reduced cost.",
-    "bullets": [
-      "New Anthropic model: Sonnet 5",
-      "Near-Opus performance",
-      "Lower price point"
-    ],
-    "published": "2026-06-30T23:13:07+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "9a0b27",
-    "feed_name": "BleepingComputer",
-    "title": "New BioShocking attack manipulates AI browser into data theft",
-    "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-    "summary": "A new prompt injection attack called 'BioShocking' can fool AI browsers. It manipulates the AI into thinking dangerous actions are part of a fictional game, bypassing safety features.",
-    "bullets": [
-      "New 'BioShocking' attack targets AI browsers.",
-      "Uses prompt injection to trick AI.",
-      "AI misinterprets risky actions as fictional.",
-      "Bypasses safety guardrails for data theft."
-    ],
-    "published": "2026-06-30T21:50:24+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "e61267",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
-    "summary": "Microsoft is speeding up its plan to transition to quantum-safe encryption. This is due to faster-than-expected progress in quantum computing, which poses a risk to current encryption methods.",
-    "bullets": [
-      "Microsoft accelerating quantum-safe roadmap",
-      "Quantum computing advances pose risk",
-      "Need to replace current encryption sooner"
-    ],
-    "published": "2026-06-30T21:20:06+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "ecfb99",
-    "feed_name": "BleepingComputer",
-    "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-    "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-    "summary": "A campaign active since November is targeting Python developers creating Telegram bots. Attackers are using trojanized Pyrogram forks to gain control of bot servers and read arbitrary files.",
-    "bullets": [
-      "Malicious PyPI packages found",
-      "Targeting Python Telegram bot developers",
-      "Using trojanized Pyrogram forks",
-      "Allows reading arbitrary files",
-      "Hackers gain server control"
-    ],
-    "published": "2026-06-30T21:02:55+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "541b37",
-    "feed_name": "BleepingComputer",
-    "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-    "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-    "summary": "A malicious Chrome extension posing as the Perplexity AI search engine has been found on the Chrome Web Store. It intercepts user searches and collects browsing data.",
-    "bullets": [
-      "Fake Perplexity AI extension found in Chrome Web Store",
-      "Masquerades as legitimate Perplexity AI",
-      "Intercepts search traffic",
-      "Collects browsing information"
-    ],
-    "published": "2026-06-30T15:46:19+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "fa8668",
-    "feed_name": "BleepingComputer",
-    "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-    "url": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-    "summary": "This item discusses Business Email Compromise (BEC) attacks, describing them as coordinated operations that go beyond simple email scams. It highlights how underground forums provide insights into the planning and execution methods used in these attacks.",
-    "bullets": [
-      "BEC attacks are complex, not just email scams.",
-      "Involve compromised accounts and financial research.",
-      "Cash-out networks are part of the operation.",
-      "Underground forums reveal attack methods."
-    ],
-    "published": "2026-06-30T14:00:10+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "79a7d2",
-    "feed_name": "BleepingComputer",
-    "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-    "url": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-    "summary": "Insurance company Aflac has reported a data breach. Attackers gained access to the systems of its Japanese subsidiary and stole personal and banking data.",
-    "bullets": [
-      "Aflac data breach confirmed",
-      "Japanese subsidiary affected",
-      "Personal data stolen",
-      "Bank account information compromised"
-    ],
-    "published": "2026-06-30T11:12:18+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "dcb495",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft adds smarter bot protection to Teams meetings",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
-    "summary": "Microsoft has updated Teams with new bot protection features. Organizers can now use a new admin policy to control which third-party bots can join meetings.",
-    "bullets": [
-      "Microsoft adds bot protection to Teams meetings.",
-      "New admin policy for organizers.",
-      "Prevents unapproved third-party bots joining."
-    ],
-    "published": "2026-06-30T10:52:26+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
-    "id": "aa8e72",
-    "feed_name": "BleepingComputer",
-    "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-    "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-    "summary": "Kali Linux has released version 2026.2, the second update of the year. This release introduces 9 new tools to the distribution. It also includes significant improvements for Kali NetHunter.",
-    "bullets": [
-      "Kali Linux 2026.2 released",
-      "Includes 9 new tools",
-      "Kali NetHunter updates"
-    ],
-    "published": "2026-06-30T09:46:39+00:00",
-    "seen": "2026-07-01",
-    "promoted": false
-  },
-  {
     "id": "1b4778",
     "feed_name": "BleepingComputer",
     "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
@@ -4610,6 +4438,151 @@
     ],
     "published": "2026-07-30T14:01:11+00:00",
     "seen": "2026-07-31",
+    "promoted": false
+  },
+  {
+    "id": "0029ef",
+    "feed_name": "watchTowr Labs",
+    "title": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037)",
+    "url": "https://labs.watchtowr.com/enterprise-tech-in-shell-out-progress-kemp-loadmaster-uninitialized-heap-to-pre-auth-rce-cve-2026-8037/",
+    "summary": "This post discusses a pre-authentication Remote Code Execution (RCE) vulnerability, CVE-2026-8037, found in Progress Kemp LoadMaster. This load balancer is often deployed at the network edge, making it a potential entry point for attackers.",
+    "bullets": [
+      "Progress Kemp LoadMaster vulnerability",
+      "Pre-auth RCE",
+      "CVE-2026-8037",
+      "Edge network appliance",
+      "Potential attack vector"
+    ],
+    "published": "2026-06-29T19:24:54+00:00",
+    "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "5a1395",
+    "feed_name": "BleepingComputer",
+    "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+    "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+    "summary": "Amgen has reported a data breach impacting patient health and proprietary information. Threat actors gained access to data stored in cloud systems managed by third-party providers.",
+    "bullets": [
+      "Amgen data breach",
+      "Patient health info exposed",
+      "Proprietary info stolen",
+      "Third-party cloud systems compromised"
+    ],
+    "published": "2026-07-31T22:16:42+00:00",
+    "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "7ba29d",
+    "feed_name": "BleepingComputer",
+    "title": "Arch Linux disables AUR package adoption to stop malware flood",
+    "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+    "summary": "Arch Linux has temporarily disabled the adoption of Arch User Repository (AUR) packages. This action was taken in response to a recent increase in malicious takeovers of existing packages within the AUR.",
+    "bullets": [
+      "Arch Linux disables AUR package adoption.",
+      "Reason: Surge in malicious package takeovers.",
+      "Temporary measure implemented."
+    ],
+    "published": "2026-07-31T21:38:08+00:00",
+    "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "62defa",
+    "feed_name": "BleepingComputer",
+    "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+    "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+    "summary": "Online ad firm Adform was compromised in a supply-chain attack. Malicious scripts were injected into websites using Adform's platform. These scripts replaced cryptocurrency wallet addresses on users' clipboards with attacker-controlled ones.",
+    "bullets": [
+      "Adform supply-chain attack",
+      "Cryptocurrency theft via compromised ad scripts",
+      "Clipboard addresses replaced with attacker's",
+      "Impacted websites using Adform platform"
+    ],
+    "published": "2026-07-31T21:09:25+00:00",
+    "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "cbcbf0",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+    "summary": "OpenAI is making its GPT-5.6 models more cost-efficient. The company has reduced API prices for two models, Luna and Terra. This move aims to improve the efficiency of their AI models.",
+    "bullets": [
+      "OpenAI reduces GPT-5.6 model prices",
+      "Luna API price cut by 80%",
+      "Terra API price cut by 20%",
+      "Focus on model cost-efficiency"
+    ],
+    "published": "2026-07-31T18:52:44+00:00",
+    "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "012aad",
+    "feed_name": "BleepingComputer",
+    "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+    "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+    "summary": "A threat actor is using the DeepSeek AI model and the Hermes Agent to autonomously attack vulnerable servers. This allows for cyberattacks with minimal human intervention.",
+    "bullets": [
+      "AI used for autonomous server attacks",
+      "DeepSeek AI model involved",
+      "Hermes Agent also used",
+      "Attacks have limited human involvement",
+      "Targets vulnerable servers"
+    ],
+    "published": "2026-07-31T17:35:35+00:00",
+    "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "afa4fb",
+    "feed_name": "BleepingComputer",
+    "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+    "summary": "CISA is issuing a warning about a rise in cyberattacks against U.S. water and wastewater systems. These attacks are specifically targeting internet-exposed programmable logic controllers (PLCs).",
+    "bullets": [
+      "CISA alert",
+      "Increased cyberattacks",
+      "Targeting water/wastewater",
+      "Focus on PLCs"
+    ],
+    "published": "2026-07-31T16:49:49+00:00",
+    "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "69b98a",
+    "feed_name": "BleepingComputer",
+    "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+    "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+    "summary": "ESET's latest report details how attackers are leveraging AI and adapting existing tactics for malicious purposes. The report highlights the increasing use of AI-assisted malware and new attack vectors like ClickFix and record quishing.",
+    "bullets": [
+      "Malicious AI skills are rising",
+      "AI-assisted malware is a growing threat",
+      "ClickFix attacks observed",
+      "Record quishing activity at a high",
+      "Ransomware targeting security software"
+    ],
+    "published": "2026-07-31T14:01:11+00:00",
+    "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "9df960",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Restricting npm bypass-2FA granular access tokens",
+    "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+    "summary": "npm has restricted granular access tokens (GATs) that were configured to bypass two-factor authentication. Sensitive account, organization, and package management actions now require an interactive 2FA challenge.",
+    "bullets": [
+      "npm GATs restricted for 2FA bypass.",
+      "Sensitive actions now need interactive 2FA.",
+      "Closes a security gap for account/org/package management."
+    ],
+    "published": "2026-07-31T16:45:50+00:00",
+    "seen": "2026-08-01",
     "promoted": false
   }
 ]

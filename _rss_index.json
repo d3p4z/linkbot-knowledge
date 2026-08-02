@@ -1,163 +1,5 @@
 [
   {
-    "id": "1b4778",
-    "feed_name": "BleepingComputer",
-    "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-    "url": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-    "summary": "Healthcare device company Medtronic is informing customers whose personal data was exposed in a data breach. The breach allowed an unauthorized third party access to this information.",
-    "bullets": [
-      "Medtronic data breach",
-      "Customer data exposed",
-      "Unauthorized third party access",
-      "Notification sent to affected customers"
-    ],
-    "published": "2026-07-02T04:25:42+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "61636b",
-    "feed_name": "BleepingComputer",
-    "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-    "url": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-    "summary": "The FortiBleed campaign, focused on stealing credentials, has been connected to the INC and Lynx ransomware operations. This suggests the stolen information is being used to facilitate future network intrusions.",
-    "bullets": [
-      "FortiBleed campaign linked to credential theft",
-      "Connected to INC and Lynx ransomware",
-      "Stolen credentials used for future intrusions"
-    ],
-    "published": "2026-07-01T21:37:24+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "11d3d5",
-    "feed_name": "BleepingComputer",
-    "title": "Kubota says hackers had month-long access to network systems",
-    "url": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
-    "summary": "Kubota North America Corporation has revealed that its network systems were compromised by hackers. The unauthorized access reportedly lasted for over a month earlier this year.",
-    "bullets": [
-      "Kubota North America compromised",
-      "Hackers had month-long access",
-      "Network systems affected"
-    ],
-    "published": "2026-07-01T21:09:06+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "d1956e",
-    "feed_name": "BleepingComputer",
-    "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-    "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-    "summary": "New malware called ChocoPoC has been discovered. It is a Python-based remote access trojan that is being distributed through trojanized proof-of-concept exploits found on GitHub. The campaign appears to be targeting cybersecurity researchers.",
-    "bullets": [
-      "New malware: ChocoPoC",
-      "Type: Python RAT",
-      "Distribution: Trojanized PoC exploits on GitHub",
-      "Target: Believed to be cybersecurity researchers",
-      "Capabilities: Command execution, data theft"
-    ],
-    "published": "2026-07-01T20:08:13+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "7860f1",
-    "feed_name": "BleepingComputer",
-    "title": "DHS confirms hackers breached HSIN info-sharing platform",
-    "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-    "summary": "The Department of Homeland Security is investigating a cyberattack that successfully breached their Homeland Security Information Network (HSIN). This platform is a critical resource for sharing sensitive information among federal, state, local, and private sector partners.",
-    "bullets": [
-      "DHS confirms hackers breached HSIN",
-      "HSIN is a sensitive info-sharing platform",
-      "Used by federal, state, local, and private partners",
-      "Investigation is underway"
-    ],
-    "published": "2026-07-01T17:32:22+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "ba83c7",
-    "feed_name": "BleepingComputer",
-    "title": "Webinar: Why traditional email security is no longer enough",
-    "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-    "summary": "Traditional email security is failing against sophisticated attacks like phishing and business email compromise. These attacks leverage trusted identities and legitimate workflows, bypassing standard defenses. This webinar will discuss how behavioral AI can automate detection and response to these evolving threats.",
-    "bullets": [
-      "Phishing & BEC exploit trusted identities.",
-      "Traditional defenses are insufficient.",
-      "Webinar focuses on behavioral AI.",
-      "AI can automate detection & response."
-    ],
-    "published": "2026-07-01T16:54:22+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "6e3289",
-    "feed_name": "BleepingComputer",
-    "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
-    "summary": "Microsoft 365 accounts were targeted in a large-scale attack campaign. Hackers used password spraying to attempt over 81 million logins in just two weeks.",
-    "bullets": [
-      "Microsoft 365 accounts targeted",
-      "81 million login attempts",
-      "Password-spraying campaign",
-      "Occurred over 2 weeks"
-    ],
-    "published": "2026-07-01T16:38:01+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "dc84d8",
-    "feed_name": "BleepingComputer",
-    "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-    "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
-    "summary": "This item discusses how Criminal IP's integration with OpenCTI enriches threat indicators. It provides context by adding risk scoring, infrastructure intelligence, and phishing analysis to threat data.",
-    "bullets": [
-      "Criminal IP integrates with OpenCTI",
-      "Enriches threat indicators with context",
-      "Adds risk scoring",
-      "Provides infrastructure intelligence",
-      "Includes phishing analysis"
-    ],
-    "published": "2026-07-01T14:01:11+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "326c67",
-    "feed_name": "BleepingComputer",
-    "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-    "summary": "Over 900 Oracle E-Business Suite instances are exposed online. These instances are subject to ongoing attacks exploiting a critical security vulnerability. The full extent of the compromise is still being assessed.",
-    "bullets": [
-      "900+ Oracle EBS instances exposed",
-      "Target of ongoing attacks",
-      "Exploiting critical flaw"
-    ],
-    "published": "2026-07-01T12:30:01+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
-    "id": "989282",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-    "summary": "Microsoft has resolved an issue with GIF functionality in the Windows 11 Emoji Panel. The fix comes after the service provider for the GIFs shut down.",
-    "bullets": [
-      "Windows 11 Emoji Panel GIF function restored",
-      "Issue caused by GIF provider shutdown",
-      "Microsoft released a fix"
-    ],
-    "published": "2026-07-01T10:52:26+00:00",
-    "seen": "2026-07-02",
-    "promoted": false
-  },
-  {
     "id": "f79c5a",
     "feed_name": "tl;dr sec",
     "title": "[tl;dr sec] #335 - Prompt Injection as Role Confusion, PHP Ecosystem Security, New MCP Spec",
@@ -4583,6 +4425,37 @@
     ],
     "published": "2026-07-31T16:45:50+00:00",
     "seen": "2026-08-01",
+    "promoted": false
+  },
+  {
+    "id": "14bbe4",
+    "feed_name": "watchTowr Labs",
+    "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451)",
+    "url": "https://labs.watchtowr.com/citrixbleed-to-infinity-and-beyond-citrix-netscaler-pre-auth-memory-overread-cve-2026-8451/",
+    "summary": "This item discusses the CitrixBleed vulnerability, identified as a pre-authentication memory over-read in Citrix NetScaler, CVE-2026-8451. The author expresses a sense of predictability and perhaps surprise at encountering this issue.",
+    "bullets": [
+      "CitrixBleed vulnerability",
+      "Citrix NetScaler",
+      "Pre-authentication memory over-read",
+      "CVE-2026-8451"
+    ],
+    "published": "2026-06-30T19:35:58+00:00",
+    "seen": "2026-08-02",
+    "promoted": false
+  },
+  {
+    "id": "761f30",
+    "feed_name": "BleepingComputer",
+    "title": "Rails patches critical Active Storage flaw with RCE potential",
+    "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+    "summary": "A critical vulnerability has been found in Rails' Active Storage framework. An unauthenticated attacker could exploit this flaw to read arbitrary files from a Rails application. There is also a potential for this vulnerability to escalate to remote code execution.",
+    "bullets": [
+      "Critical vulnerability in Rails Active Storage",
+      "Unauthenticated attacker can read arbitrary files",
+      "Potential for Remote Code Execution (RCE)"
+    ],
+    "published": "2026-08-01T14:20:30+00:00",
+    "seen": "2026-08-02",
     "promoted": false
   }
 ]

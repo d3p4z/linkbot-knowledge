@@ -1,191 +1,5 @@
 [
   {
-    "id": "f79c5a",
-    "feed_name": "tl;dr sec",
-    "title": "[tl;dr sec] #335 - Prompt Injection as Role Confusion, PHP Ecosystem Security, New MCP Spec",
-    "url": "https://tldrsec.com/p/tldr-sec-335",
-    "summary": "This item discusses prompt injection acting as role confusion, and recent developments in PHP ecosystem security. It also touches on the security implications of a new MCP specification.",
-    "bullets": [
-      "Prompt injection as role confusion",
-      "LLM hardening of PHP ecosystem",
-      "Security of new MCP spec"
-    ],
-    "published": "2026-07-02T19:24:47+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "23edf7",
-    "feed_name": "watchTowr Labs",
-    "title": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza)",
-    "url": "https://labs.watchtowr.com/its-37oc-and-all-we-can-think-about-is-coldfusion-adobe-coldfusion-security-bulletin-apsb26-68-cve-bonanza/",
-    "summary": "This post discusses Adobe ColdFusion security updates, specifically APSB26-68, highlighting a significant number of fixed vulnerabilities. The author expresses a lack of confidence due to the extensive patch list and potential unmentioned issues.",
-    "bullets": [
-      "Adobe ColdFusion Security Bulletin APSB26-68",
-      "Multiple vulnerabilities addressed",
-      "Concerns raised about patch volume and completeness"
-    ],
-    "published": "2026-07-02T16:38:28+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "fae2db",
-    "feed_name": "Krebs on Security",
-    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-    "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-    "summary": "The FBI, with industry partners, has seized hundreds of domains belonging to NetNut, an Israeli residential proxy service. This action follows reports linking NetNut to the Popa botnet, which compromises millions of devices.",
-    "bullets": [
-      "FBI seized NetNut proxy domains",
-      "NetNut linked to Popa botnet",
-      "Popa botnet has millions of devices",
-      "NetNut operated by Alarum Technologies (Israel)"
-    ],
-    "published": "2026-07-02T19:27:33+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "0f5fda",
-    "feed_name": "BleepingComputer",
-    "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-    "summary": "Anthropic's Claude Fable 5 will no longer be available through Claude subscriptions after July 7th. However, this is not a permanent removal, and the model is expected to be offered again soon outside of the current subscription plan.",
-    "bullets": [
-      "Claude Fable 5 leaving subscriptions July 7th",
-      "Not a permanent change",
-      "Model to return outside subscription soon"
-    ],
-    "published": "2026-07-03T01:37:09+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "57f0d6",
-    "feed_name": "BleepingComputer",
-    "title": "Claude Fable relaunch disappoints users with nerfed performance",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
-    "summary": "Claude Fable, previously the company's most powerful AI model, has been released to all users. However, early feedback indicates a significant performance downgrade compared to its original release.",
-    "bullets": [
-      "Claude Fable now available to all users.",
-      "Users report disappointing performance.",
-      "Model appears nerfed from original release."
-    ],
-    "published": "2026-07-03T00:48:30+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "edd8a8",
-    "feed_name": "BleepingComputer",
-    "title": "Google loses final appeal to overturn €4.1 billion EU fine",
-    "url": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
-    "summary": "Google's final appeal to overturn a €4.1 billion EU antitrust fine has been dismissed. The fine relates to Google's use of Android to promote its Chrome browser and search service. This decision comes from the Court of Justice of the European Union.",
-    "bullets": [
-      "Google loses final EU appeal.",
-      "Fine amount: €4.1 billion.",
-      "Reason: Android's use to promote Chrome/Search.",
-      "Highest EU court dismissed appeal."
-    ],
-    "published": "2026-07-02T15:18:51+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "98b0c6",
-    "feed_name": "BleepingComputer",
-    "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-    "url": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-    "summary": "ConsentFix and ClickFix are attacks that hijack Microsoft 365 accounts in seconds. These attacks exploit fake prompts and OAuth flows to steal user tokens, bypassing multi-factor authentication.",
-    "bullets": [
-      "ConsentFix and ClickFix attacks.",
-      "Hijack Microsoft 365 accounts.",
-      "Steal tokens in seconds.",
-      "Use fake prompts & OAuth.",
-      "Bypass MFA tactics."
-    ],
-    "published": "2026-07-02T14:00:10+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "3532af",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-    "summary": "Microsoft has resolved a bug that caused Copilot buttons to vanish in Classic Outlook for certain Windows users. This issue affected those with a Copilot Chat (Basic) license.",
-    "bullets": [
-      "Bug fixed in Outlook",
-      "Copilot buttons were disappearing",
-      "Affected Windows users",
-      "Impacted users with Basic license"
-    ],
-    "published": "2026-07-02T12:15:47+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "33ffdc",
-    "feed_name": "BleepingComputer",
-    "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-    "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-    "summary": "Cisco has confirmed that attackers are actively exploiting a vulnerability in their Unified Communications Manager (Unified CM) software. This flaw was previously patched by Cisco in early June. The confirmation indicates ongoing exploitation of the issue.",
-    "bullets": [
-      "Attackers exploiting Cisco Unified CM flaw.",
-      "Vulnerability patched in early June.",
-      "Cisco confirms active exploitation."
-    ],
-    "published": "2026-07-02T11:35:25+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "afeccd",
-    "feed_name": "BleepingComputer",
-    "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-    "summary": "CISA is warning that a critical Microsoft SharePoint remote code execution vulnerability is now being actively exploited by attackers. Microsoft had previously released a patch for this flaw in May.",
-    "bullets": [
-      "CISA alert issued",
-      "Microsoft SharePoint RCE vulnerability",
-      "Actively exploited in the wild",
-      "Vulnerability patched in May"
-    ],
-    "published": "2026-07-02T10:52:43+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "09e661",
-    "feed_name": "BleepingComputer",
-    "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-    "summary": "Opera has launched a new security feature called Paste Protect. This feature aims to prevent ClickFix-style attacks, which use social engineering to trick users into running harmful commands.",
-    "bullets": [
-      "Opera introduces Paste Protect security feature",
-      "Blocks ClickFix-style attacks",
-      "Fights malicious command execution via social engineering"
-    ],
-    "published": "2026-07-02T10:46:58+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
-    "id": "1442e5",
-    "feed_name": "BleepingComputer",
-    "title": "Alleged Scattered Spider hacker extradited to the United States",
-    "url": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-    "summary": "A dual US and Estonian citizen has been extradited to the United States. He is accused of being part of the Scattered Spider hacking group.",
-    "bullets": [
-      "Dual citizen extradited to US",
-      "Alleged Scattered Spider member",
-      "Faces hacking charges"
-    ],
-    "published": "2026-07-02T08:58:25+00:00",
-    "seen": "2026-07-03",
-    "promoted": false
-  },
-  {
     "id": "17a3b9",
     "feed_name": "BleepingComputer",
     "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
@@ -4456,6 +4270,214 @@
     ],
     "published": "2026-08-01T14:20:30+00:00",
     "seen": "2026-08-02",
+    "promoted": false
+  },
+  {
+    "id": "e9d700",
+    "feed_name": "GitHub Security Lab",
+    "title": "6 security settings every GitHub maintainer should enable this week",
+    "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+    "summary": "This article highlights six free security settings for GitHub maintainers. Enabling these settings will make projects significantly harder to attack, though not entirely unhackable.",
+    "bullets": [
+      "6 security settings for GitHub",
+      "Free to enable",
+      "Makes projects harder to attack",
+      "Closes easy security doors"
+    ],
+    "published": "2026-07-01T15:59:29+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "6fd3a4",
+    "feed_name": "GitHub Security Lab",
+    "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+    "url": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
+    "summary": "The GitHub Advisory Database is experiencing a record surge in vulnerability reports. This post discusses the reasons behind the increase, GitHub's response, and ways the community can contribute.",
+    "bullets": [
+      "GitHub Advisory Database volume breaking records",
+      "Surge in vulnerability reports",
+      "Discusses driving factors",
+      "Details GitHub's response",
+      "Community involvement"
+    ],
+    "published": "2026-06-29T16:10:20+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "97dcb8",
+    "feed_name": "GitHub Security Lab",
+    "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+    "url": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+    "summary": "GitHub has released a free, open-source game called the Secure Code Game to help developers build security skills related to agentic AI. The game features five challenges designed to teach participants how to find and exploit vulnerabilities in AI agents.",
+    "bullets": [
+      "Build agentic AI security skills",
+      "GitHub Secure Code Game",
+      "Five progressive challenges",
+      "Find and exploit AI vulnerabilities",
+      "Free and open source"
+    ],
+    "published": "2026-04-14T18:17:59+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "3dc0f1",
+    "feed_name": "GitHub Security Lab",
+    "title": "Securing the open source supply chain across GitHub",
+    "url": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+    "summary": "This article discusses recent attacks targeting open-source projects, specifically focusing on secret exfiltration. It outlines immediate prevention steps and previews upcoming security features from GitHub aimed at securing the open-source supply chain.",
+    "bullets": [
+      "Open source supply chain security focus",
+      "Attacks target secret exfiltration",
+      "Prevention steps provided",
+      "GitHub security capabilities discussed"
+    ],
+    "published": "2026-04-01T19:20:12+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "10e645",
+    "feed_name": "GitHub Security Lab",
+    "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
+    "url": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
+    "summary": "This post analyzes open source vulnerability trends over the past year. It highlights a decrease in reviewed advisories, a significant increase in malware advisories, and growth in CNA publishing.",
+    "bullets": [
+      "Reviewed advisories at a four-year low",
+      "Malware advisories significantly surged",
+      "CNA publishing grew",
+      "Impact on vulnerability triage and response discussed"
+    ],
+    "published": "2026-03-26T16:00:00+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "66f9e1",
+    "feed_name": "GitHub Security Lab",
+    "title": "Investing in the people shaping open source and securing the future together",
+    "url": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
+    "summary": "GitHub is investing in open source security by funding maintainers and partnering with Alpha-Omega. This initiative aims to reduce the burden on maintainers and strengthen software supply chains.",
+    "bullets": [
+      "GitHub investing in open source security.",
+      "Funding for maintainers.",
+      "Partnership with Alpha-Omega.",
+      "Strengthening software supply chains."
+    ],
+    "published": "2026-03-17T16:00:00+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "8dec2b",
+    "feed_name": "GitHub Security Lab",
+    "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework",
+    "url": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
+    "summary": "This post introduces the GitHub Security Lab Taskflow Agent, an open-source AI framework for vulnerability scanning. It's effective at finding critical issues like Auth Bypasses, IDORs, and Token Leaks.",
+    "bullets": [
+      "GitHub Security Lab Taskflow Agent",
+      "Open-source AI-powered framework",
+      "Scans for vulnerabilities",
+      "Finds Auth Bypasses, IDORs, Token Leaks",
+      "High-impact vulnerability detection"
+    ],
+    "published": "2026-03-06T21:09:04+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "6f94a7",
+    "feed_name": "GitHub Security Lab",
+    "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
+    "url": "https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/",
+    "summary": "This article discusses the use of the GitHub Security Lab Taskflow Agent, a new tool, for vulnerability triage. It focuses on how this AI-supported agent helps manage vulnerabilities found in GitHub Actions and JavaScript projects.",
+    "bullets": [
+      "AI-supported vulnerability triage",
+      "Utilizes GitHub Security Lab Taskflow Agent",
+      "Focuses on GitHub Actions and JavaScript projects"
+    ],
+    "published": "2026-01-20T19:52:50+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "24b549",
+    "feed_name": "GitHub Security Lab",
+    "title": "Community-powered security with AI: an open source framework for security research",
+    "url": "https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/",
+    "summary": "This post introduces the GitHub Security Lab Taskflow Agent. It's an open-source framework designed to facilitate collaborative security research using AI.",
+    "bullets": [
+      "Introduces GitHub Security Lab Taskflow Agent",
+      "Open-source framework for security research",
+      "Leverages AI for collaboration"
+    ],
+    "published": "2026-01-14T18:45:09+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "7ea730",
+    "feed_name": "GitHub Security Lab",
+    "title": "Bugs that survive the heat of continuous fuzzing",
+    "url": "https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/",
+    "summary": "This article discusses why some projects on OSS-Fuzz still have bugs despite continuous fuzzing. It also provides information on how to find these lingering vulnerabilities.",
+    "bullets": [
+      "OSS-Fuzz projects still have bugs.",
+      "Continuous fuzzing doesn't catch everything.",
+      "Learn how to find remaining vulnerabilities."
+    ],
+    "published": "2025-12-29T22:01:14+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "f05ff3",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+    "summary": "OpenAI has teased Astra, a new AI model designed for complex, long-running tasks. An internal version of Astra achieved ten significant advancements in mathematics and theoretical computer science.",
+    "bullets": [
+      "OpenAI teases new AI model: Astra",
+      "Astra tackles complex, long-running tasks",
+      "Internal version solved 10 math/CS problems",
+      "Significant advances reported"
+    ],
+    "published": "2026-08-02T22:31:41+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "1d82d5",
+    "feed_name": "BleepingComputer",
+    "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+    "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+    "summary": "A flaw in COLDCARD hardware wallet firmware's random number generator is likely responsible for the theft of approximately $88.6 million in Bitcoin. Thousands of wallets were affected due to seeds generated by the compromised generator.",
+    "bullets": [
+      "COLDCARD wallet RNG flaw identified",
+      "Estimated $88.6 million in Bitcoin stolen",
+      "Thousands of wallets affected",
+      "Seed generation vulnerability"
+    ],
+    "published": "2026-08-02T21:14:29+00:00",
+    "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "4d355b",
+    "feed_name": "BleepingComputer",
+    "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+    "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+    "summary": "Google Chrome is developing a new security feature. This feature aims to prevent policy-installed extensions from hijacking the New Tab page or altering the default search engine.",
+    "bullets": [
+      "Chrome security feature in development",
+      "Blocks New Tab hijacking",
+      "Blocks default search engine changes",
+      "Targets policy-installed extensions"
+    ],
+    "published": "2026-08-02T14:17:16+00:00",
+    "seen": "2026-08-03",
     "promoted": false
   }
 ]

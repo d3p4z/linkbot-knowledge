@@ -1,37 +1,5 @@
 [
   {
-    "id": "17a3b9",
-    "feed_name": "BleepingComputer",
-    "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-    "url": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-    "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network. This network provided access to millions of compromised Android devices, including smart TVs and streaming boxes.",
-    "bullets": [
-      "NetNut proxy network disrupted",
-      "Google involved in operation",
-      "Millions of compromised Android devices affected",
-      "Includes smart TVs and streaming boxes"
-    ],
-    "published": "2026-07-03T17:50:04+00:00",
-    "seen": "2026-07-04",
-    "promoted": true
-  },
-  {
-    "id": "d64bb7",
-    "feed_name": "BleepingComputer",
-    "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-    "url": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-    "summary": "A new phishing-as-a-service (PhaaS) platform called ARToken has been identified. It seems to be an affiliate of the EvilTokens phishing platform, providing access to a toolkit for Microsoft 365 compromises.",
-    "bullets": [
-      "New PhaaS platform: ARToken",
-      "Affiliated with EvilTokens",
-      "Targets Microsoft 365",
-      "Provides phishing toolkit"
-    ],
-    "published": "2026-07-03T14:12:22+00:00",
-    "seen": "2026-07-04",
-    "promoted": false
-  },
-  {
     "id": "aa2d25",
     "feed_name": "BleepingComputer",
     "title": "JadePuffer ransomware used AI agent to automate entire attack",
@@ -4478,6 +4446,166 @@
     ],
     "published": "2026-08-02T14:17:16+00:00",
     "seen": "2026-08-03",
+    "promoted": false
+  },
+  {
+    "id": "f79c5a",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #335 - Prompt Injection as Role Confusion, PHP Ecosystem Security, New MCP Spec",
+    "url": "https://tldrsec.com/p/tldr-sec-335",
+    "summary": "This item discusses prompt injection as a form of role confusion. It also covers security hardening efforts within the PHP ecosystem and touches on the security implications of a new MCP specification.",
+    "bullets": [
+      "Prompt Injection = Role Confusion",
+      "PHP Ecosystem Security Hardening",
+      "New MCP Spec Security"
+    ],
+    "published": "2026-07-02T19:24:47+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "23edf7",
+    "feed_name": "watchTowr Labs",
+    "title": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza)",
+    "url": "https://labs.watchtowr.com/its-37oc-and-all-we-can-think-about-is-coldfusion-adobe-coldfusion-security-bulletin-apsb26-68-cve-bonanza/",
+    "summary": "This item discusses Adobe ColdFusion security vulnerabilities mentioned in bulletin APSB26-68. The author expresses low confidence due to the number of fixed and potentially unmentioned vulnerabilities.",
+    "bullets": [
+      "Adobe ColdFusion Security Bulletin APSB26-68",
+      "Multiple vulnerabilities addressed",
+      "Author expresses low confidence in the bulletin's completeness"
+    ],
+    "published": "2026-07-02T16:38:28+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "fae2db",
+    "feed_name": "Krebs on Security",
+    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+    "summary": "The FBI, with industry partners, seized hundreds of domains belonging to NetNut, an Israeli residential proxy service. This action follows reports linking NetNut to the Popa botnet, which compromises millions of devices.",
+    "bullets": [
+      "FBI seizes NetNut proxy domains",
+      "NetNut linked to Popa botnet",
+      "Popa botnet affects millions of devices",
+      "Alarum Technologies is the parent company"
+    ],
+    "published": "2026-07-02T19:27:33+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "a554b1",
+    "feed_name": "BleepingComputer",
+    "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+    "summary": "A global campaign is using hotel Wi-Fi to attack Microsoft 365 accounts. The Russian threat actor Midnight Blizzard (APT29) is reportedly behind these attacks, which utilize custom malware.",
+    "bullets": [
+      "Hotel Wi-Fi targeted",
+      "Custom malware used",
+      "Microsoft 365 accounts breached",
+      "Linked to Russian actor APT29 (Midnight Blizzard)"
+    ],
+    "published": "2026-08-04T00:17:15+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "6dabae",
+    "feed_name": "BleepingComputer",
+    "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+    "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+    "summary": "New pass-ta-key attacks have been found that can hijack Google-synced passkeys on compromised Windows devices. Malware can exploit these vulnerabilities to take over accounts and bypass verification. The attacks also allow for the extraction of passkey private keys.",
+    "bullets": [
+      "Malware can hijack Google-synced passkeys.",
+      "Attacks target compromised Windows devices.",
+      "Allows account takeover.",
+      "Bypasses user verification.",
+      "Private keys can be extracted."
+    ],
+    "published": "2026-08-03T23:58:01+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "43ae4a",
+    "feed_name": "BleepingComputer",
+    "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+    "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+    "summary": "A new Russian service called DOUBLECUP is using ClickFix attacks to hide malware within browser cache images. This technique delivers CountLoader to Windows and macOS, and a new RAT called DeviceManager to Windows systems.",
+    "bullets": [
+      "New service: DOUBLECUP (Russian)",
+      "Attack method: ClickFix",
+      "Malware hidden in: Browser cache images (PNG)",
+      "Payloads: CountLoader (Win/macOS), DeviceManager RAT (Win)"
+    ],
+    "published": "2026-08-03T20:01:22+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "c43ec9",
+    "feed_name": "BleepingComputer",
+    "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+    "summary": "Attackers are distributing fake installers for a Roblox script launcher called Xeno. These malicious installers are infecting users with malware that includes an infostealer and a Remote Access Trojan (RAT).",
+    "bullets": [
+      "Fake Roblox Xeno script launcher installers found.",
+      "Distributes infostealer malware.",
+      "Also delivers RAT malware for remote access.",
+      "Targets unsuspecting Roblox players."
+    ],
+    "published": "2026-08-03T19:25:10+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "94c507",
+    "feed_name": "BleepingComputer",
+    "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+    "summary": "N-able is alerting users about an authentication bypass vulnerability impacting their N-central servers. Attackers are actively exploiting this flaw in both hosted and on-premises versions.",
+    "bullets": [
+      "N-central auth bypass vulnerability (CVE-2026-18577)",
+      "Exploited in active attacks",
+      "Affects hosted and on-premises servers",
+      "N-able issuing customer warning"
+    ],
+    "published": "2026-08-03T17:00:56+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "1a354a",
+    "feed_name": "BleepingComputer",
+    "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+    "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+    "summary": "Hackers called ExfilSquad have leaked contact information belonging to over 100,000 UK police officers and criminal justice professionals. The data breach originated from a cyberattack on the Police National Legal Database (PNLD).",
+    "bullets": [
+      "ExfilSquad hackers claim data leak",
+      "Over 100,000 UK police/staff affected",
+      "PNLD database compromised",
+      "Contact data exfiltrated"
+    ],
+    "published": "2026-08-03T15:04:39+00:00",
+    "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "422bdc",
+    "feed_name": "BleepingComputer",
+    "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+    "summary": "Flare researchers analyzed underground posts detailing the evolution of the BTMOB Android malware. The operation has fragmented into an ecosystem with resellers, source-code vendors, custom versions, and competing sales channels.",
+    "bullets": [
+      "BTMOB Android malware operation",
+      "Analyzed underground posts",
+      "Fragmented into ecosystem",
+      "Includes resellers, source-code vendors",
+      "Custom versions and sales channels"
+    ],
+    "published": "2026-08-03T14:45:55+00:00",
+    "seen": "2026-08-04",
     "promoted": false
   }
 ]

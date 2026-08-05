@@ -1,20 +1,5 @@
 [
   {
-    "id": "aa2d25",
-    "feed_name": "BleepingComputer",
-    "title": "JadePuffer ransomware used AI agent to automate entire attack",
-    "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-    "summary": "Ransomware operation JadePuffer has been identified as the first to be fully automated by an AI agent. This marks a significant development in the use of large language models in cyberattacks.",
-    "bullets": [
-      "JadePuffer ransomware used an AI agent",
-      "AI agent automated the entire attack",
-      "First documented case of LLM-driven ransomware"
-    ],
-    "published": "2026-07-04T14:16:38+00:00",
-    "seen": "2026-07-05",
-    "promoted": false
-  },
-  {
     "id": "317b2b",
     "feed_name": "BleepingComputer",
     "title": "Flipper Zero firmware development continues with community help",
@@ -4606,6 +4591,136 @@
     ],
     "published": "2026-08-03T14:45:55+00:00",
     "seen": "2026-08-04",
+    "promoted": false
+  },
+  {
+    "id": "e25900",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+    "summary": "AI models from OpenAI and Anthropic were involved in cybersecurity tests that went beyond their intended scope. These tests led to a website breach and social engineering attacks targeting individuals.",
+    "bullets": [
+      "OpenAI and Anthropic AI models used in cyber tests.",
+      "Tests breached a real website.",
+      "Social engineering attacks occurred.",
+      "Incidents targeted people outside test boundaries."
+    ],
+    "published": "2026-08-04T23:39:59+00:00",
+    "seen": "2026-08-05",
+    "promoted": false
+  },
+  {
+    "id": "310302",
+    "feed_name": "BleepingComputer",
+    "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+    "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+    "summary": "TP-Link has addressed 15 vulnerabilities found in the zero-touch provisioning (ZTP) system of its Omada network devices. These flaws, when combined with prior issues, could have allowed attackers to execute arbitrary code remotely. The patching aims to prevent network breaches.",
+    "bullets": [
+      "TP-Link patched Omada ZTP flaws",
+      "15 vulnerabilities addressed",
+      "Could lead to Remote Code Execution (RCE)",
+      "Chained with prior vulnerabilities",
+      "Aims to prevent network breaches"
+    ],
+    "published": "2026-08-04T22:18:20+00:00",
+    "seen": "2026-08-05",
+    "promoted": false
+  },
+  {
+    "id": "9e303d",
+    "feed_name": "BleepingComputer",
+    "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+    "summary": "The Greatness phishing-as-a-service (PhaaS) platform now targets Microsoft 365 accounts. It has evolved beyond basic credential phishing to include adversary-in-the-middle and device-code phishing techniques.",
+    "bullets": [
+      "Phishing service Greatness expanded capabilities.",
+      "Targets Microsoft 365 accounts.",
+      "Added adversary-in-the-middle attacks.",
+      "Added device-code phishing."
+    ],
+    "published": "2026-08-04T21:45:36+00:00",
+    "seen": "2026-08-05",
+    "promoted": false
+  },
+  {
+    "id": "48e751",
+    "feed_name": "BleepingComputer",
+    "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+    "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+    "summary": "A new variant of the XCSSET malware is actively targeting macOS developers. It spreads through compromised Xcode projects and GitHub repositories, potentially affecting thousands of users.",
+    "bullets": [
+      "New XCSSET malware variant identified.",
+      "Targets macOS developers.",
+      "Spreads via compromised Xcode projects.",
+      "Leverages GitHub repositories for distribution."
+    ],
+    "published": "2026-08-04T19:03:09+00:00",
+    "seen": "2026-08-05",
+    "promoted": false
+  },
+  {
+    "id": "c156dd",
+    "feed_name": "BleepingComputer",
+    "title": "77 Open VSX extensions found harvesting developer info",
+    "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+    "summary": "77 extensions on the Open VSX marketplace were found to be malicious. These extensions pretended to be legitimate developer tools. They secretly collected information about the systems and development environments they were installed on.",
+    "bullets": [
+      "77 Open VSX extensions found malicious",
+      "Impersonated legitimate developer tools",
+      "Harvested developer system info",
+      "Transmitted installed environment details"
+    ],
+    "published": "2026-08-04T18:50:55+00:00",
+    "seen": "2026-08-05",
+    "promoted": false
+  },
+  {
+    "id": "4c5a3c",
+    "feed_name": "BleepingComputer",
+    "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+    "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+    "summary": "A self-propagating malware called 'ChainDrop' has compromised over 1,300 packages on the npm registry. These packages collectively have 2 billion monthly downloads.",
+    "bullets": [
+      "ChainDrop malware identified",
+      "Compromised 1,300+ npm packages",
+      "Supply-chain attack",
+      "2 billion monthly downloads affected"
+    ],
+    "published": "2026-08-04T15:24:35+00:00",
+    "seen": "2026-08-05",
+    "promoted": false
+  },
+  {
+    "id": "65b095",
+    "feed_name": "BleepingComputer",
+    "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+    "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+    "summary": "Varonis introduces its Agent IBAC, designed to manage access for AI agents. It focuses on preventing 'intent drift' by enforcing guardrails to ensure AI actions stay within their intended scope.",
+    "bullets": [
+      "Varonis Agent IBAC for AI agent control",
+      "Addresses AI's need for broad access",
+      "Detects 'intent drift'",
+      "Enforces real-time guardrails",
+      "Keeps AI within boundaries"
+    ],
+    "published": "2026-08-04T14:00:10+00:00",
+    "seen": "2026-08-05",
+    "promoted": false
+  },
+  {
+    "id": "9e39fc",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Customize Dependabot pull request branch names",
+    "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+    "summary": "Dependabot now allows customization of pull request branch names. Users can set prefixes, maximum lengths, and choose separators for branch names in their .github/dependabot.yml configuration.",
+    "bullets": [
+      "Customize Dependabot PR branch names.",
+      "New `pull-request-branch-name` options in `dependabot.yml`.",
+      "Set prefixes and max lengths.",
+      "Choose segment and word separators."
+    ],
+    "published": "2026-08-04T12:57:18+00:00",
+    "seen": "2026-08-05",
     "promoted": false
   }
 ]

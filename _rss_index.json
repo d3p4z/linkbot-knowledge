@@ -1,20 +1,5 @@
 [
   {
-    "id": "317b2b",
-    "feed_name": "BleepingComputer",
-    "title": "Flipper Zero firmware development continues with community help",
-    "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-    "summary": "Flipper Zero firmware development will proceed with a reduced internal team. The company will increasingly depend on contributions from the community to support ongoing development.",
-    "bullets": [
-      "Flipper Zero firmware development continues.",
-      "Smaller internal team.",
-      "Increased community contributions expected."
-    ],
-    "published": "2026-07-05T14:14:52+00:00",
-    "seen": "2026-07-06",
-    "promoted": true
-  },
-  {
     "id": "814920",
     "feed_name": "BleepingComputer",
     "title": "Phishing poses as big-brand job interview to steal Google accounts",
@@ -4721,6 +4706,150 @@
     ],
     "published": "2026-08-04T12:57:18+00:00",
     "seen": "2026-08-05",
+    "promoted": false
+  },
+  {
+    "id": "fe5b46",
+    "feed_name": "PortSwigger Research",
+    "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
+    "url": "https://portswigger.net/research/crlf-powered-desync-attacks",
+    "summary": "This paper explores the severe underestimation of HTTP Header Injection vulnerabilities. It highlights the catastrophic potential of CRLF (Carriage Return Line Feed) characters in attacks, suggesting they are more dangerous than common threats like open redirects or Cross-Site Scripting.",
+    "bullets": [
+      "HTTP Header Injection is severely underestimated.",
+      "CRLF characters are powerful attack vectors.",
+      "CRLF attacks have catastrophic potential.",
+      "More dangerous than XSS or open redirects."
+    ],
+    "published": "2026-08-05T23:30:00+00:00",
+    "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "9522c3",
+    "feed_name": "PortSwigger Research",
+    "title": "Can AI do novel security research? Meet the HTTP Terminator",
+    "url": "https://portswigger.net/research/http-terminator",
+    "summary": "This item explores whether AI can perform novel security research and invent new attack techniques, rather than just finding existing bugs. It discusses an autonomous system's capability to hack live websites using these invented methods.",
+    "bullets": [
+      "AI's ability to do novel security research",
+      "Inventing new attack techniques with AI",
+      "Autonomous system hacking live websites",
+      "The HTTP Terminator project"
+    ],
+    "published": "2026-08-05T19:30:00+00:00",
+    "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "dfd55b",
+    "feed_name": "BleepingComputer",
+    "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+    "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+    "summary": "The creator and administrator of the Ransom Cartel ransomware operation, Maksim Silnikau, has been sentenced to 16 years in prison. His operation targeted at least 18 companies globally.",
+    "bullets": [
+      "Ransom Cartel creator sentenced",
+      "Maksim Silnikau",
+      "16-year prison sentence",
+      "Attacked 18+ companies"
+    ],
+    "published": "2026-08-05T23:00:50+00:00",
+    "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "844012",
+    "feed_name": "BleepingComputer",
+    "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+    "summary": "A Canadian man has pleaded guilty to his involvement in attacks against Snowflake, a cloud storage provider. He accessed company accounts and stole data from at least 165 organizations as part of an extortion scheme. The goal was to extort millions of dollars from the victims.",
+    "bullets": [
+      "Canadian man pleads guilty to data theft",
+      "Targeted Snowflake cloud storage",
+      "Stole data from 165+ organizations",
+      "Scheme to extort millions"
+    ],
+    "published": "2026-08-05T21:53:26+00:00",
+    "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "5ac30d",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+    "summary": "Hackers used a SQL injection vulnerability to implant a post-exploitation toolkit within an Oracle database. This allowed them to infiltrate a corporate network.",
+    "bullets": [
+      "SQL injection used to install toolkit",
+      "Toolkit hidden inside Oracle database",
+      "Breached corporate network"
+    ],
+    "published": "2026-08-05T19:55:25+00:00",
+    "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "e94b71",
+    "feed_name": "BleepingComputer",
+    "title": "COLDCARD security audit phishing attack installs remote access tool",
+    "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+    "summary": "A phishing campaign is leveraging concerns about a COLDCARD wallet vulnerability and a suspected large Bitcoin theft. Attackers are tricking users into installing ScreenConnect remote access software.",
+    "bullets": [
+      "Phishing campaign targets COLDCARD users",
+      "Exploits recent vulnerability fears",
+      "Uses alleged $88.6M Bitcoin theft as lure",
+      "Installs ScreenConnect remote access tool"
+    ],
+    "published": "2026-08-05T17:49:41+00:00",
+    "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "72f3c3",
+    "feed_name": "BleepingComputer",
+    "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+    "summary": "CISA has issued a warning about actively exploited vulnerabilities affecting IBM Langflow, N-central, and Apache Tomcat. Federal agencies have been given a three-day deadline to address these security flaws.",
+    "bullets": [
+      "CISA warning issued",
+      "Vulnerabilities in Langflow, N-central, Apache Tomcat",
+      "Actively exploited by hackers",
+      "Federal agencies given 3 days to mitigate"
+    ],
+    "published": "2026-08-05T15:51:33+00:00",
+    "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "2c28f8",
+    "feed_name": "BleepingComputer",
+    "title": "Google Blogger locks hundreds of blogs in malware false positive",
+    "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+    "summary": "Google Blogger has locked hundreds of blogs due to a false positive flagging them for malware violations. Some of these blogs have been deleted from the platform as a result of the error.",
+    "bullets": [
+      "Google Blogger misidentified hundreds of blogs as malware.",
+      "Blogs locked due to false positive.",
+      "Some blogs deleted from platform.",
+      "Violated \"Malware and Similar Malicious Content\" policy."
+    ],
+    "published": "2026-08-05T14:59:29+00:00",
+    "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "97022e",
+    "feed_name": "BleepingComputer",
+    "title": "How AI-powered phishing killed blocklists for good",
+    "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+    "summary": "AI is enabling more effective phishing attacks by creating rapidly evolving infrastructure that traditional blocklists can't keep up with. This makes defenses based on known-bad indicators less effective. Browser-level, technique-based detection is suggested as a more resilient solution.",
+    "bullets": [
+      "AI-powered phishing bypasses traditional blocklists.",
+      "Attackers use disposable infrastructure and fast-evolving toolkits.",
+      "Blocklists struggle to track rapid changes.",
+      "Browser-level, technique-based detection is more durable.",
+      "Relies less on known-bad indicators."
+    ],
+    "published": "2026-08-05T14:01:11+00:00",
+    "seen": "2026-08-06",
     "promoted": false
   }
 ]

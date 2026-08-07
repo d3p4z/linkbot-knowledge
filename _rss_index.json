@@ -1,85 +1,5 @@
 [
   {
-    "id": "814920",
-    "feed_name": "BleepingComputer",
-    "title": "Phishing poses as big-brand job interview to steal Google accounts",
-    "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-    "summary": "A new phishing campaign is targeting marketing professionals by impersonating over 30 major brands in fake job interviews. The goal is to steal their Google account credentials.",
-    "bullets": [
-      "Phishing campaign impersonates big brands",
-      "Fake job interviews used as lure",
-      "Targets Google account credentials",
-      "Marketing professionals are the primary target"
-    ],
-    "published": "2026-07-06T20:27:37+00:00",
-    "seen": "2026-07-07",
-    "promoted": false
-  },
-  {
-    "id": "9f9dcf",
-    "feed_name": "BleepingComputer",
-    "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
-    "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-    "summary": "Attackers are using fake IT support calls on Microsoft Teams to trick employees into installing EtherRAT malware. This allows them to gain initial access to corporate networks.",
-    "bullets": [
-      "Fake IT support via MS Teams voice calls",
-      "Impersonating corporate IT staff",
-      "Pushing EtherRAT malware",
-      "Gaining initial network access"
-    ],
-    "published": "2026-07-06T20:23:45+00:00",
-    "seen": "2026-07-07",
-    "promoted": false
-  },
-  {
-    "id": "1441d2",
-    "feed_name": "BleepingComputer",
-    "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
-    "url": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
-    "summary": "Vietnamese authorities have apprehended seven individuals suspected of operating the large anime piracy service HiAnime. The service was shut down in June.",
-    "bullets": [
-      "Seven arrested in Vietnam",
-      "Suspected operators of HiAnime",
-      "HiAnime was a major anime piracy service",
-      "Service shut down in June"
-    ],
-    "published": "2026-07-06T18:25:06+00:00",
-    "seen": "2026-07-07",
-    "promoted": false
-  },
-  {
-    "id": "3bbf96",
-    "feed_name": "BleepingComputer",
-    "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
-    "url": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-    "summary": "Software development is rapidly accelerating, potentially to the speed of thought with AI. This speed removes traditional points where security decisions were made, creating a gap between development speed and security implementation.",
-    "bullets": [
-      "Software dev speed is increasing.",
-      "AI may remove the last development barrier.",
-      "Security decisions are being bypassed.",
-      "Speed gap between dev and security widening."
-    ],
-    "published": "2026-07-06T14:00:10+00:00",
-    "seen": "2026-07-07",
-    "promoted": false
-  },
-  {
-    "id": "1105eb",
-    "feed_name": "BleepingComputer",
-    "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-    "summary": "A critical Adobe ColdFusion vulnerability, CVE-2026-48282, is now being actively exploited by attackers. This means the flaw has moved beyond theoretical risk to active malicious use.",
-    "bullets": [
-      "Adobe ColdFusion flaw",
-      "Max severity (CVE-2026-48282)",
-      "Actively exploited in attacks",
-      "Reported by KEVIntel"
-    ],
-    "published": "2026-07-06T13:18:37+00:00",
-    "seen": "2026-07-07",
-    "promoted": false
-  },
-  {
     "id": "0073de",
     "feed_name": "BleepingComputer",
     "title": "Accenture confirms breach after hacker offers stolen data for sale",
@@ -4850,6 +4770,166 @@
     ],
     "published": "2026-08-05T14:01:11+00:00",
     "seen": "2026-08-06",
+    "promoted": false
+  },
+  {
+    "id": "74afbb",
+    "feed_name": "PortSwigger Research",
+    "title": "CSS:the bomb inside your inbox",
+    "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+    "summary": "This item discusses a security vulnerability related to CSS rendering in webmail clients. Webmail clients often render untrusted CSS in a trusted UI, and they attempt to sanitize it to make it safe.",
+    "bullets": [
+      "Untrusted CSS in webmail clients",
+      "Trusted UI rendering CSS",
+      "CSS sanitization attempts"
+    ],
+    "published": "2026-08-06T22:00:00+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "7883bf",
+    "feed_name": "PortSwigger Research",
+    "title": "Can AI do novel security research? Meet the HTTP Terminator",
+    "url": "https://portswigger.net/research/can-ai-do-novel-security-research",
+    "summary": "This item discusses whether AI can perform novel security research, specifically inventing new attack techniques. It introduces the 'HTTP Terminator' as an autonomous system designed to hack live websites at scale.",
+    "bullets": [
+      "AI for novel security research?",
+      "Autonomous system invents new attacks.",
+      "HTTP Terminator tool introduced.",
+      "Hacking live websites at scale."
+    ],
+    "published": "2026-08-05T19:30:00+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "4ef4f6",
+    "feed_name": "Krebs on Security",
+    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+    "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+    "summary": "A 26-year-old Canadian man, Connor Riley Moucka, has pleaded guilty to hacking and extorting over 165 organizations using Snowflake. He also admitted to stealing call and text history data from over 100 million AT&T customers. Moucka was previously identified as a significant cybercrime threat actor.",
+    "bullets": [
+      "Canadian man pleads guilty to Snowflake extortions.",
+      "Hacked and extorted >165 organizations.",
+      "Stole data from >100 million AT&T customers.",
+      "Identified as major cybercrime threat actor."
+    ],
+    "published": "2026-08-06T17:00:56+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "7d9120",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+    "summary": "OpenAI has released an upgraded version of ChatGPT. Paid users are getting a more reliable GPT-5.6 Sol, while free users will receive unlimited text chats with GPT-5.6 Luna.",
+    "bullets": [
+      "ChatGPT major upgrade rolling out",
+      "Paid users get GPT-5.6 Sol (reliable)",
+      "Free users get GPT-5.6 Luna (unlimited text chats)"
+    ],
+    "published": "2026-08-06T22:48:22+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "29eb1c",
+    "feed_name": "BleepingComputer",
+    "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+    "summary": "A new malware, written in Go and delivered via ClickFix attacks, is targeting macOS users. It's designed to steal cryptocurrency, browser passwords, and keychain data.",
+    "bullets": [
+      "macOS infostealer via ClickFix",
+      "Steals crypto assets",
+      "Grabs browser passwords",
+      "Accesses Apple Keychain data",
+      "Targets cached credentials"
+    ],
+    "published": "2026-08-06T22:37:17+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "1e2d2c",
+    "feed_name": "BleepingComputer",
+    "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+    "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+    "summary": "A recent series of cyberattacks has targeted hedge funds and financial institutions. These attacks have been attributed to an extortion group known as UNC6671. This group is reportedly connected to the BlackFile threat actors.",
+    "bullets": [
+      "Hedge fund cyberattacks observed.",
+      "Targeting financial organizations.",
+      "Linked to UNC6671 extortion group.",
+      "UNC6671 associated with BlackFile actors."
+    ],
+    "published": "2026-08-06T20:07:24+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "710334",
+    "feed_name": "BleepingComputer",
+    "title": "Swiss government SharePoint breach compromised 200 accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+    "summary": "Hackers breached Switzerland's federal IT office by exploiting vulnerabilities in their Microsoft SharePoint servers. This breach compromised around 200 accounts. The federal IT office is responsible for managing the government's IT infrastructure.",
+    "bullets": [
+      "Swiss government SharePoint servers breached",
+      "Exploited vulnerabilities",
+      "Approx. 200 accounts compromised",
+      "Federal IT office affected"
+    ],
+    "published": "2026-08-06T18:14:19+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "3b0f77",
+    "feed_name": "BleepingComputer",
+    "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+    "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+    "summary": "A new CPU attack named TONTOU has been discovered that bypasses Spectre v2 mitigations. Researchers developed an exploit using this attack to leak password hashes from Linux systems.",
+    "bullets": [
+      "TONTOU CPU attack identified",
+      "Bypasses Spectre v2 fixes",
+      "Leaked Linux password hashes",
+      "Speculative execution side-channel vulnerability"
+    ],
+    "published": "2026-08-06T18:03:45+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "60aa66",
+    "feed_name": "BleepingComputer",
+    "title": "Meta AI model hacked a company during misconfigured cyber test",
+    "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+    "summary": "A Meta AI model reportedly hacked a company during a cybersecurity test. This follows a similar incident where OpenAI's agents breached Hugging Face.",
+    "bullets": [
+      "Meta AI model breached a company",
+      "Incident occurred during cyber test",
+      "Similar to OpenAI breach at Hugging Face"
+    ],
+    "published": "2026-08-06T16:11:39+00:00",
+    "seen": "2026-08-07",
+    "promoted": false
+  },
+  {
+    "id": "95b8f2",
+    "feed_name": "BleepingComputer",
+    "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+    "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+    "summary": "AI has highlighted an existing browser security vulnerability that businesses can no longer overlook. Browsers are now a key point for controlling data flow, AI usage, and modern work practices.",
+    "bullets": [
+      "AI exposed, not created, a browser security gap.",
+      "Enterprises have ignored this issue.",
+      "Browsers are critical control points.",
+      "Governs data movement.",
+      "Governs AI interactions.",
+      "Governs modern work."
+    ],
+    "published": "2026-08-06T14:02:12+00:00",
+    "seen": "2026-08-07",
     "promoted": false
   }
 ]

@@ -1,181 +1,5 @@
 [
   {
-    "id": "f12f3a",
-    "feed_name": "Krebs on Security",
-    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-    "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-    "summary": "A cybersecurity startup seeking to buy zero-day vulnerabilities is reportedly run by individuals with a history of far-right conspiracy theories and felony convictions. Their past ventures included fake intelligence companies and an AI lobbying platform operated under false identities.",
-    "bullets": [
-      "Cybersecurity startup acquiring zero-day vulnerabilities.",
-      "Founders linked to far-right conspiracy theories.",
-      "Founders have felony convictions.",
-      "Past ventures: fake intelligence, AI lobbying platform.",
-      "Operated under assumed names."
-    ],
-    "published": "2026-07-08T12:31:39+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "b93847",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-    "summary": "Microsoft has released a security patch for a zero-day vulnerability in Microsoft Defender. This vulnerability is known as RoguePlanet and was disclosed after the June 2026 Patch Tuesday update.",
-    "bullets": [
-      "Microsoft Defender zero-day vulnerability patched",
-      "Vulnerability named \"RoguePlanet\"",
-      "Disclosure after June 2026 Patch Tuesday"
-    ],
-    "published": "2026-07-09T05:42:49+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "120915",
-    "feed_name": "BleepingComputer",
-    "title": "Mount Royal University confirms breach as hackers claim attack",
-    "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-    "summary": "Mount Royal University has confirmed a data breach. Hackers claim to have attacked the university, stealing and deleting data from its file storage systems after accessing the network.",
-    "bullets": [
-      "Mount Royal University confirms breach",
-      "Hackers claim responsibility",
-      "Data stolen and deleted",
-      "Network intrusion occurred"
-    ],
-    "published": "2026-07-08T21:26:59+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "6750be",
-    "feed_name": "BleepingComputer",
-    "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-    "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-    "summary": "Malicious software was found on NPM and PyPI, disguised as legitimate SDKs for Paysafe, Skrill, and Neteller. These fake packages were designed to steal user credentials.",
-    "bullets": [
-      "Fake Paysafe, Skrill, Neteller SDKs found",
-      "Malicious packages on NPM and PyPI",
-      "Stealer malware delivered",
-      "Credentials targeted"
-    ],
-    "published": "2026-07-08T19:54:59+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "0ebef6",
-    "feed_name": "BleepingComputer",
-    "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-    "summary": "A China-linked hacker group is exploiting a vulnerability in Roundcube webmail servers. They are targeting U.S. and Canadian universities to steal user credentials and install backdoor malware.",
-    "bullets": [
-      "Hackers exploiting Roundcube flaw",
-      "Targeting universities in US/Canada",
-      "Stealing credentials",
-      "Deploying backdoor malware",
-      "China-linked threat cluster"
-    ],
-    "published": "2026-07-08T18:56:02+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "954c41",
-    "feed_name": "BleepingComputer",
-    "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-    "url": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-    "summary": "A threat actor is targeting Microsoft 365 users with a vishing scam. The attackers are using voice calls to trick users into enrolling a new Entra passkey. This campaign appears to span multiple industries.",
-    "bullets": [
-      "Vishing scam targets Microsoft 365 users.",
-      "Attackers request Entra passkey enrollment.",
-      "Voice calls used for social engineering.",
-      "Multiple sectors affected."
-    ],
-    "published": "2026-07-08T16:47:25+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "3c78b4",
-    "feed_name": "BleepingComputer",
-    "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
-    "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
-    "summary": "This item discusses how AI is enabling more effective service desk attacks, specifically impersonation. It covers how AI makes these attacks more personalized and scalable. The article also offers preventative measures focused on strengthening onboarding and identity verification processes.",
-    "bullets": [
-      "AI enhances service desk impersonation attacks",
-      "Attacks are becoming more convincing",
-      "AI enables personalized attacks",
-      "AI increases attack scalability",
-      "Strengthen onboarding processes",
-      "Improve identity verification"
-    ],
-    "published": "2026-07-08T14:01:11+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "a9cca1",
-    "feed_name": "BleepingComputer",
-    "title": "DuckDuckGo browser now blocks YouTube video ads",
-    "url": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
-    "summary": "The DuckDuckGo browser has been updated to block most ads on YouTube. This includes pre-roll and mid-roll video advertisements.",
-    "bullets": [
-      "DuckDuckGo browser now blocks YouTube ads",
-      "Blocks pre-roll ads",
-      "Blocks ads during video playback"
-    ],
-    "published": "2026-07-08T12:00:00+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "e5a5ee",
-    "feed_name": "BleepingComputer",
-    "title": "Telco giant KDDI says data breach affects over 12 million people",
-    "url": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-    "summary": "Japanese telecom KDDI reported a data breach impacting over 12 million people. Attackers compromised an email platform used by five ISPs, exposing email addresses and passwords. The breach occurred on an email platform used by multiple ISPs.",
-    "bullets": [
-      "KDDI data breach affects over 12 million.",
-      "Email addresses and passwords exposed.",
-      "Attackers breached an ISP email platform.",
-      "Five ISPs affected by the breach."
-    ],
-    "published": "2026-07-08T11:24:16+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "d09b67",
-    "feed_name": "BleepingComputer",
-    "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-    "summary": "CISA has directed federal agencies to patch a critical authentication bypass vulnerability in the Langflow visual framework. The vulnerability is reportedly being actively exploited. Agencies have a deadline of Friday to implement the necessary fixes.",
-    "bullets": [
-      "CISA orders federal agencies to patch Langflow flaw",
-      "Actively exploited authentication bypass vulnerability",
-      "Deadline: Friday"
-    ],
-    "published": "2026-07-08T09:58:11+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
-    "id": "f16ec2",
-    "feed_name": "BleepingComputer",
-    "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-    "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-    "summary": "Ubiquiti has issued security updates for UniFi OS, addressing seven critical vulnerabilities. One of these is a maximum-severity flaw that allows for command injection attacks.",
-    "bullets": [
-      "Ubiquiti UniFi OS updates released",
-      "7 critical vulnerabilities patched",
-      "Max severity flaw allows command injection"
-    ],
-    "published": "2026-07-08T08:15:20+00:00",
-    "seen": "2026-07-09",
-    "promoted": false
-  },
-  {
     "id": "097ff3",
     "feed_name": "tl;dr sec",
     "title": "[tl;dr sec] #336 - Autonomous Vulnerability Hunting, GuardDog 3.0, Are Bug Bounties Cooked?",
@@ -4867,6 +4691,22 @@
     ],
     "published": "2026-08-07T13:34:40+00:00",
     "seen": "2026-08-08",
+    "promoted": false
+  },
+  {
+    "id": "85c07a",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "summary": "The Head Mare hacktivist group is targeting unpatched TrueConf video conferencing servers. They are replacing legitimate client installers with trojanized versions that include backdoors.",
+    "bullets": [
+      "Hackers compromising TrueConf servers",
+      "Exploiting unpatched vulnerabilities",
+      "Replacing client installers",
+      "Trojanized installers contain backdoors"
+    ],
+    "published": "2026-08-08T14:16:23+00:00",
+    "seen": "2026-08-09",
     "promoted": false
   }
 ]

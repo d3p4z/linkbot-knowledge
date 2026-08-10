@@ -1,161 +1,5 @@
 [
   {
-    "id": "097ff3",
-    "feed_name": "tl;dr sec",
-    "title": "[tl;dr sec] #336 - Autonomous Vulnerability Hunting, GuardDog 3.0, Are Bug Bounties Cooked?",
-    "url": "https://tldrsec.com/p/tldr-sec-336",
-    "summary": "This update covers autonomous vulnerability hunting with an MCP-powered system that finds and reproduces vulns. It also details improvements to Datadog's GuardDog OSS malware hunting tool. Additionally, it touches on whether bug bounties are still viable.",
-    "bullets": [
-      "Autonomous vuln hunting system (MCP powered)",
-      "GuardDog 3.0 improvements (malware hunting)",
-      "Future of bug bounties questioned"
-    ],
-    "published": "2026-07-09T14:30:00+00:00",
-    "seen": "2026-07-10",
-    "promoted": true
-  },
-  {
-    "id": "2541e6",
-    "feed_name": "BleepingComputer",
-    "title": "OpenMandriva Linux says contributor tried to sabotage the project",
-    "url": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
-    "summary": "OpenMandriva Linux experienced an attempted sabotage by a contributor. This incident arose from internal disputes within the project's contributor base.",
-    "bullets": [
-      "OpenMandriva Linux targeted",
-      "Attempted internal sabotage",
-      "Dispute among contributors"
-    ],
-    "published": "2026-07-09T22:14:13+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
-    "id": "e0d788",
-    "feed_name": "BleepingComputer",
-    "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
-    "url": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-    "summary": "The Injective SDK project's GitHub repository was compromised by hackers. They then released a malicious package on npm designed to steal cryptocurrency wallet private keys and mnemonic seed phrases.",
-    "bullets": [
-      "Injective SDK GitHub repo compromised",
-      "Malicious npm package published",
-      "Steals crypto wallet private keys",
-      "Steals mnemonic seed phrases"
-    ],
-    "published": "2026-07-09T20:10:00+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
-    "id": "c97e5e",
-    "feed_name": "BleepingComputer",
-    "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-    "summary": "A new data-extortion group named Helix has emerged. They are targeting SharePoint environments by stealing data. Helix employs identity-focused tactics including vishing, device code phishing, and MFA abuse.",
-    "bullets": [
-      "New group: Helix",
-      "Target: SharePoint data theft",
-      "Tactics: Vishing, device code phishing, MFA abuse"
-    ],
-    "published": "2026-07-09T17:08:29+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
-    "id": "7c6b25",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-    "summary": "Microsoft anticipates more Windows security updates. This is due to their increased use of AI to find vulnerabilities in their software. Users can expect these AI-driven updates to address newly discovered flaws.",
-    "bullets": [
-      "Microsoft expects more Windows security updates",
-      "AI is being used to discover flaws",
-      "Expect updates for AI-identified vulnerabilities"
-    ],
-    "published": "2026-07-09T17:00:00+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
-    "id": "dc3d57",
-    "feed_name": "BleepingComputer",
-    "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-    "url": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-    "summary": "A new phishing-as-a-service operation named Forg365 is targeting Microsoft 365 accounts. It uses a combination of adversary-in-the-middle and device code methods. The operation also employs AI to help generate phishing lures.",
-    "bullets": [
-      "New phishing-as-a-service: Forg365",
-      "Targets Microsoft 365 accounts",
-      "Uses AiTM and device code",
-      "AI for lure generation"
-    ],
-    "published": "2026-07-09T14:39:51+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
-    "id": "35b3c7",
-    "feed_name": "BleepingComputer",
-    "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
-    "url": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
-    "summary": "Organizations face hidden security risks when IT teams take summer vacations due to reduced staffing. Kaseya suggests AI-driven automation can help maintain consistent security operations and reduce manual processes.",
-    "bullets": [
-      "Summer IT staffing often reduced",
-      "Security risks increase with lower staffing",
-      "AI automation can maintain security coverage",
-      "Reduces reliance on manual processes"
-    ],
-    "published": "2026-07-09T14:02:12+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
-    "id": "d6c42c",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft to retire the OWA Light client in Exchange Server",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-    "summary": "Microsoft is planning to retire the Outlook Web Access (OWA) Light client. This lightweight version of the Outlook Web App will be disabled in an upcoming Exchange Server update.",
-    "bullets": [
-      "Microsoft to retire OWA Light.",
-      "Lightweight Outlook Web App version.",
-      "Future Exchange Server update.",
-      "Client will be disabled."
-    ],
-    "published": "2026-07-09T11:00:35+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
-    "id": "b97792",
-    "feed_name": "BleepingComputer",
-    "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-    "url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-    "summary": "A global anti-fraud operation involving 97 countries has led to the arrest of over 5,800 suspects. Law enforcement agencies also seized $293 million in illicit assets as part of this crackdown.",
-    "bullets": [
-      "Global anti-fraud operation",
-      "97 countries involved",
-      "5,811 suspects arrested",
-      "$293 million in assets seized"
-    ],
-    "published": "2026-07-09T09:47:28+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
-    "id": "189cd7",
-    "feed_name": "BleepingComputer",
-    "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-    "url": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-    "summary": "AssuranceAmerica, an American insurance company, has reported a data breach affecting approximately 6.9 million drivers. Attackers accessed the company's systems earlier this year, leading to the exposure of driver records.",
-    "bullets": [
-      "AssuranceAmerica data breach",
-      "Impacts 6.9 million drivers",
-      "Attackers accessed systems",
-      "Occurred earlier this year"
-    ],
-    "published": "2026-07-09T07:47:16+00:00",
-    "seen": "2026-07-10",
-    "promoted": false
-  },
-  {
     "id": "4e65c8",
     "feed_name": "BleepingComputer",
     "title": "New U-Boot flaws could enable stealthy firmware attacks",
@@ -4707,6 +4551,23 @@
     ],
     "published": "2026-08-08T14:16:23+00:00",
     "seen": "2026-08-09",
+    "promoted": false
+  },
+  {
+    "id": "f12f3a",
+    "feed_name": "Krebs on Security",
+    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+    "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+    "summary": "A cybersecurity startup offering millions for zero-day vulnerabilities is reportedly run by convicted felons with far-right ties. Their previous ventures included fake intelligence companies and an AI lobbying platform operated under aliases.",
+    "bullets": [
+      "Cybersecurity startup targets zero-day vulnerabilities.",
+      "Startup founders allegedly are convicted felons.",
+      "Founders have far-right ties and past ventures.",
+      "Previous ventures included fake intelligence and AI lobbying.",
+      "Operated under assumed names."
+    ],
+    "published": "2026-07-08T12:31:39+00:00",
+    "seen": "2026-08-10",
     "promoted": false
   }
 ]

@@ -1,149 +1,5 @@
 [
   {
-    "id": "4e65c8",
-    "feed_name": "BleepingComputer",
-    "title": "New U-Boot flaws could enable stealthy firmware attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-    "summary": "Six new vulnerabilities have been found in the U-Boot bootloader. These flaws could allow attackers to run malicious code during device startup. This could lead to stealthy firmware attacks, compromising security and installing persistent malware.",
-    "bullets": [
-      "U-Boot bootloader has 6 new vulnerabilities.",
-      "Allows malicious code execution during boot.",
-      "Potential for stealthy firmware attacks.",
-      "Could compromise security protections.",
-      "Enables installation of persistent malware."
-    ],
-    "published": "2026-07-10T21:59:02+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
-    "id": "37b5c5",
-    "feed_name": "BleepingComputer",
-    "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
-    "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
-    "summary": "An Armenian man has pleaded guilty in the U.S. for his role in deploying Ryuk ransomware. He is accused of hacking U.S. companies and encrypting their systems. He now faces up to 15 years in prison.",
-    "bullets": [
-      "Ryuk ransomware member pleads guilty in US",
-      "Hacked U.S. companies",
-      "Deployed ransomware to encrypt systems",
-      "Faces 15 years in prison"
-    ],
-    "published": "2026-07-10T17:46:10+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
-    "id": "da7dce",
-    "feed_name": "BleepingComputer",
-    "title": "Police suspects Dutch hackers were involved in Odido breach",
-    "url": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-    "summary": "Dutch police have found strong indications that Dutch hackers were involved in a February breach at the telecommunications provider Odido. The investigation is ongoing.",
-    "bullets": [
-      "Dutch police suspect Dutch hackers.",
-      "Involvement in Odido breach.",
-      "Breach occurred in February."
-    ],
-    "published": "2026-07-10T16:37:01+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
-    "id": "065579",
-    "feed_name": "BleepingComputer",
-    "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
-    "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-    "summary": "Progress Software is instructing its ShareFile customers to shut down their Storage Zone Controller servers. This action is in response to a credible external security threat targeting the on-premises secure file-sharing software.",
-    "bullets": [
-      "Progress Software ShareFile servers targeted",
-      "Urgent: Shut down Storage Zone Controllers",
-      "Credible external security threat identified"
-    ],
-    "published": "2026-07-10T16:26:10+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
-    "id": "a4e991",
-    "feed_name": "BleepingComputer",
-    "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-    "summary": "Hackers are exploiting a critical authentication bypass vulnerability in the official Gitea Docker image. This allows attackers to impersonate any user, including administrators of the self-hosted Git service.",
-    "bullets": [
-      "Critical auth bypass in Gitea Docker image exploited.",
-      "Attackers can impersonate any user.",
-      "Admin accounts are also at risk.",
-      "Affects official Gitea Docker image."
-    ],
-    "published": "2026-07-10T15:48:38+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
-    "id": "cada94",
-    "feed_name": "BleepingComputer",
-    "title": "Money launderer accused of stealing seized crypto while in prison",
-    "url": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-    "summary": "A Bulgarian national already serving prison time for money laundering is accused of stealing $290,000 in seized cryptocurrency. He allegedly committed the theft while incarcerated.",
-    "bullets": [
-      "Money launderer accused of crypto theft",
-      "Accused while in prison",
-      "Stole $290,000 in seized crypto",
-      "Previously laundered millions from fraud victims"
-    ],
-    "published": "2026-07-10T15:30:19+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
-    "id": "baf61f",
-    "feed_name": "BleepingComputer",
-    "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-    "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-    "summary": "AI agents are increasing the number of non-human identities in organizations, complicating visibility into their existence, ownership, and access rights. Netwrix highlights the growing importance of enhanced visibility and identity governance to manage the expanded enterprise attack surface driven by AI.",
-    "bullets": [
-      "AI agents boost non-human identities.",
-      "Visibility and ownership challenges increase.",
-      "Access control becomes harder.",
-      "AI expands enterprise attack surface.",
-      "Stronger identity governance is needed."
-    ],
-    "published": "2026-07-10T14:00:10+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
-    "id": "e92d32",
-    "feed_name": "BleepingComputer",
-    "title": "Zimbra urges customers to patch critical web client XSS flaw",
-    "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-    "summary": "Zimbra is advising customers to apply patches for a critical vulnerability in their Classic Web Client. This flaw affects access to the Zimbra Collaboration suite.",
-    "bullets": [
-      "Zimbra customers urged to patch",
-      "Critical vulnerability identified",
-      "Affects Classic Web Client",
-      "Impacts Zimbra Collaboration access"
-    ],
-    "published": "2026-07-10T11:47:38+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
-    "id": "622a72",
-    "feed_name": "BleepingComputer",
-    "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-    "summary": "A former DigitalMint employee received a 70-month prison sentence for his involvement in BlackCat ransomware attacks. These attacks specifically targeted U.S. companies.",
-    "bullets": [
-      "Former ransomware negotiator sentenced",
-      "70 months in prison",
-      "Involved in BlackCat (ALPHV) attacks",
-      "Targeted U.S. companies"
-    ],
-    "published": "2026-07-10T08:17:52+00:00",
-    "seen": "2026-07-11",
-    "promoted": false
-  },
-  {
     "id": "9c1ee0",
     "feed_name": "BleepingComputer",
     "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
@@ -4568,6 +4424,181 @@
     ],
     "published": "2026-07-08T12:31:39+00:00",
     "seen": "2026-08-10",
+    "promoted": false
+  },
+  {
+    "id": "097ff3",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #336 - Autonomous Vulnerability Hunting, GuardDog 3.0, Are Bug Bounties Cooked?",
+    "url": "https://tldrsec.com/p/tldr-sec-336",
+    "summary": "This item covers a new autonomous vulnerability hunting system powered by MCP that continuously finds and reproduces exploits. It also discusses updates to GuardDog, Datadog's open-source malware hunting tool, and Hakluke's thoughts on the future of bug bounty programs.",
+    "bullets": [
+      "Autonomous vulnerability hunting system",
+      "GuardDog 3.0 updates",
+      "Future of bug bounties"
+    ],
+    "published": "2026-07-09T14:30:00+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "70cc5c",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers breached a small Polish energy plant via private APN last year",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+    "summary": "Hackers successfully breached a Polish energy plant that provides heat to roughly 50,000 people. The attackers gained access to the plant's Operational Technology (OT) network through a private APN. This incident highlights a potential vulnerability in energy infrastructure security.",
+    "bullets": [
+      "Polish energy plant hacked",
+      "OT network compromised",
+      "Access via private APN",
+      "Impacts 50,000 residents"
+    ],
+    "published": "2026-08-10T23:07:21+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "16de36",
+    "feed_name": "BleepingComputer",
+    "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+    "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+    "summary": "BdThemes, a provider of premium WordPress plugins, was compromised in a supply-chain attack. A threat actor modified a JSON feed to inject rogue administrator accounts into WordPress sites using these plugins.",
+    "bullets": [
+      "BdThemes plugins compromised.",
+      "Supply-chain attack.",
+      "Rogue WordPress admins created.",
+      "Modified upstream JSON feed."
+    ],
+    "published": "2026-08-10T21:12:10+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "fd1673",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+    "summary": "OpenAI has released a new AI model called GPT 5.6 Cyber. This model is specifically designed for cybersecurity tasks such as vulnerability research, penetration testing, incident response, and remediation.",
+    "bullets": [
+      "OpenAI releases GPT 5.6 Cyber",
+      "Aimed at cybersecurity professionals",
+      "Supports vulnerability research",
+      "Includes penetration testing capabilities",
+      "Assists with incident response",
+      "Aids in remediation efforts"
+    ],
+    "published": "2026-08-10T19:24:40+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "007e14",
+    "feed_name": "BleepingComputer",
+    "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+    "url": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+    "summary": "A threat actor formerly linked to the Medusa ransomware is now using a new strain named StormEncryptor. This actor is financially motivated.",
+    "bullets": [
+      "New ransomware: StormEncryptor",
+      "Previously associated with Medusa",
+      "Actor is financially motivated"
+    ],
+    "published": "2026-08-10T17:42:00+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "36f7fa",
+    "feed_name": "BleepingComputer",
+    "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+    "summary": "CISA has confirmed that ransomware gangs are actively exploiting two SonicWall SMA1000 vulnerabilities. These flaws were recently patched by SonicWall. One of the exploited vulnerabilities is a critical server-side request forgery (SSRF) flaw.",
+    "bullets": [
+      "Ransomware gangs exploiting SonicWall SMA1000 flaws",
+      "Two vulnerabilities affected",
+      "Includes critical SSRF flaw",
+      "Flaws recently patched"
+    ],
+    "published": "2026-08-10T14:34:32+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "1d01b1",
+    "feed_name": "BleepingComputer",
+    "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+    "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+    "summary": "AI is enhancing malicious attacks like phishing and credential theft, making traditional security measures such as passwords and MFA less effective. Organizations are incorporating device trust into their Zero Trust strategies to counter these evolving threats.",
+    "bullets": [
+      "AI boosts phishing and credential theft efficiency.",
+      "Passwords, MFA, IP reputation, and geolocation are easier to bypass.",
+      "Device trust is becoming a key part of Zero Trust.",
+      "Specops explains the shift to device trust."
+    ],
+    "published": "2026-08-10T14:01:11+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "8372a1",
+    "feed_name": "BleepingComputer",
+    "title": "Member of The Com sent to prison for blackmail, sextortion",
+    "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+    "summary": "A member of the cybercrime group 'The Com' has been sentenced to two years in prison. The individual committed blackmail and sextortion offenses against approximately 120 victims globally, many of whom were children and teenagers.",
+    "bullets": [
+      "The Com member sentenced to prison",
+      "Offenses: blackmail, sextortion",
+      "Targeted children and teenagers",
+      "Nearly 120 victims worldwide"
+    ],
+    "published": "2026-08-10T12:56:28+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "f6471b",
+    "feed_name": "BleepingComputer",
+    "title": "LexisNexis shuts down services after suspicious activity on servers",
+    "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+    "summary": "LexisNexis has taken several services offline due to suspicious activity detected on their servers. The affected services include Diligence, Metabase API, and Newsdesk. The company is responding to unusual activity on servers managed by a third-party vendor.",
+    "bullets": [
+      "LexisNexis services offline",
+      "Suspicious activity on servers",
+      "Diligence, Metabase API, Newsdesk affected",
+      "Third-party vendor involved"
+    ],
+    "published": "2026-08-10T12:11:52+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "dcd598",
+    "feed_name": "BleepingComputer",
+    "title": "Valve notifies Steam hardware customers of a data breach",
+    "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+    "summary": "Valve, the publisher of Steam, is informing European hardware customers about a data breach. Hackers accessed customer data by compromising Valve's shipping partner, CEVA Logistics.",
+    "bullets": [
+      "Valve (Steam) data breach affecting European hardware customers.",
+      "Breach occurred via shipping partner CEVA Logistics.",
+      "Customer data was stolen by hackers."
+    ],
+    "published": "2026-08-10T11:47:55+00:00",
+    "seen": "2026-08-11",
+    "promoted": false
+  },
+  {
+    "id": "273bf1",
+    "feed_name": "BleepingComputer",
+    "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+    "summary": "Hackers are actively exploiting a critical command injection vulnerability in Progress Kemp LoadMaster devices. The U.S. CISA has issued a warning about this ongoing exploitation.",
+    "bullets": [
+      "Critical Progress LoadMaster flaw.",
+      "Command injection vulnerability.",
+      "Actively exploited in attacks.",
+      "CISA issued warning."
+    ],
+    "published": "2026-08-10T09:49:37+00:00",
+    "seen": "2026-08-11",
     "promoted": false
   }
 ]

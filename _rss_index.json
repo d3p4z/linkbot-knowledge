@@ -1,51 +1,5 @@
 [
   {
-    "id": "d61c01",
-    "feed_name": "BleepingComputer",
-    "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-    "summary": "OpenAI has temporarily increased usage limits for its GPT-5.6 Sol model. This decision comes after experiencing a significant surge in demand for the model over the last two days.",
-    "bullets": [
-      "OpenAI relaxes GPT-5.6 Sol usage limits",
-      "Temporary measure due to high demand",
-      "Demand surged in past 48 hours"
-    ],
-    "published": "2026-07-13T00:44:44+00:00",
-    "seen": "2026-07-13",
-    "promoted": false
-  },
-  {
-    "id": "b7be8c",
-    "feed_name": "BleepingComputer",
-    "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-    "summary": "Anthropic has extended free access to Claude Fable 5 for paid users. This extension will last until July 19, providing an additional week to use the model.",
-    "bullets": [
-      "Claude Fable 5 access extended",
-      "Free for paid users",
-      "Until July 19"
-    ],
-    "published": "2026-07-12T19:39:12+00:00",
-    "seen": "2026-07-13",
-    "promoted": false
-  },
-  {
-    "id": "83ed2b",
-    "feed_name": "BleepingComputer",
-    "title": "RedHook Android malware now uses Wireless ADB for shell access",
-    "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-    "summary": "RedHook Android malware has been updated to exploit Wireless ADB for shell access. This new method allows the malware to gain privileges without needing a computer connection.",
-    "bullets": [
-      "RedHook Android malware updated",
-      "Uses Wireless ADB feature",
-      "Gains shell-level privileges",
-      "No computer connection needed"
-    ],
-    "published": "2026-07-12T14:27:32+00:00",
-    "seen": "2026-07-13",
-    "promoted": false
-  },
-  {
     "id": "688d42",
     "feed_name": "Krebs on Security",
     "title": "Lessons Learned from CISA’s Recent GitHub Leak",
@@ -4742,6 +4696,169 @@
     ],
     "published": "2026-08-11T13:20:28+00:00",
     "seen": "2026-08-12",
+    "promoted": false
+  },
+  {
+    "id": "bd3c6a",
+    "feed_name": "BleepingComputer",
+    "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+    "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+    "summary": "A data theft campaign named \"City-Forum\" is actively targeting Salesforce and ServiceNow portals. The attackers exploit vulnerabilities that expose data to anonymous users via Salesforce Experience Cloud and ServiceNow customer portals.",
+    "bullets": [
+      "\"City-Forum\" data-theft campaign identified.",
+      "Targets Salesforce and ServiceNow portals.",
+      "Exploits anonymous data exposure.",
+      "Uses custom tools for data theft."
+    ],
+    "published": "2026-08-12T23:07:23+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "eda1b9",
+    "feed_name": "BleepingComputer",
+    "title": "Android malware combo takes out loans and relays victims' credit cards",
+    "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+    "summary": "A new Android malware, WindRelay, is stealing credit card data in real-time. It works with the SpyNote RAT to relay victims' live card information to attackers. The malware exploits NFC capabilities.",
+    "bullets": [
+      "Android malware WindRelay identified.",
+      "Steals live credit card data.",
+      "Uses SpyNote RAT in tandem.",
+      "Relays stolen card info to attackers.",
+      "Exploits NFC functionality."
+    ],
+    "published": "2026-08-12T22:22:57+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "e7b780",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+    "summary": "A critical vulnerability in Adobe Commerce and Magento has been detected. Attackers are attempting to exploit this flaw, which could lead to customer account hijacking.",
+    "bullets": [
+      "Adobe Commerce/Magento critical vulnerability (CVE-2026-71362)",
+      "Exploitation attempts detected",
+      "Potential for customer account hijacking"
+    ],
+    "published": "2026-08-12T20:54:59+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "965eb2",
+    "feed_name": "BleepingComputer",
+    "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+    "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+    "summary": "Over 737 Chrome browser extensions posing as legitimate VPNs were found on the Chrome Web Store. These malicious extensions redirected users' internet traffic through SOCKS5 proxies controlled by a single entity.",
+    "bullets": [
+      "737+ fake Chrome VPN extensions discovered",
+      "Impersonated known VPN/proxy services",
+      "Routed traffic through SOCKS5 proxies",
+      "Proxies operated by one provider"
+    ],
+    "published": "2026-08-12T18:54:57+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "97dc6e",
+    "feed_name": "BleepingComputer",
+    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+    "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+    "summary": "New \"Plug and Pwn\" attacks exploit Windows Plug and Play. Attackers use fake USB devices to trick Windows into installing vulnerable software. This can grant SYSTEM-level access.",
+    "bullets": [
+      "Plug and Pwn attack discovered",
+      "Abuses Windows Plug and Play",
+      "Uses fake USB devices",
+      "Triggers installation of vulnerable software",
+      "Gains SYSTEM privileges"
+    ],
+    "published": "2026-08-12T16:05:12+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "37cab2",
+    "feed_name": "BleepingComputer",
+    "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+    "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+    "summary": "Lazarus hackers, linked to North Korea, are using a previously unknown Windows vulnerability (CVE-2026-68820). This zero-day exploit is being used in a campaign called Operation Dream Job to target defense companies.",
+    "bullets": [
+      "Lazarus hackers exploiting Windows zero-day",
+      "Vulnerability identifier: CVE-2026-68820",
+      "Targets: Defense sector companies",
+      "Campaign name: Operation Dream Job",
+      "North Korean state-sponsored activity"
+    ],
+    "published": "2026-08-12T15:38:08+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "5cd561",
+    "feed_name": "BleepingComputer",
+    "title": "FBI: Hackers target online accounts to steal nude photos",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+    "summary": "The FBI is issuing a warning about cybercriminals targeting online accounts. These hackers aim to steal sexually explicit images and videos from both adults and children.",
+    "bullets": [
+      "FBI warning issued",
+      "Hackers targeting online accounts",
+      "Goal: steal nude photos/videos",
+      "Targets: adults and children"
+    ],
+    "published": "2026-08-12T14:15:09+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "1e9863",
+    "feed_name": "BleepingComputer",
+    "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+    "url": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+    "summary": "Fake remote workers can infiltrate companies by exploiting delays in the hiring process between background checks, device delivery, and account setup. Specops Software suggests using document verification and biometric liveness checks to ensure the correct individual is granted access.",
+    "bullets": [
+      "Fake remote workers exploit hiring process gaps.",
+      "Threats between checks, delivery, and access.",
+      "Solution: document verification.",
+      "Solution: biometric liveness checks.",
+      "Confirm legitimate new hire access."
+    ],
+    "published": "2026-08-12T14:01:11+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "b9696e",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+    "summary": "Hackers are actively exploiting a critical vulnerability in Microsoft SharePoint. A proof-of-concept exploit for this flaw was recently published by Rapid7.",
+    "bullets": [
+      "SharePoint vulnerability exploited",
+      "Exploit published by Rapid7",
+      "Critical vulnerability targeted",
+      "Active exploitation by hackers"
+    ],
+    "published": "2026-08-12T12:25:37+00:00",
+    "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "426ea2",
+    "feed_name": "BleepingComputer",
+    "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+    "summary": "Signal has launched a new security feature called Automatic Key Verification. This feature helps users confirm that their encrypted conversations have not been intercepted by a man-in-the-middle attack.",
+    "bullets": [
+      "Signal adds new security feature",
+      "Automatic Key Verification",
+      "Protects against man-in-the-middle attacks",
+      "Ensures chat interception hasn't occurred"
+    ],
+    "published": "2026-08-12T11:21:42+00:00",
+    "seen": "2026-08-13",
     "promoted": false
   }
 ]

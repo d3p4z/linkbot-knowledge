@@ -1,164 +1,5 @@
 [
   {
-    "id": "688d42",
-    "feed_name": "Krebs on Security",
-    "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-    "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-    "summary": "CISA experienced a data leak where internal credentials, including AWS keys, were exposed on GitHub for six months. This incident highlights critical lessons for security teams regarding response and oversight.",
-    "bullets": [
-      "CISA credentials leaked via public GitHub",
-      "AWS Govcloud keys exposed",
-      "Leak unaddressed for six months",
-      "KrebsOnSecurity alerted CISA",
-      "Incident offers lessons for security teams"
-    ],
-    "published": "2026-07-13T15:03:28+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "9be45c",
-    "feed_name": "BleepingComputer",
-    "title": "Japan's largest taxi operator shuts systems after cyberattack",
-    "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-    "summary": "Japan's largest taxi company, Nihon Kotsu, has shut down part of its systems due to a cyberattack. The incident has compromised the company's infrastructure.",
-    "bullets": [
-      "Nihon Kotsu targeted by cyberattack",
-      "Systems compromised",
-      "Infrastructure partially shut down"
-    ],
-    "published": "2026-07-13T20:18:59+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "93e963",
-    "feed_name": "BleepingComputer",
-    "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-    "summary": "Hackers compromised the Jscrambler npm package by uploading a malicious version containing infostealer malware. The compromised package was downloaded approximately 1,500 times before the issue was disclosed.",
-    "bullets": [
-      "Jscrambler npm package backdoored",
-      "Infostealer malware inserted",
-      "Almost 1,500 downloads"
-    ],
-    "published": "2026-07-13T19:44:19+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "aaa03e",
-    "feed_name": "BleepingComputer",
-    "title": "New CrashStealer malware poses as Apple crash reporting tool",
-    "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-    "summary": "New macOS malware named CrashStealer is impersonating Apple's crash reporting tool. It aims to steal user credentials, keychain data, and cryptocurrency wallet information.",
-    "bullets": [
-      "New macOS malware: CrashStealer",
-      "Disguises as Apple crash reporting",
-      "Steals credentials",
-      "Targets keychain data",
-      "Targets crypto wallets"
-    ],
-    "published": "2026-07-13T19:04:02+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "918efb",
-    "feed_name": "BleepingComputer",
-    "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-    "summary": "CISA has issued a warning about actively exploited vulnerabilities in Joomla extensions. Attackers are using flaws in iCagenda and Balbooa Forms to perform remote code execution via arbitrary file uploads.",
-    "bullets": [
-      "CISA warns of exploited Joomla extension flaws",
-      "Remote Code Execution (RCE)",
-      "Arbitrary file uploads used",
-      "iCagenda and Balbooa Forms affected"
-    ],
-    "published": "2026-07-13T15:20:16+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "30c4aa",
-    "feed_name": "BleepingComputer",
-    "title": "Lidl discloses online shop breach after service provider hack",
-    "url": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-    "summary": "Lidl, a German discount supermarket chain, is informing customers in Germany, Belgium, and the Netherlands about a data breach. Attackers gained access to personal information through a hack targeting one of Lidl's service providers.",
-    "bullets": [
-      "Lidl breach notification",
-      "Affects Germany, Belgium, Netherlands",
-      "Personal data stolen",
-      "Hack targeted a service provider"
-    ],
-    "published": "2026-07-13T14:19:43+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "4daa55",
-    "feed_name": "BleepingComputer",
-    "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-    "url": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-    "summary": "Varonis is offering a free Capture the Flag event called \"Breach at the Beach.\" This CTF is designed to teach defenders how to investigate Entra ID attack techniques through realistic scenarios.",
-    "bullets": [
-      "Entra ID CTF event: Breach at the Beach",
-      "Learn Entra ID attack investigation",
-      "Hands-on, realistic scenarios",
-      "Free for defenders"
-    ],
-    "published": "2026-07-13T14:01:11+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "0415f0",
-    "feed_name": "BleepingComputer",
-    "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-    "url": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-    "summary": "UK authorities have charged five individuals in connection with Russian Coms, a large platform used for caller ID spoofing. This platform was reportedly used by criminals to make over 1.8 million scam calls. The investigation was conducted by the National Crime Agency (NCA).",
-    "bullets": [
-      "UK charges 5 suspects",
-      "Linked to Russian Coms spoofing platform",
-      "Used for over 1.8M scam calls",
-      "NCA investigation"
-    ],
-    "published": "2026-07-13T13:23:30+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "4da16f",
-    "feed_name": "BleepingComputer",
-    "title": "EU sanctions Russian GRU military hackers over cyberattacks",
-    "url": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-    "summary": "The European Union and the United Kingdom have jointly imposed sanctions on Russian GRU military hackers. These sanctions target individuals and entities accused of coordinating cyberattacks across Europe.",
-    "bullets": [
-      "EU and UK sanction Russian GRU hackers",
-      "Accused of coordinating cyberattack network",
-      "Attacks targeted Europe"
-    ],
-    "published": "2026-07-13T11:19:05+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
-    "id": "ccd480",
-    "feed_name": "BleepingComputer",
-    "title": "US and allies warn of Russian critical infrastructure attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-    "summary": "US and allied cybersecurity agencies have warned about Russian state hackers targeting critical infrastructure. The hackers are exploiting vulnerable and misconfigured routers to gain access to these networks.",
-    "bullets": [
-      "Russian hackers targeting critical infrastructure",
-      "Exploiting vulnerable routers",
-      "Gaining access to networks",
-      "Joint warning from US and allies"
-    ],
-    "published": "2026-07-13T09:32:23+00:00",
-    "seen": "2026-07-14",
-    "promoted": false
-  },
-  {
     "id": "099ca0",
     "feed_name": "Krebs on Security",
     "title": "Microsoft Patches a Record 570 Security Flaws",
@@ -4859,6 +4700,198 @@
     ],
     "published": "2026-08-12T11:21:42+00:00",
     "seen": "2026-08-13",
+    "promoted": false
+  },
+  {
+    "id": "710d9f",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #341 - Hugging Face Incident Black Hat Talk, CSS Bomb in your Inbox, GitHub Supply Chain Security Improvements",
+    "url": "https://tldrsec.com/p/tldr-sec-341",
+    "summary": "This item covers a Hugging Face security incident, a talk about a Black Hat presentation on the topic, and a method for weaponizing CSS in webmail clients. It also mentions security improvements on the GitHub platform.",
+    "bullets": [
+      "Hugging Face incident deep dive",
+      "Black Hat talk on HF incident",
+      "CSS bomb vulnerability in webmail",
+      "GitHub supply chain security updates"
+    ],
+    "published": "2026-08-13T14:30:00+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "7cb908",
+    "feed_name": "BleepingComputer",
+    "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+    "summary": "Apple is sending out new 'Threat Notification' alerts to iPhone users. These alerts indicate that the user's device may have been targeted by a mercenary spyware attack.",
+    "bullets": [
+      "Apple sends 'Threat Notification' alerts",
+      "Alerts concern mercenary spyware attacks",
+      "Targeting is specifically for iPhones"
+    ],
+    "published": "2026-08-14T01:19:12+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "7ba1d3",
+    "feed_name": "BleepingComputer",
+    "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
+    "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
+    "summary": "Ukrainian authorities have shut down 94 fraudulent call centers nationwide. These centers were reportedly engaged in investment scams and attempts to gain access to bank accounts.",
+    "bullets": [
+      "Ukraine shut down 94 call centers.",
+      "Centers involved in investment scams.",
+      "Also targeted bank accounts.",
+      "Millions in cash seized."
+    ],
+    "published": "2026-08-13T21:12:47+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "286ed9",
+    "feed_name": "BleepingComputer",
+    "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+    "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+    "summary": "Akira ransomware affiliates successfully bypassed endpoint detection and response (EDR) by rebooting into Safe Mode with Networking. They managed to steal data from the compromised system, but failed to encrypt it.",
+    "bullets": [
+      "Akira hackers disabled EDR",
+      "Used Safe Mode with Networking",
+      "Stole data",
+      "Failed to encrypt"
+    ],
+    "published": "2026-08-13T20:47:02+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "b28e69",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers breach govt webmail while running parallel crypto fraud",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
+    "summary": "The Jewelbug hacker group has been conducting espionage against government and military targets. Simultaneously, they have been involved in cryptocurrency fraud operations.",
+    "bullets": [
+      "Jewelbug hackers active",
+      "Targeting governments/militaries",
+      "Conducting espionage",
+      "Running crypto fraud"
+    ],
+    "published": "2026-08-13T18:15:19+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "7edcc5",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+    "summary": "Microsoft has released security updates to fix a zero-day vulnerability in Windows called \"LegacyHive.\" This issue was publicly disclosed after the July 2026 Patch Tuesday updates were issued.",
+    "bullets": [
+      "Microsoft patches Windows zero-day",
+      "Vulnerability named \"LegacyHive\"",
+      "Disclosed post-July 2026 Patch Tuesday"
+    ],
+    "published": "2026-08-13T17:46:20+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "72338f",
+    "feed_name": "BleepingComputer",
+    "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
+    "url": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
+    "summary": "Numerous tools claiming to remove AI watermarks have appeared online shortly after Anthropic introduced watermarking for its Claude model. However, the effectiveness of these 'removers' cannot be verified as Anthropic has not released a detection tool.",
+    "bullets": [
+      "AI watermark removers are emerging online.",
+      "Anthropic recently started watermarking Claude's text.",
+      "No 'remover' claims can be verified yet.",
+      "Anthropic has not released a detector."
+    ],
+    "published": "2026-08-13T17:33:28+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "3a6f2d",
+    "feed_name": "BleepingComputer",
+    "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+    "summary": "A critical vulnerability in VMware vCenter Syslog Server (CVE-2026-59310) has been patched. This flaw is actively being exploited by attackers to gain reverse SSH access and establish persistence.",
+    "bullets": [
+      "Critical VMware vCenter Syslog RCE flaw (CVE-2026-59310)",
+      "Recently patched",
+      "Actively exploited in the wild",
+      "Used to deploy reverse SSH tool",
+      "Enables persistence and remote access"
+    ],
+    "published": "2026-08-13T16:40:23+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "740c79",
+    "feed_name": "BleepingComputer",
+    "title": "Trezor discloses data breach affecting nearly 14,000 customers",
+    "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+    "summary": "Trezor, a hardware wallet company, reported a data breach impacting approximately 14,000 customers. The breach occurred because ShipMonk, their shipping and logistics partner, was compromised.",
+    "bullets": [
+      "Trezor data breach",
+      "~14,000 customers affected",
+      "Caused by ShipMonk hack",
+      "ShipMonk is logistics provider"
+    ],
+    "published": "2026-08-13T15:13:19+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "7258aa",
+    "feed_name": "BleepingComputer",
+    "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+    "url": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+    "summary": "AI coding tools can quickly introduce unvetted or potentially flawed open source dependencies. Traditional security reviews struggle to keep pace with this rapid ingestion. Organizations need to govern package selection before they enter development.",
+    "bullets": [
+      "AI tools speed up open source dependency introduction.",
+      "Vetting and hallucination risks increase.",
+      "Traditional security reviews lag behind.",
+      "Govern packages at selection point.",
+      "Prevent issues before development pipeline."
+    ],
+    "published": "2026-08-13T14:00:10+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "b4e444",
+    "feed_name": "BleepingComputer",
+    "title": "White House taps security firms for offensive hack-back operations",
+    "url": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+    "summary": "The White House has initiated a new program allowing private security firms to seek approval for offensive cyber operations. This program, directed by a presidential memo, aims to target foreign cybercrime organizations.",
+    "bullets": [
+      "White House memo signed by President Trump",
+      "National Coordination Center (NCC) to establish program",
+      "Private security firms can apply for approval",
+      "Operations will target foreign cybercrime organizations",
+      "Program involves offensive hack-back capabilities"
+    ],
+    "published": "2026-08-13T13:30:53+00:00",
+    "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "b101ca",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "License data quality improvements",
+    "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+    "summary": "GitHub is enhancing the accuracy of license information for software components within its dependency graph. It now leverages package registries like npmjs.org and PyPI to source this data.",
+    "bullets": [
+      "GitHub improving license data quality.",
+      "Uses npmjs.org and PyPI for license info.",
+      "Enhances accuracy and completeness of displayed licenses."
+    ],
+    "published": "2026-08-13T19:14:12+00:00",
+    "seen": "2026-08-14",
     "promoted": false
   }
 ]

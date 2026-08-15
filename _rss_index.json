@@ -1,180 +1,5 @@
 [
   {
-    "id": "099ca0",
-    "feed_name": "Krebs on Security",
-    "title": "Microsoft Patches a Record 570 Security Flaws",
-    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "summary": "Microsoft released updates addressing at least 570 security flaws across its software. This is nearly triple the number patched last month. The company attributes the increase in vulnerabilities discovered to the aid of artificial intelligence.",
-    "bullets": [
-      "Microsoft patched 570+ security flaws",
-      "Record number of vulnerabilities",
-      "Almost 3x last month's count",
-      "AI aided vulnerability discovery"
-    ],
-    "published": "2026-07-14T19:22:42+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "c52b28",
-    "feed_name": "BleepingComputer",
-    "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
-    "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-    "summary": "SonicWall is alerting users about two critical vulnerabilities in their SMA1000 devices. These flaws, identified as CVE-2026-15409 and CVE-2026-15410, are already being actively exploited in zero-day attacks. Customers are strongly advised to apply the available security patches immediately.",
-    "bullets": [
-      "SonicWall SMA1000 vulnerabilities",
-      "CVE-2026-15409 and CVE-2026-15410",
-      "Actively exploited in zero-day attacks",
-      "Patch immediately"
-    ],
-    "published": "2026-07-14T21:23:24+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "6ce1e8",
-    "feed_name": "BleepingComputer",
-    "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-    "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-    "summary": "Spanish Police have dismantled a large cybercrime and money-laundering operation. The organization generated €140 million ($160 million) through investment fraud and Business Email Compromise (BEC) attacks. Four arrests have been made.",
-    "bullets": [
-      "Spanish Police operation",
-      "€140 million cyber fraud ring",
-      "Investment fraud and BEC attacks",
-      "Money-laundering involved",
-      "Four arrests made"
-    ],
-    "published": "2026-07-14T20:23:09+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "d1df2d",
-    "feed_name": "BleepingComputer",
-    "title": "Nearly 300 GitHub repos pose as legit software to push malware",
-    "url": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
-    "summary": "A threat actor created nearly 300 GitHub repositories. These repos pretend to be real software and security projects. Their goal is to spread infostealer malware.",
-    "bullets": [
-      "Hundreds of fake GitHub repos found.",
-      "Impersonate legit software/security projects.",
-      "Distribute infostealer malware."
-    ],
-    "published": "2026-07-14T19:15:17+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "f1d611",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft releases Windows 10 KB5099539 extended security update",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-    "summary": "Microsoft has released the Windows 10 KB5099539 extended security update. This update includes security fixes from July 2026's Patch Tuesday, addressing 570 vulnerabilities.",
-    "bullets": [
-      "Windows 10 KB5099539 released",
-      "Extended security update",
-      "Includes July 2026 Patch Tuesday fixes",
-      "Addresses 570 vulnerabilities"
-    ],
-    "published": "2026-07-14T18:49:28+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "6c7abf",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-    "summary": "Microsoft's July 2026 Patch Tuesday addresses a record 570 vulnerabilities. This includes two zero-day flaws already exploited in attacks and one publicly known vulnerability. This is the largest number of flaws patched on a single Patch Tuesday.",
-    "bullets": [
-      "July 2026 Patch Tuesday",
-      "570 vulnerabilities fixed",
-      "2 exploited zero-days",
-      "1 publicly disclosed vulnerability"
-    ],
-    "published": "2026-07-14T18:01:36+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "1a84d7",
-    "feed_name": "BleepingComputer",
-    "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-    "summary": "Microsoft released Windows 11 cumulative updates KB5101650 and KB5099414. These updates are for versions 25H2, 24H2, and 23H2. They address over 570 security issues.",
-    "bullets": [
-      "Windows 11 cumulative updates released",
-      "KB5101650 & KB5099414",
-      "For versions 25H2, 24H2, 23H2",
-      "Fixes over 570 security issues"
-    ],
-    "published": "2026-07-14T17:41:16+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "7d6382",
-    "feed_name": "BleepingComputer",
-    "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-    "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-    "summary": "Progress Software has confirmed a zero-day vulnerability caused the shutdown of ShareFile Storage Zone Controllers. Security updates have been released to address the high-severity flaw.",
-    "bullets": [
-      "ShareFile Storage Zone shutdown confirmed.",
-      "Caused by a zero-day vulnerability.",
-      "Vulnerability is high-severity.",
-      "Progress released security updates."
-    ],
-    "published": "2026-07-14T16:08:47+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "a0b214",
-    "feed_name": "BleepingComputer",
-    "title": "LastPass, Bitwarden users targeted with fake security alerts",
-    "url": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-    "summary": "LastPass is alerting users to a phishing campaign using fake security alerts. These fraudulent notices aim to trick users into visiting fake websites.",
-    "bullets": [
-      "LastPass users targeted",
-      "Phishing campaign active",
-      "Fake security alerts used",
-      "Fraudulent websites promoted"
-    ],
-    "published": "2026-07-14T15:31:52+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "fbb90b",
-    "feed_name": "BleepingComputer",
-    "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-    "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-    "summary": "This item discusses how to determine if a system is vulnerable without running a live exploit. It introduces the concept of TTP chaining, which validates the attack techniques an exploit relies on to assess exploitability.",
-    "bullets": [
-      "Vulnerability validation without live exploits.",
-      "Problem: Some systems too critical to test.",
-      "Solution: TTP chaining.",
-      "Validates exploit techniques, not the exploit itself."
-    ],
-    "published": "2026-07-14T14:00:10+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
-    "id": "7defe1",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-    "summary": "Microsoft Entra ID will make passkeys the default authentication method starting in September 2026. This change affects the enterprise identity service.",
-    "bullets": [
-      "Passkeys default for Microsoft Entra ID",
-      "Effective September 2026",
-      "Enterprise identity service update"
-    ],
-    "published": "2026-07-14T12:49:56+00:00",
-    "seen": "2026-07-15",
-    "promoted": false
-  },
-  {
     "id": "24efc6",
     "feed_name": "BleepingComputer",
     "title": "Dutch police bust investment fraud ring stealing over €100 million",
@@ -4892,6 +4717,183 @@
     ],
     "published": "2026-08-13T19:14:12+00:00",
     "seen": "2026-08-14",
+    "promoted": false
+  },
+  {
+    "id": "383398",
+    "feed_name": "watchTowr Labs",
+    "title": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))",
+    "url": "https://labs.watchtowr.com/youre-back-in-the-room-citrix-netscaler-pre-auth-rce-cve-2026-8452/",
+    "summary": "This post discusses a potential pre-authentication Remote Code Execution (RCE) vulnerability in Citrix NetScaler, possibly designated CVE-2026-8452. The excerpt uses an onboarding scenario to introduce the topic.",
+    "bullets": [
+      "Citrix NetScaler vulnerability",
+      "Pre-authentication RCE",
+      "Potential CVE-2026-8452"
+    ],
+    "published": "2026-08-14T07:08:20+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "ce0567",
+    "feed_name": "Krebs on Security",
+    "title": "Who’s Tracking You? Use This New Service to Find Out",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "summary": "A new free service called DecryptAds helps users identify entities tracking their online activity and mobile app usage. It scrapes and correlates adtech data, making it easier to understand who is harvesting personal information.",
+    "bullets": [
+      "New service: DecryptAds",
+      "Identifies ad trackers and data harvesters",
+      "Scrapes and correlates adtech data",
+      "Free to use"
+    ],
+    "published": "2026-08-14T11:24:35+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "688d42",
+    "feed_name": "Krebs on Security",
+    "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+    "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+    "summary": "CISA experienced a data leak where a contractor exposed internal credentials, including AWS keys, on GitHub for six months. The agency's postmortem highlights lessons for security teams based on the identified response gaps. This incident underscores the need for robust credential management and monitoring.",
+    "bullets": [
+      "CISA leak: internal credentials on GitHub",
+      "AWS Govcloud keys exposed",
+      "Leak visible for six months",
+      "KrebsOnSecurity notified CISA",
+      "Postmortem offers lessons for security teams"
+    ],
+    "published": "2026-07-13T15:03:28+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "591461",
+    "feed_name": "BleepingComputer",
+    "title": "How Anthropic plans to watermark Claude's AI-generated text",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+    "summary": "Anthropic is developing a method to watermark AI-generated text from its Claude models. This technology aims to make it easier to distinguish AI-produced content from human-written text.",
+    "bullets": [
+      "Anthropic developing AI text watermarking",
+      "Identify Claude-generated content",
+      "Distinguish AI vs human writing"
+    ],
+    "published": "2026-08-14T23:24:17+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "49d686",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+    "summary": "Four individuals were arrested in Brazil, and three others charged in Europe, for a cybercrime scheme. They allegedly exploited a flaw at a service provider to defraud Commerzbank customers of over €30 million.",
+    "bullets": [
+      "€30M bank fraud attributed to service provider flaw.",
+      "Four hackers arrested in Brazil.",
+      "Three charged in Europe.",
+      "Targeted Commerzbank customer accounts."
+    ],
+    "published": "2026-08-14T18:04:26+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "705b3c",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+    "summary": "Hackers are actively exploiting a macOS Screen Sharing flaw, according to the Netherlands' National Cyber Security Centre. This vulnerability allows for an authentication bypass. The exploitation is happening after public exploit code became available.",
+    "bullets": [
+      "macOS Screen Sharing flaw exploited",
+      "Authentication bypass vulnerability",
+      "Monero miner deployed",
+      "Public exploit code emerged",
+      "NCSC issuing warning"
+    ],
+    "published": "2026-08-14T14:59:55+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "0f227e",
+    "feed_name": "BleepingComputer",
+    "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+    "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+    "summary": "This item discusses modern attack chains against Google Workspace, highlighting that attacks aren't always phishing-based. It explains how stolen OAuth tokens can also grant access to sensitive data and systems within Workspace. The article emphasizes the need for comprehensive defenses covering the entire attack chain.",
+    "bullets": [
+      "Google Workspace attacks beyond phishing",
+      "Stolen OAuth tokens as an entry point",
+      "Access to Gmail, Drive, and connected systems",
+      "Need for full attack chain defenses"
+    ],
+    "published": "2026-08-14T14:00:10+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "7b0ed1",
+    "feed_name": "BleepingComputer",
+    "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+    "summary": "A critical remote code execution vulnerability in SAP Commerce Cloud, patched just three days ago, is already under active attack. Threat intelligence indicates exploitation is happening in the wild.",
+    "bullets": [
+      "Max severity SAP Commerce Cloud vulnerability",
+      "Remote code execution (RCE) flaw",
+      "Patched three days ago",
+      "Already being targeted in attacks",
+      "Reported by Defused"
+    ],
+    "published": "2026-08-14T13:45:18+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "519d04",
+    "feed_name": "BleepingComputer",
+    "title": "Shell investigates 'potential incident' after Clop data theft claims",
+    "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+    "summary": "Shell is investigating a possible security incident following claims by the Clop ransomware group. The group alleges they stole 89GB of data from the oil giant.",
+    "bullets": [
+      "Shell investigating potential security incident",
+      "Clop ransomware gang claims data theft",
+      "Alleged data stolen: 89GB"
+    ],
+    "published": "2026-08-14T11:55:45+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "15557c",
+    "feed_name": "BleepingComputer",
+    "title": "RingCentral data breach exposed info of 1.6 million accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+    "summary": "The extortion group ShinyHunters hacked RingCentral in July, stealing personal information from 1.6 million accounts. This breach was reported by the data breach notification service Have I Been Pwned.",
+    "bullets": [
+      "RingCentral data breach",
+      "1.6 million accounts affected",
+      "Personal information stolen",
+      "Attacker: ShinyHunters",
+      "Breach occurred in July"
+    ],
+    "published": "2026-08-14T10:52:05+00:00",
+    "seen": "2026-08-15",
+    "promoted": false
+  },
+  {
+    "id": "c6f2ca",
+    "feed_name": "BleepingComputer",
+    "title": "Data analyst sent to prison for stealing data, extorting employer",
+    "url": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
+    "summary": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison. He was involved in a $2.5 million extortion scheme targeting his employer by stealing data.",
+    "bullets": [
+      "Data analyst jailed for 2 years",
+      "Stole company data",
+      "Extorted employer for $2.5 million",
+      "Contractor for Brightly Software"
+    ],
+    "published": "2026-08-14T08:27:18+00:00",
+    "seen": "2026-08-15",
     "promoted": false
   }
 ]

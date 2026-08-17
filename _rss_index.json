@@ -1,179 +1,5 @@
 [
   {
-    "id": "7eb057",
-    "feed_name": "tl;dr sec",
-    "title": "[tl;dr sec] #337 - Harnessing Harnesses, Generate Decoy Environments, Bug Bounty Singularity",
-    "url": "https://tldrsec.com/p/tldr-sec-337",
-    "summary": "This item discusses the use of AI in security harnesses for vulnerability finding. It also covers the programmatic creation of complex decoy cloud environments and the development of automated hacking tools.",
-    "bullets": [
-      "AI-powered vulnerability finding harnesses",
-      "Programmatically build decoy cloud environments",
-      "Build hackbots"
-    ],
-    "published": "2026-07-16T14:30:00+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "330f59",
-    "feed_name": "BleepingComputer",
-    "title": "New ClickLock macOS malware traps users into revealing login password",
-    "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-    "summary": "New macOS malware called ClickLock has been discovered. It forces users to reveal their login password by terminating visible processes.",
-    "bullets": [
-      "New macOS malware: ClickLock",
-      "Steals login passwords",
-      "Terminates visible processes",
-      "Forces password entry"
-    ],
-    "published": "2026-07-16T21:52:54+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "f05c64",
-    "feed_name": "BleepingComputer",
-    "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-    "url": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-    "summary": "Coca-Cola announced that a ransomware attack has affected its Fairlife dairy subsidiary. This attack has caused disruptions and a temporary halt to Fairlife product production throughout the US.",
-    "bullets": [
-      "Ransomware attack on Fairlife (Coca-Cola subsidiary)",
-      "US dairy production suspended",
-      "Fairlife products affected"
-    ],
-    "published": "2026-07-16T21:09:41+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "5f5627",
-    "feed_name": "BleepingComputer",
-    "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-    "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-    "summary": "A vulnerability in the Claude for Chrome extension could allow malicious extensions to trigger AI actions. This exploit could potentially grant unauthorized access to connected services like Gmail and Google Docs by simulating user clicks.",
-    "bullets": [
-      "Claude Chrome extension flaw identified",
-      "Malicious extensions can trigger AI actions",
-      "Simulates user clicks to exploit",
-      "Potential abuse of connected services (Gmail, Docs, Calendar, Salesforce)"
-    ],
-    "published": "2026-07-16T19:26:07+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "e492f0",
-    "feed_name": "BleepingComputer",
-    "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-    "url": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-    "summary": "A new malicious framework named OkoBot has been identified. It deploys over 20 different payloads aimed at stealing sensitive information. The primary targets include cryptocurrency wallet seed phrases and user credentials.",
-    "bullets": [
-      "New OkoBot framework detected",
-      "Deploys 20+ payloads",
-      "Steals crypto wallet seed phrases",
-      "Targets credentials",
-      "Also steals other sensitive data"
-    ],
-    "published": "2026-07-16T19:09:35+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "8cac00",
-    "feed_name": "BleepingComputer",
-    "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-    "url": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-    "summary": "AI agents are disrupting traditional security workflows that were designed for slower, human-paced changes. Token Security suggests a new approach focused on a live identity foundation. This allows security teams to build custom workflows adaptable to their specific environments.",
-    "bullets": [
-      "AI agents change security needs.",
-      "Old methods too slow for AI.",
-      "New approach: live identity foundation.",
-      "Security teams need flexible workflows.",
-      "Tailor workflows to specific environments."
-    ],
-    "published": "2026-07-16T14:00:10+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "e5a9ce",
-    "feed_name": "BleepingComputer",
-    "title": "23andMe to pay $18 million in new genetics data breach settlement",
-    "url": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-    "summary": "Genetic testing company 23andMe will pay $18 million to resolve claims from 43 state attorneys general. The settlement addresses allegations that the company failed to adequately protect customers' genetic data.",
-    "bullets": [
-      "23andMe settlement: $18 million",
-      "Reason: Failure to protect genetic data",
-      "Involved: 43 state attorneys general"
-    ],
-    "published": "2026-07-16T13:47:23+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "52a6df",
-    "feed_name": "BleepingComputer",
-    "title": "Scattered Spider members behind TfL hack get five years in prison",
-    "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-    "summary": "Two key members of the Scattered Spider cybercrime group have been sentenced to five years and six months in prison each. They were convicted for their involvement in the 2024 hack of Transport for London (TfL).",
-    "bullets": [
-      "Scattered Spider members jailed",
-      "TfL hack perpetrators",
-      "Sentenced to 5.5 years each",
-      "Hack occurred in 2024"
-    ],
-    "published": "2026-07-16T12:31:29+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "a9f30e",
-    "feed_name": "BleepingComputer",
-    "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-    "summary": "Microsoft is ending support for Windows 10 Enterprise LTSB 2016 and Windows 11 24H2 Home and Pro editions. These operating systems will stop receiving updates in approximately three months.",
-    "bullets": [
-      "Windows 10 Enterprise LTSB 2016 end of support",
-      "Windows 11 24H2 Home/Pro end of support",
-      "Updates cease in ~90 days"
-    ],
-    "published": "2026-07-16T11:59:24+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "bcc2c8",
-    "feed_name": "BleepingComputer",
-    "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-    "summary": "CISA has directed federal agencies to patch a critical vulnerability in Oracle E-Business Suite. Agencies must secure their systems by Saturday due to ongoing attacks exploiting this flaw.",
-    "bullets": [
-      "CISA order for federal agencies",
-      "Patch Oracle E-Business Suite flaw",
-      "Actively exploited vulnerability",
-      "Deadline: Saturday"
-    ],
-    "published": "2026-07-16T10:56:03+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
-    "id": "58532b",
-    "feed_name": "BleepingComputer",
-    "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
-    "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
-    "summary": "A Russian hacker group, UAT-11795, is distributing trojanized versions of WebEx and Zoom applications. These compromised apps are used to deploy a new backdoor malware known as Starland RAT.",
-    "bullets": [
-      "Russian hackers (UAT-11795) involved",
-      "Trojanized WebEx and Zoom apps used",
-      "New backdoor: Starland RAT deployed",
-      "Goals: Steal credentials and crypto"
-    ],
-    "published": "2026-07-16T10:19:34+00:00",
-    "seen": "2026-07-17",
-    "promoted": false
-  },
-  {
     "id": "4e58c0",
     "feed_name": "BleepingComputer",
     "title": "Abbott probes two cyber incidents amid extortion claims",
@@ -4797,6 +4623,69 @@
     ],
     "published": "2026-08-15T14:14:38+00:00",
     "seen": "2026-08-16",
+    "promoted": false
+  },
+  {
+    "id": "0e4fc8",
+    "feed_name": "BleepingComputer",
+    "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+    "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+    "summary": "Cryptocurrency hardware wallet provider SafePal experienced a data breach that impacted 39,798 customers. A flaw was exploited to steal customer order information, and the stolen data is reportedly being offered for sale by a threat actor.",
+    "bullets": [
+      "SafePal data breach",
+      "39,798 customers affected",
+      "Customer order information stolen",
+      "Stolen data allegedly for sale"
+    ],
+    "published": "2026-08-16T23:47:06+00:00",
+    "seen": "2026-08-17",
+    "promoted": false
+  },
+  {
+    "id": "bd28a7",
+    "feed_name": "BleepingComputer",
+    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+    "summary": "Anthropic's AI model, Claude, is currently experiencing a significant outage. Users are reporting issues with logging in and overall degraded performance across various Anthropic services.",
+    "bullets": [
+      "Anthropic Claude is down.",
+      "Major outage impacting services.",
+      "Users report login problems.",
+      "Degraded performance noted."
+    ],
+    "published": "2026-08-16T22:28:57+00:00",
+    "seen": "2026-08-17",
+    "promoted": false
+  },
+  {
+    "id": "429ca2",
+    "feed_name": "BleepingComputer",
+    "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+    "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+    "summary": "The Threema secure messaging service experienced significant disruptions due to multiple large-scale distributed denial-of-service (DDoS) attacks earlier this week. These attacks severely impacted the service's communications.",
+    "bullets": [
+      "Threema secure messaging service targeted",
+      "Multiple large-scale DDoS attacks",
+      "Caused severe communication disruptions"
+    ],
+    "published": "2026-08-16T17:29:52+00:00",
+    "seen": "2026-08-17",
+    "promoted": false
+  },
+  {
+    "id": "8424d8",
+    "feed_name": "BleepingComputer",
+    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+    "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+    "summary": "A new macOS malware named AmnesiaStealer targets users through ClickFix attacks. It features a streaming module enabling attackers to remotely control the victim's web browser sessions.",
+    "bullets": [
+      "New macOS malware: AmnesiaStealer",
+      "Targets users via ClickFix attacks",
+      "Includes remote browser control module",
+      "Steals information"
+    ],
+    "published": "2026-08-16T15:07:44+00:00",
+    "seen": "2026-08-17",
     "promoted": false
   }
 ]

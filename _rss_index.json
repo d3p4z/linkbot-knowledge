@@ -1,20 +1,5 @@
 [
   {
-    "id": "c21c69",
-    "feed_name": "BleepingComputer",
-    "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-    "summary": "Hackers are exploiting the ViPNet private networking software's update function. This is being used to target Russian organizations, including government bodies.",
-    "bullets": [
-      "Hackers exploiting ViPNet updates",
-      "Targeting Russian organizations",
-      "Includes government agencies"
-    ],
-    "published": "2026-07-19T14:23:46+00:00",
-    "seen": "2026-07-20",
-    "promoted": false
-  },
-  {
     "id": "1b080f",
     "feed_name": "BleepingComputer",
     "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",

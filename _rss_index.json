@@ -1,21 +1,5 @@
 [
   {
-    "id": "7e7770",
-    "feed_name": "BleepingComputer",
-    "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-    "summary": "GitHub and PyPI have implemented a new time-based defense mechanism within Dependabot. This feature aims to protect against and reduce the impact of supply chain attacks.",
-    "bullets": [
-      "GitHub and PyPI added defenses",
-      "Mechanism is time-based",
-      "Protects against supply chain attacks",
-      "Uses Dependabot"
-    ],
-    "published": "2026-07-26T14:13:39+00:00",
-    "seen": "2026-07-27",
-    "promoted": false
-  },
-  {
     "id": "7eb729",
     "feed_name": "tl;dr sec",
     "title": "[tl;dr sec] #334 - Thinkst's Package Proxy, OpenAI Daybreak, AI Agents & Canaries",

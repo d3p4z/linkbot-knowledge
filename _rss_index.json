@@ -1,36 +1,5 @@
 [
   {
-    "id": "14bbe4",
-    "feed_name": "watchTowr Labs",
-    "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451)",
-    "url": "https://labs.watchtowr.com/citrixbleed-to-infinity-and-beyond-citrix-netscaler-pre-auth-memory-overread-cve-2026-8451/",
-    "summary": "This item discusses the CitrixBleed vulnerability, identified as a pre-authentication memory over-read in Citrix NetScaler, CVE-2026-8451. The author expresses a sense of predictability and perhaps surprise at encountering this issue.",
-    "bullets": [
-      "CitrixBleed vulnerability",
-      "Citrix NetScaler",
-      "Pre-authentication memory over-read",
-      "CVE-2026-8451"
-    ],
-    "published": "2026-06-30T19:35:58+00:00",
-    "seen": "2026-08-02",
-    "promoted": false
-  },
-  {
-    "id": "761f30",
-    "feed_name": "BleepingComputer",
-    "title": "Rails patches critical Active Storage flaw with RCE potential",
-    "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-    "summary": "A critical vulnerability has been found in Rails' Active Storage framework. An unauthenticated attacker could exploit this flaw to read arbitrary files from a Rails application. There is also a potential for this vulnerability to escalate to remote code execution.",
-    "bullets": [
-      "Critical vulnerability in Rails Active Storage",
-      "Unauthenticated attacker can read arbitrary files",
-      "Potential for Remote Code Execution (RCE)"
-    ],
-    "published": "2026-08-01T14:20:30+00:00",
-    "seen": "2026-08-02",
-    "promoted": false
-  },
-  {
     "id": "e9d700",
     "feed_name": "GitHub Security Lab",
     "title": "6 security settings every GitHub maintainer should enable this week",

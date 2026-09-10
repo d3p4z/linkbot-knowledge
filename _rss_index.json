@@ -1,22 +1,5 @@
 [
   {
-    "id": "f12f3a",
-    "feed_name": "Krebs on Security",
-    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-    "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-    "summary": "A cybersecurity startup offering millions for zero-day vulnerabilities is reportedly run by convicted felons with far-right ties. Their previous ventures included fake intelligence companies and an AI lobbying platform operated under aliases.",
-    "bullets": [
-      "Cybersecurity startup targets zero-day vulnerabilities.",
-      "Startup founders allegedly are convicted felons.",
-      "Founders have far-right ties and past ventures.",
-      "Previous ventures included fake intelligence and AI lobbying.",
-      "Operated under assumed names."
-    ],
-    "published": "2026-07-08T12:31:39+00:00",
-    "seen": "2026-08-10",
-    "promoted": false
-  },
-  {
     "id": "097ff3",
     "feed_name": "tl;dr sec",
     "title": "[tl;dr sec] #336 - Autonomous Vulnerability Hunting, GuardDog 3.0, Are Bug Bounties Cooked?",

@@ -1,37 +1,5 @@
 [
   {
-    "id": "099ca0",
-    "feed_name": "Krebs on Security",
-    "title": "Microsoft Patches a Record 570 Security Flaws",
-    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "summary": "Microsoft released updates addressing a record 570 security flaws in its software. This number is significantly higher than the previous month's record. The company cited artificial intelligence as a factor in the increased vulnerability discoveries.",
-    "bullets": [
-      "Record 570 security flaws patched by Microsoft",
-      "Almost triple last month's record",
-      "Windows OS and other software affected",
-      "AI aided vulnerability discoveries"
-    ],
-    "published": "2026-07-14T19:22:42+00:00",
-    "seen": "2026-08-16",
-    "promoted": false
-  },
-  {
-    "id": "ece78d",
-    "feed_name": "BleepingComputer",
-    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-    "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-    "summary": "A new botnet named Evooo1Bot, based on Mirai, is targeting internet-facing gateway devices. Its purpose is to convert these devices into SOCKS5 traffic relay nodes.",
-    "bullets": [
-      "New botnet: Evooo1Bot",
-      "Mirai-based",
-      "Targets gateway devices",
-      "Turns devices into SOCKS5 relays"
-    ],
-    "published": "2026-08-15T14:14:38+00:00",
-    "seen": "2026-08-16",
-    "promoted": false
-  },
-  {
     "id": "0e4fc8",
     "feed_name": "BleepingComputer",
     "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",

@@ -1,1 +1,1446 @@
-[]
+[
+  {
+    "id": "347b20",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #346 - Can AI Do Novel Security Research?, Anthropic's Threat Intel Report, How Cloudflare Enforces Engineering Standards",
+    "url": "https://tldrsec.com/p/tldr-sec-346",
+    "summary": "This item discusses AI's potential in security research, a report on threat actors exploiting Anthropic's systems, and Cloudflare's methods for maintaining engineering standards. It also mentions James Kettle's HTTP Terminator tool.",
+    "bullets": [
+      "AI for security research",
+      "Anthropic's threat intel report",
+      "Cloudflare's engineering standards",
+      "James Kettle's HTTP Terminator"
+    ],
+    "published": "2026-09-17T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "0652d3",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #345 - Bug Rumors → Exploits, Version Control DFIR, Agentic Worms",
+    "url": "https://tldrsec.com/p/tldr-sec-345",
+    "summary": "This newsletter discusses how bug descriptions can enable AI to create exploits. It also covers performing digital forensics and incident response for version control systems like GitHub and GitLab. Finally, it touches on a paper about self-replicating agentic worms.",
+    "bullets": [
+      "AI exploits from bug descriptions",
+      "DFIR for version control (GitHub, GitLab)",
+      "Agentic worms research",
+      "Bug rumors to exploits",
+      "Version control incident response"
+    ],
+    "published": "2026-09-10T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "d49be4",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #344 - VMs won't contain Cyber-capable Agents, AWS AI Security Analyst, Decompilers vs LLMs",
+    "url": "https://tldrsec.com/p/tldr-sec-344",
+    "summary": "This feed item discusses security challenges and advancements related to virtual machines and AI. It covers a method for escaping VM containment, a practical threat hunting agent, and a comparison of traditional decompilers with LLM-based approaches.",
+    "bullets": [
+      "VM escape vulnerability found.",
+      "Building a cheap threat hunting agent.",
+      "Decompilers vs. LLMs benchmarked.",
+      "Experimental LLM-written decompiler."
+    ],
+    "published": "2026-09-08T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "62d5e0",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #343 - Hugging Face Technical Report, AWSHound, OWASP Agentic Skills Top 10",
+    "url": "https://tldrsec.com/p/tldr-sec-343",
+    "summary": "This item covers a Hugging Face technical report, a tool called AWSHound for mapping AWS environments, and the OWASP Top 10 for agentic skills. It references a 38-page OpenAI report on an incident and highlights common mistakes in agent skills.",
+    "bullets": [
+      "Hugging Face Technical Report",
+      "AWSHound maps AWS environments",
+      "OWASP Top 10 Agentic Skills",
+      "38-page OpenAI incident report",
+      "Top 10 agent skill pitfalls"
+    ],
+    "published": "2026-08-27T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "6c8425",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #342 - Figma's Agentic Detection, Agent Identity, Uber's Agent-(E)DR",
+    "url": "https://tldrsec.com/p/tldr-sec-342",
+    "summary": "This item discusses how Figma enhances its detection and response capabilities. It also covers least privilege and identity management for agents from 1Password and Cloudflare, and Uber's work on securing enterprise AI agents.",
+    "bullets": [
+      "Figma's agentic detection and response scaling",
+      "1Password/Cloudflare on agent identity and least privilege",
+      "Uber's paper/OSS on enterprise AI agent security",
+      "Monitoring and securing AI agents"
+    ],
+    "published": "2026-08-20T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "710d9f",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #341 - Hugging Face Incident Black Hat Talk, CSS Bomb in your Inbox, GitHub Supply Chain Security Improvements",
+    "url": "https://tldrsec.com/p/tldr-sec-341",
+    "summary": "This item covers several security topics including a deep dive into the Hugging Face incident, a look at how CSS can be used maliciously in email clients, and updates on GitHub's supply chain security enhancements.",
+    "bullets": [
+      "Hugging Face incident analysis",
+      "CSS attacks via webmail",
+      "GitHub security improvements"
+    ],
+    "published": "2026-08-13T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "9ea522",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #340 - Anthropic and Meta Agents be Hackin', Agentic Incident Response Notebooks, Figma's AI Code Scanning",
+    "url": "https://tldrsec.com/p/tldr-sec-340",
+    "summary": "This feed item covers security news including Anthropic and Meta AI models being hacked during testing. It also discusses agentic incident response notebooks and Figma's use of AI for code scanning.",
+    "bullets": [
+      "Anthropic/Meta models hacked third parties",
+      "Agentic IR notebooks discussed",
+      "Figma AI code scanning deep dive"
+    ],
+    "published": "2026-08-07T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "61392c",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #339 - Hugging Face's Incident Report, Context Bombs, AI does Cryptanalysis",
+    "url": "https://tldrsec.com/p/tldr-sec-339",
+    "summary": "This item covers Hugging Face's incident report and a method to stop AI attackers using content that triggers guardrails. It also mentions AI's ability to perform cryptanalysis on HAWK and AES.",
+    "bullets": [
+      "Hugging Face incident report detailed",
+      "AI attackers stopped by guardrail triggers",
+      "AI does cryptanalysis on HAWK, AES"
+    ],
+    "published": "2026-07-30T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "66834e",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #338 - OpenAI and Hugging Face, Accelerating EDR Evasion, Google's Mantis",
+    "url": "https://tldrsec.com/p/tldr-sec-338",
+    "summary": "This item covers AI security topics, including OpenAI and Hugging Face's involvement. It discusses using LLMs for EDR evasion and enhancing EDR capabilities. Google's AI security review processes and pipelines are also highlighted.",
+    "bullets": [
+      "AI security: OpenAI & Hugging Face",
+      "LLMs for EDR evasion",
+      "Accelerating EDR capabilities",
+      "Google's AI security review"
+    ],
+    "published": "2026-07-23T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "7eb057",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #337 - Harnessing Harnesses, Generate Decoy Environments, Bug Bounty Singularity",
+    "url": "https://tldrsec.com/p/tldr-sec-337",
+    "summary": "This item discusses advancements in security tooling. It covers AI-powered vulnerability finding harnesses and methods for programmatically generating complex decoy cloud environments.",
+    "bullets": [
+      "AI vulnerability finding harnesses survey",
+      "Programmatic decoy cloud environments",
+      "Building hackbots"
+    ],
+    "published": "2026-07-16T14:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "7ddf43",
+    "feed_name": "PortSwigger Research",
+    "title": "What's in a tag name? JavaScript, apparently",
+    "url": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+    "summary": "This item discusses the allowed characters in HTML tag names. The author was wondering about the rules for characters following the initial letter.",
+    "bullets": [
+      "Allowed characters in HTML tag names.",
+      "Tag names must start with a letter (a-zA-Z).",
+      "Question about subsequent characters in tag names."
+    ],
+    "published": "2026-08-25T14:24:32+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "74afbb",
+    "feed_name": "PortSwigger Research",
+    "title": "CSS:the bomb inside your inbox",
+    "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+    "summary": "This item discusses a security vulnerability where webmail clients render untrusted CSS in a trusted interface. These clients use CSS sanitization to try and prevent issues, but this method may be insufficient.",
+    "bullets": [
+      "Untrusted CSS rendered in webmail clients.",
+      "Trusted UI vulnerable to CSS injection.",
+      "Sanitization attempts to make CSS safe.",
+      "Potential bypass of CSS sanitization."
+    ],
+    "published": "2026-08-06T22:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "fe5b46",
+    "feed_name": "PortSwigger Research",
+    "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
+    "url": "https://portswigger.net/research/crlf-powered-desync-attacks",
+    "summary": "This paper argues that HTTP Header Injection, specifically using CRLF characters, is more dangerous than commonly believed. It suggests these attacks can cause catastrophic damage, overshadowing risks like open redirects or XSS.",
+    "bullets": [
+      "CRLF-powered HTTP Header Injection is underestimated.",
+      "More dangerous than open redirects/XSS.",
+      "Can cause catastrophic damage.",
+      "Focuses on HTTP stream desynchronization."
+    ],
+    "published": "2026-08-05T23:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "7883bf",
+    "feed_name": "PortSwigger Research",
+    "title": "Can AI do novel security research? Meet the HTTP Terminator",
+    "url": "https://portswigger.net/research/can-ai-do-novel-security-research",
+    "summary": "This item discusses whether AI can perform novel security research beyond just finding bugs. It introduces the \"HTTP Terminator,\" an autonomous system designed to invent and deploy new attack techniques against live websites at scale.",
+    "bullets": [
+      "Can AI do novel security research?",
+      "Introducing the \"HTTP Terminator\"",
+      "Autonomous system for new attack techniques",
+      "Hacking live websites at scale"
+    ],
+    "published": "2026-08-05T19:30:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "4d1f42",
+    "feed_name": "PortSwigger Research",
+    "title": "Top 10 web hacking techniques of 2025",
+    "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025",
+    "summary": "This is the 19th annual list of the top 10 web hacking techniques for 2025. The list is compiled based on community-powered research published in the past year.",
+    "bullets": [
+      "Top 10 web hacking techniques of 2025",
+      "19th annual edition",
+      "Community-powered research",
+      "Focus on innovative web security research"
+    ],
+    "published": "2026-02-05T15:28:08+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "914515",
+    "feed_name": "PortSwigger Research",
+    "title": "Top 10 web hacking techniques of 2025: call for nominations",
+    "url": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open",
+    "summary": "This item is a call for nominations for the top 10 web hacking techniques of 2025. Nominations are now closed, and voting is currently live.",
+    "bullets": [
+      "Top 10 web hacking techniques of 2025",
+      "Call for nominations",
+      "Nominations closed",
+      "Voting is live"
+    ],
+    "published": "2026-01-06T15:31:28+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "8c9baf",
+    "feed_name": "PortSwigger Research",
+    "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
+    "url": "https://portswigger.net/research/the-fragile-lock",
+    "summary": "This post details novel bypass techniques for SAML authentication. It explains how to achieve a full authentication bypass in Ruby and PHP SAML ecosystems. The methods exploit parser-level inconsistencies, such as attribute pollution and namespace confusion.",
+    "bullets": [
+      "Novel bypasses for SAML authentication",
+      "Targets Ruby and PHP SAML ecosystems",
+      "Achieves full authentication bypass",
+      "Exploits parser-level inconsistencies",
+      "Includes attribute pollution",
+      "Leverages namespace confusion"
+    ],
+    "published": "2025-12-10T12:32:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "920953",
+    "feed_name": "PortSwigger Research",
+    "title": "Introducing HTTP Anomaly Rank",
+    "url": "https://portswigger.net/research/introducing-http-anomaly-rank",
+    "summary": "This item introduces a new feature called HTTP Anomaly Rank. It's designed to help users who previously had to manually sort through many responses from tools like Burp Intruder or Turbo Intruder.",
+    "bullets": [
+      "Introducing HTTP Anomaly Rank",
+      "Aids in analyzing tool responses",
+      "Addresses manual sorting issues",
+      "For users of Burp Intruder/Turbo Intruder"
+    ],
+    "published": "2025-11-11T14:41:53+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "933f59",
+    "feed_name": "PortSwigger Research",
+    "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
+    "url": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine",
+    "summary": "This item discusses a tool or technique called WebSocket Turbo Intruder for analyzing WebSocket traffic. It highlights that many tools and testers fail to deeply analyze WebSockets after a protocol upgrade, creating security blind spots.",
+    "bullets": [
+      "Tool: WebSocket Turbo Intruder",
+      "Focus: Analyzing WebSocket traffic",
+      "Problem: Shallow analysis of WebSockets",
+      "Blind spot: Missed security bugs"
+    ],
+    "published": "2025-09-17T12:40:06+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "3b30f3",
+    "feed_name": "PortSwigger Research",
+    "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
+    "url": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
+    "summary": "This post discusses how to bypass browser cookie defenses. It focuses on techniques to circumvent the __Host and __Secure cookie prefixes by exploiting discrepancies between browsers and servers.",
+    "bullets": [
+      "Bypassing __Host and __Secure cookie prefixes",
+      "Exploiting browser/server discrepancies",
+      "Session protection bypass",
+      "Attacker cookie control"
+    ],
+    "published": "2025-09-03T14:46:23+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "f8ca6c",
+    "feed_name": "Google Project Zero",
+    "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+    "summary": "This item discusses challenges in testing race conditions, which are security bugs dependent on specific multi-threaded execution interleavings. These challenges impact confirming bug candidates, writing reliable regression tests, and effective automatic bug discovery like fuzzing.",
+    "bullets": [
+      "Race conditions cause security bugs via thread interleaving.",
+      "Hard to confirm discovered bug candidates.",
+      "Difficult to write reliable regression tests.",
+      "Fuzzing struggles to trigger interesting interleavings or racing code paths."
+    ],
+    "published": "2026-09-08T07:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "1635f6",
+    "feed_name": "Google Project Zero",
+    "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "summary": "Researchers developed a two-exploit chain to achieve root access on Google Pixel 10 devices, starting from a zero-click scenario. They adapted an existing exploit for the Pixel 9, overcoming a change in security mitigation (RET PAC instead of -fstack-protector) by overwriting initialization code.",
+    "bullets": [
+      "Pixel 10 zero-click to root exploit chain developed",
+      "Adapted exploit from Pixel 9",
+      "Circumvented RET PAC security by overwriting initialization code",
+      "Exploit targeted a Dolby vulnerability (CVE-2025-54957)"
+    ],
+    "published": "2026-05-13T07:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "dc2fd5",
+    "feed_name": "Google Project Zero",
+    "title": "On the Effectiveness of Mutational Grammar Fuzzing",
+    "url": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
+    "summary": "This post discusses mutational grammar fuzzing, a technique that uses predefined grammars to mutate samples while maintaining their structure. It explores the effectiveness of this method, particularly when guided by code coverage, and highlights its flaws. The author also proposes a simple technique to overcome these limitations.",
+    "bullets": [
+      "Explains mutational grammar fuzzing and its structure-preserving mutations.",
+      "Covers coverage-guided grammar fuzzing benefits and past successes.",
+      "Identifies flaws in mutational coverage-guided grammar fuzzing.",
+      "Introduces a technique to counter these flaws."
+    ],
+    "published": "2026-03-05T08:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "70e01b",
+    "feed_name": "Google Project Zero",
+    "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
+    "url": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
+    "summary": "This post examines the GetProcessHandleFromHwnd API, which was discovered via a UAC bypass using Quick Assist. The API uses a window hook to inject code into a target process to retrieve its handle, but only works if caller and target processes are running as the same user.",
+    "bullets": [
+      "Focus: GetProcessHandleFromHwnd API",
+      "Discovery: Public UAC bypass (Quick Assist)",
+      "Mechanism: Window hook code injection",
+      "Purpose: Obtain process handle from HWND",
+      "Limitation: Requires same user context"
+    ],
+    "published": "2026-02-26T08:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "c89ad0",
+    "feed_name": "Google Project Zero",
+    "title": "Bypassing Administrator Protection by Abusing UI Access",
+    "url": "https://projectzero.google/2026/02/windows-administrator-protection.html",
+    "summary": "This post details vulnerabilities in Windows Administrator Protection, specifically focusing on how UI Access can be abused. The author found 9 bypasses, 5 of which are explained here, highlighting a long-standing UAC issue related to controlling windows and potentially elevating privileges.",
+    "bullets": [
+      "Discusses bypasses of Windows Administrator Protection.",
+      "Focuses on UI Access as a root cause for vulnerabilities.",
+      "Highlights an old UAC issue related to controlling windows.",
+      "Author found 9 bypasses, 5 are detailed.",
+      "Addresses privilege escalation via UI control."
+    ],
+    "published": "2026-02-12T08:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "3bf1ed",
+    "feed_name": "Google Project Zero",
+    "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
+    "url": "https://projectzero.google/2026/01/sound-barrier-2.html",
+    "summary": "This post details the exploitation of CVE-2024-54529, a type confusion vulnerability found in macOS's CoreAudio framework. The author describes turning a crash into a working exploit for a vulnerability within the coreaudiod system daemon.",
+    "bullets": [
+      "Exploits CVE-2024-54529 (type confusion)",
+      "Targets macOS CoreAudio (coreaudiod daemon)",
+      "Details turning crash into exploit",
+      "Vulnerability in com.apple.audio.audiohald Mach service",
+      "Involves improper type validation of HALS_Object"
+    ],
+    "published": "2026-01-30T08:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "0ba6ce",
+    "feed_name": "Google Project Zero",
+    "title": "Bypassing Windows Administrator Protection",
+    "url": "https://projectzero.google/2026/26/windows-administrator-protection.html",
+    "summary": "This post discusses Administrator Protection, a new security feature in Windows 11 25H2 designed to replace UAC for elevated privileges. It details research into the feature, including the discovery of nine vulnerabilities that allowed bypassing it. All reported issues have been fixed by Microsoft, though the feature is currently disabled due to compatibility issues.",
+    "bullets": [
+      "Windows 11 25H2 introduces Administrator Protection to replace UAC.",
+      "Research found 9 vulnerabilities to bypass the feature.",
+      "Bypasses allowed silent administrator privilege escalation.",
+      "All reported vulnerabilities have been fixed by Microsoft.",
+      "Administrator Protection is currently disabled by Microsoft (as of Dec 1, 2025)."
+    ],
+    "published": "2026-01-26T08:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "5efa07",
+    "feed_name": "Google Project Zero",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
+    "summary": "This post discusses broader issues in the Android ecosystem related to 0-click exploit chains, following technical recommendations in previous posts. It highlights problems encountered with the Dolby UDC and Google Messages app's audio transcription process, which is part of the attack surface.",
+    "bullets": [
+      "0-click exploit chain issues in Android",
+      "Dolby UDC part of attack surface",
+      "Google Messages transcodes audio proactively",
+      "Second process (com.google.android.tts) decodes audio for searchability on Pixel 9"
+    ],
+    "published": "2026-01-14T18:01:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "b28951",
+    "feed_name": "Google Project Zero",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
+    "summary": "Researchers found a 0-click exploit chain on Pixel 9 by targeting the BigWave driver. This driver is used for AV1 decoding and is accessible from the sandboxed mediacodec context. Exploiting bugs in this driver allowed for kernel arbitrary read/write, breaking out of the sandbox.",
+    "bullets": [
+      "Pixel 9 0-click exploit chain discovered",
+      "Targets the /dev/bigwave driver (AV1 acceleration)",
+      "Driver accessible from sandboxed mediacodec context",
+      "Found 3 bugs, one allowing sandbox escape",
+      "Achieved kernel arbitrary read/write"
+    ],
+    "published": "2026-01-14T18:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "6c6243",
+    "feed_name": "Google Project Zero",
+    "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
+    "url": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
+    "summary": "This post details a 0-click exploit chain affecting Pixel 9, stemming from AI features that process incoming audio attachments automatically.  The research uncovered vulnerabilities in audio decoders, specifically the Dolby Unified Decoder and a driver related to it, which are now part of the 0-click attack surface for many Android devices.",
+    "bullets": [
+      "0-click exploit chain on Pixel 9",
+      "AI audio processing increases attack surface",
+      "Vulnerabilities found in Dolby Unified Decoder",
+      "CVE-2025-54957 and CVE-2025-36934 reported",
+      "Audio decoders now in 0-click attack surface"
+    ],
+    "published": "2026-01-14T17:59:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "383398",
+    "feed_name": "watchTowr Labs",
+    "title": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))",
+    "url": "https://labs.watchtowr.com/youre-back-in-the-room-citrix-netscaler-pre-auth-rce-cve-2026-8452/",
+    "summary": "This item discusses a potential pre-authentication Remote Code Execution (RCE) vulnerability, possibly CVE-2026-8452, affecting Citrix NetScaler. The excerpt uses a metaphor of being 'back in the room' for new job onboarding to frame the discussion.",
+    "bullets": [
+      "Citrix NetScaler vulnerability",
+      "Pre-authentication RCE",
+      "Possible CVE-2026-8452",
+      "Onboarding metaphor used"
+    ],
+    "published": "2026-08-14T07:08:20+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "23edf7",
+    "feed_name": "watchTowr Labs",
+    "title": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza)",
+    "url": "https://labs.watchtowr.com/its-37oc-and-all-we-can-think-about-is-coldfusion-adobe-coldfusion-security-bulletin-apsb26-68-cve-bonanza/",
+    "summary": "This post discusses security vulnerabilities in Adobe ColdFusion, referencing a bulletin APSB26-68. The author expresses a lack of confidence due to the number of fixed vulnerabilities and potential undisclosed ones.",
+    "bullets": [
+      "Adobe ColdFusion security bulletin APSB26-68",
+      "Multiple vulnerabilities addressed",
+      "Concerns about undisclosed vulnerabilities",
+      "Author lacks confidence in the fixes"
+    ],
+    "published": "2026-07-02T16:38:28+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "14bbe4",
+    "feed_name": "watchTowr Labs",
+    "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451)",
+    "url": "https://labs.watchtowr.com/citrixbleed-to-infinity-and-beyond-citrix-netscaler-pre-auth-memory-overread-cve-2026-8451/",
+    "summary": "This item discusses the CitrixBleed vulnerability, identified as CVE-2026-8451. It's a pre-authentication memory overread flaw affecting Citrix NetScaler. The author expresses a sense of predictable recurrence regarding security issues.",
+    "bullets": [
+      "CitrixBleed vulnerability detailed",
+      "CVE-2026-8451",
+      "Citrix NetScaler pre-auth memory overread",
+      "Recurring security event"
+    ],
+    "published": "2026-06-30T19:35:58+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "0029ef",
+    "feed_name": "watchTowr Labs",
+    "title": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037)",
+    "url": "https://labs.watchtowr.com/enterprise-tech-in-shell-out-progress-kemp-loadmaster-uninitialized-heap-to-pre-auth-rce-cve-2026-8037/",
+    "summary": "This post discusses a pre-authentication RCE vulnerability (CVE-2026-8037) found in Progress Kemp LoadMaster. The vulnerability affects this load balancer, which is often deployed at the edge of enterprise networks.",
+    "bullets": [
+      "Progress Kemp LoadMaster vulnerability",
+      "Pre-authentication RCE",
+      "CVE-2026-8037",
+      "Edge network appliance"
+    ],
+    "published": "2026-06-29T19:24:54+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "777fd4",
+    "feed_name": "watchTowr Labs",
+    "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)",
+    "url": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/",
+    "summary": "This post discusses Splunk Enterprise CVE-2026-20253, a pre-authentication remote code execution vulnerability. It questions the reliance on database authentication when application-level authentication is also present.",
+    "bullets": [
+      "Splunk Enterprise CVE-2026-20253 identified",
+      "Pre-authentication RCE vulnerability",
+      "Discusses app-level vs. database auth",
+      "Splunk advisory linked"
+    ],
+    "published": "2026-06-12T20:35:13+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "4d1d0a",
+    "feed_name": "watchTowr Labs",
+    "title": "Marking Your Own Homework (Check Point Remote Access VPN IKEv1 Authentication Bypass CVE-2026-50751)",
+    "url": "https://labs.watchtowr.com/marking-your-own-homework-check-point-remote-access-vpn-ikev1-authentication-bypass-cve-2026-50751/",
+    "summary": "This item discusses a security vulnerability in Check Point Remote Access VPN related to IKEv1 authentication. It highlights the common issue of edge security devices becoming entry points for attackers.",
+    "bullets": [
+      "Check Point Remote Access VPN vulnerability",
+      "IKEv1 Authentication Bypass",
+      "CVE-2026-50751",
+      "Edge security devices can be attack vectors"
+    ],
+    "published": "2026-06-12T05:17:20+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "463345",
+    "feed_name": "watchTowr Labs",
+    "title": "More Evidence That Words Don't Mean What We Thought They Meant (Ivanti Sentry Pre-Auth OS Command Injection CVE-2026-10520)",
+    "url": "https://labs.watchtowr.com/more-evidence-that-words-dont-mean-what-we-thought-they-meant-ivanti-sentry-pre-auth-os-command-injection-cve-2026-10520/",
+    "summary": "Ivanti has released an advisory detailing two vulnerabilities in their Sentry product. One of these, CVE-2026-10520, is an OS command injection vulnerability. The advisory addresses sophisticated, pre-authenticated server-side issues.",
+    "bullets": [
+      "Ivanti Sentry advisory published.",
+      "Two vulnerabilities disclosed.",
+      "CVE-2026-10520: OS Command Injection.",
+      "Pre-authentication, server-side vulns."
+    ],
+    "published": "2026-06-10T00:52:20+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "6da217",
+    "feed_name": "watchTowr Labs",
+    "title": "The Internet Is Falling Down, Falling Down, Falling Down (cPanel & WHM Authentication Bypass CVE-2026-41940)",
+    "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "summary": "This feed item discusses a security vulnerability identified as CVE-2026-41940, which affects cPanel & WHM and allows for authentication bypass. The author uses a humorous and self-aware tone to introduce the topic.",
+    "bullets": [
+      "cPanel & WHM Authentication Bypass",
+      "CVE-2026-41940",
+      "Security vulnerability discussed",
+      "Humorous introduction"
+    ],
+    "published": "2026-04-29T17:19:19+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "780f9c",
+    "feed_name": "watchTowr Labs",
+    "title": "You’re Not Supposed To ShareFile With Everyone (Progress ShareFile Pre-Auth RCE Chain CVE-2026-2699 & CVE-2026-2701)",
+    "url": "https://labs.watchtowr.com/youre-not-supposed-to-sharefile-with-everyone-progress-sharefile-pre-auth-rce-chain-cve-2026-2699-cve-2026-2701/",
+    "summary": "This item discusses two pre-authentication Remote Code Execution (RCE) vulnerabilities in Progress ShareFile, identified as CVE-2026-2699 and CVE-2026-2701. These vulnerabilities are noted in the context of file transfer solutions, which are frequently targeted.",
+    "bullets": [
+      "Progress ShareFile RCE vulnerabilities",
+      "CVE-2026-2699 & CVE-2026-2701",
+      "Pre-authentication exploits",
+      "Affects file transfer solutions"
+    ],
+    "published": "2026-04-02T10:00:42+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "e543a9",
+    "feed_name": "watchTowr Labs",
+    "title": "Please, We Beg, Just One Weekend Free Of Appliances (Citrix NetScaler CVE-2026-3055 Memory Overread Part 2)",
+    "url": "https://labs.watchtowr.com/please-we-beg-just-one-weekend-free-of-appliances-citrix-netscaler-cve-2026-3055-memory-overread-part-2/",
+    "summary": "This post follows up on a previous analysis of Citrix NetScaler CVE-2026-3055, focusing on memory overread vulnerabilities. The authors are investigating if multiple such vulnerabilities were patched as part of this CVE.",
+    "bullets": [
+      "Citrix NetScaler CVE-2026-3055",
+      "Memory Overread vulnerabilities",
+      "Part 2 of analysis",
+      "Investigating multiple vulnerability patches"
+    ],
+    "published": "2026-03-29T20:07:28+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "e0d495",
+    "feed_name": "Assetnote Research",
+    "title": "Doing the Due Diligence: Analyzing the Next.js Middleware Bypass (CVE-2025-29927)",
+    "url": "https://www.assetnote.io/resources/research/doing-the-due-diligence-analyzing-the-next-js-middleware-bypass-cve-2025-29927",
+    "summary": "This item discusses CVE-2025-29927, a bypass vulnerability found in Next.js Middleware. It covers the analysis of this security flaw.",
+    "bullets": [
+      "CVE-2025-29927",
+      "Next.js Middleware bypass",
+      "Security analysis"
+    ],
+    "published": "2025-03-24T08:22:08+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "896aa8",
+    "feed_name": "Assetnote Research",
+    "title": "Nginx/Apache Path Confusion to Auth Bypass in PAN-OS (CVE-2025-0108)",
+    "url": "https://www.assetnote.io/resources/research/nginx-apache-path-confusion-to-auth-bypass-in-pan-os",
+    "summary": "This feed item discusses a security vulnerability impacting Nginx and Apache, specifically related to path confusion. This vulnerability leads to an authentication bypass in PAN-OS, identified by CVE-2025-0108.",
+    "bullets": [
+      "Nginx/Apache vulnerability identified.",
+      "Path confusion is the root cause.",
+      "Results in authentication bypass.",
+      "Affects PAN-OS.",
+      "CVE-2025-0108 assigned."
+    ],
+    "published": "2025-03-24T06:28:13+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "7694b9",
+    "feed_name": "Assetnote Research",
+    "title": "Leaking File Contents with a Blind File Oracle in Flarum",
+    "url": "https://www.assetnote.io/resources/research/leaking-file-contents-with-a-blind-file-oracle-in-flarum",
+    "summary": "A vulnerability has been discovered in Flarum, a forum software. This flaw allows attackers to read local files from the system.",
+    "bullets": [
+      "Flarum forum software vulnerability",
+      "Allows attackers to read local files",
+      "Blind file oracle exploit"
+    ],
+    "published": "2025-02-12T21:10:07+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "d9ee16",
+    "feed_name": "Assetnote Research",
+    "title": "Bypass IIS Authorisation with this One Weird Trick - Three RCEs and Two Auth Bypasses in Sitecore 9.3",
+    "url": "https://www.assetnote.io/resources/research/bypass-iis-authorisation-with-this-one-weird-trick-three-rces-and-two-auth-bypasses-in-sitecore-9-3",
+    "summary": "This post details security vulnerabilities found in Sitecore 9.3. Researchers discovered multiple ways to achieve Remote Code Execution (RCE) and bypass authorization mechanisms within the IIS environment.",
+    "bullets": [
+      "Sitecore 9.3 vulnerabilities discovered",
+      "Three Remote Code Execution (RCE) flaws",
+      "Two authorization bypasses found",
+      "Exploits target IIS"
+    ],
+    "published": "2025-02-12T21:09:45+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "9bda6b",
+    "feed_name": "Assetnote Research",
+    "title": "MOVEIt Transfer RCE Part Two (CVE-2023-34362)",
+    "url": "https://www.assetnote.io/resources/research/moveit-transfer-rce-part-two-cve-2023-34362",
+    "summary": "This item discusses the second part of a Remote Code Execution (RCE) vulnerability in MOVEIt Transfer. The vulnerability is identified by the CVE number CVE-2023-34362.",
+    "bullets": [
+      "MOVEIt Transfer vulnerability",
+      "Remote Code Execution (RCE)",
+      "CVE-2023-34362",
+      "Part Two analysis"
+    ],
+    "published": "2025-02-12T21:09:39+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "f808db",
+    "feed_name": "Assetnote Research",
+    "title": "Reversing Citrix Gateway for XSS",
+    "url": "https://www.assetnote.io/resources/research/reversing-citrix-gateway-for-xss",
+    "summary": "This item discusses the process of reversing Citrix Gateway. The focus is on finding and understanding Cross-Site Scripting (XSS) vulnerabilities within the gateway.",
+    "bullets": [
+      "Reversing Citrix Gateway",
+      "Focus on XSS vulnerabilities",
+      "Analysis of gateway security"
+    ],
+    "published": "2025-02-12T21:09:33+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "37078d",
+    "feed_name": "Assetnote Research",
+    "title": "Patch Diffing Progress MOVEIt Transfer RCE (CVE-2023-34362)",
+    "url": "https://www.assetnote.io/resources/research/patch-diffing-progress-moveit-transfer-rce-cve-2023-34362",
+    "summary": "This item details the progress made in patch diffing for the MOVEit Transfer Remote Code Execution vulnerability, identified as CVE-2023-34362. The focus is on analyzing the changes introduced by patches to understand the vulnerability.",
+    "bullets": [
+      "MOVEit Transfer RCE (CVE-2023-34362)",
+      "Patch diffing progress",
+      "Analysis of vulnerability patches"
+    ],
+    "published": "2025-02-12T21:09:24+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "46300b",
+    "feed_name": "Assetnote Research",
+    "title": "Advisory: Citrix Gateway Open Redirect and XSS (CVE-2023-24488)",
+    "url": "https://www.assetnote.io/resources/research/advisory-citrix-gateway-open-redirect-and-xss-cve-2023-24488",
+    "summary": "This advisory concerns vulnerabilities found in Citrix Gateway. The identified issues include an open redirect and a cross-site scripting (XSS) vulnerability, assigned CVE-2023-24488.",
+    "bullets": [
+      "Citrix Gateway vulnerabilities identified",
+      "Open Redirect vulnerability",
+      "Cross-Site Scripting (XSS) vulnerability",
+      "CVE-2023-24488 assigned"
+    ],
+    "published": "2025-02-12T21:09:19+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "85e934",
+    "feed_name": "Assetnote Research",
+    "title": "Encrypted Doesn't Mean Authenticated: ShareFile RCE (CVE-2023-24489)",
+    "url": "https://www.assetnote.io/resources/research/encrypted-doesnt-mean-authenticated-sharefile-rce-cve-2023-24489",
+    "summary": "This item discusses a Remote Code Execution (RCE) vulnerability in ShareFile, identified as CVE-2023-24489. The vulnerability highlights that encryption alone does not guarantee authentication.",
+    "bullets": [
+      "ShareFile RCE vulnerability",
+      "CVE-2023-24489",
+      "Encryption does not equal authentication"
+    ],
+    "published": "2025-02-12T21:09:15+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "fccf1d",
+    "feed_name": "Assetnote Research",
+    "title": "Advisory: ShareFile Pre-Auth RCE (CVE-2023-24489)",
+    "url": "https://www.assetnote.io/resources/research/advisory-sharefile-pre-auth-rce-cve-2023-24489",
+    "summary": "This advisory discusses a pre-authentication Remote Code Execution (RCE) vulnerability in ShareFile, identified by CVE-2023-24489. The vulnerability allows attackers to potentially execute code without needing prior authentication.",
+    "bullets": [
+      "ShareFile advisory released",
+      "Pre-authentication RCE vulnerability",
+      "CVE-2023-24489",
+      "No authentication required for exploit"
+    ],
+    "published": "2025-02-12T21:09:10+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "e9d700",
+    "feed_name": "GitHub Security Lab",
+    "title": "6 security settings every GitHub maintainer should enable this week",
+    "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+    "summary": "This article highlights six free security settings for GitHub maintainers. Enabling these settings won't make projects unhackable but will significantly increase their security against easy attacks.",
+    "bullets": [
+      "6 free security settings for GitHub",
+      "Enhance project security",
+      "Close easy attack vectors",
+      "Makes projects harder to attack"
+    ],
+    "published": "2026-07-01T15:59:29+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "6fd3a4",
+    "feed_name": "GitHub Security Lab",
+    "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+    "url": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
+    "summary": "The GitHub Advisory Database is experiencing a record increase in vulnerability reports. This post explains the reasons behind the surge, GitHub's response, and how the community can contribute.",
+    "bullets": [
+      "Record surge in GitHub Advisory Database vulnerability reports",
+      "Analysis of driving factors",
+      "GitHub's response outlined",
+      "Call for community assistance"
+    ],
+    "published": "2026-06-29T16:10:20+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "97dcb8",
+    "feed_name": "GitHub Security Lab",
+    "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+    "url": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+    "summary": "GitHub has released a free, open-source game designed to help developers build security skills related to agentic AI. The game features five progressive challenges focused on finding and exploiting real-world AI vulnerabilities.",
+    "bullets": [
+      "Learn agentic AI security skills",
+      "GitHub Secure Code Game",
+      "Five progressive challenges",
+      "Find and exploit AI vulnerabilities",
+      "Free and open source"
+    ],
+    "published": "2026-04-14T18:17:59+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "3dc0f1",
+    "feed_name": "GitHub Security Lab",
+    "title": "Securing the open source supply chain across GitHub",
+    "url": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+    "summary": "This item discusses recent attacks on open source supply chains that focus on stealing secrets. It outlines prevention steps and mentions security features GitHub is developing.",
+    "bullets": [
+      "Open source supply chain attacks focus on secret exfiltration.",
+      "Provides prevention steps.",
+      "Details GitHub's ongoing security capabilities."
+    ],
+    "published": "2026-04-01T19:20:12+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "10e645",
+    "feed_name": "GitHub Security Lab",
+    "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
+    "url": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
+    "summary": "This post analyzes open source vulnerability trends over the past year, focusing on CVEs, advisories, and malware. It notes a decrease in reviewed advisories but a surge in malware advisories, alongside increased CNA publishing.",
+    "bullets": [
+      "Open source vulnerability trends analyzed",
+      "Reviewed advisories at 4-year low",
+      "Malware advisories surged",
+      "CNA publishing grew",
+      "Impact on triage and response discussed"
+    ],
+    "published": "2026-03-26T16:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "66f9e1",
+    "feed_name": "GitHub Security Lab",
+    "title": "Investing in the people shaping open source and securing the future together",
+    "url": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
+    "summary": "GitHub is investing in open source security. They are funding maintainers, partnering with Alpha-Omega, and expanding access to reduce burdens and strengthen software supply chains.",
+    "bullets": [
+      "GitHub open source security investment",
+      "Funding for maintainers",
+      "Alpha-Omega partnership",
+      "Expanding access",
+      "Strengthening software supply chains"
+    ],
+    "published": "2026-03-17T16:00:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "8dec2b",
+    "feed_name": "GitHub Security Lab",
+    "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework",
+    "url": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
+    "summary": "GitHub Security Lab has released an open-source AI-powered framework for vulnerability scanning. The Taskflow Agent is designed to effectively find high-impact vulnerabilities such as Auth Bypasses, IDORs, and Token Leaks.",
+    "bullets": [
+      "GitHub Security Lab AI framework released",
+      "Open source tool for vulnerability scanning",
+      "Detects Auth Bypasses",
+      "Finds IDORs",
+      "Identifies Token Leaks"
+    ],
+    "published": "2026-03-06T21:09:04+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "6f94a7",
+    "feed_name": "GitHub Security Lab",
+    "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
+    "url": "https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/",
+    "summary": "This post discusses using the new GitHub Security Lab Taskflow Agent for vulnerability triage. The agent is being applied to categories of vulnerabilities found in GitHub Actions and JavaScript projects.",
+    "bullets": [
+      "Using GitHub Security Lab Taskflow Agent",
+      "AI-supported vulnerability triage",
+      "Focus on GitHub Actions",
+      "Focus on JavaScript projects"
+    ],
+    "published": "2026-01-20T19:52:50+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "24b549",
+    "feed_name": "GitHub Security Lab",
+    "title": "Community-powered security with AI: an open source framework for security research",
+    "url": "https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/",
+    "summary": "GitHub Security Lab has released the Taskflow Agent, an open-source framework for security research. It leverages AI and community collaboration to enhance security efforts.",
+    "bullets": [
+      "New open-source framework released",
+      "GitHub Security Lab Taskflow Agent",
+      "Uses AI for security research",
+      "Focuses on community collaboration"
+    ],
+    "published": "2026-01-14T18:45:09+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "7ea730",
+    "feed_name": "GitHub Security Lab",
+    "title": "Bugs that survive the heat of continuous fuzzing",
+    "url": "https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/",
+    "summary": "This post discusses why some projects using continuous fuzzing, like OSS-Fuzz, still have vulnerabilities. It aims to explain the reasons behind these persistent bugs and offer methods for discovering them.",
+    "bullets": [
+      "Why OSS-Fuzz projects have lingering bugs",
+      "How to find surviving vulnerabilities",
+      "Continuous fuzzing limitations",
+      "Vulnerability research on GitHub"
+    ],
+    "published": "2025-12-29T22:01:14+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "769f11",
+    "feed_name": "Krebs on Security",
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+    "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+    "summary": "Data broker Radaris lost domains, including Radaris.com, due to a lawsuit concerning privacy violations. The company allegedly ignored requests to remove personal data, particularly in violation of a New Jersey law regarding information on law enforcement officials. A judge ordered the domain transfer after the company's repeated resistance.",
+    "bullets": [
+      "Data broker Radaris lost domains in privacy lawsuit.",
+      "Accused of violating New Jersey privacy law.",
+      "Allegedly published info on law enforcement officials.",
+      "Judge ordered domain transfer due to stonewalling."
+    ],
+    "published": "2026-09-16T18:14:22+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "29a542",
+    "feed_name": "Krebs on Security",
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+    "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+    "summary": "Microsoft released its largest patch batch ever, addressing at least 974 security vulnerabilities in its software. The company attributes faster vulnerability discovery to AI, but experts worry about the challenges organizations face in testing and deploying such a high volume of patches.",
+    "bullets": [
+      "Microsoft patched 974+ security holes.",
+      "Largest patch batch ever from Microsoft.",
+      "AI aids in vulnerability discovery.",
+      "Organizations struggle with patch testing/deployment.",
+      "Human effort still crucial for patch management."
+    ],
+    "published": "2026-09-08T21:44:22+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "5df88e",
+    "feed_name": "Krebs on Security",
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "summary": "A new dark web service is selling over 153 million scanned US and Canadian driver's licenses. The data appears to be sourced from a Louisiana-based identity verification company. The FBI has launched an investigation into the breach.",
+    "bullets": [
+      "153M+ driver's licenses for sale on dark web",
+      "US and Canadian data affected",
+      "Source linked to identity verification company",
+      "FBI investigating"
+    ],
+    "published": "2026-09-01T22:40:28+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "9e6ea1",
+    "feed_name": "Krebs on Security",
+    "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+    "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+    "summary": "Australian authorities have arrested two men, aged 21 and 23, suspected of being part of the TeamPCP cybercrime group. This group is known for a long history of software supply chain attacks where they allegedly created malicious open-source software to target businesses globally.",
+    "bullets": [
+      "Two suspected TeamPCP hackers arrested in Australia.",
+      "Alleged involvement in sophisticated cybercrime syndicate.",
+      "Accused of creating malicious open-source software.",
+      "Targeted thousands of global businesses.",
+      "One suspect has been communicating with a reporter since June."
+    ],
+    "published": "2026-08-27T11:04:15+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "ce0567",
+    "feed_name": "Krebs on Security",
+    "title": "Who’s Tracking You? Use This New Service to Find Out",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "summary": "A new free service called DecryptAds aims to reveal which entities are tracking users online. It scrapes and correlates adtech data, making it easier to identify those responsible for targeted ads and data harvesting from websites and mobile apps.",
+    "bullets": [
+      "New service: DecryptAds",
+      "Identifies online trackers",
+      "Scrapes and correlates adtech data",
+      "Free to use",
+      "Simplifies tracking information access"
+    ],
+    "published": "2026-08-14T11:24:35+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "5bd629",
+    "feed_name": "Krebs on Security",
+    "title": "Microsoft Plugs Nearly 400 Security Holes",
+    "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+    "summary": "Microsoft has released updates addressing nearly 400 security vulnerabilities across its Windows operating systems and software. Among these fixes are patches for one actively exploited vulnerability and two others that were previously disclosed publicly.",
+    "bullets": [
+      "Microsoft released updates",
+      "Fixed 398 security vulnerabilities",
+      "Includes 1 actively exploited flaw",
+      "Also patched 2 publicly known flaws"
+    ],
+    "published": "2026-08-11T21:28:35+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "4ef4f6",
+    "feed_name": "Krebs on Security",
+    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+    "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+    "summary": "A 26-year-old Canadian man, Connor Riley Moucka, has pleaded guilty to hacking and extorting over 165 organizations that used Snowflake. He also admitted to stealing call and text history data of more than 100 million AT&T customers.",
+    "bullets": [
+      "Canadian man pleads guilty to cybercrime",
+      "Hacked and extorted >165 Snowflake clients",
+      "Stole >100M AT&T customer records",
+      "Considered a major threat actor in 2024"
+    ],
+    "published": "2026-08-06T17:00:56+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "9c1342",
+    "feed_name": "Krebs on Security",
+    "title": "Read This Before You Buy That TV Streaming Stick",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "summary": "Generic TV streaming boxes, previously warned about for renting user internet, are now found to spoof mobile phones. This activity defrauds online merchants and advertising networks.",
+    "bullets": [
+      "TV streaming boxes pose security risks.",
+      "Devices rent out user internet connections.",
+      "They spoof as mobile phones.",
+      "This defrauds online merchants and ad networks."
+    ],
+    "published": "2026-07-30T16:49:00+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "f128f7",
+    "feed_name": "Krebs on Security",
+    "title": "LG to Ban Residential Proxies from Smart TV Apps",
+    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "summary": "LG Electronics USA will stop supporting apps on its smart TVs that use the TV as a residential proxy node. This decision follows a report that a significant portion of LG's app store offerings enabled third parties to route internet traffic through users' TVs.",
+    "bullets": [
+      "LG to ban residential proxy apps on smart TVs.",
+      "Apps turned TVs into proxy nodes for unknown third parties.",
+      "Over 42% of LG webOS apps affected, researchers found.",
+      "Move aims to enhance user privacy and security."
+    ],
+    "published": "2026-07-22T01:10:38+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "099ca0",
+    "feed_name": "Krebs on Security",
+    "title": "Microsoft Patches a Record 570 Security Flaws",
+    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+    "summary": "Microsoft released updates addressing a record 570 security flaws across its software. This number is nearly triple the previous month's record, with Microsoft citing AI's role in discovering vulnerabilities.",
+    "bullets": [
+      "Microsoft patched 570 security flaws",
+      "Record number of vulnerabilities",
+      "Nearly triple last month's count",
+      "AI aided vulnerability discovery"
+    ],
+    "published": "2026-07-14T19:22:42+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "cc5d65",
+    "feed_name": "BleepingComputer",
+    "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+    "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+    "summary": "A new attack called BragJack targets AI browser agents by using malicious extensions. This attack, demonstrated with a proof-of-concept, has successfully hijacked AI assistants in multiple browsers. The technique, known as Prompt Forcing, has led to bug bounty rewards and security vulnerabilities being identified.",
+    "bullets": [
+      "BragJack attack hijacks AI browser agents.",
+      "Uses malicious extensions.",
+      "Affects Chrome, Edge, Opera Neon, Perplexity Comet, Claude.",
+      "Employs Prompt Forcing technique.",
+      "Secured $20K in bounties.",
+      "Resulted in two CVEs."
+    ],
+    "published": "2026-09-19T14:56:31+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "c54952",
+    "feed_name": "BleepingComputer",
+    "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+    "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+    "summary": "North Korean hacking group WaterPlum has compromised at least 30,000 devices globally. The group allegedly transferred over $10.7 million in stolen cryptocurrency to North Korea between December 2025 and July 2026.",
+    "bullets": [
+      "North Korean WaterPlum hackers involved",
+      "Compromised 30,000+ devices worldwide",
+      "December 2025 - July 2026 timeframe",
+      "Transferred $10.7M+ in crypto",
+      "Stolen funds sent to North Korea"
+    ],
+    "published": "2026-09-19T14:05:15+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "9112ec",
+    "feed_name": "BleepingComputer",
+    "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+    "summary": "The ShinyHunters hacking group claims to have breached the Clop ransomware operation's data leak site. They reportedly defaced the site and may have stolen server data and private keys.",
+    "bullets": [
+      "ShinyHunters targets Clop ransomware leak site",
+      "Site defaced",
+      "Alleged theft of server data",
+      "Possible theft of private keys"
+    ],
+    "published": "2026-09-19T13:48:32+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "f08a64",
+    "feed_name": "BleepingComputer",
+    "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+    "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
+    "summary": "AI actress Tilly Norwood's \"Talking Tilly\" service face-scans users for age verification and analyzes their moods. The service gained attention after Norwood's appearance on Piers Morgan Uncensored. It is set to shut down on September 27.",
+    "bullets": [
+      "AI actress Tilly Norwood's \"Talking Tilly\" service",
+      "Face-scans callers for 18+ age check",
+      "Senses caller moods during calls",
+      "Service ends September 27",
+      "Went viral after Piers Morgan appearance"
+    ],
+    "published": "2026-09-19T11:38:20+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "b4610e",
+    "feed_name": "BleepingComputer",
+    "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+    "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+    "summary": "Gyazo, an image-sharing platform, has experienced a data breach. Hackers exploited a server vulnerability to steal approximately 23.6 million user records.",
+    "bullets": [
+      "Gyazo data breach confirmed",
+      "Server vulnerability exploited",
+      "23.6 million user records stolen"
+    ],
+    "published": "2026-09-18T16:00:38+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "119203",
+    "feed_name": "BleepingComputer",
+    "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+    "summary": "A malware campaign is using fake GitHub repositories that mimic legitimate software companies. These repositories are designed to attract users and distribute a new information stealer malware named Rapuncel.",
+    "bullets": [
+      "Fake GitHub repos impersonate known firms.",
+      "Campaign pushes new infostealer: Rapuncel.",
+      "SEO optimization used to attract victims.",
+      "Malware steals information."
+    ],
+    "published": "2026-09-18T15:19:06+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "b369c3",
+    "feed_name": "BleepingComputer",
+    "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+    "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+    "summary": "Microsoft 365 file sharing can lead to lingering access, creating visibility issues for sensitive data. tenfold Software discusses how centralized access governance and owner reviews can manage and revoke unnecessary permissions.",
+    "bullets": [
+      "Microsoft 365 file sharing risks",
+      "Lingering access to sensitive data",
+      "Lack of visibility into data access",
+      "Centralized access governance",
+      "Owner-driven access reviews"
+    ],
+    "published": "2026-09-18T14:00:10+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "5697d4",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft Teams will let admins block custom file extensions",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+    "summary": "Microsoft Teams is introducing a new feature for administrators to block specific file extensions. This allows admins to customize security settings and block extensions often linked to security threats.",
+    "bullets": [
+      "Teams admins can block file extensions",
+      "Enhances security",
+      "Customizable threat mitigation",
+      "Targets risky file types"
+    ],
+    "published": "2026-09-18T13:58:40+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "011d41",
+    "feed_name": "BleepingComputer",
+    "title": "Webinar: Which Google Workspace security controls actually matter?",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+    "summary": "This webinar will discuss the most effective security controls for Google Workspace. It will analyze real-world breaches to identify which controls are truly valuable, which might be overhyped, and where lean teams should prioritize efforts.",
+    "bullets": [
+      "Webinar on Google Workspace security controls",
+      "Real-world breach analysis",
+      "Identify important vs. overrated controls",
+      "Focus for lean security teams"
+    ],
+    "published": "2026-09-18T13:10:19+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "de830d",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+    "summary": "Microsoft has fixed a bug that was incorrectly showing alerts that Defender Antivirus was turned off. This issue occurred after users installed recent updates. The company has now resolved this known problem.",
+    "bullets": [
+      "Microsoft fixed Defender Antivirus bug",
+      "Caused 'Defender is turned off' alerts",
+      "Bug appeared after recent updates",
+      "Issue is now resolved"
+    ],
+    "published": "2026-09-18T12:16:32+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "4f937e",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Stage-only npm tokens for safer automation",
+    "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+    "summary": "npm now offers \"stage only\" granular access tokens for automation. This allows workflows to stage package versions for review without granting full read and write access. This improves security for automated processes.",
+    "bullets": [
+      "New 'stage only' npm tokens available.",
+      "Enables staging package versions for review.",
+      "Enhances security for automation workflows.",
+      "Reduces token permissions needed."
+    ],
+    "published": "2026-09-18T16:37:50+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "7a2491",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Workflow execution protections in GitHub Actions generally available",
+    "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+    "summary": "GitHub Actions workflow execution protections are now generally available for GitHub Enterprise, organizations, and repositories. These protections allow users to define an allowlist to control who can execute workflows.",
+    "bullets": [
+      "Workflow execution protections now GA",
+      "Available for GitHub Enterprise, orgs, and repos",
+      "Lets you define an allowlist for workflow execution"
+    ],
+    "published": "2026-09-17T15:45:26+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "688d14",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Control GitHub Actions cache access with cache-mode",
+    "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+    "summary": "GitHub Actions now allows granular control over cache access. You can use the new 'cache-mode' feature to apply least-privilege access to the cache at the workflow or job level. This means each workflow or job only gets the cache access it needs.",
+    "bullets": [
+      "New 'cache-mode' for GitHub Actions.",
+      "Controls cache access at workflow/job level.",
+      "Enforces least-privilege access.",
+      "Enhances security for Actions cache."
+    ],
+    "published": "2026-09-10T17:26:59+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "b95bfe",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "npm extends recovery-code security holds to all accounts",
+    "url": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
+    "summary": "npm has extended its security measure of placing a 72-hour hold on accounts after a recovery code sign-in. This protection was previously only for high-impact accounts but now applies to all npm accounts. This aims to enhance overall account security.",
+    "bullets": [
+      "npm adds 72-hour security hold for recovery code sign-ins",
+      "Hold now applies to all accounts, not just high-impact",
+      "Enhances npm account security"
+    ],
+    "published": "2026-09-09T21:55:55+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "33eecf",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Automatic Dependabot access to GitHub-hosted registries",
+    "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+    "summary": "Dependabot can now access private GitHub Packages registries automatically. This eliminates the need for a personal access token. Access is granted if the package has been configured to allow access to your repository.",
+    "bullets": [
+      "Dependabot access to private GitHub Packages registries.",
+      "No personal access token needed.",
+      "Access granted via \"Manage Actions access\" in package settings."
+    ],
+    "published": "2026-09-08T16:46:05+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "322b7c",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Multiple trusted publishing configurations for npm",
+    "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+    "summary": "npm is rolling out updates to improve the trusted publishing process for publishers. These updates, informed by maintainer feedback, include the general availability of multiple trusted publishing configurations per package and staged publishing.",
+    "bullets": [
+      "npm trusted publishing updates",
+      "Multiple configurations per package now available",
+      "Staged publishing also generally available"
+    ],
+    "published": "2026-09-03T20:34:34+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "b101ca",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "License data quality improvements",
+    "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+    "summary": "GitHub has improved license data quality by using package registries like npmjs.org and PyPI. This integration enhances the accuracy and completeness of displayed license information for software components in the dependency graph.",
+    "bullets": [
+      "GitHub uses npmjs.org and PyPI for license data.",
+      "Improves accuracy of license information.",
+      "Enhances completeness of license details.",
+      "Applies to software components in dependency graph."
+    ],
+    "published": "2026-08-13T19:14:12+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "9e39fc",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Customize Dependabot pull request branch names",
+    "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+    "summary": "Dependabot now allows customization of the branch names it creates for pull requests. New options in .github/dependabot.yml let users set prefixes, maximum lengths, and choose separators for branch names.",
+    "bullets": [
+      "Dependabot branch name customization available",
+      "Configure prefix, max length, separators",
+      "Update .github/dependabot.yml"
+    ],
+    "published": "2026-08-04T12:57:18+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "9df960",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Restricting npm bypass-2FA granular access tokens",
+    "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+    "summary": "npm granular access tokens (GATs) that bypass two-factor authentication (2FA) now have restricted capabilities. Sensitive actions related to accounts, organizations, and packages previously allowed by these tokens will now require an interactive 2FA challenge.",
+    "bullets": [
+      "npm GATs bypassing 2FA are now restricted.",
+      "Sensitive account, org, and package actions require 2FA.",
+      "This change closes a security loophole."
+    ],
+    "published": "2026-07-31T16:45:50+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  },
+  {
+    "id": "d5087a",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "npm publish-time malware scanning and dual-use metadata",
+    "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+    "summary": "npm is implementing automatic malware scanning for packages during the publishing process. This change is part of ongoing supply-chain security efforts. Publishers will also need to be aware of a new metadata requirement.",
+    "bullets": [
+      "npm adds publish-time malware scanning.",
+      "Enhances supply-chain security.",
+      "New metadata requirement for publishers."
+    ],
+    "published": "2026-07-28T22:50:05+00:00",
+    "seen": "2026-09-20",
+    "promoted": false
+  }
+]

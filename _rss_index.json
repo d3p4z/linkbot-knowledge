@@ -1442,5 +1442,37 @@
     "published": "2026-07-28T22:50:05+00:00",
     "seen": "2026-09-20",
     "promoted": false
+  },
+  {
+    "id": "401fca",
+    "feed_name": "BleepingComputer",
+    "title": "Malicious npm packages evade install-script defenses at runtime",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+    "summary": "A new npm malware campaign uses the 'indexed-btree' package to hide malicious code. Threat actors are bypassing defenses by executing malware during the package's normal runtime, not during installation.",
+    "bullets": [
+      "npm malware campaign active",
+      "Malicious code in 'indexed-btree' package",
+      "Bypasses install-script defenses",
+      "Code executes at runtime"
+    ],
+    "published": "2026-09-20T14:11:21+00:00",
+    "seen": "2026-09-21",
+    "promoted": false
+  },
+  {
+    "id": "1e64b8",
+    "feed_name": "BleepingComputer",
+    "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+    "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+    "summary": "Researchers found two ways to escape OpenAI's Codex sandbox. One method allowed running commands on a developer's host machine, even from a restricted mode. OpenAI has since patched both vulnerabilities.",
+    "bullets": [
+      "Researchers escaped OpenAI Codex sandbox",
+      "Ran commands on developer machine",
+      "Exploited most locked-down mode",
+      "OpenAI has patched vulnerabilities"
+    ],
+    "published": "2026-09-20T12:00:00+00:00",
+    "seen": "2026-09-21",
+    "promoted": false
   }
 ]

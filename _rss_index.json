@@ -1474,5 +1474,164 @@
     "published": "2026-09-20T12:00:00+00:00",
     "seen": "2026-09-21",
     "promoted": false
+  },
+  {
+    "id": "aeff1d",
+    "feed_name": "Google Project Zero",
+    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+    "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+    "summary": "This post discusses a privilege escalation vulnerability in Windows, CVE-2026-66804, related to a dangling COM object registration for the CrossDevice COM object. This issue is an incomplete fix for a previous bug known as 'Dark Elevator'. The vulnerability involves the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}.",
+    "bullets": [
+      "Windows privilege escalation bug: CVE-2026-66804",
+      "Related to dangling COM object registration",
+      "Specifically for the CrossDevice COM object",
+      "Incomplete fix for 'Dark Elevator' vulnerability (CVE-2026-50343)",
+      "Involves CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}"
+    ],
+    "published": "2026-09-21T07:00:00+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "47ac25",
+    "feed_name": "BleepingComputer",
+    "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+    "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+    "summary": "BigCommerce has notified merchants about data breaches originating from compromised credentials for third-party Ribon apps. Attackers exploited these credentials to inject malicious scripts into online stores, leading to the breaches.",
+    "bullets": [
+      "BigCommerce data breach alert",
+      "Compromised Ribon app credentials",
+      "Malicious scripts injected into stores",
+      "Multiple merchants affected"
+    ],
+    "published": "2026-09-21T21:18:49+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "3848bc",
+    "feed_name": "BleepingComputer",
+    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+    "summary": "CISA has issued an alert regarding the active exploitation of three vulnerabilities within the Linux kernel. One of these flaws has been classified as critical.",
+    "bullets": [
+      "CISA alert issued",
+      "Three Linux kernel flaws exploited",
+      "One critical vulnerability identified"
+    ],
+    "published": "2026-09-21T20:12:17+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "d58af6",
+    "feed_name": "BleepingComputer",
+    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+    "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+    "summary": "A new WordPress vulnerability named 'Click2Shell' has been disclosed, allowing attackers to execute PHP code on servers. The flaw is a cross-site request forgery (CSRF) vulnerability within the WordPress Core. Technical details and an exploit proof-of-concept are now publicly available.",
+    "bullets": [
+      "WordPress Click2Shell vulnerability",
+      "Allows PHP execution on server",
+      "Cross-site request forgery (CSRF)",
+      "Affects WordPress Core",
+      "Exploit details published"
+    ],
+    "published": "2026-09-21T18:23:11+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "1571fb",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+    "summary": "Microsoft is retiring its Calendar, People, and Files Microsoft 365 companion apps. The retirement date is December 16. Admins have been asked to remove these apps from managed devices.",
+    "bullets": [
+      "Microsoft 365 companion apps (Calendar, People, Files) retiring",
+      "Retirement date: December 16",
+      "Admins should remove apps from managed devices"
+    ],
+    "published": "2026-09-21T17:54:49+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "c7ddcb",
+    "feed_name": "BleepingComputer",
+    "title": "Google fined €403 million over location data privacy violations",
+    "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+    "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million for violating GDPR rules. The violations are specifically related to how Google processes users' location data.",
+    "bullets": [
+      "Google fined €403 million",
+      "Location data privacy violations",
+      "GDPR violations",
+      "Ireland's DPC imposed the fine"
+    ],
+    "published": "2026-09-21T15:41:22+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "115b65",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+    "summary": "Microsoft has released a fix for a copy-paste bug affecting Excel users. This issue arose after the September 2026 security updates were installed.",
+    "bullets": [
+      "Excel copy-paste bug fixed",
+      "Bug caused by Sept 2026 security updates",
+      "Fix available for all Office users"
+    ],
+    "published": "2026-09-21T14:42:37+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "175425",
+    "feed_name": "BleepingComputer",
+    "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+    "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+    "summary": "The FBI's CJIS Security Policy v6.1 introduces enhanced encryption and vulnerability scanning requirements, along with a move towards continuous security assessment. Specops breaks down these changes, focusing on password, MFA, and identity management for agencies facing audits.",
+    "bullets": [
+      "CJIS v6.1 updates: encryption & vulnerability scanning",
+      "Focus on continuous security assessment",
+      "Address password, MFA, and identity requirements",
+      "Prepare for upcoming audits"
+    ],
+    "published": "2026-09-21T14:02:12+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "bea41f",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+    "summary": "Microsoft is urging administrators to move Entra ID users away from SMS-based logins. This is because SMS first-factor sign-in will be retired in February 2027, potentially causing sign-in issues. Admins should migrate users to passkeys or other phishing-resistant methods.",
+    "bullets": [
+      "Microsoft Entra ID users need to migrate from SMS sign-in.",
+      "SMS first-factor sign-in retiring Feb 2027.",
+      "Migration to passkeys or similar methods is required.",
+      "Avoids potential sign-in disruptions."
+    ],
+    "published": "2026-09-21T13:16:20+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
+  },
+  {
+    "id": "08bc38",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: September updates break File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+    "summary": "Microsoft has announced that their September 2026 security updates are causing issues with the File History backup feature on some Windows systems. This built-in functionality may cease to work after the updates are installed.",
+    "bullets": [
+      "September updates break File History",
+      "Windows backup feature impacted",
+      "Issue affects some systems",
+      "Security updates are the cause"
+    ],
+    "published": "2026-09-21T11:45:54+00:00",
+    "seen": "2026-09-22",
+    "promoted": false
   }
 ]

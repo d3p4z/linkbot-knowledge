@@ -1633,5 +1633,169 @@
     "published": "2026-09-21T11:45:54+00:00",
     "seen": "2026-09-22",
     "promoted": false
+  },
+  {
+    "id": "9b672c",
+    "feed_name": "BleepingComputer",
+    "title": "Rogue external MFA providers can steal passwords during logins",
+    "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+    "summary": "Security researchers found a way for attackers to use a compromised external MFA provider to steal user passwords during logins. The attack requires privileged access to register the malicious MFA provider.",
+    "bullets": [
+      "Rogue external MFA providers can steal passwords",
+      "Attack requires privileged access",
+      "Happens during legitimate logins",
+      "Researchers developed the attack"
+    ],
+    "published": "2026-09-22T21:45:45+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "7a507b",
+    "feed_name": "BleepingComputer",
+    "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+    "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+    "summary": "Sweden's data protection authority, IMY, fined IT provider Miljödata approximately $183,000. The fine was due to insufficient security that caused a breach impacting 2.2 million individuals in August 2025.",
+    "bullets": [
+      "Miljödata fined $183,000 by Sweden's IMY.",
+      "Inadequate security measures cited.",
+      "Breach affected 2.2 million people.",
+      "Breach occurred in August 2025."
+    ],
+    "published": "2026-09-22T21:40:37+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "1f45ce",
+    "feed_name": "BleepingComputer",
+    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+    "summary": "A Chinese-speaking threat actor is targeting government data by exploiting vulnerabilities in ZyXEL switches and WordPress. The attack has compromised 996 devices and over 18,500 records from backend databases.",
+    "bullets": [
+      "Chinese hackers exploiting ZyXEL GS1900 switches",
+      "Also exploiting WordPress vulnerabilities",
+      "Goal: steal government data",
+      "Impact: 996 devices compromised",
+      "Over 18,500 records stolen from databases"
+    ],
+    "published": "2026-09-22T20:35:24+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "4fb6e3",
+    "feed_name": "BleepingComputer",
+    "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+    "summary": "The ShinyHunters group claims they hacked FBI systems. They reportedly used a zero-day vulnerability in Oracle PeopleSoft to access internal services and steal employee and applicant data.",
+    "bullets": [
+      "ShinyHunters claims FBI hack.",
+      "Exploited Oracle PeopleSoft zero-day.",
+      "Accessed internal systems.",
+      "Stole employee/applicant data."
+    ],
+    "published": "2026-09-22T19:13:29+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "8089d2",
+    "feed_name": "BleepingComputer",
+    "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+    "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+    "summary": "A new Windows malware called ClosedQuorum has been identified. This malware utilizes AI models like Google Gemini, DeepSeek, Qwen, and Mistral AI to make autonomous decisions during the post-compromise phase of attacks.",
+    "bullets": [
+      "New Windows malware: ClosedQuorum",
+      "Uses AI for attack decisions",
+      "Leverages Gemini, DeepSeek, Qwen, Mistral AI",
+      "Operates in post-compromise stages"
+    ],
+    "published": "2026-09-22T18:04:39+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "6980ab",
+    "feed_name": "BleepingComputer",
+    "title": "Reducing shadow IT visibility gaps with Wazuh",
+    "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+    "summary": "This item discusses how to address shadow IT by reducing visibility gaps. It explains how using Wazuh, specifically its endpoint inventory, agentless monitoring, and centralized analysis features, can help security teams discover and manage unmonitored assets.",
+    "bullets": [
+      "Shadow IT causes security teams to miss unmanaged endpoints and unauthorized software.",
+      "Wazuh helps by providing endpoint inventory.",
+      "Agentless monitoring is another key feature.",
+      "Centralized analysis aids in identifying gaps.",
+      "Goal is to reduce visibility issues caused by shadow IT."
+    ],
+    "published": "2026-09-22T17:17:41+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "30a8db",
+    "feed_name": "BleepingComputer",
+    "title": "Check Point warns of Management Server zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+    "summary": "Check Point is addressing a critical zero-day vulnerability in its Security Management Server. This flaw allows attackers to execute arbitrary scripts. Emergency hotfixes are now available.",
+    "bullets": [
+      "Check Point Management Server zero-day",
+      "Arbitrary script execution possible",
+      "Critical vulnerability",
+      "Emergency hotfixes released"
+    ],
+    "published": "2026-09-22T16:32:47+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "dad7e7",
+    "feed_name": "BleepingComputer",
+    "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+    "summary": "The EvilTokens PhaaS platform, which compromised over 12,000 Microsoft accounts across more than 10,000 organizations, has been disrupted. This action was led by Microsoft's Digital Crimes Unit.",
+    "bullets": [
+      "EvilTokens PhaaS platform disrupted",
+      "Compromised 12,000+ Microsoft accounts",
+      "Affected over 10,000 organizations",
+      "Microsoft's Digital Crimes Unit led effort"
+    ],
+    "published": "2026-09-22T15:00:00+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "03d248",
+    "feed_name": "BleepingComputer",
+    "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+    "summary": "A webinar tomorrow will discuss actual Google Workspace breaches. It will cover social engineering, malicious OAuth apps, and incident response during the initial hours.",
+    "bullets": [
+      "Webinar tomorrow on Google Workspace breaches",
+      "Covers social engineering",
+      "Examines malicious OAuth apps",
+      "Focuses on initial hours of incident response",
+      "Highlights impactful security controls/decisions"
+    ],
+    "published": "2026-09-22T12:57:07+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
+  },
+  {
+    "id": "0ecb27",
+    "feed_name": "BleepingComputer",
+    "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+    "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+    "summary": "D-Link has alerted users to a critical zero-day vulnerability, identified as CVE-2026-86296, impacting their DIR-822A dual-band Wi-Fi routers. Exploitation is possible due to public proof-of-concept code, and there is currently no patch available from D-Link.",
+    "bullets": [
+      "Critical zero-day vulnerability in D-Link DIR-822A routers",
+      "CVE-2026-86296",
+      "Public exploit code available",
+      "No patch currently exists",
+      "Affects legacy routers"
+    ],
+    "published": "2026-09-22T12:48:06+00:00",
+    "seen": "2026-09-23",
+    "promoted": false
   }
 ]

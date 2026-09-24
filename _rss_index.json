@@ -1797,5 +1797,197 @@
     "published": "2026-09-22T12:48:06+00:00",
     "seen": "2026-09-23",
     "promoted": false
+  },
+  {
+    "id": "18c227",
+    "feed_name": "PortSwigger Research",
+    "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
+    "url": "https://portswigger.net/research/http3-in-burp-suite",
+    "summary": "Burp Suite's Turbo Intruder now supports HTTP/3. This update allows for significantly faster request rates, potentially over 100,000 requests per second over Wi-Fi.",
+    "bullets": [
+      "Turbo Intruder now supports HTTP/3.",
+      "Can exceed 100,000 req/sec over Wi-Fi.",
+      "Helps find more bugs by sending more requests.",
+      "Auto-tuning included."
+    ],
+    "published": "2026-09-23T14:00:00+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "6afb3d",
+    "feed_name": "watchTowr Labs",
+    "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127)",
+    "url": "https://labs.watchtowr.com/is-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-to-rce-cve-2026-94127/",
+    "summary": "This item discusses a heap overflow vulnerability in F5 BIG-IP, identified as CVE-2026-94127. The vulnerability allows for remote code execution and is reportedly triggered via the authentication header.",
+    "bullets": [
+      "F5 BIG-IP vulnerability",
+      "CVE-2026-94127",
+      "Unauthenticated Heap-Overflow",
+      "Remote Code Execution (RCE)",
+      "Triggered via Auth Header"
+    ],
+    "published": "2026-09-23T23:19:19+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "8bfc47",
+    "feed_name": "BleepingComputer",
+    "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+    "summary": "A placeholder domain, 'third-party.com', often seen in developer documentation, is now being used for attacks. It displays a fake Cloudflare page to trick Windows users into running PowerShell commands.",
+    "bullets": [
+      "Placeholder domain 'third-party.com' is now malicious.",
+      "Serves a fake Cloudflare verification page.",
+      "Targets Windows users.",
+      "Attempts to trick users into executing PowerShell commands."
+    ],
+    "published": "2026-09-23T22:46:01+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "0cd043",
+    "feed_name": "BleepingComputer",
+    "title": "New RemControl Android banking malware targets users in Europe and Canada",
+    "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+    "summary": "A new Android malware-as-a-service (MaaS) platform named RemControl is active. It targets users in Europe and Canada. Campaigns use malvertising that impersonates the TVTap IPTV application.",
+    "bullets": [
+      "New Android MaaS: RemControl",
+      "Targets Europe and Canada",
+      "Uses malvertising",
+      "Impersonates TVTap IPTV app"
+    ],
+    "published": "2026-09-23T21:25:13+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "4c8d1d",
+    "feed_name": "BleepingComputer",
+    "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+    "summary": "Check Point has confirmed that hackers are actively exploiting a critical vulnerability (CVE-2026-85102) in their Security Gateway product. This flaw allows for remote code execution before authentication, targeting the VPN's certificate handling. The vulnerability affects the Security Gateway VPN.",
+    "bullets": [
+      "Active exploitation of CVE-2026-85102 confirmed.",
+      "Vulnerability in Check Point Security Gateway VPN.",
+      "Pre-authentication Remote Code Execution (RCE).",
+      "Exploits VPN certificate handling functionality."
+    ],
+    "published": "2026-09-23T19:53:54+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "85fca7",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers start exploiting critical WordPress flaw for code execution",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+    "summary": "Hackers are actively exploiting a critical vulnerability in WordPress, identified as CVE-2026-87902. Threat actors have progressed from scanning for vulnerable sites to actively using the flaw to execute code. This is achieved by writing files to disk that can run shell commands.",
+    "bullets": [
+      "Critical WordPress flaw CVE-2026-87902 is being exploited.",
+      "Attackers now executing shell commands.",
+      "Vulnerability allows file writes on disk."
+    ],
+    "published": "2026-09-23T18:31:22+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "340640",
+    "feed_name": "BleepingComputer",
+    "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+    "summary": "A financially motivated group is using AI agent frameworks to compromise online retailers. They have stolen over 600,000 credit card records and infected more than 100 websites with skimmers.",
+    "bullets": [
+      "Malicious AI agents used in attacks",
+      "Targeting online retailers",
+      "600K+ credit cards stolen",
+      "100+ sites infected with skimmers"
+    ],
+    "published": "2026-09-23T16:20:54+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "475dc6",
+    "feed_name": "BleepingComputer",
+    "title": "InfraTrust report warns network management systems under attack",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+    "summary": "A report from InfraTrust indicates that network management systems are becoming a primary target for attackers. These systems, crucial for controlling enterprise infrastructure, are facing exploitation of critical vulnerabilities. Many of these vulnerabilities are being actively exploited either before or very soon after vendors announce them.",
+    "bullets": [
+      "InfraTrust report highlights attacks on network management systems.",
+      "Management systems control enterprise infrastructure.",
+      "Critical vulnerabilities are being actively exploited.",
+      "Exploitation often occurs before or shortly after vendor disclosure."
+    ],
+    "published": "2026-09-23T14:35:26+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "f6ef53",
+    "feed_name": "BleepingComputer",
+    "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+    "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+    "summary": "A vulnerability exists where a Kubernetes user with limited permissions can escalate privileges to control an entire Google Cloud organization. This is achieved by exploiting the Google Kubernetes Config Connector, turning a single Kubernetes YAML file into a tool for organization-wide privilege escalation.",
+    "bullets": [
+      "Kubernetes YAML can grant full GCP Organization control.",
+      "Exploits Google Kubernetes Config Connector.",
+      "Confused deputy vulnerability.",
+      "Limited user gains organization-wide privilege escalation."
+    ],
+    "published": "2026-09-23T14:01:11+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "933ce3",
+    "feed_name": "BleepingComputer",
+    "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+    "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+    "summary": "Arista Networks has released patches for a zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. This vulnerability is currently being actively exploited.",
+    "bullets": [
+      "Arista Networks security patches released",
+      "VeloCloud Orchestrator (VCO) On-Prem affected",
+      "Zero-day vulnerability",
+      "Actively exploited"
+    ],
+    "published": "2026-09-23T12:29:53+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "9717b3",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: September Windows updates break Always On VPN connections",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+    "summary": "Microsoft has identified an issue with its September 2026 security updates. These updates may cause Always On VPN connections to fail on certain Windows 11 devices.",
+    "bullets": [
+      "September 2026 Windows updates problematic",
+      "Always On VPN connections affected",
+      "Some Windows 11 systems impacted"
+    ],
+    "published": "2026-09-23T11:18:13+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
+  },
+  {
+    "id": "fa169f",
+    "feed_name": "BleepingComputer",
+    "title": "Ryuk ransomware member sentenced to 24 months in prison",
+    "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+    "summary": "An Armenian national has been sentenced to two years in prison for his involvement in Ryuk ransomware attacks. These attacks targeted U.S. companies, leading to system encryption. He will also serve three years of supervised release following his prison term.",
+    "bullets": [
+      "Ryuk ransomware attacker sentenced",
+      "Armenian national imprisoned",
+      "24-month sentence",
+      "Targeted U.S. companies",
+      "System encryption"
+    ],
+    "published": "2026-09-23T08:20:05+00:00",
+    "seen": "2026-09-24",
+    "promoted": false
   }
 ]

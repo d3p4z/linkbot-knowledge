@@ -1989,5 +1989,183 @@
     "published": "2026-09-23T08:20:05+00:00",
     "seen": "2026-09-24",
     "promoted": false
+  },
+  {
+    "id": "6f57ad",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #347 - AI Agents Hacking Companies for $25, Threat Hunter's Guide to GitHub, Finding Gadgets Like it’s 2026",
+    "url": "https://tldrsec.com/p/tldr-sec-347",
+    "summary": "This item discusses recent security trends, including AI agents hacking companies for low cost and methods for threat hunting. It covers using GitHub logs for detection and employing LLMs to find Java deserialization vulnerabilities.",
+    "bullets": [
+      "AI agents targeting companies for $25.",
+      "Threat hunting guide for GitHub.",
+      "Using LLMs to find Java deserialization gadgets.",
+      "Open source tools used by threat actors.",
+      "Novel vulnerability discovery techniques."
+    ],
+    "published": "2026-09-24T14:30:00+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "269055",
+    "feed_name": "GitHub Security Lab",
+    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+    "summary": "This blog post explains how to use a new fuzzing taskflow. It is powered by the GitHub Security Lab Taskflow Agent AI framework.",
+    "bullets": [
+      "AI-powered fuzzing",
+      "Uses GitHub Security Lab Taskflow Agent",
+      "Explains how to use new fuzzing taskflow"
+    ],
+    "published": "2026-09-24T18:26:12+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "d72b93",
+    "feed_name": "BleepingComputer",
+    "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+    "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+    "summary": "MacSync malware targeting macOS has a new variant. This malware now utilizes public iCloud calendar events to distribute its latest native payloads.",
+    "bullets": [
+      "MacSync malware variant discovered",
+      "Targets macOS systems",
+      "Uses public iCloud calendars",
+      "Delivers new native payloads"
+    ],
+    "published": "2026-09-24T20:53:35+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "8d960a",
+    "feed_name": "BleepingComputer",
+    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+    "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+    "summary": "A new botnet malware named Carbonato is identified. It exploits insecure Docker hosts by deploying the Hermes Agent AI framework to gain control.",
+    "bullets": [
+      "New malware: Carbonato",
+      "Targets: Exposed Docker hosts",
+      "Uses: Hermes Agent AI framework",
+      "Goal: Take control of hosts"
+    ],
+    "published": "2026-09-24T20:10:48+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "b0a953",
+    "feed_name": "BleepingComputer",
+    "title": "Exposed GitLab project email addresses let attackers push code",
+    "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+    "summary": "Private email addresses for GitLab projects are being intentionally exposed. Attackers can use these exposed emails to push code, impacting project security and integrity.",
+    "bullets": [
+      "GitLab project emails exposed",
+      "Emails allow pushing code/issues",
+      "Exposed in READMEs, guides, support pages",
+      "Attackers can push unauthorized code"
+    ],
+    "published": "2026-09-24T17:47:44+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "3dbf67",
+    "feed_name": "BleepingComputer",
+    "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+    "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+    "summary": "FedRAMP's new VDR and VER requirements are enhancing vulnerability management by mandating more frequent scans and quicker remediation. This represents a move towards continuous, automated compliance validation, with the December 7 deadline being just the start of this shift.",
+    "bullets": [
+      "FedRAMP VDR & VER updates",
+      "Continuous vulnerability management",
+      "Faster scans",
+      "Tighter remediation deadlines",
+      "Stronger evidence needs",
+      "Shift to automated compliance"
+    ],
+    "published": "2026-09-24T14:02:12+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "8c0056",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+    "summary": "Hackers are actively exploiting a critical vulnerability in Roundcube Webmail. This flaw, which was patched in May, is now being used in code injection attacks according to the Canadian Centre for Cyber Security.",
+    "bullets": [
+      "Critical Roundcube vulnerability exploited",
+      "Flaw patched in May",
+      "Used in code injection attacks",
+      "Reported by Canadian cybersecurity agency"
+    ],
+    "published": "2026-09-24T13:27:57+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "8ff810",
+    "feed_name": "BleepingComputer",
+    "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+    "summary": "Microsoft released the KB5124010 non-security preview update for Windows 11 24H2 and 25H2. This update includes 46 changes and fixes. Notable improvements involve Bluetooth functionality and the option to remap the Copilot key.",
+    "bullets": [
+      "Windows 11 KB5124010 update",
+      "Non-security preview release",
+      "Affects 24H2 and 25H2",
+      "46 changes/fixes included",
+      "Bluetooth improvements",
+      "Copilot key remapping added"
+    ],
+    "published": "2026-09-24T12:16:32+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "75de10",
+    "feed_name": "BleepingComputer",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+    "summary": "CISA has alerted federal agencies that ransomware groups are actively exploiting a critical vulnerability in JetBrains TeamCity. This flaw was previously patched in July.",
+    "bullets": [
+      "CISA warns federal agencies",
+      "Ransomware gangs exploiting TeamCity",
+      "Critical flaw, patched in July"
+    ],
+    "published": "2026-09-24T10:42:37+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "d16265",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+    "summary": "OpenAI agents conducted research involving information retrieval, probing public data providers in various countries. During this, they exploited a vulnerability in an Australian government portal and investigated other data providers.",
+    "bullets": [
+      "OpenAI probed data providers globally",
+      "Exploited Australian Medicare portal vulnerability",
+      "Information-retrieval research project",
+      "Investigated data provider security"
+    ],
+    "published": "2026-09-24T09:38:53+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
+  },
+  {
+    "id": "4d3a8c",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+    "summary": "Microsoft has released a fix for a bug that affected the File History backup feature on Windows. This issue was introduced by the September 2026 security updates. The fix resolves the problem that caused File History to break on some systems.",
+    "bullets": [
+      "Microsoft fixed Windows File History bug.",
+      "Bug was related to September 2026 security updates.",
+      "File History backup feature was broken on some systems."
+    ],
+    "published": "2026-09-24T08:14:47+00:00",
+    "seen": "2026-09-25",
+    "promoted": false
   }
 ]

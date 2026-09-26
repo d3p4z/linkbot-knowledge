@@ -2167,5 +2167,181 @@
     "published": "2026-09-24T08:14:47+00:00",
     "seen": "2026-09-25",
     "promoted": false
+  },
+  {
+    "id": "7efd22",
+    "feed_name": "Krebs on Security",
+    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+    "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+    "summary": "A U.S. Army soldier has been sentenced to 70 months in federal prison for hacking into telecommunications companies. He stole call and text metadata for over 100 million AT&T customers. The soldier was also ordered to pay nearly $300,000 in restitution.",
+    "bullets": [
+      "Army soldier sentenced to 70 months prison",
+      "Hacked AT&T, Verizon",
+      "Stole 100M+ customers' call/text data",
+      "Ordered to pay $300K restitution"
+    ],
+    "published": "2026-09-25T21:44:40+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "5e4887",
+    "feed_name": "BleepingComputer",
+    "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+    "summary": "Secure file-sharing software company Kiteworks is recommending a six-hour server shutdown for customers on Saturday. This is due to threat intelligence indicating a potentially imminent cyberattack.",
+    "bullets": [
+      "Kiteworks recommends server shutdown",
+      "Planned for Saturday",
+      "Six-hour window",
+      "Due to potential cyberattack warning"
+    ],
+    "published": "2026-09-25T21:41:07+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "d018bd",
+    "feed_name": "BleepingComputer",
+    "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+    "summary": "The Clop ransomware gang's data leak site was hacked and defaced by ShinyHunters. The attackers exploited an unauthenticated path traversal vulnerability in Grav CMS to gain access to the server.",
+    "bullets": [
+      "Clop leak site compromised",
+      "Hacked by ShinyHunters",
+      "Used Grav CMS flaw",
+      "Flaw: Path traversal vulnerability",
+      "Site moved to new Tor address"
+    ],
+    "published": "2026-09-25T20:57:55+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "a0c801",
+    "feed_name": "BleepingComputer",
+    "title": "Elementor WordPress flaw lets attackers create admin accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+    "summary": "A vulnerability in the Elementor WordPress plugin could allow attackers to create admin accounts. The flaw is a cross-site request forgery (CSRF) issue, meaning an unauthenticated attacker could exploit it.",
+    "bullets": [
+      "Elementor plugin vulnerability",
+      "Allows admin account creation",
+      "Exploits CSRF",
+      "Unauthenticated attacker"
+    ],
+    "published": "2026-09-25T18:13:33+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "fafab2",
+    "feed_name": "BleepingComputer",
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+    "summary": "CISA has issued a warning about active exploitation of vulnerabilities. These flaws affect products from WSO2, SharePoint, and Adobe Commerce. One specific vulnerability is a critical authentication bypass in WSO2 products.",
+    "bullets": [
+      "CISA alert issued",
+      "Exploited vulnerabilities in WSO2, SharePoint, Adobe Commerce",
+      "Critical WSO2 auth bypass (CVE-2026-5430) targeted"
+    ],
+    "published": "2026-09-25T17:24:20+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "00b37f",
+    "feed_name": "BleepingComputer",
+    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+    "summary": "Anthropic is offering up to $250 in free credits for using Claude Code through cloud sessions. This allows more users to try the AI model without needing to sign up for the research preview.",
+    "bullets": [
+      "Free Claude Code credits up to $250",
+      "Available via cloud sessions",
+      "No research preview signup required",
+      "Encourages wider user testing"
+    ],
+    "published": "2026-09-25T16:00:00+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "147b9d",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+    "summary": "OpenAI is reportedly developing a new, premium ChatGPT subscription called 'Pro Max'. This plan is expected to cost around $500 per month and may include faster access to its Codex code generation model. Details on its release date are currently unavailable.",
+    "bullets": [
+      "New ChatGPT subscription rumored: Pro Max",
+      "Estimated cost: $500/month",
+      "Potential feature: Faster Codex access",
+      "Rollout timing unknown"
+    ],
+    "published": "2026-09-25T14:54:33+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "474cb2",
+    "feed_name": "BleepingComputer",
+    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+    "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+    "summary": "The rise of AI agents presents a new challenge for the SOC 2 compliance framework. These agents can mimic human activity using compromised credentials, creating security gaps. The article discusses the need for SOC 2 to evolve to address these agent-based threats.",
+    "bullets": [
+      "AI agents pose a threat to SOC 2.",
+      "Agents can use human credentials.",
+      "SOC 2 controls may not detect agent actions.",
+      "Framework needs to adapt to agent identities.",
+      "Security gaps created by AI agents."
+    ],
+    "published": "2026-09-25T14:51:10+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "954598",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft plans to deprecate Windows Deployment Services",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+    "summary": "Microsoft is planning to deprecate Windows Deployment Services (WDS). This server role will be removed starting with the next release of Windows Server.",
+    "bullets": [
+      "Microsoft deprecating WDS",
+      "WDS server role removal",
+      "Affects next Windows Server release"
+    ],
+    "published": "2026-09-25T12:40:59+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "6e7440",
+    "feed_name": "BleepingComputer",
+    "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+    "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+    "summary": "A Kosovar national has pleaded guilty to operating Rydox, an illegal online marketplace. The marketplace sold stolen personal information, login credentials, credit card details, and cybercrime tools. The individual faces up to 22 years in prison.",
+    "bullets": [
+      "Rydox marketplace admin pleads guilty.",
+      "Sold stolen personal info, credentials, credit cards.",
+      "Also sold cybercrime tools.",
+      "Faces up to 22 years in prison."
+    ],
+    "published": "2026-09-25T11:35:14+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
+  },
+  {
+    "id": "94b2d7",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+    "summary": "Microsoft has acknowledged that recent Windows updates are causing desktop loading problems for some users. These issues, including black screens, began after installing the August 2026 preview updates and subsequent releases.",
+    "bullets": [
+      "Microsoft confirms Windows update issues",
+      "Desktop loading problems reported",
+      "Black screens observed",
+      "Affects August 2026 preview updates and later"
+    ],
+    "published": "2026-09-25T10:30:38+00:00",
+    "seen": "2026-09-26",
+    "promoted": false
   }
 ]

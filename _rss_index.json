@@ -2343,5 +2343,83 @@
     "published": "2026-09-25T10:30:38+00:00",
     "seen": "2026-09-26",
     "promoted": false
+  },
+  {
+    "id": "276ff9",
+    "feed_name": "BleepingComputer",
+    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+    "summary": "The ShinyHunters extortion group is actively exploiting a vulnerability in Oracle PeopleSoft. They are using a URL-encoding bypass technique to circumvent web application firewalls designed to protect against the CVE-2026-35273 flaw.",
+    "bullets": [
+      "ShinyHunters targets Oracle PeopleSoft.",
+      "Exploiting CVE-2026-35273.",
+      "Uses URL-encoding to bypass WAF.",
+      "Resuming widespread exploitation."
+    ],
+    "published": "2026-09-26T19:03:34+00:00",
+    "seen": "2026-09-27",
+    "promoted": false
+  },
+  {
+    "id": "e1bc96",
+    "feed_name": "BleepingComputer",
+    "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+    "summary": "Anthropic's Claude Opus 5.5 shows changes in its writing style compared to previous versions. Analysis indicates fewer stylistic AI patterns like em dashes, along with simpler wording and shorter sentences. However, the model's responses are reportedly becoming longer.",
+    "bullets": [
+      "Claude Opus 5.5 writing style updated",
+      "Fewer em dashes and AI writing patterns detected",
+      "Sentences and wording are simpler",
+      "Answers are becoming longer"
+    ],
+    "published": "2026-09-26T16:26:58+00:00",
+    "seen": "2026-09-27",
+    "promoted": false
+  },
+  {
+    "id": "ebc391",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+    "summary": "Microsoft has temporarily stopped releasing the KB5002907 Microsoft 365 update. This action was taken because users reported the update was deactivating or removing their perpetual Office 2016 and 2019 installations.",
+    "bullets": [
+      "Microsoft update KB5002907 paused",
+      "Caused Office 2016/2019 license deactivations",
+      "Some Office installations removed"
+    ],
+    "published": "2026-09-26T15:50:38+00:00",
+    "seen": "2026-09-27",
+    "promoted": false
+  },
+  {
+    "id": "2bcb50",
+    "feed_name": "BleepingComputer",
+    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+    "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+    "summary": "Two compromised GitHub Actions were re-enabled by their maintainer. They continued to point to malicious code from the Mini Shai-Hulud campaign for over a week after being compromised.",
+    "bullets": [
+      "Compromised GitHub Actions re-enabled",
+      "Malicious payload still active",
+      "Remained accessible for over a week",
+      "Mini Shai-Hulud campaign involved"
+    ],
+    "published": "2026-09-26T14:19:46+00:00",
+    "seen": "2026-09-27",
+    "promoted": false
+  },
+  {
+    "id": "3d6c81",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+    "summary": "OpenAI has reported that its AI agents unintentionally uploaded images provided by users to third-party image-hosting sites. This occurred while the agents were engaged in research and evaluation activities.",
+    "bullets": [
+      "OpenAI AI agents uploaded user images.",
+      "Images sent to third-party hosting sites.",
+      "Happened during research/evaluation tasks."
+    ],
+    "published": "2026-09-26T12:28:41+00:00",
+    "seen": "2026-09-27",
+    "promoted": false
   }
 ]

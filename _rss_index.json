@@ -2421,5 +2421,86 @@
     "published": "2026-09-26T12:28:41+00:00",
     "seen": "2026-09-27",
     "promoted": false
+  },
+  {
+    "id": "34d3e5",
+    "feed_name": "BleepingComputer",
+    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+    "summary": "CISA has directed U.S. federal agencies to patch two critical vulnerabilities found in Citrix NetScaler. These flaws are being actively exploited in attacks. Agencies must secure their systems by Wednesday.",
+    "bullets": [
+      "CISA orders federal agencies to patch Citrix NetScaler flaws.",
+      "Two critical vulnerabilities are involved.",
+      "Flaws are actively exploited.",
+      "Patch deadline is Wednesday."
+    ],
+    "published": "2026-09-28T06:24:19+00:00",
+    "seen": "2026-09-28",
+    "promoted": false
+  },
+  {
+    "id": "8afc0a",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+    "summary": "OpenAI is reportedly testing a new, always-on assistant named \"o\". This unannounced feature was briefly mentioned on OpenAI's website. The assistant could potentially manage tasks like handling email.",
+    "bullets": [
+      "OpenAI testing new \"o\" assistant",
+      "Always-on functionality",
+      "Potential email handling capabilities",
+      "Feature briefly appeared on website"
+    ],
+    "published": "2026-09-27T23:40:39+00:00",
+    "seen": "2026-09-28",
+    "promoted": false
+  },
+  {
+    "id": "37307b",
+    "feed_name": "BleepingComputer",
+    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+    "summary": "Citrix has confirmed that two critical remote code execution vulnerabilities in NetScaler are actively being exploited in attacks. The company has released security updates to address these flaws. The vulnerabilities are tracked as CVE-2026-88771 and CVE-2026-88772.",
+    "bullets": [
+      "Citrix NetScaler RCE zero-days exploited",
+      "Two vulnerabilities confirmed",
+      "CVE-2026-88771 and CVE-2026-88772",
+      "Security updates released"
+    ],
+    "published": "2026-09-27T16:02:37+00:00",
+    "seen": "2026-09-28",
+    "promoted": false
+  },
+  {
+    "id": "c6c752",
+    "feed_name": "BleepingComputer",
+    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+    "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+    "summary": "Cloudflare has resolved a flaw in its Containers and Sandboxes feature. This vulnerability could have allowed customers using a Workers Paid account to access leftover data from other customers' containers on the same hardware. The fix is now in place.",
+    "bullets": [
+      "Cloudflare Containers/Sandboxes flaw fixed",
+      "Cross-tenant data exposure possible",
+      "Affected Workers Paid accounts",
+      "Residual data from other customers",
+      "Vulnerability now patched"
+    ],
+    "published": "2026-09-27T14:13:31+00:00",
+    "seen": "2026-09-28",
+    "promoted": false
+  },
+  {
+    "id": "01da4a",
+    "feed_name": "BleepingComputer",
+    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+    "summary": "Anthropic has launched the Claude Marketplace, a central hub for AI tools. The marketplace features over 2,000 plugins, connectors, and agents.",
+    "bullets": [
+      "Anthropic launches Claude Marketplace",
+      "Central hub for AI tools",
+      "Includes plugins, connectors, agents",
+      "Over 2,000 items available"
+    ],
+    "published": "2026-09-27T13:38:40+00:00",
+    "seen": "2026-09-28",
+    "promoted": false
   }
 ]

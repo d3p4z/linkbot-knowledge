@@ -2502,5 +2502,182 @@
     "published": "2026-09-27T13:38:40+00:00",
     "seen": "2026-09-28",
     "promoted": false
+  },
+  {
+    "id": "440ccb",
+    "feed_name": "watchTowr Labs",
+    "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
+    "url": "https://labs.watchtowr.com/oh-look-the-foot-gun-went-off-again-citrix-netscaler-preauth-command-injection-cve-2026-88771/",
+    "summary": "This item discusses a pre-authentication command injection vulnerability (CVE-2026-88771) in Citrix NetScaler. It highlights a recurring issue where widespread knowledge of Citrix vulnerabilities precedes the company's awareness.",
+    "bullets": [
+      "Citrix NetScaler pre-auth command injection vulnerability (CVE-2026-88771)",
+      "Vulnerability known before Citrix addressed it",
+      "Recurring \"footgun\" security issue"
+    ],
+    "published": "2026-09-28T10:55:54+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "b4c2f0",
+    "feed_name": "GitHub Security Lab",
+    "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+    "summary": "This post details how an open-source AI security agent discovered 24 vulnerabilities in Android. It covers the AI workflows used, the specific bugs found, and instructions for using the agent on other apps.",
+    "bullets": [
+      "AI agent found 24 Android vulnerabilities",
+      "Details AI taskflows used",
+      "Uncovered critical Android bugs",
+      "How to run the open-source agent"
+    ],
+    "published": "2026-09-28T19:00:00+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "d8ad11",
+    "feed_name": "Krebs on Security",
+    "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+    "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+    "summary": "Dutch police arrested a 23-year-old previously convicted hacker suspected of assisting the ShinyHunters group. Following the arrest, ShinyHunters intensified their attacks, stealing data from the FBI and extorting Cl0p.",
+    "bullets": [
+      "Dutch police arrested a suspect linked to ShinyHunters.",
+      "Suspect is a 23-year-old convicted cybercriminal.",
+      "ShinyHunters escalated attacks post-arrest.",
+      "Stole FBI data.",
+      "Extorted Cl0p."
+    ],
+    "published": "2026-09-28T15:08:57+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "57c942",
+    "feed_name": "BleepingComputer",
+    "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+    "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+    "summary": "Japan's Keio Corporation, a large private railway operator, has confirmed a ransomware attack. The incident occurred over the weekend and caused disruptions to some of their business systems.",
+    "bullets": [
+      "Keio Corporation hit by ransomware",
+      "Attack disrupted business systems",
+      "Incident occurred over weekend",
+      "Major Japanese railway operator affected"
+    ],
+    "published": "2026-09-28T20:56:47+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "b07373",
+    "feed_name": "BleepingComputer",
+    "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+    "summary": "Japanese car-sharing service Times Car reported a data breach. The cyberattack impacted around 6.6 million user accounts.",
+    "bullets": [
+      "Times Car data breach confirmed",
+      "6.6 million user accounts affected",
+      "Cyberattack disclosed last week"
+    ],
+    "published": "2026-09-28T20:31:16+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "9b9c2e",
+    "feed_name": "BleepingComputer",
+    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+    "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+    "summary": "Dutch police have confirmed an arrest in connection with the ShinyHunters hacking group. A 24-year-old man from Amsterdam was detained as part of this investigation.",
+    "bullets": [
+      "Arrest made in ShinyHunters investigation",
+      "Suspect is a 24-year-old Amsterdam man",
+      "Investigation ongoing"
+    ],
+    "published": "2026-09-28T19:49:10+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "414697",
+    "feed_name": "BleepingComputer",
+    "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+    "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+    "summary": "Over 16,000 Supabase databases have been found to be misconfigured, leading to the exposure of sensitive data. This data includes personally identifiable information, passwords, and authentication tokens, which are accessible in readable tables.",
+    "bullets": [
+      "16,000+ Supabase databases misconfigured",
+      "Exposed PII",
+      "Exposed passwords",
+      "Exposed auth tokens",
+      "Readable tables"
+    ],
+    "published": "2026-09-28T18:50:59+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "24d4e9",
+    "feed_name": "BleepingComputer",
+    "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+    "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+    "summary": "The JadePuffer threat actor is conducting agent-driven attacks against Azure cloud environments. These attacks involve reconnaissance, credential theft, and the destruction of critical cloud resources.",
+    "bullets": [
+      "JadePuffer targets Azure tenants",
+      "Uses agentic AI for attacks",
+      "Conducts reconnaissance",
+      "Steals credentials",
+      "Destroys cloud resources"
+    ],
+    "published": "2026-09-28T15:49:27+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "663bdb",
+    "feed_name": "BleepingComputer",
+    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+    "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+    "summary": "Infostealer logs revealed compromised AI account credentials and sessions for over 80,000 organizations. This exposure creates risks like stolen conversations and LLMjacking, with a growing market for these stolen logins.",
+    "bullets": [
+      "80,000+ orgs affected by AI login theft",
+      "Stolen credentials include account logins and sessions",
+      "Risks: stolen conversations, LLMjacking",
+      "Growing market for stolen AI logins",
+      "Focus on identifying organizational exposure"
+    ],
+    "published": "2026-09-28T14:00:10+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "f3d9a8",
+    "feed_name": "BleepingComputer",
+    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+    "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+    "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals. Withdrawals were suspended following a breach last week where suspected North Korean hackers stole over $350 million in crypto.",
+    "bullets": [
+      "Bitget resumes Bitcoin withdrawals.",
+      "Previous suspension due to crypto heist.",
+      "Over $350 million stolen.",
+      "Suspected North Korean hackers involved."
+    ],
+    "published": "2026-09-28T09:25:29+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
+  },
+  {
+    "id": "456bf8",
+    "feed_name": "BleepingComputer",
+    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+    "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+    "summary": "A former US Army soldier received a 70-month prison sentence for hacking and extorting technology and telecom companies. The crimes occurred between April 2023 and December 2024, targeting at least 10 firms.",
+    "bullets": [
+      "Soldier sentenced to 70 months.",
+      "Hacked and extorted companies.",
+      "Targeted 10+ tech/telecom firms.",
+      "Crimes occurred 2023-2024."
+    ],
+    "published": "2026-09-28T07:30:15+00:00",
+    "seen": "2026-09-29",
+    "promoted": false
   }
 ]

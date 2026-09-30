@@ -2679,5 +2679,196 @@
     "published": "2026-09-28T07:30:15+00:00",
     "seen": "2026-09-29",
     "promoted": false
+  },
+  {
+    "id": "08f5f4",
+    "feed_name": "watchTowr Labs",
+    "title": "Here We Go Again (Citrix NetScaler DTLS Preauth Memory Overflow CVE-2026-88772)",
+    "url": "https://labs.watchtowr.com/here-we-go-again-citrix-netscaler-dtls-preauth-memory-overflow-cve-2026-88772/",
+    "summary": "This item discusses a new vulnerability in Citrix NetScaler related to a DTLS pre-authentication memory overflow, designated CVE-2026-88772. It follows up on previous research into a command injection vulnerability in the same product (CVE-2026-88771).",
+    "bullets": [
+      "Citrix NetScaler DTLS pre-auth memory overflow",
+      "CVE-2026-88772",
+      "Follows CVE-2026-88771 (command injection)",
+      "Research highlights Preemptive Exposure Management capabilities"
+    ],
+    "published": "2026-09-29T13:55:35+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "822640",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft is rolling out Linux container support to WSL",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+    "summary": "Microsoft is making Linux container support generally available for the Windows Subsystem for Linux (WSL). This expands WSL's functionality beyond just running Linux distributions.",
+    "bullets": [
+      "WSL now supports Linux containers.",
+      "WSL Containers is now generally available.",
+      "Expands WSL beyond running distributions."
+    ],
+    "published": "2026-09-30T00:40:57+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "27b19d",
+    "feed_name": "BleepingComputer",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps",
+    "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+    "summary": "Signal has completed the rollout of its secure backups feature. This update brings encrypted local backup support to iOS and desktop applications, including Linux, macOS, and Windows.",
+    "bullets": [
+      "Signal adds encrypted local backups",
+      "Feature now on iOS and desktop",
+      "Supports Linux, macOS, Windows",
+      "Rollout complete across all OS"
+    ],
+    "published": "2026-09-29T21:30:08+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "af99e8",
+    "feed_name": "BleepingComputer",
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+    "summary": "Custom versions of ChatGPT are being advertised through sponsored Google searches. These malicious ChatGPT variants lead users to sites that employ ClickFix attacks to distribute RAT malware.",
+    "bullets": [
+      "Custom ChatGPTs promoted via Google ads",
+      "Direct users to malicious sites",
+      "Use ClickFix attacks",
+      "Deploy RAT malware"
+    ],
+    "published": "2026-09-29T20:59:39+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "2cca48",
+    "feed_name": "BleepingComputer",
+    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+    "summary": "The FBI has issued a warning to members of the ShinyHunters extortion group. This follows the recent arrest of an individual in the Netherlands, whom the FBI alleges is one of the group's leaders.",
+    "bullets": [
+      "FBI warns ShinyHunters members",
+      "Turn yourselves in",
+      "Alleged leader arrested in Netherlands",
+      "Extortion group targeted"
+    ],
+    "published": "2026-09-29T20:09:55+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "bf2033",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+    "summary": "Hackers exploited a Citrix NetScaler zero-day vulnerability (CVE-2026-88772) to deploy malicious tools. Attackers used this exploit to gain root access, steal credentials, and expand into internal networks.",
+    "bullets": [
+      "Citrix NetScaler zero-day exploited",
+      "CVE-2026-88772 used",
+      "Web shells and tunneling malware deployed",
+      "Root access gained",
+      "Credentials stolen",
+      "Network lateral movement achieved"
+    ],
+    "published": "2026-09-29T18:37:12+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "00578a",
+    "feed_name": "BleepingComputer",
+    "title": "Former US Air Force members sent to prison over BEC attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+    "summary": "Two former US Air Force members received a total of 189 months in prison for orchestrating business email compromise (BEC) scams and phishing attacks over several years.",
+    "bullets": [
+      "Former US Air Force members jailed",
+      "Sentenced for BEC scams",
+      "Involved in phishing campaigns",
+      "Total sentence: 189 months"
+    ],
+    "published": "2026-09-29T18:09:39+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "6a6ca9",
+    "feed_name": "BleepingComputer",
+    "title": "Windows 11 2026 Update released, here's everything you need to know",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+    "summary": "Microsoft has released the Windows 11 2026 update (26H2). This annual feature update is now available to all users. However, users may not notice significant changes after installation.",
+    "bullets": [
+      "Windows 11 26H2 update released",
+      "Annual feature update now available",
+      "Users may not see major differences"
+    ],
+    "published": "2026-09-29T17:37:40+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "72c2e7",
+    "feed_name": "BleepingComputer",
+    "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+    "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+    "summary": "A new Spectre v2 variant, dubbed Branch Target Reuse (BTR), has been discovered. This attack can successfully leak root password hashes on Intel-powered Linux systems. The process is relatively fast, averaging 3-5 minutes.",
+    "bullets": [
+      "New Spectre v2 attack variant found (BTR)",
+      "Targets Intel CPUs on Linux",
+      "Can leak root password hashes",
+      "Takes 3-5 minutes on average"
+    ],
+    "published": "2026-09-29T17:10:11+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "b173b3",
+    "feed_name": "BleepingComputer",
+    "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+    "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+    "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) was targeted by an automated AI agent in a cyberattack. The organization characterized the attack as \"loud and very, very messy.\"",
+    "bullets": [
+      "AI agent attacked DIVD",
+      "Attack described as \"loud and messy\"",
+      "DIVD is a cybersecurity nonprofit"
+    ],
+    "published": "2026-09-29T15:39:19+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "8ebf16",
+    "feed_name": "BleepingComputer",
+    "title": "Catch threats before they escalate with real-time Identity Telemetry",
+    "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+    "summary": "Identity governance controls access, but periodic reviews aren't enough to catch ongoing attacks. tenfold Software suggests using real-time identity telemetry to help security teams investigate suspicious activity before it becomes a major issue.",
+    "bullets": [
+      "Identity governance controls who has access.",
+      "Periodic reviews miss real-time threats.",
+      "Real-time identity telemetry helps detect attacks as they happen.",
+      "Investigate suspicious activity quickly to prevent escalation."
+    ],
+    "published": "2026-09-29T14:01:11+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
+  },
+  {
+    "id": "20d614",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Repository custom runner settings for Dependabot",
+    "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+    "summary": "Repository administrators can now configure Dependabot's runner settings. This includes specifying the runner type, custom labels, and runner groups for version and security updates.",
+    "bullets": [
+      "Dependabot custom runner settings now configurable.",
+      "Set runner type, labels, and groups.",
+      "Applies to version and security updates.",
+      "For repository administrators."
+    ],
+    "published": "2026-09-29T19:10:00+00:00",
+    "seen": "2026-09-30",
+    "promoted": false
   }
 ]

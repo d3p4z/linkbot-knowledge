@@ -2870,5 +2870,165 @@
     "published": "2026-09-29T19:10:00+00:00",
     "seen": "2026-09-30",
     "promoted": false
+  },
+  {
+    "id": "7be42d",
+    "feed_name": "BleepingComputer",
+    "title": "Russian state hackers use new RedFlick technique to push malware",
+    "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+    "summary": "Russian state hackers, identified as Star Blizzard, are employing a novel malware installation technique called \"RedFlick.\" This new tactic is being used to deploy their known CosmicPulse backdoor.",
+    "bullets": [
+      "Russian state hackers (Star Blizzard) identified",
+      "New malware installation technique: \"RedFlick\"",
+      "Used to deploy CosmicPulse backdoor"
+    ],
+    "published": "2026-09-30T20:34:01+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "e68cbc",
+    "feed_name": "BleepingComputer",
+    "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+    "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+    "summary": "DIVD reported a network breach made possible by exploiting two zero-day vulnerabilities in the Zammad ticketing system. The attack leveraged these vulnerabilities in an AI-driven manner.",
+    "bullets": [
+      "Zammad zero-days exploited",
+      "DIVD network breached",
+      "AI-driven attack",
+      "Two zero-days chained"
+    ],
+    "published": "2026-09-30T19:49:15+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "595d4b",
+    "feed_name": "BleepingComputer",
+    "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+    "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+    "summary": "Over half a million valid credentials were found in public GitHub repositories as of July. This occurred despite GitHub's existing security measures designed to prevent such sensitive data leaks.",
+    "bullets": [
+      "543,000+ valid credentials found",
+      "Exposed in public GitHub repos",
+      "Still valid in July",
+      "Despite platform security measures"
+    ],
+    "published": "2026-09-30T18:08:34+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "ff7443",
+    "feed_name": "BleepingComputer",
+    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+    "summary": "CISA has issued a warning about a critical vulnerability affecting MikroTik RouterOS. This flaw allows for pre-authentication remote code execution or can lead to a denial-of-service condition.",
+    "bullets": [
+      "CISA alert for MikroTik RouterOS",
+      "Critical pre-authentication vulnerability",
+      "Risk of remote code execution (RCE)",
+      "Potential for denial-of-service (DoS)"
+    ],
+    "published": "2026-09-30T15:49:29+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "9d8205",
+    "feed_name": "BleepingComputer",
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+    "summary": "Cisco has released security updates for a critical zero-day vulnerability found in their Catalyst SD-WAN Manager. Attackers are actively exploiting this vulnerability to gain administrative privileges.",
+    "bullets": [
+      "Cisco warns of new SD-WAN zero-day",
+      "Vulnerability in Catalyst SD-WAN Manager",
+      "Actively exploited in attacks",
+      "Allows escalation to admin privileges",
+      "CVE-2026-76504"
+    ],
+    "published": "2026-09-30T14:46:40+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "5d38a3",
+    "feed_name": "BleepingComputer",
+    "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+    "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+    "summary": "The third wave of AI, with persistent AI coworkers, breaks traditional security models. These AI agents, operating with standing access, introduce new identity risks. Token Security highlights the need for unique identities, owners, scoped permissions, and lifecycle controls for these AI agents.",
+    "bullets": [
+      "AI coworkers pose new security risks.",
+      "Existing models struggle with continuous AI access.",
+      "AI agents need distinct identities.",
+      "Scoped permissions and lifecycle controls are crucial.",
+      "Identity risks are a major concern."
+    ],
+    "published": "2026-09-30T14:01:11+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "6b3884",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft to block Entra ID script injection attacks starting October",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+    "summary": "Microsoft is enhancing Entra ID security next month. The update will introduce better defenses against external script injection attacks. Customers have been reminded of the upcoming change.",
+    "bullets": [
+      "Entra ID security upgrade incoming",
+      "Blocks script injection attacks",
+      "Effective October"
+    ],
+    "published": "2026-09-30T13:37:15+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "2dfff8",
+    "feed_name": "BleepingComputer",
+    "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+    "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+    "summary": "TeamViewer has issued an urgent warning to its users. They are advised to patch severe vulnerabilities in the client and host software as soon as possible.",
+    "bullets": [
+      "TeamViewer urges users to patch",
+      "Severe flaws identified",
+      "Affects client and host software",
+      "Patch \"as soon as possible\""
+    ],
+    "published": "2026-09-30T12:25:10+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "a0c28a",
+    "feed_name": "BleepingComputer",
+    "title": "Bitget hacked via zero-day in third-party security products",
+    "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+    "summary": "Cryptocurrency exchange Bitget was hacked, resulting in the theft of $387.5 million. The attackers exploited a zero-day vulnerability in third-party security products to breach the exchange's systems.",
+    "bullets": [
+      "Bitget exchange hacked",
+      "$387.5 million stolen",
+      "Zero-day vulnerability exploited",
+      "Attack targeted third-party security products"
+    ],
+    "published": "2026-09-30T11:11:46+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
+  },
+  {
+    "id": "8f738e",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Opt-in dist-tag permissions for npm trusted publishing",
+    "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+    "summary": "NPM's trusted publishing now supports opt-in dist-tag permissions. This allows configurations to manage dist-tags, such as promoting versions, using short-lived OIDC credentials.",
+    "bullets": [
+      "NPM trusted publishing",
+      "Opt-in dist-tag permissions",
+      "Manage dist-tags (e.g., latest, next, beta)",
+      "Uses short-lived OIDC credentials"
+    ],
+    "published": "2026-09-30T21:03:09+00:00",
+    "seen": "2026-10-01",
+    "promoted": false
   }
 ]

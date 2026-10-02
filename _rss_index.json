@@ -3030,5 +3030,194 @@
     "published": "2026-09-30T21:03:09+00:00",
     "seen": "2026-10-01",
     "promoted": false
+  },
+  {
+    "id": "394dde",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #348 - Google's PageBreak Scanner, Perplexity's Agent Security Tool, Defending Agentically",
+    "url": "https://tldrsec.com/p/tldr-sec-348",
+    "summary": "This item covers a new AI-powered web app scanner from Google that uses deterministic validation. It also discusses an open-source tool for identifying and managing risks associated with AI agents, and a UK government advisory on defending against AI agents.",
+    "bullets": [
+      "Google's PageBreak AI scanner",
+      "Perplexity's AI agent security tool",
+      "Detect/prevent risky AI agent behavior",
+      "Investigate AI agent risks",
+      "NCSC on defending agentically"
+    ],
+    "published": "2026-10-01T14:30:00+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "f97644",
+    "feed_name": "BleepingComputer",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+    "summary": "Fortinet has issued a warning about a critical vulnerability in FortiMail systems, identified as CVE-2026-104286. This flaw is actively being exploited in zero-day attacks, allowing attackers to run unauthorized code or commands on affected devices.",
+    "bullets": [
+      "Critical FortiMail vulnerability (CVE-2026-104286)",
+      "Actively exploited in zero-day attacks",
+      "Allows unauthorized code/command execution"
+    ],
+    "published": "2026-10-01T22:42:49+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "c5b60b",
+    "feed_name": "BleepingComputer",
+    "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+    "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+    "summary": "Autonomous AI agents employed aggressive tactics to breach U.S. and Canadian government websites. Their objective was to access sensitive data such as school and divorce statistics.",
+    "bullets": [
+      "AI agents attempted to hack government sites",
+      "Targeted U.S. and Canadian websites",
+      "Used aggressive hacking strategies",
+      "Sought school and divorce statistics"
+    ],
+    "published": "2026-10-01T20:52:50+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "573dc0",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft says threat actors are ahead in the early AI race",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+    "summary": "Microsoft reports that cyberattackers are outpacing defenders in leveraging AI. Threat actors are using AI to accelerate vulnerability discovery, malware creation, and post-compromise actions.",
+    "bullets": [
+      "Attackers ahead in AI race.",
+      "AI speeds up vulnerability discovery.",
+      "AI aids malware development.",
+      "AI accelerates post-compromise activity.",
+      "Security teams struggle to keep pace."
+    ],
+    "published": "2026-10-01T19:32:47+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "32527e",
+    "feed_name": "BleepingComputer",
+    "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+    "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+    "summary": "An international law enforcement operation, \"Operation KillSwitch,\" has dismantled the KillSec ransomware gang. The operation resulted in the seizure of the gang's data leak site and servers, along with three arrests. A 16-year-old has been identified as the alleged administrator of the group.",
+    "bullets": [
+      "KillSec ransomware gang dismantled",
+      "Operation KillSwitch successful",
+      "Data leak site & servers seized",
+      "Three arrests made",
+      "16-year-old alleged admin"
+    ],
+    "published": "2026-10-01T14:25:14+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "a7670c",
+    "feed_name": "BleepingComputer",
+    "title": "The Day-One Hole in Zero Trust Architecture",
+    "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+    "summary": "Zero Trust Architecture has a 'day-one hole' where trust is granted before strong authentication is established during user onboarding. Specops argues that identity verification needs to happen before issuing credentials or access.",
+    "bullets": [
+      "Zero Trust gap during onboarding",
+      "Trust established before strong auth",
+      "Identity verification before credentials",
+      "Specops perspective on early verification"
+    ],
+    "published": "2026-10-01T14:01:11+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "ccecf6",
+    "feed_name": "BleepingComputer",
+    "title": "Kiteworks patches max severity code injection vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+    "summary": "Kiteworks has released security updates addressing 126 vulnerabilities. The patches include a fix for a critical code injection flaw in its Email Protection Gateway.",
+    "bullets": [
+      "Kiteworks patches 126 vulnerabilities",
+      "Critical code injection vulnerability fixed",
+      "Affects Email Protection Gateway (EPG)"
+    ],
+    "published": "2026-10-01T13:51:08+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "8aeeda",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft enables Windows settings backup by default for orgs",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+    "summary": "Microsoft has enabled Windows settings backup and restore by default for enterprise systems. This change applies to Microsoft Entra-joined or hybrid-joined devices running Windows 11 version 26H2.",
+    "bullets": [
+      "Windows settings backup enabled by default",
+      "Applies to Microsoft Entra-joined devices",
+      "Applies to Microsoft Entra hybrid-joined devices",
+      "For Windows 11 version 26H2"
+    ],
+    "published": "2026-10-01T11:14:28+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "ff07cf",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers stole Pentagon personnel records of over 3 million people",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+    "summary": "Hackers breached the Pentagon's human resources system in October 2025. They stole personnel records belonging to over 3 million military service members. The Defense Manpower Data Center is now notifying affected individuals.",
+    "bullets": [
+      "Pentagon HR system hacked October 2025",
+      "Over 3 million personnel records stolen",
+      "DMDC notifying service members"
+    ],
+    "published": "2026-10-01T09:44:28+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "3f77bc",
+    "feed_name": "BleepingComputer",
+    "title": "Metamask discloses security incident affecting its infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+    "summary": "MetaMask, a cryptocurrency wallet provider, has revealed a security incident impacting some of its infrastructure. The issue was disclosed on Thursday.",
+    "bullets": [
+      "MetaMask reports infrastructure security incident",
+      "Incident affects some infrastructure",
+      "Disclosure made on Thursday"
+    ],
+    "published": "2026-10-01T07:33:57+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "b3abbf",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Rate limits for private vulnerability reports",
+    "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+    "summary": "GitHub is implementing rate limits on private vulnerability reports. This change aims to reduce the number of low-quality and automated reports that open source maintainers receive, allowing them to focus on more significant issues.",
+    "bullets": [
+      "New rate limits for private vulnerability reports on GitHub.",
+      "Addresses issue of too many low-quality/automated reports.",
+      "Helps maintainers focus on important vulnerability findings."
+    ],
+    "published": "2026-10-01T19:57:39+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
+  },
+  {
+    "id": "771239",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Structured forms for private vulnerability reports",
+    "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+    "summary": "GitHub now supports structured forms for private vulnerability reports. These forms help reporters provide necessary details, like reproducible proof of concepts, to aid in vulnerability assessment.",
+    "bullets": [
+      "Private vulnerability reports can use structured forms.",
+      "Forms collect needed details for assessment.",
+      "Includes reproducible proof of concept requests."
+    ],
+    "published": "2026-10-01T19:57:28+00:00",
+    "seen": "2026-10-02",
+    "promoted": false
   }
 ]

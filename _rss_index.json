@@ -3219,5 +3219,160 @@
     "published": "2026-10-01T19:57:28+00:00",
     "seen": "2026-10-02",
     "promoted": false
+  },
+  {
+    "id": "ddf68a",
+    "feed_name": "BleepingComputer",
+    "title": "Frontline Education breach exposes school district employee data",
+    "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+    "summary": "Frontline Education is experiencing a data breach affecting school district employees. Attackers exploited a vulnerability in third-party software to access systems and steal employee data, including Social Security numbers.",
+    "bullets": [
+      "Frontline Education data breach",
+      "School district employee data exposed",
+      "SSNs stolen",
+      "Third-party software vulnerability exploited"
+    ],
+    "published": "2026-10-02T19:01:40+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "bdff03",
+    "feed_name": "BleepingComputer",
+    "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+    "summary": "The Warlock ransomware group, linked to China, has breached several organizations including a water utility, a telecom provider, a government body, and a university. They gained initial access by exploiting vulnerabilities in SharePoint.",
+    "bullets": [
+      "Warlock ransomware targets water, telecom, government, university",
+      "Exploited SharePoint vulnerabilities for access",
+      "China-linked threat actor"
+    ],
+    "published": "2026-10-02T18:33:01+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "4f4e01",
+    "feed_name": "BleepingComputer",
+    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+    "summary": "GitLab has issued a warning about a critical vulnerability in its AI Gateway service. This flaw allows attackers to execute arbitrary commands on affected instances. Customers are urged to patch their systems immediately.",
+    "bullets": [
+      "Critical RCE vulnerability in GitLab AI Gateway",
+      "Allows arbitrary command execution",
+      "Immediate patching advised"
+    ],
+    "published": "2026-10-02T16:20:05+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "e288ab",
+    "feed_name": "BleepingComputer",
+    "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+    "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+    "summary": "The U.S. Treasury Department has imposed sanctions on eight members of the Venezuelan gang Tren de Aragua. These individuals are implicated in stealing millions of dollars through ATM jackpotting schemes across the United States.",
+    "bullets": [
+      "US sanctions Tren de Aragua gang members.",
+      "Gang involved in ATM jackpotting hacks.",
+      "Millions of dollars stolen in US attacks."
+    ],
+    "published": "2026-10-02T15:20:53+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "2298fb",
+    "feed_name": "BleepingComputer",
+    "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+    "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+    "summary": "This item discusses how browser attacks can bypass Endpoint Detection and Response (EDR) systems. It outlines three methods these attacks use to evade detection and suggests browser-level controls as a solution.",
+    "bullets": [
+      "Browser attacks evade EDR telemetry.",
+      "Attacks steal sessions.",
+      "Attacks abuse browser extensions.",
+      "Attacks manipulate users.",
+      "Browser controls can close EDR gaps."
+    ],
+    "published": "2026-10-02T14:00:10+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "1d7bd2",
+    "feed_name": "BleepingComputer",
+    "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+    "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+    "summary": "Dell has released patches for two critical vulnerabilities found in their Container Storage Modules (CSM). These modules are used to connect Dell enterprise storage arrays with Kubernetes environments. Admins are urged to apply these patches immediately.",
+    "bullets": [
+      "Dell CSM vulnerabilities patched",
+      "Max severity flaws identified",
+      "Affects Kubernetes integrations",
+      "Urgent patching recommended"
+    ],
+    "published": "2026-10-02T12:37:40+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "8d3352",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+    "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+    "summary": "Microsoft's official X account was compromised by attackers on Thursday. The hackers used the account, followed by over 13 million users, to promote a cryptocurrency pump-and-dump scheme.",
+    "bullets": [
+      "Microsoft X account hacked",
+      "Attackers promoted crypto token",
+      "Appears to be pump-and-dump scheme"
+    ],
+    "published": "2026-10-02T09:29:56+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "532f57",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "New fields for SecurityAdvisory GraphQL API",
+    "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+    "summary": "The GitHub Advisory Database can now be accessed more directly via the GraphQL API. This update adds five new fields to the SecurityAdvisory object. Previously, some information required using the REST API.",
+    "bullets": [
+      "GraphQL API enhancements for SecurityAdvisory",
+      "Read more of Advisory Database via GraphQL",
+      "Five new fields added to SecurityAdvisory object",
+      "Reduces need to fall back to REST API"
+    ],
+    "published": "2026-10-02T13:18:00+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "59fc4a",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Confidential comments on repository security advisories",
+    "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+    "summary": "GitHub now allows confidential comments on repository security advisories. These comments are only visible to those with write access to the repository, enabling private discussion about reported issues.",
+    "bullets": [
+      "Confidential comments on security advisories",
+      "Visible only to repo write access users",
+      "Facilitates private discussion of reports"
+    ],
+    "published": "2026-10-02T13:15:40+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
+  },
+  {
+    "id": "8430be",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Repository security advisory comments API in public preview",
+    "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+    "summary": "GitHub has released a public preview of its API for interacting with repository security advisory comments. This new API allows users to read, add, and edit comments on security advisories, including those from private vulnerability reports.",
+    "bullets": [
+      "Repository security advisory comments API now in public preview",
+      "API allows reading, adding, and editing comments",
+      "Includes advisories from private vulnerability reports"
+    ],
+    "published": "2026-10-02T13:15:25+00:00",
+    "seen": "2026-10-03",
+    "promoted": false
   }
 ]

@@ -3374,5 +3374,52 @@
     "published": "2026-10-02T13:15:25+00:00",
     "seen": "2026-10-03",
     "promoted": false
+  },
+  {
+    "id": "73e8ac",
+    "feed_name": "BleepingComputer",
+    "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+    "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+    "summary": "Google's Gemini AI may soon gain extensive access to macOS devices. It could potentially access all files, launch applications, and browse the web autonomously.",
+    "bullets": [
+      "Gemini may get full Mac file access",
+      "Could open apps without permission",
+      "Potential for web browsing and actions",
+      "No repeated permission requests expected"
+    ],
+    "published": "2026-10-03T23:12:34+00:00",
+    "seen": "2026-10-04",
+    "promoted": false
+  },
+  {
+    "id": "eb101b",
+    "feed_name": "BleepingComputer",
+    "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+    "summary": "A hacker associated with the ShinyHunters group, known online as 'Rey', has allegedly been detained in Jordan. This individual is reportedly cooperating with the FBI to identify other members of the extortion group.",
+    "bullets": [
+      "ShinyHunters hacker ('Rey') reportedly detained in Jordan",
+      "Hacker cooperating with FBI",
+      "Assisting in locating other group members"
+    ],
+    "published": "2026-10-03T19:09:38+00:00",
+    "seen": "2026-10-04",
+    "promoted": false
+  },
+  {
+    "id": "27d0af",
+    "feed_name": "BleepingComputer",
+    "title": "Danish university DTU breach exposes data of up to 200,000 people",
+    "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+    "summary": "The Technical University of Denmark (DTU) experienced a data breach. Hackers accessed the university's identity and access management system. This breach may have exposed data belonging to up to 200,000 users.",
+    "bullets": [
+      "DTU university breach",
+      "Hackers accessed identity/access system",
+      "Up to 200,000 users affected",
+      "Data downloaded"
+    ],
+    "published": "2026-10-03T14:35:20+00:00",
+    "seen": "2026-10-04",
+    "promoted": false
   }
 ]

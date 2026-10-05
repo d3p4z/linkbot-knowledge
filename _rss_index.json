@@ -3421,5 +3421,36 @@
     "published": "2026-10-03T14:35:20+00:00",
     "seen": "2026-10-04",
     "promoted": false
+  },
+  {
+    "id": "ad1b2d",
+    "feed_name": "BleepingComputer",
+    "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+    "summary": "Citrix has issued urgent patches for a NetScaler zero-day vulnerability, CVE-2026-88779. This SAML flaw has already been exploited in active attacks. Researchers are also looking into potential remote code execution possibilities.",
+    "bullets": [
+      "Citrix NetScaler SAML vulnerability patched",
+      "CVE-2026-88779",
+      "Exploited in zero-day attacks",
+      "Potential for RCE being investigated"
+    ],
+    "published": "2026-10-04T21:58:01+00:00",
+    "seen": "2026-10-05",
+    "promoted": false
+  },
+  {
+    "id": "e30d42",
+    "feed_name": "BleepingComputer",
+    "title": "Anthropic asks Claude users to share voice data for AI model training",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+    "summary": "Anthropic is asking users of its AI model, Claude, to voluntarily share their voice conversations. This data will be used to train and improve Anthropic's AI models.",
+    "bullets": [
+      "Anthropic requests Claude user voice data",
+      "Voice data for AI model training",
+      "Voluntary sharing of conversations"
+    ],
+    "published": "2026-10-04T10:53:21+00:00",
+    "seen": "2026-10-05",
+    "promoted": false
   }
 ]

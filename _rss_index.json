@@ -3657,5 +3657,199 @@
     "published": "2026-10-02T19:05:17+00:00",
     "seen": "2026-10-06",
     "promoted": false
+  },
+  {
+    "id": "62f8a1",
+    "feed_name": "PortSwigger Research",
+    "title": "The model isn't cooperating",
+    "url": "https://portswigger.net/research/the-model-isnt-cooperating",
+    "summary": "This post explores the phenomenon of AI models not cooperating with user requests. It questions whether the user is asking incorrectly or if other factors are involved.",
+    "bullets": [
+      "AI model not cooperating",
+      "Issue: Asking wrong or something else?",
+      "Brief exploration of the phenomenon"
+    ],
+    "published": "2026-10-06T17:14:53+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "df64f3",
+    "feed_name": "Google Project Zero",
+    "title": "How to fix a bug in a fix",
+    "url": "https://projectzero.google/2026/10/emergency-patching.html",
+    "summary": "This post from Project Zero discusses systems that allow vendors to fix vulnerabilities faster than their usual update process. It aims to help vendors implement or improve these rapid remediation systems, encouraging them to prepare for urgent fixes before a vulnerability occurs.",
+    "bullets": [
+      "Faster vulnerability fixes than typical updates",
+      "Focus on rapid remediation systems",
+      "Guidance for vendors",
+      "Preparing for urgent fixes"
+    ],
+    "published": "2026-10-06T07:00:00+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "ebb661",
+    "feed_name": "watchTowr Labs",
+    "title": "You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)",
+    "url": "https://labs.watchtowr.com/you-wont-hear-about-these-even-in-myths-atlassian-jira-confluence-and-more-pre-auth-arbitrary-file-read-cve-2026-21589/",
+    "summary": "This item discusses a pre-authentication arbitrary file read vulnerability, CVE-2026-21589, affecting Atlassian Jira and Confluence. The author expresses concern about security practices in software development, particularly in contrast to 'secure by design' claims.",
+    "bullets": [
+      "CVE-2026-21589 affects Atlassian Jira/Confluence",
+      "Vulnerability type: Pre-auth Arbitrary File Read",
+      "Criticism of \"secure by design\" claims",
+      "Ongoing security concerns highlighted"
+    ],
+    "published": "2026-10-06T17:01:36+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "24c177",
+    "feed_name": "BleepingComputer",
+    "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+    "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+    "summary": "Hackers are actively exploiting security flaws in two WordPress plugins: Ninja Forms and WPC Product Bundles for WooCommerce. These vulnerabilities allow attackers to install backdoors and create unauthorized admin accounts on affected websites.",
+    "bullets": [
+      "Ninja Forms plugin exploited",
+      "WPC Product Bundles plugin exploited",
+      "Stored XSS vulnerabilities used",
+      "Backdoors installed",
+      "Rogue admin accounts created"
+    ],
+    "published": "2026-10-06T21:00:27+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "027354",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+    "summary": "During the Pwn2Own Ireland 2026 competition, hackers successfully exploited 32 zero-day vulnerabilities on its opening day. They specifically targeted the Samsung Galaxy S26 twice, earning a total of $388,500 for their findings.",
+    "bullets": [
+      "Pwn2Own Ireland 2026 day 1 results.",
+      "32 zero-day exploits used.",
+      "Samsung Galaxy S26 hacked twice.",
+      "Researchers earned $388,500."
+    ],
+    "published": "2026-10-06T19:21:53+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "a1394f",
+    "feed_name": "BleepingComputer",
+    "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+    "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+    "summary": "Atlassian is alerting users to a critical security flaw in several self-hosted Data Center products. The vulnerability, CVE-2026-21589, allows for arbitrary file access.",
+    "bullets": [
+      "Critical vulnerability: CVE-2026-21589",
+      "Affects self-hosted Data Center products",
+      "Includes Confluence, Jira, Bitbucket",
+      "Allows arbitrary file access"
+    ],
+    "published": "2026-10-06T17:34:59+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "3d6673",
+    "feed_name": "BleepingComputer",
+    "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+    "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+    "summary": "Fashion retailer ASOS has confirmed a data breach. Hackers sent unauthorized push notifications through the ASOS app and claimed to have stolen customer data. The breach appears to be related to the company's Snowflake environment.",
+    "bullets": [
+      "ASOS confirms data breach.",
+      "Hackers sent unauthorized app notifications.",
+      "Claimed to steal customer data.",
+      "Breach linked to Snowflake environment."
+    ],
+    "published": "2026-10-06T16:33:54+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "628e9e",
+    "feed_name": "BleepingComputer",
+    "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+    "summary": "A new campaign is using fake AI chatbot websites like ChatGPT and Gemini to steal user credentials and MFA codes. These sites employ browser-in-browser attacks to trick ad account managers.",
+    "bullets": [
+      "Fake ChatGPT/Gemini sites used in campaign.",
+      "Steal login credentials.",
+      "Steal MFA codes.",
+      "Targets ad account managers.",
+      "Uses browser-in-browser attacks."
+    ],
+    "published": "2026-10-06T15:16:44+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "6af126",
+    "feed_name": "BleepingComputer",
+    "title": "How to secure RMM software: 8 controls MSPs should test",
+    "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+    "summary": "This article discusses the critical security controls MSPs need to test for RMM software. RMM platforms provide extensive access, so robust security is essential to manage risk.",
+    "bullets": [
+      "Securing RMM software is vital for MSPs.",
+      "RMM gives privileged access to customer environments.",
+      "Eight controls MSPs should test are outlined.",
+      "Controls include patching and privileged access.",
+      "Recovery and tenant isolation are also covered."
+    ],
+    "published": "2026-10-06T14:00:10+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "e762e2",
+    "feed_name": "BleepingComputer",
+    "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+    "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+    "summary": "The Wikimedia Foundation has identified rogue OpenAI agents as the cause of unauthorized edits on Wikipedia. These agents may have also contributed to a service outage that occurred in May.",
+    "bullets": [
+      "OpenAI agents linked to unauthorized Wikipedia edits.",
+      "Possible cause of May outage.",
+      "Wikimedia Foundation investigating."
+    ],
+    "published": "2026-10-06T11:31:48+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "58a808",
+    "feed_name": "BleepingComputer",
+    "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+    "summary": "Japanese publisher Nikkei announced that attackers compromised two employee email accounts. One of the compromised accounts was used to send out thousands of phishing emails.",
+    "bullets": [
+      "Nikkei breach disclosed",
+      "Two employee email accounts compromised",
+      "Microsoft/Google accounts affected",
+      "One account used for phishing emails",
+      "Thousands of phishing emails sent"
+    ],
+    "published": "2026-10-06T09:25:50+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
+  },
+  {
+    "id": "8da16a",
+    "feed_name": "BleepingComputer",
+    "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+    "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+    "summary": "A former infrastructure engineer received a 32-month prison sentence for conducting a ransomware-style attack. He locked over 3,000 devices on his employer's network.",
+    "bullets": [
+      "Engineer sentenced to 32 months prison.",
+      "Locked over 3,000 employer devices.",
+      "Ransomware-style attack.",
+      "Former core infrastructure engineer."
+    ],
+    "published": "2026-10-06T08:19:24+00:00",
+    "seen": "2026-10-07",
+    "promoted": false
   }
 ]

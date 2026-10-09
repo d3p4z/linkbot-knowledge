@@ -4029,5 +4029,183 @@
     "published": "2026-10-07T10:35:15+00:00",
     "seen": "2026-10-08",
     "promoted": false
+  },
+  {
+    "id": "6f785a",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #349 - Vulns & Exploits in the AI Era, Package Manager Sandboxing, Testing AI Sandboxes",
+    "url": "https://tldrsec.com/p/tldr-sec-349",
+    "summary": "This item discusses security topics including vulnerabilities and exploits related to AI. It also covers how package managers handle sandboxing and looks at testing sandboxes for services like Vercel and Perplexity.",
+    "bullets": [
+      "AI era vulnerabilities & exploits",
+      "Package manager sandboxing",
+      "Testing AI sandboxes",
+      "Vercel sandbox testing",
+      "Perplexity sandbox testing"
+    ],
+    "published": "2026-10-08T14:30:00+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "9b496b",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+    "summary": "The Pwn2Own Ireland 2026 hacking contest has ended. Participants earned $1,262,000 by exploiting 98 zero-day vulnerabilities.",
+    "bullets": [
+      "Pwn2Own Ireland 2026 concluded",
+      "Hackers earned $1.26M",
+      "Exploited 98 zero-days"
+    ],
+    "published": "2026-10-09T05:41:04+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "6f2e0e",
+    "feed_name": "BleepingComputer",
+    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+    "summary": "The FBI has disrupted operations of Chinese state-sponsored hackers, Flax Typhoon. They seized seven domains used by the group to run two hacking tools, MicroScan and FishHub. These tools were employed in breaches of critical infrastructure and other organizations globally.",
+    "bullets": [
+      "FBI disrupts Chinese hacking group Flax Typhoon",
+      "Seized 7 domains used for hacking tools",
+      "Tools: MicroScan and FishHub",
+      "Targeted critical infrastructure worldwide"
+    ],
+    "published": "2026-10-08T21:42:51+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "05bcef",
+    "feed_name": "BleepingComputer",
+    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+    "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+    "summary": "Japanese cloud provider IDC Frontier experienced a ransomware attack impacting its IDCF Cloud service. The attack caused an outage at a data center cluster serving eastern Japan.",
+    "bullets": [
+      "Ransomware hit IDC Frontier's IDCF Cloud.",
+      "Service disruption in eastern Japan.",
+      "Government clients affected."
+    ],
+    "published": "2026-10-08T20:09:45+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "78e7c2",
+    "feed_name": "BleepingComputer",
+    "title": "Low-cost Android phones ship with residential proxy malware",
+    "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+    "summary": "A malware campaign called 'Midnight Mimosa' has been found on inexpensive Android phones. The malware is built into the phone's firmware, allowing attackers to secretly install apps, commit ad fraud, and use the devices as residential proxies.",
+    "bullets": [
+      "Malware campaign: Midnight Mimosa",
+      "Affected devices: Low-cost Android phones",
+      "Malware embedded in firmware",
+      "Capabilities: Secret app installs, ad fraud",
+      "Devices used as residential proxies"
+    ],
+    "published": "2026-10-08T19:20:33+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "8c1bbb",
+    "feed_name": "BleepingComputer",
+    "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+    "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+    "summary": "The FakeGit malware campaign has reactivated, deploying over 17,600 malicious repositories on GitHub. This campaign is distributing both the SmartLoader malware and the StealC infostealer.",
+    "bullets": [
+      "FakeGit campaign is back online.",
+      "Over 17,600 fake GitHub repos found.",
+      "Distributing SmartLoader malware.",
+      "Also pushing StealC infostealer."
+    ],
+    "published": "2026-10-08T17:10:55+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "067650",
+    "feed_name": "BleepingComputer",
+    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+    "summary": "Cisco has issued warnings about five critical vulnerabilities affecting its NX-OS data center operating system. These flaws could allow attackers to gain root privileges and execute arbitrary code on Nexus switches.",
+    "bullets": [
+      "Cisco NX-OS vulnerabilities found",
+      "Five critical flaws identified",
+      "Potential for root access takeover",
+      "Arbitrary code execution possible",
+      "Impacts Nexus data center switches"
+    ],
+    "published": "2026-10-08T15:26:33+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "c31f2e",
+    "feed_name": "BleepingComputer",
+    "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+    "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+    "summary": "OAuth grants connect various SaaS apps and tools but are multiplying rapidly, creating a security challenge. Attackers are exploiting these grants, as seen in a recent breach, to access corporate data. This article discusses how to manage the growing risks associated with OAuth.",
+    "bullets": [
+      "OAuth grants connect apps and tools.",
+      "Grants are multiplying quickly.",
+      "Attackers exploit forgotten grants.",
+      "Recent breach highlights OAuth risks.",
+      "Need strategies to manage OAuth risks."
+    ],
+    "published": "2026-10-08T14:00:10+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "ebb980",
+    "feed_name": "BleepingComputer",
+    "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+    "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+    "summary": "A Maryland man has been convicted for hacking Uranium Finance, a decentralized cryptocurrency exchange. He was found guilty of stealing over $53 million through two separate hacks in April 2021.",
+    "bullets": [
+      "Man convicted for crypto exchange hack.",
+      "Stole over $53 million.",
+      "Hacked Uranium Finance.",
+      "Two hacks in April 2021."
+    ],
+    "published": "2026-10-08T13:18:36+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "a40d8d",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+    "summary": "Microsoft Teams is adding support for third-party tools designed to detect deepfakes. This feature will also include protection against impersonation during Teams meetings.",
+    "bullets": [
+      "Teams to support third-party deepfake detection",
+      "Includes impersonation protection",
+      "Coming soon to Teams meetings"
+    ],
+    "published": "2026-10-08T12:08:16+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
+  },
+  {
+    "id": "cecf26",
+    "feed_name": "BleepingComputer",
+    "title": "ASOS links data breach to social engineering attack, credential theft",
+    "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+    "summary": "ASOS has confirmed a cybersecurity incident where hackers accessed some personal data. The company states the breach is linked to a social engineering attack and credential theft. They are notifying affected customers.",
+    "bullets": [
+      "ASOS data breach confirmed",
+      "Linked to social engineering",
+      "Hackers stole credentials",
+      "Personal data accessed",
+      "Customers being notified"
+    ],
+    "published": "2026-10-08T11:42:46+00:00",
+    "seen": "2026-10-09",
+    "promoted": false
   }
 ]

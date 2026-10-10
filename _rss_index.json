@@ -4207,5 +4207,176 @@
     "published": "2026-10-08T11:42:46+00:00",
     "seen": "2026-10-09",
     "promoted": false
+  },
+  {
+    "id": "239648",
+    "feed_name": "watchTowr Labs",
+    "title": "Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)",
+    "url": "https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-patch-bypasses-wt-2026-0141-0144-cve-2026-82077-cve-2026-82078-cve-2026-81578/",
+    "summary": "This item discusses multiple pre-authentication Remote Code Execution vulnerabilities in PaperCut software.  The author notes that the number of watchTowr IDs exceeds CVE IDs due to how PaperCut bundles vulnerabilities and patch bypasses.",
+    "bullets": [
+      "PaperCut pre-auth RCE chain",
+      "Multiple vulnerabilities and bypasses detailed",
+      "WT-2026-0141-0144, CVE-2026-82077, CVE-2026-82078, CVE-2026-81578 mentioned",
+      "Vulnerability naming convention is confusing"
+    ],
+    "published": "2026-10-09T17:31:14+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "9bfc1e",
+    "feed_name": "Krebs on Security",
+    "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+    "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+    "summary": "The FBI has arrested the co-founder of a Canadian cybersecurity firm. This arrest is linked to an investigation into the ShinyHunters hacking group. The group recently accessed sensitive data on thousands of FBI agents.",
+    "bullets": [
+      "FBI arrested cybersecurity firm co-founder.",
+      "Arrest tied to ShinyHunters hacking group.",
+      "ShinyHunters accessed FBI agent data."
+    ],
+    "published": "2026-10-10T00:17:42+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "c82eac",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+    "summary": "Threat actors are exploiting Google Ads and Bing redirects to distribute malicious Claude installers. These installers deliver ClickFix attacks, aiming to compromise users who fall for the fake software prompts.",
+    "bullets": [
+      "Hackers using Google Ads and Bing redirects",
+      "Distributing fake Claude installers",
+      "Delivering ClickFix attacks"
+    ],
+    "published": "2026-10-09T20:31:37+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "6357cd",
+    "feed_name": "BleepingComputer",
+    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+    "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+    "summary": "Unpatched vulnerabilities in the AhsayCBS backup management platform are being exploited by threat actors. These actors are deploying webshells and cryptocurrency miners through one critical and one medium-severity flaw.",
+    "bullets": [
+      "AhsayCBS backup software vulnerable",
+      "Exploited flaws: 1 critical, 1 medium",
+      "Used to deploy webshells",
+      "Used for crypto mining"
+    ],
+    "published": "2026-10-09T17:17:23+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "3e90d8",
+    "feed_name": "BleepingComputer",
+    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+    "summary": "The FBI has arrested a suspect linked to the ShinyHunters extortion group. This individual is believed to be involved in a recent breach of FBI systems. The announcement was made by Director Kash Patel.",
+    "bullets": [
+      "FBI arrests suspected ShinyHunters hacker",
+      "Suspect linked to FBI system breach",
+      "Extortion group involvement",
+      "Director Kash Patel announced arrest"
+    ],
+    "published": "2026-10-09T17:02:29+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "dda72c",
+    "feed_name": "BleepingComputer",
+    "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+    "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+    "summary": "A Russian national, suspected of being a high-ranking member of the Qilin ransomware group, has been arrested in Germany. The arrest occurred after the individual was extradited from Japan earlier this month.",
+    "bullets": [
+      "Russian national arrested in Germany",
+      "Suspected Qilin ransomware group member",
+      "Extradited from Japan"
+    ],
+    "published": "2026-10-09T15:38:56+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "8fdae4",
+    "feed_name": "BleepingComputer",
+    "title": "How to keep AI agents within their permissions",
+    "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+    "summary": "AI agents can bypass traditional access controls by using valid credentials to exceed their permissions. Token Security discusses methods for enforcing agent-specific policies while maintaining their autonomy.",
+    "bullets": [
+      "AI agents can exceed permissions via valid credentials.",
+      "Traditional controls may not prevent this risk.",
+      "Enforce agent-specific policies.",
+      "Maintain agent autonomy."
+    ],
+    "published": "2026-10-09T14:01:11+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "392ae3",
+    "feed_name": "BleepingComputer",
+    "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+    "summary": "A critical vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) is actively being exploited. This flaw, which carries maximum severity, was patched by SonicWall just three days prior to the report.",
+    "bullets": [
+      "SonicWall SMA1000 vulnerability",
+      "Maximum severity flaw (CVE-2026-102255)",
+      "Exploited by attackers",
+      "Patch released 3 days ago"
+    ],
+    "published": "2026-10-09T12:32:16+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "5debbd",
+    "feed_name": "BleepingComputer",
+    "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+    "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
+    "summary": "A dual citizen of Ukrainian and Russian nationality has pleaded guilty to operating a large-scale money laundering network. This operation facilitated the laundering of millions of dollars for cybercriminals globally.",
+    "bullets": [
+      "Man admits to running money mule network",
+      "Network size: 15,000 money mules",
+      "Laundered millions for cybercriminals",
+      "Operated globally"
+    ],
+    "published": "2026-10-09T11:14:28+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "dac5e8",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+    "summary": "Microsoft has announced that older Windows versions will no longer receive security updates. This change will take effect after the Windows Update certificate rotation next year.",
+    "bullets": [
+      "Unsupported Windows versions to lose security updates.",
+      "Change happens after certificate rotation next year.",
+      "Applies to outdated Windows devices."
+    ],
+    "published": "2026-10-09T10:12:24+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
+  },
+  {
+    "id": "6ed2fa",
+    "feed_name": "BleepingComputer",
+    "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+    "summary": "Citrix is urging IT admins to urgently patch their NetScaler ADC and NetScaler Gateway systems. A new critical remote code execution (RCE) vulnerability has been discovered in these products. Immediate patching is advised.",
+    "bullets": [
+      "Citrix NetScaler ADC/Gateway vulnerability",
+      "Critical RCE flaw",
+      "Urgent patching required"
+    ],
+    "published": "2026-10-09T08:27:42+00:00",
+    "seen": "2026-10-10",
+    "promoted": false
   }
 ]

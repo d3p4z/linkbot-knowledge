@@ -4378,5 +4378,54 @@
     "published": "2026-10-09T08:27:42+00:00",
     "seen": "2026-10-10",
     "promoted": false
+  },
+  {
+    "id": "1d11f8",
+    "feed_name": "BleepingComputer",
+    "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+    "summary": "Canadian cybersecurity executive Edward Dubrovsky was arrested in Pennsylvania. The arrest is reportedly linked to extortion activities and the FBI's investigation into the ShinyHunters hacking group.",
+    "bullets": [
+      "Cyber exec arrested in PA",
+      "Linked to extortion",
+      "Possibly tied to ShinyHunters hackers",
+      "Part of FBI crackdown"
+    ],
+    "published": "2026-10-10T15:07:54+00:00",
+    "seen": "2026-10-11",
+    "promoted": false
+  },
+  {
+    "id": "d85c5a",
+    "feed_name": "BleepingComputer",
+    "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+    "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+    "summary": "Recent cyberattacks on South Korean banks were carried out by a Chinese hacker. The attacker utilized the ARTEX AI penetration testing suite and Claude agents in these attacks.",
+    "bullets": [
+      "Cyberattacks targeted South Korean banks.",
+      "Attacker was a Chinese hacker.",
+      "Used ARTEX AI penetration testing suite.",
+      "Also used Claude agents."
+    ],
+    "published": "2026-10-10T14:16:17+00:00",
+    "seen": "2026-10-11",
+    "promoted": false
+  },
+  {
+    "id": "b0f43e",
+    "feed_name": "BleepingComputer",
+    "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+    "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+    "summary": "Criminal IP has launched AITEM, an AI-driven solution for attack surface management. It goes beyond just discovering exposed assets by integrating investigation, risk prioritization, and response capabilities. This aims to provide a more complete approach to addressing cyber threats.",
+    "bullets": [
+      "Criminal IP introduces AITEM",
+      "AI-powered attack surface management",
+      "Connects exposure discovery with investigation",
+      "Includes risk prioritization",
+      "Supports response actions"
+    ],
+    "published": "2026-10-10T12:30:39+00:00",
+    "seen": "2026-10-11",
+    "promoted": false
   }
 ]

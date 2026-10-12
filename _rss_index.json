@@ -4427,5 +4427,21 @@
     "published": "2026-10-10T12:30:39+00:00",
     "seen": "2026-10-11",
     "promoted": false
+  },
+  {
+    "id": "9fc15f",
+    "feed_name": "BleepingComputer",
+    "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+    "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+    "summary": "A malware incident at Nippon Columbia, a contractor for entertainment system maker Daiichi Kosho, has exposed over 8.7 million customer and employee records. The breach affects users of Nippon Columbia's karaoke systems.",
+    "bullets": [
+      "Malware hit Nippon Columbia contractor.",
+      "8.7 million+ records exposed.",
+      "Daiichi Kosho (karaoke systems) affected.",
+      "Customer and employee data compromised."
+    ],
+    "published": "2026-10-11T14:23:46+00:00",
+    "seen": "2026-10-12",
+    "promoted": false
   }
 ]

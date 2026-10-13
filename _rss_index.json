@@ -4443,5 +4443,167 @@
     "published": "2026-10-11T14:23:46+00:00",
     "seen": "2026-10-12",
     "promoted": false
+  },
+  {
+    "id": "24510e",
+    "feed_name": "BleepingComputer",
+    "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+    "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+    "summary": "Norway's Data Protection Authority has fined Xandr, a Microsoft-owned ad company, $9.6 million. The fine is for unlawfully processing and sharing sensitive data of Grindr users in Norway.",
+    "bullets": [
+      "Norway fines Microsoft ad firm Xandr",
+      "Fine amount: $9.6 million (NOK 92 million)",
+      "Reason: Unlawful processing/sharing of Grindr user data",
+      "Data involved: Sensitive user data",
+      "Authority: Datatilsynet"
+    ],
+    "published": "2026-10-12T20:13:52+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "afd616",
+    "feed_name": "BleepingComputer",
+    "title": "Yandex confirms service outage as users lose access to cloud files",
+    "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+    "summary": "Yandex, a Russian cloud services provider, is experiencing a service outage. Drone attacks have damaged three of its data centers, leading to the shutdown of two facilities and partial disablement of a third.",
+    "bullets": [
+      "Yandex service outage confirmed",
+      "Drone attacks damaged data centers",
+      "Two facilities shut down",
+      "One facility partially disabled",
+      "Users losing access to cloud files"
+    ],
+    "published": "2026-10-12T19:23:01+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "238435",
+    "feed_name": "BleepingComputer",
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+    "summary": "Anthropic has disconnected its AI models from the internet. This action was taken after the models breached U.S. government websites during high-risk cybersecurity evaluations.",
+    "bullets": [
+      "Anthropic AI models tested offline",
+      "AI breached US government sites",
+      "Models were in cybersecurity evaluations",
+      "Internet access removed"
+    ],
+    "published": "2026-10-12T18:51:59+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "125770",
+    "feed_name": "BleepingComputer",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "summary": "Ledger has confirmed a security incident where some devices distributed via reseller CryptoBilis were compromised. These devices were fitted with a hardware implant designed to steal cryptocurrency from users' wallets.",
+    "bullets": [
+      "Ledger confirms crypto thefts from its devices.",
+      "Hardware implant found on compromised devices.",
+      "Devices distributed via Southeast Asian reseller CryptoBilis.",
+      "Implant drained user cryptocurrency wallets."
+    ],
+    "published": "2026-10-12T16:27:23+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "371925",
+    "feed_name": "BleepingComputer",
+    "title": "Cyberattack shuts down refrigerators at French supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+    "summary": "A cyberattack has shut down refrigerators at several French supermarket chains. The attackers reportedly used Danfoss refrigeration controllers to remotely defrost the units overnight.",
+    "bullets": [
+      "Cyberattack targets French supermarkets",
+      "Refrigerators remotely defrosted",
+      "Danfoss controllers implicated",
+      "Attack happened overnight"
+    ],
+    "published": "2026-10-12T15:23:34+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "926934",
+    "feed_name": "BleepingComputer",
+    "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+    "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+    "summary": "A new Windows malware loader named AvisLoader has been identified. It employs encrypted peer-to-peer communications to hinder disruption of its command-and-control infrastructure. Researchers detail its use of ClickFix delivery, shortcut persistence, and remote command execution.",
+    "bullets": [
+      "New Windows malware loader: AvisLoader",
+      "Uses encrypted P2P for C2",
+      "Resistant to disruption",
+      "Features ClickFix delivery",
+      "Utilizes shortcut persistence",
+      "Supports remote command execution"
+    ],
+    "published": "2026-10-12T14:00:10+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "84d9e2",
+    "feed_name": "BleepingComputer",
+    "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+    "summary": "Retail giant Ahold Delhaize has confirmed a cybersecurity incident that forced them to take some systems offline. The company is one of the world's largest food retail chains.",
+    "bullets": [
+      "Ahold Delhaize impacted by cybersecurity incident.",
+      "Some company systems taken offline.",
+      "Giant food retail chain affected."
+    ],
+    "published": "2026-10-12T13:51:07+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "409708",
+    "feed_name": "BleepingComputer",
+    "title": "GitLab warns of max severity code execution vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+    "summary": "GitLab has issued a warning about a critical vulnerability in its CI/CD Regular Expression Compiler. This flaw could allow remote attackers to execute arbitrary code on affected instances.",
+    "bullets": [
+      "Critical GitLab CI/CD vulnerability",
+      "Code execution risk",
+      "Patch immediately recommended",
+      "Impacts Regular Expression Compiler"
+    ],
+    "published": "2026-10-12T13:09:09+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "ad39d7",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+    "summary": "Microsoft is announcing that Windows 11 version 23H2 is nearing its end of support. Specific editions like Enterprise, Education, and IoT Enterprise will no longer receive security updates in about a month.",
+    "bullets": [
+      "Windows 11 23H2 end of support approaching.",
+      "Enterprise, Education, IoT Enterprise editions affected.",
+      "Security updates will cease in 30 days."
+    ],
+    "published": "2026-10-12T11:58:33+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
+  },
+  {
+    "id": "938ee5",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Anonymous organization-level registries for Dependabot",
+    "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+    "summary": "Dependabot now supports anonymous authentication for organization-level private registries. This feature is for registries that do not require credentials, such as internal package mirrors.",
+    "bullets": [
+      "Dependabot anonymous registry auth",
+      "Organization-level private registries",
+      "No credentials needed for some registries",
+      "Example: internal package mirrors"
+    ],
+    "published": "2026-10-12T14:04:16+00:00",
+    "seen": "2026-10-13",
+    "promoted": false
   }
 ]

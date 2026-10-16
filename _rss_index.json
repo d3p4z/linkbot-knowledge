@@ -4979,5 +4979,178 @@
     "published": "2026-10-14T10:48:09+00:00",
     "seen": "2026-10-15",
     "promoted": false
+  },
+  {
+    "id": "6e75fc",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #350 - Reverse Engineer Anything, Tracking AI-integrated Malware, Test-driving Jev",
+    "url": "https://tldrsec.com/p/tldr-sec-350",
+    "summary": "This item discusses a new open-source tool that allows reverse engineering of binaries and apps using natural language. It also covers a new malware hunting toolkit from Cisco Talos and a test of Jev for identity resolution.",
+    "bullets": [
+      "OSS tool for reverse engineering with natural language",
+      "New malware hunting toolkit by Cisco Talos",
+      "Testing Jev on identity resolution"
+    ],
+    "published": "2026-10-15T14:30:00+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "379db0",
+    "feed_name": "BleepingComputer",
+    "title": "BeyondTrust patches zero-day exploited in attacks since August",
+    "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+    "summary": "BeyondTrust is urging customers to patch a critical vulnerability in its Remote Support software. This zero-day flaw has reportedly been exploited in attacks since August.",
+    "bullets": [
+      "BeyondTrust Remote Support vulnerability",
+      "Critical flaw",
+      "Zero-day exploited since August",
+      "Patch available"
+    ],
+    "published": "2026-10-16T06:18:08+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "0036aa",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+    "summary": "Hackers are exploiting a critical remote code execution vulnerability in the Collabora Online app for Nextcloud. This flaw, identified as CVE-2026-110447, allows threat actors to backdoor Nextcloud servers.",
+    "bullets": [
+      "Exploited Collabora RCE flaw in Nextcloud",
+      "CVE-2026-110447 identified",
+      "Used to backdoor Nextcloud servers",
+      "Impacts Collabora Online CODE Server app"
+    ],
+    "published": "2026-10-15T20:25:04+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "470fcf",
+    "feed_name": "BleepingComputer",
+    "title": "Android gets AI defenses against messaging scams, fake calls",
+    "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+    "summary": "Google is rolling out new AI-powered security features for Android devices. These defenses aim to protect users against scam messages and malicious call forwarding. The features are currently available on eligible devices.",
+    "bullets": [
+      "Android adds AI scam defenses",
+      "Targets fake messages",
+      "Blocks call-forwarding abuse",
+      "Rolling out now to eligible devices"
+    ],
+    "published": "2026-10-15T19:48:43+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "ca7379",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+    "summary": "Hackers are hijacking D-Link and Ubiquiti devices to resell stolen internet bandwidth. This proxyjacking campaign has affected devices in 34 countries, using victims' connections for a commercial proxy network.",
+    "bullets": [
+      "D-Link and Ubiquiti devices compromised.",
+      "Hackers resell stolen bandwidth.",
+      "Campaign runs a commercial proxy network.",
+      "Affected devices in 34 countries."
+    ],
+    "published": "2026-10-15T18:20:59+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "6c6c7e",
+    "feed_name": "BleepingComputer",
+    "title": "Fake Arch Linux packages push malware with root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+    "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR). These fake packages impersonated popular helper tools like yay and paru.",
+    "bullets": [
+      "Malicious packages found in AUR.",
+      "Impersonated yay and paru.",
+      "Gained root privileges via malware."
+    ],
+    "published": "2026-10-15T17:12:31+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "a4733a",
+    "feed_name": "BleepingComputer",
+    "title": "Is AI pentesting as good as a human pentester?",
+    "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+    "summary": "This article compares AI pentesting to human pentesting. While AI can find different vulnerabilities, it has limitations in consistency, risk assessment, and understanding business context.",
+    "bullets": [
+      "AI pentesting vs. human pentesting",
+      "AI finds unique vulnerabilities",
+      "AI limitations: consistency, risk, business context",
+      "Where AI can improve security testing"
+    ],
+    "published": "2026-10-15T14:01:11+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "f6fec6",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+    "summary": "Microsoft has announced that Windows Server 2022 has officially reached the end of its mainstream support phase. The operating system will continue to receive extended support. This extended support period is scheduled to conclude in October 2031.",
+    "bullets": [
+      "Windows Server 2022 end of mainstream support.",
+      "Extended support until October 2031.",
+      "Microsoft announcement."
+    ],
+    "published": "2026-10-15T13:18:36+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "3f2ea4",
+    "feed_name": "BleepingComputer",
+    "title": "Police arrests 95 suspects in international CSAM crackdown action",
+    "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+    "summary": "An international operation coordinated by INTERPOL has resulted in the arrest of 95 suspects. Law enforcement from 17 Latin American and European countries targeted the distribution of child sexual abuse material online.",
+    "bullets": [
+      "95 suspects arrested",
+      "INTERPOL-coordinated operation",
+      "17 countries involved",
+      "Targeted CSAM distribution",
+      "Online messaging groups"
+    ],
+    "published": "2026-10-15T11:55:38+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "313036",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+    "summary": "Microsoft has fixed a bug affecting Windows 11. The issue caused black screens and Explorer crashes after installing updates released since August.",
+    "bullets": [
+      "Bug causing black screens fixed",
+      "Explorer crashes resolved",
+      "Impacted Windows 11 updates from August"
+    ],
+    "published": "2026-10-15T09:10:20+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
+  },
+  {
+    "id": "fa38ca",
+    "feed_name": "BleepingComputer",
+    "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+    "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+    "summary": "Hackers breached the UK's Legal Aid Agency (LAA) in April 2025. The attackers stole records that go as far back as 1978. The LAA is an executive agency of the UK's Ministry of Justice.",
+    "bullets": [
+      "LAA IT systems breached in April 2025.",
+      "Hackers stole records dating back to 1978.",
+      "LAA manages the UK's Public Defender Service.",
+      "Agency is part of the Ministry of Justice."
+    ],
+    "published": "2026-10-15T08:06:47+00:00",
+    "seen": "2026-10-16",
+    "promoted": false
   }
 ]

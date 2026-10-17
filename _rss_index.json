@@ -5152,5 +5152,115 @@
     "published": "2026-10-15T08:06:47+00:00",
     "seen": "2026-10-16",
     "promoted": false
+  },
+  {
+    "id": "c0bd42",
+    "feed_name": "BleepingComputer",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+    "summary": "A critical vulnerability, CVE-2026-103849, has been discovered in BlockStrap affecting Magento and Adobe Commerce. This flaw could allow hackers to execute arbitrary PHP code on affected store servers.",
+    "bullets": [
+      "Critical vulnerability in BlockStrap",
+      "Affects Magento and Adobe Commerce",
+      "CVE-2026-103849",
+      "Allows arbitrary PHP code execution",
+      "Hackers could exploit soon"
+    ],
+    "published": "2026-10-16T20:00:59+00:00",
+    "seen": "2026-10-17",
+    "promoted": false
+  },
+  {
+    "id": "ede028",
+    "feed_name": "BleepingComputer",
+    "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+    "summary": "Candiru spyware was deployed against Al Jazeera Media Network through targeted online advertisements. The attacks were zero-click, meaning they required only viewing the malicious ads to infect a device.",
+    "bullets": [
+      "Candiru spyware used",
+      "Targeted ads delivered spyware",
+      "Al Jazeera Media Network affected",
+      "Zero-click attack method"
+    ],
+    "published": "2026-10-16T17:20:03+00:00",
+    "seen": "2026-10-17",
+    "promoted": false
+  },
+  {
+    "id": "f0d317",
+    "feed_name": "BleepingComputer",
+    "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+    "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+    "summary": "Employees using personal ChatGPT at work poses a risk to sensitive company data. Even with an enterprise version available, unauthorized use can lead to exposure. IT admins need to investigate and block data from reaching personal AI accounts.",
+    "bullets": [
+      "Personal ChatGPT use at work is a data risk.",
+      "Sensitive data can be exposed.",
+      "IT must investigate unauthorized AI use.",
+      "Block sensitive data from personal accounts."
+    ],
+    "published": "2026-10-16T13:50:59+00:00",
+    "seen": "2026-10-17",
+    "promoted": false
+  },
+  {
+    "id": "b337cc",
+    "feed_name": "BleepingComputer",
+    "title": "Burger King Japan data breach exposes 11 million customer records",
+    "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+    "summary": "Burger King Japan has reported a significant data breach. Attackers gained access to a server containing over 11 million customer records.",
+    "bullets": [
+      "Burger King Japan data breach",
+      "11.18 million customer records exposed",
+      "Server accessed by attackers"
+    ],
+    "published": "2026-10-16T12:01:29+00:00",
+    "seen": "2026-10-17",
+    "promoted": false
+  },
+  {
+    "id": "8df8be",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+    "summary": "Microsoft has released a Windows 11 security update, KB5127648, for October. Some users might encounter issues enabling Smart App Control after installing this update.",
+    "bullets": [
+      "October Windows update KB5127648",
+      "May break Smart App Control",
+      "Issue with enabling the feature"
+    ],
+    "published": "2026-10-16T08:44:22+00:00",
+    "seen": "2026-10-17",
+    "promoted": false
+  },
+  {
+    "id": "fe8c62",
+    "feed_name": "BleepingComputer",
+    "title": "BAE Systems cyberattack disrupts US federal court operations",
+    "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+    "summary": "A cyberattack on BAE Systems, a government contractor, has disrupted operations for US federal courts. The attack specifically impacted the notice system used by federal bankruptcy courts, causing outages.",
+    "bullets": [
+      "BAE Systems contractor hit by cyberattack",
+      "US federal court operations disrupted",
+      "Bankruptcy court notice system down"
+    ],
+    "published": "2026-10-16T07:37:35+00:00",
+    "seen": "2026-10-17",
+    "promoted": false
+  },
+  {
+    "id": "97665f",
+    "feed_name": "GitHub Changelog - Supply Chain Security",
+    "title": "Open source license compliance generally available",
+    "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+    "summary": "Open source license compliance is now generally available for GitHub Enterprise Cloud. This feature allows enterprises to manage their dependencies' licenses at scale. It includes sophisticated, ruleset-based checks to enforce a centralized policy.",
+    "bullets": [
+      "Open source license compliance now GA for GitHub Enterprise Cloud",
+      "Manage dependencies' licenses at scale",
+      "Ruleset-based checks",
+      "Enforce centralized policy"
+    ],
+    "published": "2026-10-16T14:00:32+00:00",
+    "seen": "2026-10-17",
+    "promoted": false
   }
 ]

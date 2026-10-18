@@ -5262,5 +5262,38 @@
     "published": "2026-10-16T14:00:32+00:00",
     "seen": "2026-10-17",
     "promoted": false
+  },
+  {
+    "id": "cdb2e3",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+    "summary": "Hackers have compromised Microsoft 365 tenants by exploiting a supply-chain attack targeting ConnectWise. Access was gained through compromised application identities within ConnectWise's Cloud Backup service.",
+    "bullets": [
+      "Microsoft 365 tenants breached",
+      "ConnectWise supply-chain attack",
+      "Hackers accessed application identities",
+      "ConnectWise Cloud Backup service affected",
+      "Customer access to service shut down"
+    ],
+    "published": "2026-10-17T15:18:51+00:00",
+    "seen": "2026-10-18",
+    "promoted": false
+  },
+  {
+    "id": "58f475",
+    "feed_name": "BleepingComputer",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+    "summary": "Drupal has released patches for two critical vulnerabilities. These flaws could enable remote code execution on any supported version of the Drupal content management system. Exploits for these vulnerabilities are expected to appear soon.",
+    "bullets": [
+      "Drupal patches critical RCE flaws",
+      "Affects all supported versions",
+      "Remote code execution possible",
+      "Exploits expected soon"
+    ],
+    "published": "2026-10-17T14:32:48+00:00",
+    "seen": "2026-10-18",
+    "promoted": false
   }
 ]

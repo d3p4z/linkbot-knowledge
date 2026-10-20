@@ -5311,5 +5311,179 @@
     "published": "2026-10-18T14:23:16+00:00",
     "seen": "2026-10-19",
     "promoted": false
+  },
+  {
+    "id": "7fac30",
+    "feed_name": "Krebs on Security",
+    "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "summary": "US federal investigators believe individuals involved in ransomware negotiation firms had close ties to the ShinyHunters hacking group. One US-based executive allegedly assisted ShinyHunters in operating a website to pressure victims into paying ransoms.",
+    "bullets": [
+      "Feds suspect ransomware negotiators linked to ShinyHunters.",
+      "ShinyHunters recently stole FBI data.",
+      "One negotiator may have operated an extortion site for the group."
+    ],
+    "published": "2026-10-19T13:48:56+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "56cde8",
+    "feed_name": "BleepingComputer",
+    "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+    "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+    "summary": "Nikkei Inc. has reported a third data breach within the last month. This latest incident has led to the exposure of 1.83 million personal information records.",
+    "bullets": [
+      "Nikkei data breach disclosed",
+      "Third breach in a month",
+      "1.83 million records exposed"
+    ],
+    "published": "2026-10-19T21:49:48+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "ae719e",
+    "feed_name": "BleepingComputer",
+    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+    "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+    "summary": "The WordPress SEO plugin Rank Math PRO was compromised. Some downloads from the official website contained malware that installed backdoors on websites. This occurred as a supply-chain attack last week.",
+    "bullets": [
+      "Rank Math PRO plugin compromised",
+      "Malware in official downloads",
+      "Installed website backdoors",
+      "Supply-chain attack"
+    ],
+    "published": "2026-10-19T21:24:51+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "accf3c",
+    "feed_name": "BleepingComputer",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+    "summary": "Hackers compromised AOMEI's servers to distribute malware via its backup software. They used a promotional feature and briefly altered configuration files to conceal their actions.",
+    "bullets": [
+      "AOMEI update servers hijacked by hackers",
+      "Malware spread through backup software feature",
+      "Configuration files temporarily altered",
+      "Attackers attempted to hide actions"
+    ],
+    "published": "2026-10-19T19:40:58+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "3168a6",
+    "feed_name": "BleepingComputer",
+    "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+    "summary": "Staffing software company Bullhorn has taken its platform offline due to a cyberattack. The attack caused a system-wide outage, leading Bullhorn to disable access to contain the incident.",
+    "bullets": [
+      "Bullhorn platform offline",
+      "Experiencing cyberattack",
+      "System-wide outage caused",
+      "Access disabled to contain"
+    ],
+    "published": "2026-10-19T18:51:13+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "9a57b8",
+    "feed_name": "BleepingComputer",
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+    "summary": "The open-source AI coding project OpenCode experienced a security breach. API keys used by a small number of users with external providers were exposed. The breach occurred amidst reports of AI distillation attacks.",
+    "bullets": [
+      "OpenCode AI coding project breached",
+      "Exposed API keys for external providers",
+      "Affects a small number of users",
+      "Occurred during AI distillation attacks"
+    ],
+    "published": "2026-10-19T17:27:15+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "9eca5e",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+    "summary": "Microsoft has fixed an issue where games and apps experienced crashes. This bug was introduced by a recent Windows 11 preview update in September 2026 that affected AC-3 audio decoding.",
+    "bullets": [
+      "Microsoft fixed app/game crashes",
+      "Caused by Sept 2026 Windows preview update",
+      "Affected AC-3 audio decoding",
+      "Update: KB5124010"
+    ],
+    "published": "2026-10-19T14:55:23+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "ffa2a3",
+    "feed_name": "BleepingComputer",
+    "title": "Inside the Underground Market for Know Your Client Services",
+    "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+    "summary": "Cybercriminals are offering services on the dark web to circumvent Know Your Client (KYC) regulations. These services include forged documents, deepfakes, and live verification assistance. Flare's analysis explores the operations and methods behind these fraudulent account creations.",
+    "bullets": [
+      "Underground market for KYC bypass services",
+      "Includes forged IDs, deepfakes, live verification",
+      "Helps buyers create fraudulent verified accounts",
+      "Flare examines market operations and techniques"
+    ],
+    "published": "2026-10-19T14:00:10+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "4f6d5f",
+    "feed_name": "BleepingComputer",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+    "summary": "F5 has issued urgent security patches for critical vulnerabilities found in NGINX web servers. These flaws could allow attackers to run malicious code on affected systems.",
+    "bullets": [
+      "F5 releases patches for NGINX",
+      "Addresses multiple web server flaws",
+      "Includes 3 critical vulnerabilities",
+      "Potential for remote code execution"
+    ],
+    "published": "2026-10-19T13:49:24+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "408c88",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+    "summary": "Microsoft has resolved a bug affecting the classic Outlook desktop client on Windows. The issue caused the Copilot Chat and Copilot buttons to disappear for some users. The fix should restore these functionalities.",
+    "bullets": [
+      "Outlook bug fixed",
+      "Copilot buttons were hidden",
+      "Affects classic Outlook desktop client",
+      "Issue on Windows"
+    ],
+    "published": "2026-10-19T12:44:44+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
+  },
+  {
+    "id": "cecd56",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+    "summary": "Microsoft has acknowledged that their October Windows Server security updates are negatively impacting Exchange Server systems. The updates are causing problems with Outlook Web App (OWA) sign-ins and mail flow.",
+    "bullets": [
+      "October Windows Server updates cause issues",
+      "Affects Exchange Server systems",
+      "OWA sign-in broken",
+      "Mail flow disrupted"
+    ],
+    "published": "2026-10-19T08:58:41+00:00",
+    "seen": "2026-10-20",
+    "promoted": false
   }
 ]

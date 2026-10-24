@@ -1,169 +1,5 @@
 [
   {
-    "id": "9b672c",
-    "feed_name": "BleepingComputer",
-    "title": "Rogue external MFA providers can steal passwords during logins",
-    "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
-    "summary": "Security researchers found a way for attackers to use a compromised external MFA provider to steal user passwords during logins. The attack requires privileged access to register the malicious MFA provider.",
-    "bullets": [
-      "Rogue external MFA providers can steal passwords",
-      "Attack requires privileged access",
-      "Happens during legitimate logins",
-      "Researchers developed the attack"
-    ],
-    "published": "2026-09-22T21:45:45+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "7a507b",
-    "feed_name": "BleepingComputer",
-    "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
-    "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
-    "summary": "Sweden's data protection authority, IMY, fined IT provider Miljödata approximately $183,000. The fine was due to insufficient security that caused a breach impacting 2.2 million individuals in August 2025.",
-    "bullets": [
-      "Miljödata fined $183,000 by Sweden's IMY.",
-      "Inadequate security measures cited.",
-      "Breach affected 2.2 million people.",
-      "Breach occurred in August 2025."
-    ],
-    "published": "2026-09-22T21:40:37+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "1f45ce",
-    "feed_name": "BleepingComputer",
-    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-    "summary": "A Chinese-speaking threat actor is targeting government data by exploiting vulnerabilities in ZyXEL switches and WordPress. The attack has compromised 996 devices and over 18,500 records from backend databases.",
-    "bullets": [
-      "Chinese hackers exploiting ZyXEL GS1900 switches",
-      "Also exploiting WordPress vulnerabilities",
-      "Goal: steal government data",
-      "Impact: 996 devices compromised",
-      "Over 18,500 records stolen from databases"
-    ],
-    "published": "2026-09-22T20:35:24+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "4fb6e3",
-    "feed_name": "BleepingComputer",
-    "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-    "summary": "The ShinyHunters group claims they hacked FBI systems. They reportedly used a zero-day vulnerability in Oracle PeopleSoft to access internal services and steal employee and applicant data.",
-    "bullets": [
-      "ShinyHunters claims FBI hack.",
-      "Exploited Oracle PeopleSoft zero-day.",
-      "Accessed internal systems.",
-      "Stole employee/applicant data."
-    ],
-    "published": "2026-09-22T19:13:29+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "8089d2",
-    "feed_name": "BleepingComputer",
-    "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-    "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-    "summary": "A new Windows malware called ClosedQuorum has been identified. This malware utilizes AI models like Google Gemini, DeepSeek, Qwen, and Mistral AI to make autonomous decisions during the post-compromise phase of attacks.",
-    "bullets": [
-      "New Windows malware: ClosedQuorum",
-      "Uses AI for attack decisions",
-      "Leverages Gemini, DeepSeek, Qwen, Mistral AI",
-      "Operates in post-compromise stages"
-    ],
-    "published": "2026-09-22T18:04:39+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "6980ab",
-    "feed_name": "BleepingComputer",
-    "title": "Reducing shadow IT visibility gaps with Wazuh",
-    "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-    "summary": "This item discusses how to address shadow IT by reducing visibility gaps. It explains how using Wazuh, specifically its endpoint inventory, agentless monitoring, and centralized analysis features, can help security teams discover and manage unmonitored assets.",
-    "bullets": [
-      "Shadow IT causes security teams to miss unmanaged endpoints and unauthorized software.",
-      "Wazuh helps by providing endpoint inventory.",
-      "Agentless monitoring is another key feature.",
-      "Centralized analysis aids in identifying gaps.",
-      "Goal is to reduce visibility issues caused by shadow IT."
-    ],
-    "published": "2026-09-22T17:17:41+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "30a8db",
-    "feed_name": "BleepingComputer",
-    "title": "Check Point warns of Management Server zero-day exploited in attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-    "summary": "Check Point is addressing a critical zero-day vulnerability in its Security Management Server. This flaw allows attackers to execute arbitrary scripts. Emergency hotfixes are now available.",
-    "bullets": [
-      "Check Point Management Server zero-day",
-      "Arbitrary script execution possible",
-      "Critical vulnerability",
-      "Emergency hotfixes released"
-    ],
-    "published": "2026-09-22T16:32:47+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "dad7e7",
-    "feed_name": "BleepingComputer",
-    "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-    "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-    "summary": "The EvilTokens PhaaS platform, which compromised over 12,000 Microsoft accounts across more than 10,000 organizations, has been disrupted. This action was led by Microsoft's Digital Crimes Unit.",
-    "bullets": [
-      "EvilTokens PhaaS platform disrupted",
-      "Compromised 12,000+ Microsoft accounts",
-      "Affected over 10,000 organizations",
-      "Microsoft's Digital Crimes Unit led effort"
-    ],
-    "published": "2026-09-22T15:00:00+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "03d248",
-    "feed_name": "BleepingComputer",
-    "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-    "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-    "summary": "A webinar tomorrow will discuss actual Google Workspace breaches. It will cover social engineering, malicious OAuth apps, and incident response during the initial hours.",
-    "bullets": [
-      "Webinar tomorrow on Google Workspace breaches",
-      "Covers social engineering",
-      "Examines malicious OAuth apps",
-      "Focuses on initial hours of incident response",
-      "Highlights impactful security controls/decisions"
-    ],
-    "published": "2026-09-22T12:57:07+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
-    "id": "0ecb27",
-    "feed_name": "BleepingComputer",
-    "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-    "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-    "summary": "D-Link has alerted users to a critical zero-day vulnerability, identified as CVE-2026-86296, impacting their DIR-822A dual-band Wi-Fi routers. Exploitation is possible due to public proof-of-concept code, and there is currently no patch available from D-Link.",
-    "bullets": [
-      "Critical zero-day vulnerability in D-Link DIR-822A routers",
-      "CVE-2026-86296",
-      "Public exploit code available",
-      "No patch currently exists",
-      "Affects legacy routers"
-    ],
-    "published": "2026-09-22T12:48:06+00:00",
-    "seen": "2026-09-23",
-    "promoted": false
-  },
-  {
     "id": "18c227",
     "feed_name": "PortSwigger Research",
     "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
@@ -5111,6 +4947,117 @@
     ],
     "published": "2026-10-22T08:27:11+00:00",
     "seen": "2026-10-23",
+    "promoted": false
+  },
+  {
+    "id": "aeff1d",
+    "feed_name": "Google Project Zero",
+    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+    "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+    "summary": "This post discusses a privilege escalation bug in Windows, CVE-2026-66804, which was an incomplete fix for a previous vulnerability. The issue stems from a dangling COM object registration for the CrossDevice COM object.",
+    "bullets": [
+      "Windows privilege escalation bug (CVE-2026-66804)",
+      "Related to 'Dark Elevator' bug (CVE-2026-50343)",
+      "Root cause: Dangling COM object registration",
+      "Specific COM object: CrossDevice",
+      "Involves CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}"
+    ],
+    "published": "2026-09-21T07:00:00+00:00",
+    "seen": "2026-10-24",
+    "promoted": false
+  },
+  {
+    "id": "0ae7a1",
+    "feed_name": "BleepingComputer",
+    "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+    "summary": "An abandoned version of the Popcorn Time app, Time4Popcorn, had a vulnerability in its updater. This flaw could have allowed attackers to execute malicious code on millions of devices with high privileges. Researchers were able to remotely disable the updater and fix the issue.",
+    "bullets": [
+      "Abandoned Popcorn Time app vulnerable",
+      "Updater allowed RCE attacks",
+      "Millions of devices at risk",
+      "Researchers disabled vulnerable updater"
+    ],
+    "published": "2026-10-23T20:55:05+00:00",
+    "seen": "2026-10-24",
+    "promoted": false
+  },
+  {
+    "id": "62f3da",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+    "summary": "Microsoft is implementing AI-powered phishing detection for Teams messages. This new feature is set to roll out in early November 2026. The AI will analyze messages for context-aware phishing attempts.",
+    "bullets": [
+      "Microsoft Teams getting AI phishing detection",
+      "Context-aware analysis for messages",
+      "Rollout starts early November 2026"
+    ],
+    "published": "2026-10-23T18:54:41+00:00",
+    "seen": "2026-10-24",
+    "promoted": false
+  },
+  {
+    "id": "651b94",
+    "feed_name": "BleepingComputer",
+    "title": "Quest Diagnostics confirms data breach exposed patient records",
+    "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+    "summary": "Quest Diagnostics confirmed a data breach impacting patient records. A threat actor accessed their Quanum LSM system, leading to the exposure.",
+    "bullets": [
+      "Quest Diagnostics breach",
+      "Patient records exposed",
+      "Quanum LSM system compromised",
+      "Unauthorized access"
+    ],
+    "published": "2026-10-23T16:40:07+00:00",
+    "seen": "2026-10-24",
+    "promoted": false
+  },
+  {
+    "id": "a46a3d",
+    "feed_name": "BleepingComputer",
+    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+    "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+    "summary": "PHP has released mitigation steps for a newly discovered remote code execution vulnerability. This vulnerability impacts systems with non-default configurations and currently has no available patch.",
+    "bullets": [
+      "New PHP RCE vulnerability identified.",
+      "Mitigation steps provided, no patch yet.",
+      "Affects non-default configurations."
+    ],
+    "published": "2026-10-23T15:38:05+00:00",
+    "seen": "2026-10-24",
+    "promoted": false
+  },
+  {
+    "id": "ba3749",
+    "feed_name": "BleepingComputer",
+    "title": "You gave your AI agent access, but who is giving it orders?",
+    "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+    "summary": "AI agents with legitimate permissions can be manipulated by malicious inputs like emails or plugins. This manipulation can lead to unauthorized actions such as data theft or file deletion. Gen Digital's Agent Trust Hub aims to protect these agents.",
+    "bullets": [
+      "AI agents can be tricked into executing commands.",
+      "Malicious emails, websites, and plugins are attack vectors.",
+      "Agents can steal data or delete files.",
+      "Gen Digital's Agent Trust Hub offers protection.",
+      "Protection includes skill verification and runtime controls."
+    ],
+    "published": "2026-10-23T14:00:10+00:00",
+    "seen": "2026-10-24",
+    "promoted": false
+  },
+  {
+    "id": "7bc21a",
+    "feed_name": "BleepingComputer",
+    "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+    "summary": "HPE has released security updates for its Aruba Operating System (ArubaOS). The updates address 72 vulnerabilities, including eight critical flaws that allow for remote code execution and authentication bypass.",
+    "bullets": [
+      "HPE ArubaOS patched 72 vulnerabilities.",
+      "Includes 8 max-severity RCE flaws.",
+      "Also patched auth bypass issues."
+    ],
+    "published": "2026-10-23T12:48:00+00:00",
+    "seen": "2026-10-24",
     "promoted": false
   }
 ]

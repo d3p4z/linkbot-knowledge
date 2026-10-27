@@ -1,181 +1,5 @@
 [
   {
-    "id": "7efd22",
-    "feed_name": "Krebs on Security",
-    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-    "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-    "summary": "A U.S. Army soldier has been sentenced to 70 months in federal prison for hacking into telecommunications companies. He stole call and text metadata for over 100 million AT&T customers. The soldier was also ordered to pay nearly $300,000 in restitution.",
-    "bullets": [
-      "Army soldier sentenced to 70 months prison",
-      "Hacked AT&T, Verizon",
-      "Stole 100M+ customers' call/text data",
-      "Ordered to pay $300K restitution"
-    ],
-    "published": "2026-09-25T21:44:40+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "5e4887",
-    "feed_name": "BleepingComputer",
-    "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-    "summary": "Secure file-sharing software company Kiteworks is recommending a six-hour server shutdown for customers on Saturday. This is due to threat intelligence indicating a potentially imminent cyberattack.",
-    "bullets": [
-      "Kiteworks recommends server shutdown",
-      "Planned for Saturday",
-      "Six-hour window",
-      "Due to potential cyberattack warning"
-    ],
-    "published": "2026-09-25T21:41:07+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "d018bd",
-    "feed_name": "BleepingComputer",
-    "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-    "summary": "The Clop ransomware gang's data leak site was hacked and defaced by ShinyHunters. The attackers exploited an unauthenticated path traversal vulnerability in Grav CMS to gain access to the server.",
-    "bullets": [
-      "Clop leak site compromised",
-      "Hacked by ShinyHunters",
-      "Used Grav CMS flaw",
-      "Flaw: Path traversal vulnerability",
-      "Site moved to new Tor address"
-    ],
-    "published": "2026-09-25T20:57:55+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "a0c801",
-    "feed_name": "BleepingComputer",
-    "title": "Elementor WordPress flaw lets attackers create admin accounts",
-    "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-    "summary": "A vulnerability in the Elementor WordPress plugin could allow attackers to create admin accounts. The flaw is a cross-site request forgery (CSRF) issue, meaning an unauthenticated attacker could exploit it.",
-    "bullets": [
-      "Elementor plugin vulnerability",
-      "Allows admin account creation",
-      "Exploits CSRF",
-      "Unauthenticated attacker"
-    ],
-    "published": "2026-09-25T18:13:33+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "fafab2",
-    "feed_name": "BleepingComputer",
-    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-    "summary": "CISA has issued a warning about active exploitation of vulnerabilities. These flaws affect products from WSO2, SharePoint, and Adobe Commerce. One specific vulnerability is a critical authentication bypass in WSO2 products.",
-    "bullets": [
-      "CISA alert issued",
-      "Exploited vulnerabilities in WSO2, SharePoint, Adobe Commerce",
-      "Critical WSO2 auth bypass (CVE-2026-5430) targeted"
-    ],
-    "published": "2026-09-25T17:24:20+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "00b37f",
-    "feed_name": "BleepingComputer",
-    "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-    "summary": "Anthropic is offering up to $250 in free credits for using Claude Code through cloud sessions. This allows more users to try the AI model without needing to sign up for the research preview.",
-    "bullets": [
-      "Free Claude Code credits up to $250",
-      "Available via cloud sessions",
-      "No research preview signup required",
-      "Encourages wider user testing"
-    ],
-    "published": "2026-09-25T16:00:00+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "147b9d",
-    "feed_name": "BleepingComputer",
-    "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-    "summary": "OpenAI is reportedly developing a new, premium ChatGPT subscription called 'Pro Max'. This plan is expected to cost around $500 per month and may include faster access to its Codex code generation model. Details on its release date are currently unavailable.",
-    "bullets": [
-      "New ChatGPT subscription rumored: Pro Max",
-      "Estimated cost: $500/month",
-      "Potential feature: Faster Codex access",
-      "Rollout timing unknown"
-    ],
-    "published": "2026-09-25T14:54:33+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "474cb2",
-    "feed_name": "BleepingComputer",
-    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-    "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-    "summary": "The rise of AI agents presents a new challenge for the SOC 2 compliance framework. These agents can mimic human activity using compromised credentials, creating security gaps. The article discusses the need for SOC 2 to evolve to address these agent-based threats.",
-    "bullets": [
-      "AI agents pose a threat to SOC 2.",
-      "Agents can use human credentials.",
-      "SOC 2 controls may not detect agent actions.",
-      "Framework needs to adapt to agent identities.",
-      "Security gaps created by AI agents."
-    ],
-    "published": "2026-09-25T14:51:10+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "954598",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft plans to deprecate Windows Deployment Services",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-    "summary": "Microsoft is planning to deprecate Windows Deployment Services (WDS). This server role will be removed starting with the next release of Windows Server.",
-    "bullets": [
-      "Microsoft deprecating WDS",
-      "WDS server role removal",
-      "Affects next Windows Server release"
-    ],
-    "published": "2026-09-25T12:40:59+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "6e7440",
-    "feed_name": "BleepingComputer",
-    "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-    "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-    "summary": "A Kosovar national has pleaded guilty to operating Rydox, an illegal online marketplace. The marketplace sold stolen personal information, login credentials, credit card details, and cybercrime tools. The individual faces up to 22 years in prison.",
-    "bullets": [
-      "Rydox marketplace admin pleads guilty.",
-      "Sold stolen personal info, credentials, credit cards.",
-      "Also sold cybercrime tools.",
-      "Faces up to 22 years in prison."
-    ],
-    "published": "2026-09-25T11:35:14+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
-    "id": "94b2d7",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-    "summary": "Microsoft has acknowledged that recent Windows updates are causing desktop loading problems for some users. These issues, including black screens, began after installing the August 2026 preview updates and subsequent releases.",
-    "bullets": [
-      "Microsoft confirms Windows update issues",
-      "Desktop loading problems reported",
-      "Black screens observed",
-      "Affects August 2026 preview updates and later"
-    ],
-    "published": "2026-09-25T10:30:38+00:00",
-    "seen": "2026-09-26",
-    "promoted": false
-  },
-  {
     "id": "276ff9",
     "feed_name": "BleepingComputer",
     "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
@@ -4769,6 +4593,195 @@
     ],
     "published": "2026-10-25T15:49:38+00:00",
     "seen": "2026-10-26",
+    "promoted": false
+  },
+  {
+    "id": "6f57ad",
+    "feed_name": "tl;dr sec",
+    "title": "[tl;dr sec] #347 - AI Agents Hacking Companies for $25, Threat Hunter's Guide to GitHub, Finding Gadgets Like it’s 2026",
+    "url": "https://tldrsec.com/p/tldr-sec-347",
+    "summary": "This item discusses a threat actor exploiting open-source tools to hack companies for a small fee. It also covers using GitHub logs for threat hunting and leveraging LLMs to discover new Java deserialization vulnerabilities.",
+    "bullets": [
+      "AI agents hacking companies for $25",
+      "Threat hunting with GitHub logs",
+      "Finding Java deserialization gadgets using LLMs",
+      "Open source tools used by threat actors"
+    ],
+    "published": "2026-09-24T14:30:00+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "269055",
+    "feed_name": "GitHub Security Lab",
+    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+    "summary": "This blog post explains how to use a new fuzzing taskflow. It is based on the AI framework called the GitHub Security Lab Taskflow Agent. The post details how to implement this AI-powered fuzzing technique.",
+    "bullets": [
+      "AI-powered fuzzing explained",
+      "Uses GitHub Security Lab Taskflow Agent",
+      "Details on new fuzzing taskflow"
+    ],
+    "published": "2026-09-24T18:26:12+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "46752d",
+    "feed_name": "BleepingComputer",
+    "title": "University of Copenhagen data breach exposes data of 525,000 people",
+    "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+    "summary": "The University of Copenhagen in Denmark reported a data breach. Hackers accessed a test environment, exposing personal data of 525,000 individuals.",
+    "bullets": [
+      "University of Copenhagen data breach",
+      "Hackers accessed test environment",
+      "525,000 people's data exposed"
+    ],
+    "published": "2026-10-26T22:20:36+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "bada17",
+    "feed_name": "BleepingComputer",
+    "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+    "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+    "summary": "South Korean police have apprehended seven suspects in a cybercrime operation that targeted over 90 organizations. The attacks primarily utilized the ARTEX AI pentesting framework. This operation resulted in the theft of approximately 8.2 million data records.",
+    "bullets": [
+      "7 suspects arrested",
+      "90+ organizations breached",
+      "ARTEX AI framework used",
+      "8.2 million data records stolen"
+    ],
+    "published": "2026-10-26T21:08:28+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "3b776e",
+    "feed_name": "BleepingComputer",
+    "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+    "summary": "OpenAI has released GPT-6.1 Terra, a new model geared towards computer tasks, visual reasoning, coding, and general work. This new model is also designed to be significantly cheaper than previous, larger models.",
+    "bullets": [
+      "OpenAI launches GPT-6.1 Terra",
+      "Focus on computer use, visual reasoning, coding, work",
+      "3x faster AI agents",
+      "50% lower pricing"
+    ],
+    "published": "2026-10-26T20:46:49+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "fe0322",
+    "feed_name": "BleepingComputer",
+    "title": "DreamHost forces password resets in ongoing \"incident\"",
+    "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+    "summary": "DreamHost is forcing password resets for email and FTP/SFTP users. This action follows an incident that caused disruptions to their File Manager interface.",
+    "bullets": [
+      "DreamHost forcing password resets",
+      "Affects email and FTP/SFTP users",
+      "Incident disrupted File Manager access"
+    ],
+    "published": "2026-10-26T19:26:20+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "aee498",
+    "feed_name": "BleepingComputer",
+    "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+    "summary": "A critical vulnerability named 'HTTP2Shell' has been discovered in the Brotli C decoder library, which is integrated into Node.js. This flaw could potentially enable attackers to corrupt memory and gain access to sensitive information.",
+    "bullets": [
+      "Critical 'HTTP2Shell' vulnerability found.",
+      "Affects Brotli C decoder library.",
+      "Integrated into Node.js.",
+      "Risk of memory corruption.",
+      "Potential for sensitive data access."
+    ],
+    "published": "2026-10-26T16:27:57+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "cbcc5c",
+    "feed_name": "BleepingComputer",
+    "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+    "summary": "Microsoft has issued urgent security updates for .NET to address a critical vulnerability. This flaw is known by multiple names including Broccoli2Shell, Node2Shell, and HTTP2Shell.",
+    "bullets": [
+      "Microsoft .NET emergency patches released",
+      "Critical vulnerability addressed",
+      "Vulnerability named Broccoli2Shell",
+      "Also known as Node2Shell/HTTP2Shell"
+    ],
+    "published": "2026-10-26T15:38:24+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "c0b9b0",
+    "feed_name": "BleepingComputer",
+    "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+    "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+    "summary": "A new guide from NIST, CISA, and NSA addresses AI agent incidents, framing rogue agents as security events requiring practice. A key challenge in responding is identifying the authority the agent acted under, necessitating pre-incident identity records.",
+    "bullets": [
+      "AI agents can be security incidents.",
+      "New NIST/CISA/NSA guide for AI incidents.",
+      "Focus on agent's authority is critical.",
+      "Identity records needed before incidents occur."
+    ],
+    "published": "2026-10-26T14:00:10+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "fc23b3",
+    "feed_name": "BleepingComputer",
+    "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+    "summary": "A Chinese national has been extradited from the Netherlands to California to face charges in a cryptocurrency scam. The scam allegedly defrauded 174 victims in the United States of nearly $37 million.",
+    "bullets": [
+      "Chinese national extradited from Netherlands",
+      "Arraigned in California",
+      "Alleged role in $36 million crypto scam",
+      "174 US victims targeted"
+    ],
+    "published": "2026-10-26T13:56:44+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "7d17df",
+    "feed_name": "BleepingComputer",
+    "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+    "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+    "summary": "Kali Linux has released version 2026.3, its third update this year. This release includes six new hacking tools and improvements to the desktop environment.",
+    "bullets": [
+      "Kali Linux 2026.3 is out",
+      "Six new hacking tools added",
+      "Desktop environment updated",
+      "Refreshed build scripts"
+    ],
+    "published": "2026-10-26T10:26:52+00:00",
+    "seen": "2026-10-27",
+    "promoted": false
+  },
+  {
+    "id": "bf12d0",
+    "feed_name": "BleepingComputer",
+    "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+    "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+    "summary": "Two critical remote code execution (RCE) vulnerabilities, identified as PHP2Shell, are now being actively exploited. These flaws are tracked under CVE-2026-109618 and CVE-2026-109619.",
+    "bullets": [
+      "PHP2Shell vulnerabilities actively exploited",
+      "Two critical RCE flaws",
+      "CVE-2026-109618 and CVE-2026-109619 affected"
+    ],
+    "published": "2026-10-26T09:19:57+00:00",
+    "seen": "2026-10-27",
     "promoted": false
   }
 ]

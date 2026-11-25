@@ -1,38 +1,5 @@
 [
   {
-    "id": "9fcce9",
-    "feed_name": "BleepingComputer",
-    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-    "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-    "summary": "A new UEFI bootkit called BlackX was used in a 2026 espionage campaign. It exploited the Baton Drop vulnerability to bypass Secure Boot. The bootkit loaded a malicious driver targeting security software from Kaspersky and Avast.",
-    "bullets": [
-      "New UEFI bootkit: BlackX",
-      "Used in 2026 espionage",
-      "Exploited Baton Drop flaw",
-      "Bypassed Secure Boot",
-      "Loaded malicious driver",
-      "Targeted Kaspersky & Avast"
-    ],
-    "published": "2026-10-24T14:17:32+00:00",
-    "seen": "2026-10-25",
-    "promoted": false
-  },
-  {
-    "id": "49d18b",
-    "feed_name": "BleepingComputer",
-    "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-    "summary": "Microsoft has announced that Windows Server 2016 will reach its end of support in January 2027. After this date, the operating system will no longer receive crucial security updates.",
-    "bullets": [
-      "Windows Server 2016 end of support: January 2027.",
-      "No more security updates after that date.",
-      "Microsoft announced the change."
-    ],
-    "published": "2026-10-23T17:05:07+00:00",
-    "seen": "2026-10-25",
-    "promoted": false
-  },
-  {
     "id": "18c227",
     "feed_name": "PortSwigger Research",
     "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",

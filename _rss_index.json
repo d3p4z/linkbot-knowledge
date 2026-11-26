@@ -1,53 +1,5 @@
 [
   {
-    "id": "18c227",
-    "feed_name": "PortSwigger Research",
-    "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
-    "url": "https://portswigger.net/research/http3-in-burp-suite",
-    "summary": "Burp Suite's Turbo Intruder now supports HTTP/3. This update allows it to send over 100,000 requests per second over Wi-Fi, potentially helping users find more bugs by increasing request volume.",
-    "bullets": [
-      "Turbo Intruder now supports HTTP/3",
-      "Exceeds 100,000 requests/sec over Wi-Fi",
-      "Aims to find more bugs by increasing request volume",
-      "Auto-tunes for performance"
-    ],
-    "published": "2026-09-23T14:00:00+00:00",
-    "seen": "2026-10-26",
-    "promoted": false
-  },
-  {
-    "id": "6afb3d",
-    "feed_name": "watchTowr Labs",
-    "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127)",
-    "url": "https://labs.watchtowr.com/is-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-to-rce-cve-2026-94127/",
-    "summary": "This post discusses a heap overflow vulnerability in F5 BIG-IP, identified as CVE-2026-94127. The vulnerability allows for Remote Code Execution (RCE) and is triggered via the Authorization header.",
-    "bullets": [
-      "F5 BIG-IP vulnerability",
-      "CVE-2026-94127",
-      "Unauthenticated Heap Overflow",
-      "Leads to RCE",
-      "Exploited via Auth header"
-    ],
-    "published": "2026-09-23T23:19:19+00:00",
-    "seen": "2026-10-26",
-    "promoted": false
-  },
-  {
-    "id": "264cc0",
-    "feed_name": "BleepingComputer",
-    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-    "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-    "summary": "An AI coding agent was compromised when a malicious AGENTS.md file was placed in a user's Downloads folder. This file tricked the agent into installing a rogue npm package, leading to a security breach.",
-    "bullets": [
-      "AI coding agents vulnerable",
-      "AGENTS.md file in Downloads folder",
-      "Tricked agent into installing rogue npm package"
-    ],
-    "published": "2026-10-25T15:49:38+00:00",
-    "seen": "2026-10-26",
-    "promoted": false
-  },
-  {
     "id": "6f57ad",
     "feed_name": "tl;dr sec",
     "title": "[tl;dr sec] #347 - AI Agents Hacking Companies for $25, Threat Hunter's Guide to GitHub, Finding Gadgets Like it’s 2026",
